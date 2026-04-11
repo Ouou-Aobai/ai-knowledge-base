@@ -1,18 +1,23 @@
 """
-Planner 模式 — 动态规划执行策略
+Planner Agent — V3 知识库流水线的动态规划节点（节点 ①）
 
-Planner 是多 Agent 系统里的"总指挥"：不负责执行，只负责决定"怎么做"。
-典型职责：根据输入规模、预算、时间选择不同的执行策略。
+Planner 是这条流水线的"总指挥"：不负责执行，只负责决定"怎么做"。
+它的输出（state["plan"]）被下游的 Collector / Organizer / Reviewer 共同消费。
 
 【教学重点】
 - Planner 只规划不执行（Plan, don't execute）
-- 规划结果写入 state["plan"]，下游节点（collect/organize/review）按策略行事
+- 规划结果写入 state["plan"]，下游节点按策略行事
 - 最小可运行实现：只读一个目标采集量，输出 3 档策略之一
 
 实际生产中可扩展为：
 - 基于数据密度、历史成本、时段、质量目标等多维度决策
 - 调用 LLM 生成自然语言计划（而不是硬编码分支）
 - 支持中途重规划（Replanner）
+
+【为什么在 workflows/ 而不在 patterns/】
+workflows/ 里每个文件对应 V3 流水线的一个 Agent 节点（一 Agent = 一文件）。
+patterns/ 是和本流水线解耦的通用 Agent 设计模式演示（Router / Supervisor）。
+Planner 是本流水线的节点 ①，所以放 workflows/，和其他 6 个节点一起。
 """
 
 import os

@@ -20,11 +20,11 @@ LangGraph 工作流图定义 — V3 知识库：6 节点 + HumanFlag 终点
 
 from langgraph.graph import END, StateGraph
 
-from patterns.planner import planner_node
 from workflows.analyzer import analyze_node
 from workflows.collector import collect_node
 from workflows.human_flag import human_flag_node
 from workflows.organizer import organize_node
+from workflows.planner import planner_node
 from workflows.reviewer import review_node
 from workflows.reviser import revise_node
 from workflows.state import KBState
