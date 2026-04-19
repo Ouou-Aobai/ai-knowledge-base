@@ -1,0 +1,70 @@
+name: Daily Data Collection
+on:
+  schedule:
+    - cron: '0 0 * * *'  # 每天 UTC 00:00 运行
+  workflow_dispatch:      # 支持手动触发
+  push:
+    branches:
+      - main
+    paths:
+      - 'scripts/**'
+      - '.github/workflows/collect.yml'
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # 获取完整历史，便于 git push
+          
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+        
+      - name: Run data collector
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN || '' }}
+        run: python scripts/collector.py
+        
+      - name: Run analyzer
+        env:
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+        run: python scripts/analyzer.py
+        
+      - name: Run organizer to Feishu
+        env:
+          FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
+          FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
+        run: python scripts/organizer.py
+        
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if git status --porcelain knowledge/raw/ | grep -q '.' || git status --porcelain knowledge/enriched/ | grep -q '.'; then
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "Changes detected in knowledge/raw/ or knowledge/enriched/"
+          else
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "No changes in knowledge/raw/ or knowledge/enriched/"
+          fi
+          
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add knowledge/raw/ knowledge/enriched/
+          git commit -m "chore: update data for $(date -u +'%Y-%m-%d')"
+          git push
+          
+      - name: No changes notification
+        if: steps.check_changes.outputs.has_changes == 'false'
+        run: echo "No new data to commit"
