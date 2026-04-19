@@ -289,7 +289,7 @@ def prepare_record_fields(item: Dict[str, Any]) -> Dict[str, Any]:
         "英文摘要": cleaned_summary[:1000],  # 限制长度
         "标签": cleaned_tags[:200],  # 限制长度
         "来源": source_cn,
-        "采集时间": collected_at
+        "采集时间": (int(datetime.fromisoformat(collected_at.replace("Z","+00:00")).timestamp()*1000) if collected_at else None)
     }
     
     return fields
