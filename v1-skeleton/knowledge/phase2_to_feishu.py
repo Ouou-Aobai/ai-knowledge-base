@@ -20,9 +20,9 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-# 飞书 API 配置
-FEISHU_APP_ID = 'cli_a94f8e0eaf389cb5'
-FEISHU_APP_SECRET = 'GnuQ5bYbtA5cEnruSodlffpj1TpHQEIU'
+# 飞书 API 配置（从环境变量读取，优先使用 GitHub Secrets）
+FEISHU_APP_ID = os.getenv('FEISHU_APP_ID', 'cli_a94f8e0eaf389cb5')
+FEISHU_APP_SECRET = os.getenv('FEISHU_APP_SECRET', 'GnuQ5bYbtA5cEnruSodlffpj1TpHQEIU')
 FEISHU_BASE_URL = 'https://open.feishu.cn/open-apis/bitable/v1/apps/SaJRbnG3xak87Esqq6pcxnJQnFf'
 FEISHU_TABLE_ID = 'tbllcMygUwgaKJ14'  # 小红书待发库表
 
