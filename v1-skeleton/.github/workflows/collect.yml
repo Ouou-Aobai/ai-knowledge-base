@@ -7,7 +7,7 @@ on:
     branches:
       - main
     paths:
-      - 'scripts/**'
+      - 'v1-skeleton/scripts/**'
       - '.github/workflows/collect.yml'
 
 jobs:
@@ -19,7 +19,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # 获取完整历史，便于 git push
+          fetch-depth: 0
           
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -27,38 +27,46 @@ jobs:
           python-version: '3.11'
           
       - name: Install dependencies
-        run: pip install -r requirements.txt
-        
+        run: |
+          cd v1-skeleton
+          pip install -r requirements.txt
+          
       - name: Run data collector
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN || '' }}
-        run: python scripts/collector.py
+        run: |
+          cd v1-skeleton
+          python scripts/collector.py
         
       - name: Run analyzer
         env:
           TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
-        run: python scripts/analyzer.py
+        run: |
+          cd v1-skeleton
+          python scripts/analyzer.py
         
       - name: Run organizer to Feishu
         env:
           FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
           FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
-        run: python scripts/organizer.py
+        run: |
+          cd v1-skeleton
+          python scripts/organizer.py
         
       - name: Check for changes
         id: check_changes
         run: |
+          cd v1-skeleton
           if git status --porcelain knowledge/raw/ | grep -q '.' || git status --porcelain knowledge/enriched/ | grep -q '.'; then
             echo "has_changes=true" >> $GITHUB_OUTPUT
-            echo "Changes detected in knowledge/raw/ or knowledge/enriched/"
           else
             echo "has_changes=false" >> $GITHUB_OUTPUT
-            echo "No changes in knowledge/raw/ or knowledge/enriched/"
           fi
           
       - name: Commit and push changes
         if: steps.check_changes.outputs.has_changes == 'true'
         run: |
+          cd v1-skeleton
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add knowledge/raw/ knowledge/enriched/
