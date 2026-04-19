@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
-Phase 2 脚本 - 将原始数据写入飞书多维表格
-将 knowledge/raw/ 目录下的 JSON 数据写入飞书"小红书待发库"表
+Organizer 脚本 - 将分析后的数据写入飞书多维表格
+将 knowledge/enriched/ 目录下的 JSON 数据写入飞书"小红书待发库"表，包含相关性评分和摘要
 """
 
 import os
@@ -10,6 +10,7 @@ import json
 import logging
 import time
 from datetime import datetime
+from pathlib import Path
 from typing import Dict, List, Any, Optional
 import requests
 
@@ -32,8 +33,8 @@ FEISHU_CREATE_RECORD_URL = f'{FEISHU_BASE_URL}/tables/{FEISHU_TABLE_ID}/records'
 
 # 项目根目录（knowledge 目录的父目录）
 PROJECT_ROOT = os.path.dirname(os.path.dirname(__file__))
-# 知识库目录
-KNOWLEDGE_DIR = os.path.join(PROJECT_ROOT, 'knowledge', 'raw')
+# 知识库目录（分析后的数据）
+ENRICHED_DIR = os.path.join(PROJECT_ROOT, 'knowledge', 'enriched')
 
 def get_feishu_token() -> Optional[str]:
     """
@@ -110,18 +111,33 @@ def create_feishu_record(token: str, fields: Dict[str, Any], item_info: str = ""
         logger.error(f"创建记录响应 JSON 解析失败: {e}, 项目={item_info}, 响应文本={response.text[:200] if 'response' in locals() else 'N/A'}")
         return False
 
-def read_today_json_files() -> List[Dict[str, Any]]:
+def read_enriched_data(min_score: float = 0.6) -> List[Dict[str, Any]]:
     """
-    读取今天的 JSON 文件，返回所有条目
+    读取分析后的数据，返回相关性评分 >= min_score 的条目
     """
     today = datetime.now().strftime('%Y-%m-%d')
-    github_file = os.path.join(KNOWLEDGE_DIR, f'github-trending-{today}.json')
-    hn_file = os.path.join(KNOWLEDGE_DIR, f'hackernews-top-{today}.json')
+    
+    # 查找今天的分析文件
+    github_file = os.path.join(ENRICHED_DIR, f'github-{today}-enriched.json')
+    hn_file = os.path.join(ENRICHED_DIR, f'hackernews-{today}-enriched.json')
+    
+    # 如果今天的数据不存在，使用最新的文件
+    if not os.path.exists(github_file) or not os.path.exists(hn_file):
+        logger.warning(f"今天的分析文件不存在，查找最新文件")
+        enriched_files = list(Path(ENRICHED_DIR).glob('*-enriched.json'))
+        if not enriched_files:
+            logger.error(f"未找到任何分析文件: {ENRICHED_DIR}")
+            return []
+        
+        # 按修改时间排序，取最新的两个文件（假设一个是 GitHub，一个是 HN）
+        enriched_files.sort(key=lambda x: x.stat().st_mtime, reverse=True)
+        github_file = str(enriched_files[0]) if len(enriched_files) > 0 else None
+        hn_file = str(enriched_files[1]) if len(enriched_files) > 1 else github_file
     
     all_items = []
     
     # 读取 GitHub 数据
-    if os.path.exists(github_file):
+    if github_file and os.path.exists(github_file):
         try:
             with open(github_file, 'r', encoding='utf-8') as f:
                 data = json.load(f)
@@ -130,18 +146,23 @@ def read_today_json_files() -> List[Dict[str, Any]]:
             source = data.get('source', 'github')
             
             for item in items:
-                item['_source'] = source
-                all_items.append(item)
+                # 过滤低相关性条目
+                relevance_score = item.get('relevance_score', 0.0)
+                if relevance_score >= min_score:
+                    item['_source'] = source
+                    all_items.append(item)
+                else:
+                    logger.debug(f"跳过低相关性条目: {item.get('title', 'Unknown')} (score: {relevance_score})")
             
-            logger.info(f"从 {github_file} 读取到 {len(items)} 条 GitHub 数据")
+            logger.info(f"从 {github_file} 读取到 {len(items)} 条 GitHub 数据，过滤后 {len(all_items)} 条")
             
         except (json.JSONDecodeError, IOError) as e:
-            logger.error(f"读取 GitHub 文件失败: {e}")
+            logger.error(f"读取 GitHub 分析文件失败: {e}")
     else:
-        logger.warning(f"GitHub 文件不存在: {github_file}")
+        logger.warning(f"GitHub 分析文件不存在: {github_file}")
     
     # 读取 Hacker News 数据
-    if os.path.exists(hn_file):
+    if hn_file and os.path.exists(hn_file) and hn_file != github_file:
         try:
             with open(hn_file, 'r', encoding='utf-8') as f:
                 data = json.load(f)
@@ -149,18 +170,24 @@ def read_today_json_files() -> List[Dict[str, Any]]:
             items = data.get('items', [])
             source = data.get('source', 'hackernews')
             
+            hn_items_added = 0
             for item in items:
-                item['_source'] = source
-                all_items.append(item)
+                relevance_score = item.get('relevance_score', 0.0)
+                if relevance_score >= min_score:
+                    item['_source'] = source
+                    all_items.append(item)
+                    hn_items_added += 1
+                else:
+                    logger.debug(f"跳过低相关性条目: {item.get('title', 'Unknown')} (score: {relevance_score})")
             
-            logger.info(f"从 {hn_file} 读取到 {len(items)} 条 Hacker News 数据")
+            logger.info(f"从 {hn_file} 读取到 {len(items)} 条 Hacker News 数据，过滤后 {hn_items_added} 条")
             
         except (json.JSONDecodeError, IOError) as e:
-            logger.error(f"读取 Hacker News 文件失败: {e}")
+            logger.error(f"读取 Hacker News 分析文件失败: {e}")
     else:
-        logger.warning(f"Hacker News 文件不存在: {hn_file}")
+        logger.warning(f"Hacker News 分析文件不存在: {hn_file}")
     
-    logger.info(f"总共读取到 {len(all_items)} 条数据")
+    logger.info(f"总共读取到 {len(all_items)} 条数据 (relevance_score >= {min_score})")
     return all_items
 
 def clean_text(text: str) -> str:
@@ -199,7 +226,7 @@ def clean_text(text: str) -> str:
 
 def prepare_record_fields(item: Dict[str, Any]) -> Dict[str, Any]:
     """
-    准备飞书记录字段
+    准备飞书记录字段，包含分析结果
     """
     source = item.get('_source', '')
     title = item.get('title', '')
@@ -233,7 +260,22 @@ def prepare_record_fields(item: Dict[str, Any]) -> Dict[str, Any]:
     if len(note) > 500:
         note = note[:497] + "..."
     
-    # 构建字段字典
+    # 分析结果字段
+    relevance_score = item.get('relevance_score', 0.0)
+    summary = item.get('summary', '')
+    tags = item.get('tags', [])
+    collected_at = item.get('collected_at', '')
+    
+    # 清理摘要和标签
+    cleaned_summary = clean_text(summary)
+    # 标签转换为逗号分隔的字符串
+    tags_str = ', '.join(tags) if isinstance(tags, list) else str(tags)
+    cleaned_tags = clean_text(tags_str)
+    
+    # 来源字段
+    source_cn = 'GitHub' if source == 'github' else 'Hacker News'
+    
+    # 构建字段字典（包含所有列）
     fields = {
         "选题": topic,
         "状态": "待分析",
@@ -241,19 +283,25 @@ def prepare_record_fields(item: Dict[str, Any]) -> Dict[str, Any]:
         "核心角度": "",
         "预计发布": None,  # 日期字段设为 null
         "实际发布": None,  # 日期字段设为 null
-        "备注": note
+        "备注": note,
+        # 新增字段
+        "相关性分数": relevance_score,
+        "英文摘要": cleaned_summary[:1000],  # 限制长度
+        "标签": cleaned_tags[:200],  # 限制长度
+        "来源": source_cn,
+        "采集时间": collected_at
     }
     
     return fields
 
 def main():
     """主函数"""
-    logger.info("=== Phase 2: 数据写入飞书表格开始 ===")
+    logger.info("=== Organizer: 分析数据写入飞书表格开始 ===")
     
-    # 1. 读取今天的 JSON 文件
-    items = read_today_json_files()
+    # 1. 读取分析后的数据 (relevance_score >= 0.6)
+    items = read_enriched_data(min_score=0.6)
     if not items:
-        logger.error("没有找到任何数据，程序退出")
+        logger.error("没有找到任何符合条件的分析数据，程序退出")
         sys.exit(1)
     
     # 2. 获取飞书 token

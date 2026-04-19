@@ -34,21 +34,26 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN || '' }}
         run: python scripts/collector.py
         
-      - name: Run phase2 to Feishu
+      - name: Run analyzer
+        env:
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+        run: python scripts/analyzer.py
+        
+      - name: Run organizer to Feishu
         env:
           FEISHU_APP_ID: ${{ secrets.FEISHU_APP_ID }}
           FEISHU_APP_SECRET: ${{ secrets.FEISHU_APP_SECRET }}
-        run: python knowledge/phase2_to_feishu.py
+        run: python scripts/organizer.py
         
       - name: Check for changes
         id: check_changes
         run: |
-          if git status --porcelain knowledge/raw/ | grep -q '.'; then
+          if git status --porcelain knowledge/raw/ | grep -q '.' || git status --porcelain knowledge/enriched/ | grep -q '.'; then
             echo "has_changes=true" >> $GITHUB_OUTPUT
-            echo "Changes detected in knowledge/raw/"
+            echo "Changes detected in knowledge/raw/ or knowledge/enriched/"
           else
             echo "has_changes=false" >> $GITHUB_OUTPUT
-            echo "No changes in knowledge/raw/"
+            echo "No changes in knowledge/raw/ or knowledge/enriched/"
           fi
           
       - name: Commit and push changes
@@ -56,8 +61,8 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add knowledge/raw/
-          git commit -m "chore: update raw data for $(date -u +'%Y-%m-%d')"
+          git add knowledge/raw/ knowledge/enriched/
+          git commit -m "chore: update data for $(date -u +'%Y-%m-%d')"
           git push
           
       - name: No changes notification

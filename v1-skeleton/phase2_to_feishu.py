@@ -20,9 +20,9 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-# 飞书 API 配置（从环境变量读取，优先使用 GitHub Secrets）
-FEISHU_APP_ID = os.getenv('FEISHU_APP_ID', 'cli_a94f8e0eaf389cb5')
-FEISHU_APP_SECRET = os.getenv('FEISHU_APP_SECRET', 'GnuQ5bYbtA5cEnruSodlffpj1TpHQEIU')
+# 飞书 API 配置
+FEISHU_APP_ID = 'cli_a94f8e0eaf389cb5'
+FEISHU_APP_SECRET = 'GnuQ5bYbtA5cEnruSodlffpj1TpHQEIU'
 FEISHU_BASE_URL = 'https://open.feishu.cn/open-apis/bitable/v1/apps/SaJRbnG3xak87Esqq6pcxnJQnFf'
 FEISHU_TABLE_ID = 'tbllcMygUwgaKJ14'  # 小红书待发库表
 
@@ -30,10 +30,8 @@ FEISHU_TABLE_ID = 'tbllcMygUwgaKJ14'  # 小红书待发库表
 FEISHU_TOKEN_URL = 'https://open.feishu.cn/open-apis/auth/v3/tenant_access_token/internal/'
 FEISHU_CREATE_RECORD_URL = f'{FEISHU_BASE_URL}/tables/{FEISHU_TABLE_ID}/records'
 
-# 项目根目录（knowledge 目录的父目录）
-PROJECT_ROOT = os.path.dirname(os.path.dirname(__file__))
 # 知识库目录
-KNOWLEDGE_DIR = os.path.join(PROJECT_ROOT, 'knowledge', 'raw')
+KNOWLEDGE_DIR = os.path.join(os.path.dirname(__file__), 'knowledge', 'raw')
 
 def get_feishu_token() -> Optional[str]:
     """
@@ -68,7 +66,7 @@ def get_feishu_token() -> Optional[str]:
         logger.error(f"飞书 token 响应 JSON 解析失败: {e}")
         return None
 
-def create_feishu_record(token: str, fields: Dict[str, Any], item_info: str = "") -> bool:
+def create_feishu_record(token: str, fields: Dict[str, Any]) -> bool:
     """
     在飞书多维表格中创建记录
     """
@@ -92,22 +90,14 @@ def create_feishu_record(token: str, fields: Dict[str, Any], item_info: str = ""
             logger.info(f"记录创建成功: {record_id}")
             return True
         else:
-            # 记录详细错误信息
-            error_msg = f"创建记录失败: 状态码={response.status_code}"
-            if item_info:
-                error_msg += f", 项目={item_info}"
-            
-            # 记录字段内容（截断以避免日志过长）
-            fields_summary = {k: (v[:100] + "..." if isinstance(v, str) and len(v) > 100 else v) 
-                            for k, v in fields.items()}
-            logger.error(f"{error_msg}, 响应={result}, 字段={fields_summary}")
+            logger.error(f"创建记录失败: 状态码={response.status_code}, 响应={result}")
             return False
             
     except requests.exceptions.RequestException as e:
-        logger.error(f"创建记录请求失败: {e}, 项目={item_info}")
+        logger.error(f"创建记录请求失败: {e}")
         return False
     except json.JSONDecodeError as e:
-        logger.error(f"创建记录响应 JSON 解析失败: {e}, 项目={item_info}, 响应文本={response.text[:200] if 'response' in locals() else 'N/A'}")
+        logger.error(f"创建记录响应 JSON 解析失败: {e}")
         return False
 
 def read_today_json_files() -> List[Dict[str, Any]]:
@@ -163,75 +153,26 @@ def read_today_json_files() -> List[Dict[str, Any]]:
     logger.info(f"总共读取到 {len(all_items)} 条数据")
     return all_items
 
-def clean_text(text: str) -> str:
-    """
-    清理文本，移除可能引起飞书API问题的特殊字符
-    保留基本标点，但移除控制字符和可能的问题字符
-    """
-    if not text:
-        return text
-    
-    # 移除控制字符（ASCII 0-31，127）
-    cleaned = ''.join(char for char in text if ord(char) >= 32 and ord(char) != 127)
-    
-    # 替换常见的可能引起问题的字符
-    # 保留基本的标点符号：.,;:!?()-[]{}'"/
-    # 移除其他可能的问题字符
-    replacements = {
-        '\u2018': "'",  # 左单引号
-        '\u2019': "'",  # 右单引号
-        '\u201c': '"',  # 左双引号
-        '\u201d': '"',  # 右双引号
-        '\u2013': '-',  # 短破折号
-        '\u2014': '-',  # 长破折号
-        '\u2026': '...',  # 省略号
-    }
-    
-    for old, new in replacements.items():
-        cleaned = cleaned.replace(old, new)
-    
-    # 截断过长的文本（飞书可能有长度限制）
-    # 选题字段建议不超过200字符
-    if len(cleaned) > 200:
-        cleaned = cleaned[:197] + "..."
-    
-    return cleaned
-
 def prepare_record_fields(item: Dict[str, Any]) -> Dict[str, Any]:
     """
     准备飞书记录字段
     """
     source = item.get('_source', '')
     title = item.get('title', '')
-    
-    # 获取URL，优先使用原始URL，其次使用HN链接
-    url = item.get('url', '')
-    hn_url = item.get('hn_url', '')
-    
-    # 如果原始URL为空，使用HN链接
-    if not url and hn_url:
-        url = hn_url
-    
-    # 清理标题和URL
-    cleaned_title = clean_text(title)
-    cleaned_url = url  # URL通常不需要清理，但确保它是字符串
+    url = item.get('url', '') or item.get('hn_url', '')
     
     # 构建选题字段
     if source == 'github':
         # GitHub 仓库，使用仓库名
-        topic = f"[GitHub] {cleaned_title}"
+        topic = f"[GitHub] {title}"
     elif source == 'hackernews':
         # Hacker News 文章
-        topic = f"[HN] {cleaned_title}"
+        topic = f"[HN] {title}"
     else:
-        topic = f"[{source.upper()}] {cleaned_title}"
+        topic = f"[{source.upper()}] {title}"
     
     # 构建备注字段（URL）
-    note = str(cleaned_url) if cleaned_url else ""
-    
-    # 如果备注字段过长，进行截断（飞书可能限制URL长度）
-    if len(note) > 500:
-        note = note[:497] + "..."
+    note = url
     
     # 构建字段字典
     fields = {
@@ -269,24 +210,18 @@ def main():
     for i, item in enumerate(items, 1):
         source = item.get('_source', 'unknown')
         item_id = item.get('id', 'N/A')
-        title = item.get('title', '')[:50]  # 截断标题以便日志显示
         
-        logger.info(f"处理第 {i}/{total_count} 条: {source} - {item_id} - {title}")
+        logger.info(f"处理第 {i}/{total_count} 条: {source} - {item_id}")
         
         # 准备字段
         fields = prepare_record_fields(item)
         
-        # 构建项目信息用于错误日志
-        item_info = f"{source}:{item_id}:{title}"
-        
         # 写入飞书
-        if create_feishu_record(token, fields, item_info):
+        if create_feishu_record(token, fields):
             success_count += 1
             logger.info(f"✓ 成功写入: {fields.get('选题', 'N/A')}")
         else:
             logger.error(f"✗ 写入失败: {fields.get('选题', 'N/A')}")
-            # 记录原始数据以便调试
-            logger.debug(f"失败项目原始数据: {json.dumps(item, ensure_ascii=False)[:200]}...")
         
         # 避免请求过快，添加延迟
         if i < total_count:
