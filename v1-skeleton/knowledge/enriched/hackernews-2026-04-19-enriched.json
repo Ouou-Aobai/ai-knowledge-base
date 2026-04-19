@@ -1,25 +1,145 @@
 {
   "source": "hackernews",
-  "collected_at": "2026-04-19T18:25:35.594749Z",
-  "analyzed_at": "2026-04-19T15:09:17.674840+00:00",
-  "count": 20,
+  "collected_at": "2026-04-19T17:04:27.843937Z",
+  "analyzed_at": "2026-04-19T17:07:19.249266+00:00",
+  "count": 21,
   "items": [
     {
+      "id": 47806096,
+      "title": "Archive of Byte magazine, starting with issue #1 in 1975",
+      "url": "https://archive.org/details/byte-magazine-1975-09",
+      "score": 374,
+      "comments": 98,
+      "author": "DamnInteresting",
+      "time": 1776434848,
+      "hn_url": "https://news.ycombinator.com/item?id=47806096",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Byte magazine began in 1975, focusing on personal computing, and ceased publication in 1998. Its first issue featured articles on early personal computers. Archive.org hosts its early issues for free access.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-19T17:06:40.944454+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47824945,
+      "title": "Notion leaks email addresses of all editors of any public page",
+      "url": "https://twitter.com/weezerOSINT/status/2045849358462222720",
+      "score": 76,
+      "comments": 11,
+      "author": "Tiberium",
+      "time": 1776612001,
+      "hn_url": "https://news.ycombinator.com/item?id=47824945",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Public Notion pages leak email addresses of all editors without any authentication. This vulnerability allows anyone to access editor details. This issue persists despite no reported fixes.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-19T17:06:41.941638+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47822486,
+      "title": "The seven programming ur-languages (2022)",
+      "url": "https://madhadron.com/programming/seven_ur_languages.html",
+      "score": 163,
+      "comments": 52,
+      "author": "helloplanets",
+      "time": 1776584288,
+      "hn_url": "https://news.ycombinator.com/item?id=47822486",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The seven programming ur-languages in 2022 are Lisp, ML, Forth, Scheme, Algol, APL, and Emacs Lisp. These languages are foundational in their unique approaches to programming and language design.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-19T17:06:43.723599+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
       "id": 47793161,
-      "title": "Game Devs Explain the Tricks Involved with Letting You Pause a Game",
+      "title": "Game devs explain the tricks involved with letting you pause a game",
       "url": "https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339",
-      "score": 107,
-      "comments": 79,
+      "score": 296,
+      "comments": 173,
       "author": "speckx",
       "time": 1776348310,
       "hn_url": "https://news.ycombinator.com/item?id=47793161",
       "text": "",
-      "relevance_score": 0.5,
-      "summary": "这是一个关于 Game Devs Explain the Tricks Involved with Letting You Pause a Game 的技术内容。",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Game developers typically pause games by setting the game's timescale to zero and ensuring menu UI functions work. Some games use multiple pause levels and freeze time for screenshots behind the pause menu. Pausing is technically complex and varies by game.",
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-19T15:09:07.647135+00:00",
+      "analyzed_at": "2026-04-19T17:06:46.655638+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47798376,
+      "title": "Pairwise Order of a Sequence of Elements",
+      "url": "https://morwenn.github.io//presortedness/2026/04/11/TSB010-pairwise-order-of-a-sequence-of-elements.html",
+      "score": 15,
+      "comments": 0,
+      "author": "ibobev",
+      "time": 1776368068,
+      "hn_url": "https://news.ycombinator.com/item?id=47798376",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The pairwise order of a sequence determines the relative order of elements based on given comparisons. A unique ordering requires a complete set of comparisons. Algorithms can generate optimal orders based on pairwise scores.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-19T17:06:48.525217+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47825160,
+      "title": "Turtle WoW classic server announces shutdown after Blizzard wins injunction",
+      "url": "https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/",
+      "score": 28,
+      "comments": 15,
+      "author": "Brajeshwar",
+      "time": 1776613720,
+      "hn_url": "https://news.ycombinator.com/item?id=47825160",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Turtle WoW servers will close on May 14, 2026, after Blizzard's successful lawsuit. All servers have been updated to the final patch. Social media and forums will shut down on October 16, 2026.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-19T17:06:50.309857+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -32,18 +152,66 @@
       "id": 47818485,
       "title": "College instructor turns to typewriters to curb AI-written work",
       "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
-      "score": 281,
-      "comments": 271,
+      "score": 389,
+      "comments": 358,
       "author": "gnabgib",
       "time": 1776538800,
       "hn_url": "https://news.ycombinator.com/item?id=47818485",
       "text": "",
-      "relevance_score": 0.5,
-      "summary": "这是一个关于 College instructor turns to typewriters to curb AI-written work 的技术内容。",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A college instructor has started using typewriters in class to reduce AI-generated student work. This method aims to enhance traditional writing skills. The approach is gaining attention for its effectiveness.",
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-19T15:09:08.148105+00:00",
+      "analyzed_at": "2026-04-19T17:06:52.299019+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47781191,
+      "title": "Minimal Viable Programs (2014)",
+      "url": "https://joearms.github.io/published/2014-06-25-minimal-viable-program.html",
+      "score": 22,
+      "comments": 4,
+      "author": "bachmeier",
+      "time": 1776269590,
+      "hn_url": "https://news.ycombinator.com/item?id=47781191",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A minimal viable program is the smallest, simplest version of a program that solves a specific problem. Joe Armstrong's 2014 article on minimal viable programs emphasizes its importance in software development. The concept remains relevant for efficient problem-solving.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-19T17:06:54.207168+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47823460,
+      "title": "Show HN: Prompt-to-Excalidraw demo with Gemma 4 E2B in the browser (3.1GB)",
+      "url": "https://teamchong.github.io/turboquant-wasm/draw.html",
+      "score": 39,
+      "comments": 17,
+      "author": "teamchong",
+      "time": 1776597447,
+      "hn_url": "https://news.ycombinator.com/item?id=47823460",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A new demo shows how to turn prompts into Excalidraw drawings using Gemma 4 E2B in the browser, requiring 3.1GB. It's available at teamchong.github.io/turboquant-wasm/draw.html. This demo is gaining attention on Hacker News and Reddit.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-19T17:06:56.110957+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -56,18 +224,42 @@
       "id": 47817132,
       "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
       "url": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
-      "score": 335,
-      "comments": 91,
+      "score": 386,
+      "comments": 99,
       "author": "NelsonMinar",
       "time": 1776529607,
       "hn_url": "https://news.ycombinator.com/item?id=47817132",
       "text": "",
-      "relevance_score": 0.3,
-      "summary": "这是一个关于 The electromechanical angle computer inside the B-52 bomber's star tracker 的技术内容。",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The electromechanical angle computer in the B-52 bomber's star tracker calculates the aircraft's position using celestial navigation. It determines the azimuth and altitude of stars for precise navigation. This system uses angles to locate the aircraft relative to the stars.",
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-19T15:09:08.649277+00:00",
+      "analyzed_at": "2026-04-19T17:06:57.772699+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47824068,
+      "title": "Airline worker arrested after sharing photos of bomb damage in WhatsApp group",
+      "url": "https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/",
+      "score": 168,
+      "comments": 104,
+      "author": "aa_is_op",
+      "time": 1776604389,
+      "hn_url": "https://news.ycombinator.com/item?id=47824068",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "An airline worker in Dubai was arrested for sharing bomb damage photos on WhatsApp. Authorities monitored the private group and lured him to a meeting for arrest. This incident highlights surveillance practices in Dubai.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-19T17:06:59.735736+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -80,18 +272,42 @@
       "id": 47815395,
       "title": "Why Japan has such good railways",
       "url": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
-      "score": 412,
-      "comments": 377,
+      "score": 492,
+      "comments": 459,
       "author": "RickJWagner",
       "time": 1776515346,
       "hn_url": "https://news.ycombinator.com/item?id=47815395",
       "text": "",
-      "relevance_score": 0.5,
-      "summary": "这是一个关于 Why Japan has such good railways 的技术内容。",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Japan's excellent railway system results from effective public policy, including sound regulation and privatization models, fostering high trust and integrity among citizens and employees. Despite some rural lines closing, the overall system remains highly efficient and reliable.",
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-19T15:09:09.151101+00:00",
+      "analyzed_at": "2026-04-19T17:07:01.685118+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47824531,
+      "title": "Matt Mullenweg Overrules Core Committers; Puts Akismet on WP 7's Connector List",
+      "url": "https://www.therepository.email/matt-mullenweg-overrules-core-committers-to-put-akismet-on-wordpress-7-0s-connectors-screen",
+      "score": 31,
+      "comments": 24,
+      "author": "mooreds",
+      "time": 1776608644,
+      "hn_url": "https://news.ycombinator.com/item?id=47824531",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Matt Mullenweg overruled core committers to include Akismet on WordPress 7.0's Connectors Screen. This decision was controversial and widely discussed. The inclusion was finalized despite opposition.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-19T17:07:03.621647+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -102,20 +318,20 @@
     },
     {
       "id": 47821429,
-      "title": "The world in which IPv6 was a good design",
+      "title": "The world in which IPv6 was a good design (2017)",
       "url": "https://apenwarr.ca/log/20170810",
-      "score": 52,
-      "comments": 11,
+      "score": 153,
+      "comments": 49,
       "author": "signa11",
       "time": 1776567043,
       "hn_url": "https://news.ycombinator.com/item?id=47821429",
       "text": "",
-      "relevance_score": 0.3,
-      "summary": "这是一个关于 The world in which IPv6 was a good design 的技术内容。",
+      "relevance_score": 0.8999999999999999,
+      "summary": "In 2017, IPv6 was seen as good design in a world without address shortages and without the need for translation layers. It aimed to eliminate MAC addresses and ARP/DHCP, reducing network overhead.",
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-19T15:09:09.652784+00:00",
+      "analyzed_at": "2026-04-19T17:07:05.914021+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -128,18 +344,18 @@
       "id": 47779659,
       "title": "Modern Common Lisp with FSet",
       "url": "https://fset.common-lisp.dev/Modern-CL/Top_html/index.html",
-      "score": 155,
-      "comments": 18,
+      "score": 176,
+      "comments": 24,
       "author": "larve",
       "time": 1776263918,
       "hn_url": "https://news.ycombinator.com/item?id=47779659",
       "text": "",
-      "relevance_score": 0.3,
-      "summary": "这是一个关于 Modern Common Lisp with FSet 的技术内容。",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Modern Common Lisp with FSet enhances the language with functional programming tools, complementing its traditional object-oriented and imperative paradigms. FSet is notable for introducing functional algorithms to Common Lisp. The book aims to educate programmers in functional thinking.",
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-19T15:09:10.154374+00:00",
+      "analyzed_at": "2026-04-19T17:07:07.610681+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -152,18 +368,18 @@
       "id": 47819369,
       "title": "Optimizing Ruby Path Methods",
       "url": "https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html",
-      "score": 101,
-      "comments": 36,
+      "score": 121,
+      "comments": 46,
       "author": "weaksauce",
       "time": 1776544949,
       "hn_url": "https://news.ycombinator.com/item?id=47819369",
       "text": "",
-      "relevance_score": 0.3,
-      "summary": "这是一个关于 Optimizing Ruby Path Methods 的技术内容。",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Ruby path methods can be optimized by using Bootsnap to reduce load path searches, and since Ruby 4.1.0, `File.join` is faster than string interpolation for simple paths. These optimizations significantly improve performance.",
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-19T15:09:10.656205+00:00",
+      "analyzed_at": "2026-04-19T17:07:09.216458+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -174,44 +390,20 @@
     },
     {
       "id": 47794299,
-      "title": "Dizzying Spiral Staircase with Single Guardrail Once Led to Top of Eiffel Tower",
+      "title": "Spiral staircase with a single guardrail once led to the top of the Eiffel Tower",
       "url": "https://www.smithsonianmag.com/smart-news/a-dizzying-spiral-staircase-with-a-single-guardrail-once-led-to-the-top-of-the-eiffel-tower-now-you-can-buy-14-of-the-original-steps-180988535/",
-      "score": 26,
-      "comments": 12,
+      "score": 42,
+      "comments": 25,
       "author": "bookofjoe",
       "time": 1776352113,
       "hn_url": "https://news.ycombinator.com/item?id=47794299",
       "text": "",
-      "relevance_score": 0.5,
-      "summary": "这是一个关于 Dizzying Spiral Staircase with Single Guardrail Once Led to Top of Eiffel Tower 的技术内容。",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A spiral staircase with a single guardrail once led to the top of the Eiffel Tower. It was dismantled in 1983 and now some steps are owned by a private collector. The Eiffel Tower now uses elevators for access.",
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-19T15:09:11.157520+00:00",
-      "score_breakdown": {
-        "tech_depth": 0.0,
-        "practical_value": 0.0,
-        "timeliness": 0.0,
-        "community_heat": 0.0,
-        "domain_match": 0.0
-      }
-    },
-    {
-      "id": 47818700,
-      "title": "Thoughts and feelings around Claude Design",
-      "url": "https://samhenri.gold/blog/20260418-claude-design/",
-      "score": 307,
-      "comments": 197,
-      "author": "cdrnsf",
-      "time": 1776539964,
-      "hn_url": "https://news.ycombinator.com/item?id=47818700",
-      "text": "",
-      "relevance_score": 0.3,
-      "summary": "这是一个关于 Thoughts and feelings around Claude Design 的技术内容。",
-      "tags": [
-        "ai"
-      ],
-      "analyzed_at": "2026-04-19T15:09:11.659348+00:00",
+      "analyzed_at": "2026-04-19T17:07:11.058715+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -224,18 +416,66 @@
       "id": 47796496,
       "title": "Bypassing the kernel for 56ns cross-language IPC",
       "url": "https://github.com/riyaneel/Tachyon/tree/main/docs/adr",
-      "score": 43,
-      "comments": 20,
+      "score": 68,
+      "comments": 26,
       "author": "riyaneel",
       "time": 1776359630,
       "hn_url": "https://news.ycombinator.com/item?id=47796496",
       "text": "",
-      "relevance_score": 0.3,
-      "summary": "这是一个关于 Bypassing the kernel for 56ns cross-language IPC 的技术内容。",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Futexes are used optionally for inter-process communication, not bypassing the kernel entirely. The method achieves 56ns latency. Futexes allow processes to sleep without full kernel involvement.",
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-19T15:09:12.161083+00:00",
+      "analyzed_at": "2026-04-19T17:07:13.007969+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47825357,
+      "title": "The Trouble with Transformers",
+      "url": "https://roblh.substack.com/p/the-trouble-with-transformers",
+      "score": 6,
+      "comments": 1,
+      "author": "rob_lh",
+      "time": 1776615157,
+      "hn_url": "https://news.ycombinator.com/item?id=47825357",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Transformer failures often result from overloads and short circuits on the secondary side. Transformers are increasingly hard to source, affecting infrastructure projects. This scarcity impacts electric vehicle infrastructure and other utilities.",
+      "tags": [
+        "transformer"
+      ],
+      "analyzed_at": "2026-04-19T17:07:14.626685+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47818700,
+      "title": "Thoughts and feelings around Claude Design",
+      "url": "https://samhenri.gold/blog/20260418-claude-design/",
+      "score": 346,
+      "comments": 225,
+      "author": "cdrnsf",
+      "time": 1776539964,
+      "hn_url": "https://news.ycombinator.com/item?id=47818700",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Anthropic launched Claude Design, a new design tool rivaling Figma and Canva, integrating AI for coding and design systems. Users describe it as innovative, with features like chat refinement and custom sliders. It's seen as a significant step in design tooling.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-19T17:07:16.657527+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -248,234 +488,18 @@
       "id": 47784250,
       "title": "Scientists discover “cleaner ants” that groom giant ants in Arizona desert",
       "url": "https://www.sciencedaily.com/releases/2026/04/260414075641.htm",
-      "score": 105,
-      "comments": 38,
+      "score": 115,
+      "comments": 43,
       "author": "t-3",
       "time": 1776282376,
       "hn_url": "https://news.ycombinator.com/item?id=47784250",
       "text": "<a href=\"https:&#x2F;&#x2F;onlinelibrary.wiley.com&#x2F;doi&#x2F;10.1002&#x2F;ece3.73308\" rel=\"nofollow\">https:&#x2F;&#x2F;onlinelibrary.wiley.com&#x2F;doi&#x2F;10.1002&#x2F;ece3.73308</a><p><a href=\"https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;04&#x2F;13&#x2F;science&#x2F;harvester-cone-ants-cleaning.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;04&#x2F;13&#x2F;science&#x2F;harvester-cone-an...</a> &#x2F; <a href=\"https:&#x2F;&#x2F;archive.md&#x2F;VEaPW\" rel=\"nofollo",
-      "relevance_score": 0.3,
-      "summary": "这是一个关于 Scientists discover “cleaner ants” that groom giant ants in Arizona desert 的技术内容。",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Cleaner ants in the Arizona desert groom larger harvester ants without being attacked. This mutualistic behavior is akin to cleaner fish in the ocean. Scientists documented over 90 interactions of this new ant cleaning behavior.",
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-19T15:09:12.662666+00:00",
-      "score_breakdown": {
-        "tech_depth": 0.0,
-        "practical_value": 0.0,
-        "timeliness": 0.0,
-        "community_heat": 0.0,
-        "domain_match": 0.0
-      }
-    },
-    {
-      "id": 47767398,
-      "title": "It's OK to compare floating-points for equality",
-      "url": "https://lisyarus.github.io/blog/posts/its-ok-to-compare-floating-points-for-equality.html",
-      "score": 203,
-      "comments": 126,
-      "author": "coinfused",
-      "time": 1776182449,
-      "hn_url": "https://news.ycombinator.com/item?id=47767398",
-      "text": "",
-      "relevance_score": 0.3,
-      "summary": "这是一个关于 It's OK to compare floating-points for equality 的技术内容。",
-      "tags": [
-        "ai"
-      ],
-      "analyzed_at": "2026-04-19T15:09:13.163905+00:00",
-      "score_breakdown": {
-        "tech_depth": 0.0,
-        "practical_value": 0.0,
-        "timeliness": 0.0,
-        "community_heat": 0.0,
-        "domain_match": 0.0
-      }
-    },
-    {
-      "id": 47812973,
-      "title": "I dug into the Postgres sources to write my own WAL receiver",
-      "url": "https://medium.com/@mailbox.sq7/a-long-story-about-how-i-dug-into-the-postgresql-source-code-to-write-my-own-wal-receiver-and-what-53fd251d8f25",
-      "score": 42,
-      "comments": 9,
-      "author": "alzhi7",
-      "time": 1776484077,
-      "hn_url": "https://news.ycombinator.com/item?id=47812973",
-      "text": "",
-      "relevance_score": 0.3,
-      "summary": "这是一个关于 I dug into the Postgres sources to write my own WAL receiver 的技术内容。",
-      "tags": [
-        "ai"
-      ],
-      "analyzed_at": "2026-04-19T15:09:13.665644+00:00",
-      "score_breakdown": {
-        "tech_depth": 0.0,
-        "practical_value": 0.0,
-        "timeliness": 0.0,
-        "community_heat": 0.0,
-        "domain_match": 0.0
-      }
-    },
-    {
-      "id": 47778938,
-      "title": "Towards trust in Emacs",
-      "url": "https://eshelyaron.com/posts/2026-04-15-towards-trust-in-emacs.html",
-      "score": 182,
-      "comments": 29,
-      "author": "eshelyaron",
-      "time": 1776260955,
-      "hn_url": "https://news.ycombinator.com/item?id=47778938",
-      "text": "",
-      "relevance_score": 0.3,
-      "summary": "这是一个关于 Towards trust in Emacs 的技术内容。",
-      "tags": [
-        "ai"
-      ],
-      "analyzed_at": "2026-04-19T15:09:14.167251+00:00",
-      "score_breakdown": {
-        "tech_depth": 0.0,
-        "practical_value": 0.0,
-        "timeliness": 0.0,
-        "community_heat": 0.0,
-        "domain_match": 0.0
-      }
-    },
-    {
-      "id": 47822635,
-      "title": "EU age verification app: \"Worry-free package\" with security vulnerabilities",
-      "url": "https://www.heise.de/en/news/EU-age-verification-app-Worry-free-package-with-security-vulnerabilities-11262921.html",
-      "score": 7,
-      "comments": 0,
-      "author": "_tk_",
-      "time": 1776586320,
-      "hn_url": "https://news.ycombinator.com/item?id=47822635",
-      "text": "",
-      "relevance_score": 0.3,
-      "summary": "这是一个关于 EU age verification app: \"Worry-free package\" with security vulnerabilities 的技术内容。",
-      "tags": [
-        "ai"
-      ],
-      "analyzed_at": "2026-04-19T15:09:14.669077+00:00",
-      "score_breakdown": {
-        "tech_depth": 0.0,
-        "practical_value": 0.0,
-        "timeliness": 0.0,
-        "community_heat": 0.0,
-        "domain_match": 0.0
-      }
-    },
-    {
-      "id": 47806725,
-      "title": "Claude Design",
-      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-      "score": 1196,
-      "comments": 745,
-      "author": "meetpateltech",
-      "time": 1776438249,
-      "hn_url": "https://news.ycombinator.com/item?id=47806725",
-      "text": "Related: <a href=\"https:&#x2F;&#x2F;x.com&#x2F;flomerboy&#x2F;status&#x2F;2045162321589252458\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;flomerboy&#x2F;status&#x2F;2045162321589252458</a> (<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;flomerboy&#x2F;status&#x2F;2045162321589252458\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;flomerboy&#x2F;status&#x2F;2045162321589252458</a>)",
-      "relevance_score": 0.3,
-      "summary": "这是一个关于 Claude Design 的技术内容。",
-      "tags": [
-        "ai"
-      ],
-      "analyzed_at": "2026-04-19T15:09:15.170523+00:00",
-      "score_breakdown": {
-        "tech_depth": 0.0,
-        "practical_value": 0.0,
-        "timeliness": 0.0,
-        "community_heat": 0.0,
-        "domain_match": 0.0
-      }
-    },
-    {
-      "id": 47817581,
-      "title": "Graphs that explain the state of AI in 2026",
-      "url": "https://spectrum.ieee.org/state-of-ai-index-2026",
-      "score": 93,
-      "comments": 55,
-      "author": "bryanrasmussen",
-      "time": 1776532364,
-      "hn_url": "https://news.ycombinator.com/item?id=47817581",
-      "text": "",
-      "relevance_score": 0.5,
-      "summary": "这是一个关于 Graphs that explain the state of AI in 2026 的技术内容。",
-      "tags": [
-        "ai"
-      ],
-      "analyzed_at": "2026-04-19T15:09:15.671562+00:00",
-      "score_breakdown": {
-        "tech_depth": 0.0,
-        "practical_value": 0.0,
-        "timeliness": 0.0,
-        "community_heat": 0.0,
-        "domain_match": 0.0
-      }
-    },
-    {
-      "id": 47819738,
-      "title": "Air Is Full of DNA",
-      "url": "https://www.nature.com/articles/d41586-026-01099-2",
-      "score": 20,
-      "comments": 2,
-      "author": "howrude",
-      "time": 1776548326,
-      "hn_url": "https://news.ycombinator.com/item?id=47819738",
-      "text": "",
-      "relevance_score": 0.5,
-      "summary": "这是一个关于 Air Is Full of DNA 的技术内容。",
-      "tags": [
-        "ai"
-      ],
-      "analyzed_at": "2026-04-19T15:09:16.172575+00:00",
-      "score_breakdown": {
-        "tech_depth": 0.0,
-        "practical_value": 0.0,
-        "timeliness": 0.0,
-        "community_heat": 0.0,
-        "domain_match": 0.0
-      }
-    },
-    {
-      "id": 47822414,
-      "title": "The RAM shortage could last years",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
-      "score": 38,
-      "comments": 47,
-      "author": "omer_k",
-      "time": 1776583124,
-      "hn_url": "https://news.ycombinator.com/item?id=47822414",
-      "text": "",
-      "relevance_score": 0.3,
-      "summary": "这是一个关于 The RAM shortage could last years 的技术内容。",
-      "tags": [
-        "ai"
-      ],
-      "analyzed_at": "2026-04-19T15:09:16.673611+00:00",
-      "score_breakdown": {
-        "tech_depth": 0.0,
-        "practical_value": 0.0,
-        "timeliness": 0.0,
-        "community_heat": 0.0,
-        "domain_match": 0.0
-      }
-    },
-    {
-      "id": 47820046,
-      "title": "Dad brains: How fatherhood rewires the male mind",
-      "url": "https://www.bbc.com/future/article/20260417-fatherhood-how-the-male-brain-and-body-prepare-for-childcare",
-      "score": 141,
-      "comments": 104,
-      "author": "tchalla",
-      "time": 1776551087,
-      "hn_url": "https://news.ycombinator.com/item?id=47820046",
-      "text": "",
-      "relevance_score": 0.5,
-      "summary": "这是一个关于 Dad brains: How fatherhood rewires the male mind 的技术内容。",
-      "tags": [
-        "ai"
-      ],
-      "analyzed_at": "2026-04-19T15:09:17.174640+00:00",
+      "analyzed_at": "2026-04-19T17:07:18.748379+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
