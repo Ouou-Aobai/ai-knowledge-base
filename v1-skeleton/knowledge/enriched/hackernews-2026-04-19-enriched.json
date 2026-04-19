@@ -1,15 +1,15 @@
 {
   "source": "hackernews",
-  "collected_at": "2026-04-19T17:04:27.843937Z",
-  "analyzed_at": "2026-04-19T17:07:19.249266+00:00",
+  "collected_at": "2026-04-19T17:44:50.340602Z",
+  "analyzed_at": "2026-04-19T17:47:42.666618+00:00",
   "count": 21,
   "items": [
     {
       "id": 47806096,
       "title": "Archive of Byte magazine, starting with issue #1 in 1975",
       "url": "https://archive.org/details/byte-magazine-1975-09",
-      "score": 374,
-      "comments": 98,
+      "score": 402,
+      "comments": 100,
       "author": "DamnInteresting",
       "time": 1776434848,
       "hn_url": "https://news.ycombinator.com/item?id=47806096",
@@ -19,7 +19,7 @@
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-19T17:06:40.944454+00:00",
+      "analyzed_at": "2026-04-19T17:47:03.173791+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -32,42 +32,18 @@
       "id": 47824945,
       "title": "Notion leaks email addresses of all editors of any public page",
       "url": "https://twitter.com/weezerOSINT/status/2045849358462222720",
-      "score": 76,
-      "comments": 11,
+      "score": 116,
+      "comments": 24,
       "author": "Tiberium",
       "time": 1776612001,
       "hn_url": "https://news.ycombinator.com/item?id=47824945",
       "text": "",
       "relevance_score": 0.8999999999999999,
-      "summary": "Public Notion pages leak email addresses of all editors without any authentication. This vulnerability allows anyone to access editor details. This issue persists despite no reported fixes.",
+      "summary": "Public Notion pages leak email addresses of all editors. This vulnerability exposes personal information. This issue persists as of 2026-04-19.",
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-19T17:06:41.941638+00:00",
-      "score_breakdown": {
-        "tech_depth": 0.0,
-        "practical_value": 0.0,
-        "timeliness": 0.0,
-        "community_heat": 0.0,
-        "domain_match": 0.0
-      }
-    },
-    {
-      "id": 47822486,
-      "title": "The seven programming ur-languages (2022)",
-      "url": "https://madhadron.com/programming/seven_ur_languages.html",
-      "score": 163,
-      "comments": 52,
-      "author": "helloplanets",
-      "time": 1776584288,
-      "hn_url": "https://news.ycombinator.com/item?id=47822486",
-      "text": "",
-      "relevance_score": 0.8999999999999999,
-      "summary": "The seven programming ur-languages in 2022 are Lisp, ML, Forth, Scheme, Algol, APL, and Emacs Lisp. These languages are foundational in their unique approaches to programming and language design.",
-      "tags": [
-        "ai"
-      ],
-      "analyzed_at": "2026-04-19T17:06:43.723599+00:00",
+      "analyzed_at": "2026-04-19T17:47:04.924613+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -80,18 +56,18 @@
       "id": 47793161,
       "title": "Game devs explain the tricks involved with letting you pause a game",
       "url": "https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339",
-      "score": 296,
-      "comments": 173,
+      "score": 313,
+      "comments": 182,
       "author": "speckx",
       "time": 1776348310,
       "hn_url": "https://news.ycombinator.com/item?id=47793161",
       "text": "",
       "relevance_score": 0.8999999999999999,
-      "summary": "Game developers typically pause games by setting the game's timescale to zero and ensuring menu UI functions work. Some games use multiple pause levels and freeze time for screenshots behind the pause menu. Pausing is technically complex and varies by game.",
+      "summary": "To pause a game, developers often set the game’s timescale to 0, freezing time while allowing the UI to function. Some developers freeze time and use a screenshot as the pause menu background, enabling them to manipulate game elements behind the scenes. This method allows them to stop rendering enemies or relocate the player.",
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-19T17:06:46.655638+00:00",
+      "analyzed_at": "2026-04-19T17:47:06.962398+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -101,21 +77,21 @@
       }
     },
     {
-      "id": 47798376,
-      "title": "Pairwise Order of a Sequence of Elements",
-      "url": "https://morwenn.github.io//presortedness/2026/04/11/TSB010-pairwise-order-of-a-sequence-of-elements.html",
-      "score": 15,
-      "comments": 0,
-      "author": "ibobev",
-      "time": 1776368068,
-      "hn_url": "https://news.ycombinator.com/item?id=47798376",
+      "id": 47822486,
+      "title": "The seven programming ur-languages (2022)",
+      "url": "https://madhadron.com/programming/seven_ur_languages.html",
+      "score": 177,
+      "comments": 68,
+      "author": "helloplanets",
+      "time": 1776584288,
+      "hn_url": "https://news.ycombinator.com/item?id=47822486",
       "text": "",
       "relevance_score": 0.8999999999999999,
-      "summary": "The pairwise order of a sequence determines the relative order of elements based on given comparisons. A unique ordering requires a complete set of comparisons. Algorithms can generate optimal orders based on pairwise scores.",
+      "summary": "The seven programming ur-languages in 2022 are Algol 68, Scheme, Common Lisp, ML, Forth, Actor, and metaprogramming. These languages emphasize foundational concepts in programming.",
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-19T17:06:48.525217+00:00",
+      "analyzed_at": "2026-04-19T17:47:08.795073+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -128,18 +104,66 @@
       "id": 47825160,
       "title": "Turtle WoW classic server announces shutdown after Blizzard wins injunction",
       "url": "https://www.pcgamer.com/games/world-of-warcraft/turtle-wow-classic-server-announces-shutdown-after-blizzard-wins-injunction/",
-      "score": 28,
-      "comments": 15,
+      "score": 50,
+      "comments": 30,
       "author": "Brajeshwar",
       "time": 1776613720,
       "hn_url": "https://news.ycombinator.com/item?id=47825160",
       "text": "",
       "relevance_score": 0.8999999999999999,
-      "summary": "Turtle WoW servers will close on May 14, 2026, after Blizzard's successful lawsuit. All servers have been updated to the final patch. Social media and forums will shut down on October 16, 2026.",
+      "summary": "Turtle WoW, a popular private World of Warcraft Classic server, announced its shutdown after Blizzard obtained a legal injunction against it for copyright infringement. Blizzard's victory in the lawsuit led to the server's closure. This followed a similar pattern to the shutdown of Nostalrius.",
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-19T17:06:50.309857+00:00",
+      "analyzed_at": "2026-04-19T17:47:10.665573+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47825520,
+      "title": "Show HN: Google Gemini Is Scanning Your Photos – and the EU Said No",
+      "url": "",
+      "score": 6,
+      "comments": 0,
+      "author": "anju-kushwaha",
+      "time": 1776616569,
+      "hn_url": "https://news.ycombinator.com/item?id=47825520",
+      "text": "Google has expanded its Personal Intelligence feature so that Gemini can now access your Google Photos face data, Gmail, YouTube history, and search activity to generate personalized AI images — live for US paid subscribers as of April 2026.<p><a href=\"https:&#x2F;&#x2F;vucense.com&#x2F;privacy-sovereignty&#x2F;surveillance-biometrics&#x2F;google-gemini-personal-intelligence-photos-privacy-2026&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;vucense.com&#x2F;privacy-sovereignty&#x2F;surveillance-biometr",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Google Gemini scans users' photos and emails, raising privacy concerns; EU regulations oppose this practice; users' consent is often not obtained.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-19T17:47:12.887439+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47798376,
+      "title": "Pairwise Order of a Sequence of Elements",
+      "url": "https://morwenn.github.io//presortedness/2026/04/11/TSB010-pairwise-order-of-a-sequence-of-elements.html",
+      "score": 17,
+      "comments": 0,
+      "author": "ibobev",
+      "time": 1776368068,
+      "hn_url": "https://news.ycombinator.com/item?id=47798376",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Pairwise order determines relative positions of elements; a unique sequence requires complete ordering constraints; algorithms can optimize order based on pairwise scores.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-19T17:47:14.725172+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -152,42 +176,18 @@
       "id": 47818485,
       "title": "College instructor turns to typewriters to curb AI-written work",
       "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
-      "score": 389,
-      "comments": 358,
+      "score": 398,
+      "comments": 362,
       "author": "gnabgib",
       "time": 1776538800,
       "hn_url": "https://news.ycombinator.com/item?id=47818485",
       "text": "",
       "relevance_score": 0.8999999999999999,
-      "summary": "A college instructor has started using typewriters in class to reduce AI-generated student work. This method aims to enhance traditional writing skills. The approach is gaining attention for its effectiveness.",
+      "summary": "A college instructor at Cornell University uses typewriters to reduce reliance on AI in student writing. This method encourages students to engage more deeply with their assignments. The approach aims to enhance traditional writing skills.",
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-19T17:06:52.299019+00:00",
-      "score_breakdown": {
-        "tech_depth": 0.0,
-        "practical_value": 0.0,
-        "timeliness": 0.0,
-        "community_heat": 0.0,
-        "domain_match": 0.0
-      }
-    },
-    {
-      "id": 47781191,
-      "title": "Minimal Viable Programs (2014)",
-      "url": "https://joearms.github.io/published/2014-06-25-minimal-viable-program.html",
-      "score": 22,
-      "comments": 4,
-      "author": "bachmeier",
-      "time": 1776269590,
-      "hn_url": "https://news.ycombinator.com/item?id=47781191",
-      "text": "",
-      "relevance_score": 0.8999999999999999,
-      "summary": "A minimal viable program is the smallest, simplest version of a program that solves a specific problem. Joe Armstrong's 2014 article on minimal viable programs emphasizes its importance in software development. The concept remains relevant for efficient problem-solving.",
-      "tags": [
-        "ai"
-      ],
-      "analyzed_at": "2026-04-19T17:06:54.207168+00:00",
+      "analyzed_at": "2026-04-19T17:47:16.842934+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -200,18 +200,18 @@
       "id": 47823460,
       "title": "Show HN: Prompt-to-Excalidraw demo with Gemma 4 E2B in the browser (3.1GB)",
       "url": "https://teamchong.github.io/turboquant-wasm/draw.html",
-      "score": 39,
-      "comments": 17,
+      "score": 47,
+      "comments": 21,
       "author": "teamchong",
       "time": 1776597447,
       "hn_url": "https://news.ycombinator.com/item?id=47823460",
       "text": "",
       "relevance_score": 0.8999999999999999,
-      "summary": "A new demo shows how to turn prompts into Excalidraw drawings using Gemma 4 E2B in the browser, requiring 3.1GB. It's available at teamchong.github.io/turboquant-wasm/draw.html. This demo is gaining attention on Hacker News and Reddit.",
+      "summary": "A browser-based tool converts text prompts into Excalidraw diagrams using Gemma 4 E2B, requiring 3.1GB. It's available at trendstack-xi.vercel.app/trending-today.",
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-19T17:06:56.110957+00:00",
+      "analyzed_at": "2026-04-19T17:47:18.820416+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -224,18 +224,42 @@
       "id": 47817132,
       "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
       "url": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
-      "score": 386,
-      "comments": 99,
+      "score": 387,
+      "comments": 100,
       "author": "NelsonMinar",
       "time": 1776529607,
       "hn_url": "https://news.ycombinator.com/item?id=47817132",
       "text": "",
       "relevance_score": 0.8999999999999999,
-      "summary": "The electromechanical angle computer in the B-52 bomber's star tracker calculates the aircraft's position using celestial navigation. It determines the azimuth and altitude of stars for precise navigation. This system uses angles to locate the aircraft relative to the stars.",
+      "summary": "The electromechanical angle computer in the B-52 bomber's star tracker automatically tracked a single star to provide highly accurate navigation headings. It used a spiral search mechanism to locate the star and maintained automatic tracking. This system did not require manual star tracking by the navigator.",
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-19T17:06:57.772699+00:00",
+      "analyzed_at": "2026-04-19T17:47:20.949574+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47781191,
+      "title": "Minimal Viable Programs (2014)",
+      "url": "https://joearms.github.io/published/2014-06-25-minimal-viable-program.html",
+      "score": 24,
+      "comments": 4,
+      "author": "bachmeier",
+      "time": 1776269590,
+      "hn_url": "https://news.ycombinator.com/item?id=47781191",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A minimal viable program is the smallest, simplest version of a software solution that addresses a problem. Joe Armstrong's 2014 article on the topic emphasizes its core functionality without extras. The concept remains relevant today.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-19T17:47:23.189570+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -248,18 +272,18 @@
       "id": 47824068,
       "title": "Airline worker arrested after sharing photos of bomb damage in WhatsApp group",
       "url": "https://www.lbc.co.uk/article/dubai-police-spied-private-whatsapp-5HjdXwr_2/",
-      "score": 168,
-      "comments": 104,
+      "score": 185,
+      "comments": 113,
       "author": "aa_is_op",
       "time": 1776604389,
       "hn_url": "https://news.ycombinator.com/item?id=47824068",
       "text": "",
       "relevance_score": 0.8999999999999999,
-      "summary": "An airline worker in Dubai was arrested for sharing bomb damage photos on WhatsApp. Authorities monitored the private group and lured him to a meeting for arrest. This incident highlights surveillance practices in Dubai.",
+      "summary": "An airline worker was arrested in Dubai after sharing bomb damage photos on a private WhatsApp group, leading to police surveillance and his arrest. The incident highlights concerns over privacy and electronic surveillance.",
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-19T17:06:59.735736+00:00",
+      "analyzed_at": "2026-04-19T17:47:24.819040+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -272,42 +296,18 @@
       "id": 47815395,
       "title": "Why Japan has such good railways",
       "url": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
-      "score": 492,
-      "comments": 459,
+      "score": 497,
+      "comments": 463,
       "author": "RickJWagner",
       "time": 1776515346,
       "hn_url": "https://news.ycombinator.com/item?id=47815395",
       "text": "",
       "relevance_score": 0.8999999999999999,
-      "summary": "Japan's excellent railway system results from effective public policy, including sound regulation and privatization models, fostering high trust and integrity among citizens and employees. Despite some rural lines closing, the overall system remains highly efficient and reliable.",
+      "summary": "Japan's railways are efficient due to privatization, extensive network, and government support for profitable operations. The rail system benefits from modern, reliable trains and extensive station coverage. Japan's historical embrace of diversification in railway business models enhances its success.",
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-19T17:07:01.685118+00:00",
-      "score_breakdown": {
-        "tech_depth": 0.0,
-        "practical_value": 0.0,
-        "timeliness": 0.0,
-        "community_heat": 0.0,
-        "domain_match": 0.0
-      }
-    },
-    {
-      "id": 47824531,
-      "title": "Matt Mullenweg Overrules Core Committers; Puts Akismet on WP 7's Connector List",
-      "url": "https://www.therepository.email/matt-mullenweg-overrules-core-committers-to-put-akismet-on-wordpress-7-0s-connectors-screen",
-      "score": 31,
-      "comments": 24,
-      "author": "mooreds",
-      "time": 1776608644,
-      "hn_url": "https://news.ycombinator.com/item?id=47824531",
-      "text": "",
-      "relevance_score": 0.8999999999999999,
-      "summary": "Matt Mullenweg overruled core committers to include Akismet on WordPress 7.0's Connectors Screen. This decision was controversial and widely discussed. The inclusion was finalized despite opposition.",
-      "tags": [
-        "ai"
-      ],
-      "analyzed_at": "2026-04-19T17:07:03.621647+00:00",
+      "analyzed_at": "2026-04-19T17:47:26.890603+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -320,18 +320,42 @@
       "id": 47821429,
       "title": "The world in which IPv6 was a good design (2017)",
       "url": "https://apenwarr.ca/log/20170810",
-      "score": 153,
-      "comments": 49,
+      "score": 158,
+      "comments": 53,
       "author": "signa11",
       "time": 1776567043,
       "hn_url": "https://news.ycombinator.com/item?id=47821429",
       "text": "",
       "relevance_score": 0.8999999999999999,
-      "summary": "In 2017, IPv6 was seen as good design in a world without address shortages and without the need for translation layers. It aimed to eliminate MAC addresses and ARP/DHCP, reducing network overhead.",
+      "summary": "IPv6 was a good design in a world with no NAT and where every device had a unique global IP address. It aimed to provide a vast address space to eliminate IP address exhaustion. The design was intended to simplify routing and eliminate the need for complex NAT systems.",
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-19T17:07:05.914021+00:00",
+      "analyzed_at": "2026-04-19T17:47:28.887660+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47824531,
+      "title": "Matt Mullenweg Overrules Core Committers; Puts Akismet on WP 7's Connector List",
+      "url": "https://www.therepository.email/matt-mullenweg-overrules-core-committers-to-put-akismet-on-wordpress-7-0s-connectors-screen",
+      "score": 36,
+      "comments": 28,
+      "author": "mooreds",
+      "time": 1776608644,
+      "hn_url": "https://news.ycombinator.com/item?id=47824531",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Matt Mullenweg overrules core committers to include Akismet on WordPress 7.0's Connectors Screen. Some committers opposed the decision, but it was approved. Akismet will appear alongside other services on the Connectors Screen.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-19T17:47:30.737540+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -351,11 +375,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=47779659",
       "text": "",
       "relevance_score": 0.8999999999999999,
-      "summary": "Modern Common Lisp with FSet enhances the language with functional programming tools, complementing its traditional object-oriented and imperative paradigms. FSet is notable for introducing functional algorithms to Common Lisp. The book aims to educate programmers in functional thinking.",
+      "summary": "FSet is a functional collections library for Common Lisp, enhancing it with functional programming tools. It complements the language's focus on CLOS and imperative programming. The library aims to educate Lisp programmers in functional thinking.",
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-19T17:07:07.610681+00:00",
+      "analyzed_at": "2026-04-19T17:47:32.622660+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -368,18 +392,18 @@
       "id": 47819369,
       "title": "Optimizing Ruby Path Methods",
       "url": "https://byroot.github.io/ruby/performance/2026/04/18/faster-paths.html",
-      "score": 121,
-      "comments": 46,
+      "score": 122,
+      "comments": 47,
       "author": "weaksauce",
       "time": 1776544949,
       "hn_url": "https://news.ycombinator.com/item?id=47819369",
       "text": "",
       "relevance_score": 0.8999999999999999,
-      "summary": "Ruby path methods can be optimized by using Bootsnap to reduce load path searches, and since Ruby 4.1.0, `File.join` is faster than string interpolation for simple paths. These optimizations significantly improve performance.",
+      "summary": "To optimize Ruby path methods, avoid unnecessary stat calls and use Dir.glob instead of Dir.scan for faster performance. Use caching for repeated path lookups. Profiling and benchmarking are essential for identifying bottlenecks.",
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-19T17:07:09.216458+00:00",
+      "analyzed_at": "2026-04-19T17:47:34.507445+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -399,11 +423,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=47794299",
       "text": "",
       "relevance_score": 0.8999999999999999,
-      "summary": "A spiral staircase with a single guardrail once led to the top of the Eiffel Tower. It was dismantled in 1983 and now some steps are owned by a private collector. The Eiffel Tower now uses elevators for access.",
+      "summary": "A spiral staircase with a single guardrail once led to the top of the Eiffel Tower, featuring 1,062 steps connecting the second and third floors. Although open to visitors, it was later restricted. A section of this original staircase is set to be auctioned by Artcurial in 2026.",
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-19T17:07:11.058715+00:00",
+      "analyzed_at": "2026-04-19T17:47:36.336721+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -416,42 +440,18 @@
       "id": 47796496,
       "title": "Bypassing the kernel for 56ns cross-language IPC",
       "url": "https://github.com/riyaneel/Tachyon/tree/main/docs/adr",
-      "score": 68,
-      "comments": 26,
+      "score": 70,
+      "comments": 27,
       "author": "riyaneel",
       "time": 1776359630,
       "hn_url": "https://news.ycombinator.com/item?id=47796496",
       "text": "",
       "relevance_score": 0.8999999999999999,
-      "summary": "Futexes are used optionally for inter-process communication, not bypassing the kernel entirely. The method achieves 56ns latency. Futexes allow processes to sleep without full kernel involvement.",
+      "summary": "Tachyon achieves 56ns cross-language IPC by bypassing the kernel, significantly reducing latency compared to alternatives like eventfd. It avoids syscall overhead and uses efficient spin-waiting mechanisms. Performance is optimal under low contention.",
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-19T17:07:13.007969+00:00",
-      "score_breakdown": {
-        "tech_depth": 0.0,
-        "practical_value": 0.0,
-        "timeliness": 0.0,
-        "community_heat": 0.0,
-        "domain_match": 0.0
-      }
-    },
-    {
-      "id": 47825357,
-      "title": "The Trouble with Transformers",
-      "url": "https://roblh.substack.com/p/the-trouble-with-transformers",
-      "score": 6,
-      "comments": 1,
-      "author": "rob_lh",
-      "time": 1776615157,
-      "hn_url": "https://news.ycombinator.com/item?id=47825357",
-      "text": "",
-      "relevance_score": 0.8999999999999999,
-      "summary": "Transformer failures often result from overloads and short circuits on the secondary side. Transformers are increasingly hard to source, affecting infrastructure projects. This scarcity impacts electric vehicle infrastructure and other utilities.",
-      "tags": [
-        "transformer"
-      ],
-      "analyzed_at": "2026-04-19T17:07:14.626685+00:00",
+      "analyzed_at": "2026-04-19T17:47:38.124688+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -464,18 +464,18 @@
       "id": 47818700,
       "title": "Thoughts and feelings around Claude Design",
       "url": "https://samhenri.gold/blog/20260418-claude-design/",
-      "score": 346,
-      "comments": 225,
+      "score": 347,
+      "comments": 226,
       "author": "cdrnsf",
       "time": 1776539964,
       "hn_url": "https://news.ycombinator.com/item?id=47818700",
       "text": "",
       "relevance_score": 0.8999999999999999,
-      "summary": "Anthropic launched Claude Design, a new design tool rivaling Figma and Canva, integrating AI for coding and design systems. Users describe it as innovative, with features like chat refinement and custom sliders. It's seen as a significant step in design tooling.",
+      "summary": "Claude Design is an AI tool for creating visual designs. Users describe their vision, and the AI generates a first version. Users refine the design via chat, comments, text editing, and sliders. It was launched in April 2026.",
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-19T17:07:16.657527+00:00",
+      "analyzed_at": "2026-04-19T17:47:40.037137+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -495,11 +495,11 @@
       "hn_url": "https://news.ycombinator.com/item?id=47784250",
       "text": "<a href=\"https:&#x2F;&#x2F;onlinelibrary.wiley.com&#x2F;doi&#x2F;10.1002&#x2F;ece3.73308\" rel=\"nofollow\">https:&#x2F;&#x2F;onlinelibrary.wiley.com&#x2F;doi&#x2F;10.1002&#x2F;ece3.73308</a><p><a href=\"https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;04&#x2F;13&#x2F;science&#x2F;harvester-cone-ants-cleaning.html\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;04&#x2F;13&#x2F;science&#x2F;harvester-cone-an...</a> &#x2F; <a href=\"https:&#x2F;&#x2F;archive.md&#x2F;VEaPW\" rel=\"nofollo",
       "relevance_score": 0.8999999999999999,
-      "summary": "Cleaner ants in the Arizona desert groom larger harvester ants without being attacked. This mutualistic behavior is akin to cleaner fish in the ocean. Scientists documented over 90 interactions of this new ant cleaning behavior.",
+      "summary": "Scientists found tiny cone ants grooming larger harvester ants in Arizona's desert. These cleaner ants may feed on particles removed from the harvester ants. This mutualistic relationship is rare in the insect world.",
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-19T17:07:18.748379+00:00",
+      "analyzed_at": "2026-04-19T17:47:42.165758+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
