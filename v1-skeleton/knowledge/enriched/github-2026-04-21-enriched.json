@@ -1,0 +1,1635 @@
+{
+  "source": "github",
+  "collected_at": "2026-04-21T06:24:11.228540Z",
+  "analyzed_at": "2026-04-21T06:28:04.194008+00:00",
+  "count": 50,
+  "items": [
+    {
+      "id": "kyegomez/OpenMythos",
+      "title": "OpenMythos",
+      "description": "A theoretical reconstruction of the Claude Mythos architecture, built from first principles using the available research literature.",
+      "url": "https://github.com/kyegomez/OpenMythos",
+      "stars": 4701,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "anthropic",
+        "attention",
+        "claude",
+        "claude-ai",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-mythos",
+        "claude-sonnet",
+        "deepmind",
+        "gpt-5",
+        "gpt-7",
+        "jax",
+        "looped-transformers",
+        "ml",
+        "pytorch",
+        "sonnet",
+        "torch"
+      ],
+      "created_at": "2026-04-18T12:57:52Z",
+      "updated_at": "2026-04-20T13:43:27Z",
+      "forks": 1083,
+      "open_issues": 15,
+      "relevance_score": 0.8999999999999999,
+      "summary": "OpenMythos reconstructs the Claude Mythos architecture from first principles, utilizing advanced techniques like MoE and ACT halting. It is hosted on GitHub by Kye Gomez. The project is set for completion in 2026.",
+      "tags": [
+        "claude",
+        "claude-code",
+        "jax",
+        "claude-sonnet",
+        "deepmind"
+      ],
+      "analyzed_at": "2026-04-21T06:25:14.498569+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "browser-use/browser-harness",
+      "title": "browser-harness",
+      "description": "Self-healing browser harness that enables LLMs to complete any task.",
+      "url": "https://github.com/browser-use/browser-harness",
+      "stars": 3810,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-04-17T01:56:15Z",
+      "updated_at": "2026-04-21T01:46:34Z",
+      "forks": 314,
+      "open_issues": 46,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The browser-harness enables LLMs to complete any browser task autonomously, with self-healing capabilities. By 2027, AI web agents are expected to be highly advanced, with browser-harness at the forefront. By year-end 2026, browser-harness will likely have significant improvements and widespread adoption.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-21T06:25:16.561018+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Manavarya09/design-extract",
+      "title": "design-extract",
+      "description": "Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Compose, Flutter, WordPress), Tailwind v4, Figma variables, shadcn/ui, CSS health audit, WCAG remediation, Chrome extension. MIT, Playwright, Node 20+.",
+      "url": "https://github.com/Manavarya09/design-extract",
+      "stars": 1178,
+      "language": "JavaScript",
+      "topics": [
+        "accessibility",
+        "agent-skill",
+        "ai",
+        "chrome-extension",
+        "claude-code-plugin",
+        "cli",
+        "css",
+        "cursor",
+        "design-system",
+        "design-to-code",
+        "design-tokens",
+        "dtcg",
+        "figma",
+        "mcp-server",
+        "npx",
+        "playwright",
+        "shadcn-ui",
+        "skills-sh",
+        "tailwind",
+        "web-scraping"
+      ],
+      "created_at": "2026-04-15T10:11:22Z",
+      "updated_at": "2026-04-20T20:57:35Z",
+      "forks": 93,
+      "open_issues": 6,
+      "relevance_score": 0.7999999999999999,
+      "summary": "Designlang extracts a website's complete design system as DTCG tokens, with emitters for iOS, Android, Flutter, and WordPress. It uses semantic tokens over primitives and provides WCAG remediation. The Figma Design Token Extractor skill automates Figma to CSS/TypeScript conversion.",
+      "tags": [
+        "mcp-server",
+        "cursor",
+        "accessibility",
+        "design-tokens",
+        "web-scraping"
+      ],
+      "analyzed_at": "2026-04-21T06:25:20.688446+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "BuilderPulse/BuilderPulse",
+      "title": "BuilderPulse",
+      "description": "AI-powered daily intelligence for indie hackers and builders. 20 questions, 10+ sources, every morning.",
+      "url": "https://github.com/BuilderPulse/BuilderPulse",
+      "stars": 1027,
+      "language": null,
+      "topics": [
+        "ai",
+        "builders",
+        "indiehackers"
+      ],
+      "created_at": "2026-04-14T11:48:05Z",
+      "updated_at": "2026-04-21T05:11:32Z",
+      "forks": 74,
+      "open_issues": 3,
+      "relevance_score": 0.8999999999999999,
+      "summary": "BuilderPulse provides AI-driven daily insights for indie hackers, offering one high-conviction build idea per day sourced from multiple live public signals. It aims to help MicroSaaS founders with actionable intelligence.",
+      "tags": [
+        "ai",
+        "indiehackers",
+        "builders"
+      ],
+      "analyzed_at": "2026-04-21T06:25:23.804824+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "WeaveMindAI/weft",
+      "title": "weft",
+      "description": "A programming language for AI systems",
+      "url": "https://github.com/WeaveMindAI/weft",
+      "stars": 916,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-04-15T04:09:40Z",
+      "updated_at": "2026-04-21T01:16:27Z",
+      "forks": 123,
+      "open_issues": 3,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Weft is an open-source programming language designed for AI systems, featuring language-level primitives for LLMs, humans, and APIs. It offers both a code view for AI efficiency and a graph view for human inspection. The compiler ensures correct connections and logic.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-21T06:25:25.894014+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "EvoLinkAI/awesome-gpt-image-2-prompts",
+      "title": "awesome-gpt-image-2-prompts",
+      "description": "Curated GPT-Image-2 prompts and image examples across portraits, posters, UI mockups, character sheets, and community experiments.",
+      "url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts",
+      "stars": 911,
+      "language": null,
+      "topics": [
+        "ai-art",
+        "awesome-list",
+        "evolink",
+        "gpt-image-2",
+        "image-generation",
+        "prompts"
+      ],
+      "created_at": "2026-04-18T11:22:14Z",
+      "updated_at": "2026-04-21T05:58:04Z",
+      "forks": 83,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Curated GPT-Image-2 prompts include diverse styles like portraits, posters, UI mockups, and character sheets. These prompts are available on platforms like Twitter and GitHub. They help users generate creative images using advanced AI models.",
+      "tags": [
+        "gpt",
+        "ai-art",
+        "prompts",
+        "image-generation",
+        "gpt-image-2"
+      ],
+      "analyzed_at": "2026-04-21T06:25:29.455270+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "bergside/design-md-chrome",
+      "title": "design-md-chrome",
+      "description": "Chrome extension to extract styles from any website and generate DESIGN.md files and design skills for AI based on TypeUI",
+      "url": "https://github.com/bergside/design-md-chrome",
+      "stars": 821,
+      "language": "JavaScript",
+      "topics": [
+        "ai",
+        "chrome",
+        "chrome-extension",
+        "design-md",
+        "design-skills",
+        "extension",
+        "open-source",
+        "skills",
+        "skills-ai",
+        "typeui"
+      ],
+      "created_at": "2026-04-14T14:10:22Z",
+      "updated_at": "2026-04-17T15:58:54Z",
+      "forks": 107,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Chrome extension DESIGN.md Style Extractor extracts CSS styles from websites and generates DESIGN.md files for AI-assisted development. It's compatible with tools like Google Stitch and Codex. It's available on the Chrome Web Store.",
+      "tags": [
+        "chrome-extension",
+        "skills",
+        "chrome",
+        "design-md",
+        "skills-ai"
+      ],
+      "analyzed_at": "2026-04-21T06:25:32.347937+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "codejunkie99/agentic-stack",
+      "title": "agentic-stack",
+      "description": "One brain, many harnesses. Portable .agent/ folder (memory + skills + protocols) that plugs into Claude Code, Cursor, Windsurf, OpenCode, OpenClaw, Hermes, or DIY Python — and keeps its knowledge when you switch.",
+      "url": "https://github.com/codejunkie99/agentic-stack",
+      "stars": 818,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-04-15T13:45:41Z",
+      "updated_at": "2026-04-20T08:50:18Z",
+      "forks": 95,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The agentic-stack is a portable .agent folder that maintains memory, skills, and protocols across various coding tools, ensuring consistent agent behavior regardless of the tool used. It integrates with multiple platforms like Claude Code, Cursor, and Windsurf.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-04-21T06:25:36.731115+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "ZeroZ-lab/cc-design",
+      "title": "cc-design",
+      "description": "High-fidelity HTML design and prototype guidance skill for AI agents",
+      "url": "https://github.com/ZeroZ-lab/cc-design",
+      "stars": 501,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-04-19T01:35:57Z",
+      "updated_at": "2026-04-20T08:10:56Z",
+      "forks": 53,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "High-fidelity HTML design and prototype guidance skill for AI agents is available on GitHub by ZeroZ-lab. Sketch also offers a skill for AI agents to convert designs into code. Essential tools include Super Design and taste-skill for visual guidance.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-21T06:25:38.670272+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "kangarooking/cangjie-skill",
+      "title": "cangjie-skill",
+      "description": "把一本书蒸馏成一组可执行的 Agent Skills",
+      "url": "https://github.com/kangarooking/cangjie-skill",
+      "stars": 416,
+      "language": null,
+      "topics": [
+        "agent-workflows",
+        "ai-skills",
+        "automation",
+        "book-to-skill",
+        "knowledge-distillation",
+        "prompt-engineering",
+        "skill-generator",
+        "templates"
+      ],
+      "created_at": "2026-04-16T05:54:32Z",
+      "updated_at": "2026-04-18T13:32:14Z",
+      "forks": 76,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Cangjie-skill converts books into AI-executable skills, distilling knowledge into actionable frameworks. It uses AI to extract, verify, and structure book content into skills. Users can leverage these skills for practical decision-making.",
+      "tags": [
+        "skill-generator",
+        "templates",
+        "prompt-engineering",
+        "agent-workflows",
+        "knowledge-distillation"
+      ],
+      "analyzed_at": "2026-04-21T06:25:40.739864+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "techjarves/USB-Uncensored-LLM",
+      "title": "USB-Uncensored-LLM",
+      "description": "The ultimate zero-install, portable local AI environment. Run high-quality, uncensored LLMs (Gemma, Qwen, NemoMix) directly from any USB drive or SSD. Fully air-gapped, cross-platform (Win/Mac/Linux), and privacy-first with persistent chat history.",
+      "url": "https://github.com/techjarves/USB-Uncensored-LLM",
+      "stars": 388,
+      "language": "Shell",
+      "topics": [
+        "local-llm",
+        "portable-ai",
+        "uncensored-ai"
+      ],
+      "created_at": "2026-04-14T07:43:10Z",
+      "updated_at": "2026-04-18T11:01:04Z",
+      "forks": 92,
+      "open_issues": 6,
+      "relevance_score": 0.8999999999999999,
+      "summary": "USB-Uncensored-LLM offers a portable, zero-install AI environment for running high-quality, uncensored large language models directly from USB drives. It's fully air-gapped, cross-platform, and maintains privacy with persistent chat history.",
+      "tags": [
+        "llm",
+        "uncensored-ai",
+        "portable-ai",
+        "local-llm"
+      ],
+      "analyzed_at": "2026-04-21T06:25:44.750388+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "alchaincyf/huashu-design",
+      "title": "huashu-design",
+      "description": "Huashu Design · HTML-native design skill for Claude Code · Claude Code 里 HTML 原生的设计 skill · 高保真原型 / 幻灯片 / 动画 + 20 设计哲学 + 5 维评审 + MP4 导出 · Agent-agnostic",
+      "url": "https://github.com/alchaincyf/huashu-design",
+      "stars": 381,
+      "language": "HTML",
+      "topics": [],
+      "created_at": "2026-04-19T14:42:06Z",
+      "updated_at": "2026-04-21T06:02:30Z",
+      "forks": 61,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Huashu Design uses HTML for high-fidelity prototypes, demos, slides, and animations. It includes 20 design philosophies, 5-dimension reviews, and MP4 export. Agent-agnostic design skills enhance Claude Code's creative capabilities.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-21T06:25:47.399485+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Quorinex/Freebuff2API",
+      "title": "Freebuff2API",
+      "description": "🚀 OpenAI-compatible Freebuff proxy with dynamic free-agent tracking, token rotation, and ready-to-use Docker deployment.",
+      "url": "https://github.com/Quorinex/Freebuff2API",
+      "stars": 366,
+      "language": "Go",
+      "topics": [],
+      "created_at": "2026-04-18T01:08:34Z",
+      "updated_at": "2026-04-19T09:59:37Z",
+      "forks": 59,
+      "open_issues": 7,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Freebuff2API is an open-source, proxy server for AI models, compatible with multiple providers. It supports dynamic free-agent tracking and token rotation. It's designed for easy Docker deployment.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-21T06:25:55.021395+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "koffuxu/ai-influence-digest",
+      "title": "ai-influence-digest",
+      "description": "Turn X scrolling into an AI-powered weekly digest — no X API, no scraping, just your browser. Scans 65+ AI builders, filters actionable content, exports a poster. Built for  content creators. ",
+      "url": "https://github.com/koffuxu/ai-influence-digest",
+      "stars": 293,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-04-15T15:38:09Z",
+      "updated_at": "2026-04-18T16:17:18Z",
+      "forks": 33,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI Influencer Digest transforms browsing into a weekly digest without APIs or scraping. It analyzes 65+ AI builders for actionable content and exports a poster. Ideal for content creators.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-21T06:25:58.313187+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "poseljacob/agentic-video-editor",
+      "title": "agentic-video-editor",
+      "description": "AI-powered video editor that turns raw footage and a creative brief into a polished ad using an ensemble of AI agents (Google Gemini + FFmpeg)",
+      "url": "https://github.com/poseljacob/agentic-video-editor",
+      "stars": 288,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-04-14T03:43:41Z",
+      "updated_at": "2026-04-14T20:09:43Z",
+      "forks": 32,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Agentic-video-editor is an AI-powered tool that uses Google Gemini and FFmpeg to transform raw footage into polished ads. It's part of a broader partnership between Avid and Google to integrate AI into media production. This aims to automate post-production tasks.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-04-21T06:26:00.888203+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "ChatPRD/tradclaw",
+      "title": "tradclaw",
+      "description": "AI openclaw mom and household manager for agentic parenting",
+      "url": "https://github.com/ChatPRD/tradclaw",
+      "stars": 287,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-04-14T00:37:56Z",
+      "updated_at": "2026-04-15T17:53:22Z",
+      "forks": 29,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Tradclaw is an open-source AI for household management, designed for agentic parenting. It handles tasks like meal planning and homework. It follows OpenClaw's official workspace model.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-21T06:26:04.231573+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "GainSec/AutoProber",
+      "title": "AutoProber",
+      "description": "Hardware hacker’s flying probe automation stack for agent-driven   target discovery, microscope mapping, safety-monitored CNC motion, probe review, and   controlled pin probing.",
+      "url": "https://github.com/GainSec/AutoProber",
+      "stars": 266,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "autromation",
+        "embedded-security",
+        "flying-probe",
+        "gainsec",
+        "hardware-hacking",
+        "hardware-security",
+        "iot-security",
+        "offensive-security",
+        "pcb",
+        "pcb-probing",
+        "penetration-testing",
+        "reverse-engineering",
+        "robotics",
+        "security-research"
+      ],
+      "created_at": "2026-04-16T06:18:47Z",
+      "updated_at": "2026-04-16T06:18:50Z",
+      "forks": 14,
+      "open_issues": 0,
+      "relevance_score": 0.7999999999999999,
+      "summary": "AutoProber is an AI-driven hardware probing system that automates target discovery, microscope mapping, and controlled pin probing using a CNC machine and safety monitoring. It features a modular, open-source architecture and a web dashboard for control.",
+      "tags": [
+        "robotics",
+        "pcb-probing",
+        "penetration-testing",
+        "reverse-engineering",
+        "embedded-security"
+      ],
+      "analyzed_at": "2026-04-21T06:26:07.772152+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "TheRealSeanDonahoe/agents-md",
+      "title": "agents-md",
+      "description": "Drop-in AGENTS.md that makes every coding agent behave like a senior engineer instead of an eager intern. Kills sycophancy, stops drive-by refactors, forces verification loops. Synthesizes Karpathy's four principles and Boris Cherny's Claude Code workflow. Works with Claude Code, Codex, Gemini CLI, Cursor, and the open standard.",
+      "url": "https://github.com/TheRealSeanDonahoe/agents-md",
+      "stars": 256,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-04-19T03:40:28Z",
+      "updated_at": "2026-04-19T03:41:45Z",
+      "forks": 39,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Agents-md elevates coding agents to senior engineer standards, eliminating sycophancy and enforcing verification loops. It integrates Karpathy's principles and Boris Cherny's Claude Code workflow for superior code quality. Compatible with various tools, it ensures high-quality, verified code.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-04-21T06:26:12.061982+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "432539/gpt2api",
+      "title": "gpt2api",
+      "description": "基于 chatgpt.com 逆向的 OpenAI 兼容 SaaS 网关 · IMG2 灰度 · 批量出图 · 多账号池 · 高并发调度 · 积分计费 · 技术交流QQ 群 382446",
+      "url": "https://github.com/432539/gpt2api",
+      "stars": 250,
+      "language": "Go",
+      "topics": [
+        "chatgpt",
+        "gpt-image-2",
+        "openai"
+      ],
+      "created_at": "2026-04-18T06:02:44Z",
+      "updated_at": "2026-04-18T08:34:58Z",
+      "forks": 73,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI Agent platforms are being exploited for profit through methods like free credit abuse, invite-based point scams, and API interface hijacking. These attacks are growing in sophistication and scale. Effective countermeasures are needed to protect these platforms.",
+      "tags": [
+        "gpt",
+        "chatgpt",
+        "openai",
+        "gpt-image-2"
+      ],
+      "analyzed_at": "2026-04-21T06:26:18.483687+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "YeQing17-2026/OmniAgent",
+      "title": "OmniAgent",
+      "description": "An agent capable of self-evolving and dynamically hardening security",
+      "url": "https://github.com/YeQing17-2026/OmniAgent",
+      "stars": 207,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "hermes",
+        "open-claw"
+      ],
+      "created_at": "2026-04-16T14:04:36Z",
+      "updated_at": "2026-04-19T14:28:59Z",
+      "forks": 45,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "OmniAgent is an open-source AI framework that evolves and enhances its security dynamically. It is inspired by OpenClaw and focuses on self-improvement and safety.",
+      "tags": [
+        "open-claw",
+        "hermes",
+        "agent"
+      ],
+      "analyzed_at": "2026-04-21T06:26:20.218269+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "oritera/Cairn",
+      "title": "Cairn",
+      "description": "AI 自动化通用问题解决 / AI 自动化渗透测试系统",
+      "url": "https://github.com/oritera/Cairn",
+      "stars": 201,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-04-19T03:28:41Z",
+      "updated_at": "2026-04-19T05:45:46Z",
+      "forks": 8,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Cairn is an AI-driven system for general problem-solving and automated penetration testing. It won the Tencent Cloud Hackathon and is expected to be open-sourced soon. The core components include a blackboard architecture and DAG-driven engine.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-21T06:26:22.387101+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "cosmicstack-labs/mercury-agent",
+      "title": "mercury-agent",
+      "description": "Soul-driven AI agent with permission-hardened tools, token budgets, and multi-channel access. Runs 24/7 from CLI or Telegram.",
+      "url": "https://github.com/cosmicstack-labs/mercury-agent",
+      "stars": 196,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agent",
+        "ai-assistant",
+        "llm"
+      ],
+      "created_at": "2026-04-20T12:46:31Z",
+      "updated_at": "2026-04-20T20:16:58Z",
+      "forks": 23,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Mercury is a 24/7 AI agent with permission-hardened tools, running via CLI or Telegram. It has 21 built-in tools and supports multi-channel access. It can schedule tasks and upload files.",
+      "tags": [
+        "llm",
+        "agent",
+        "ai-agent",
+        "ai-assistant"
+      ],
+      "analyzed_at": "2026-04-21T06:26:27.072493+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "weareaisle/nano-analyzer",
+      "title": "nano-analyzer",
+      "description": "A minimal LLM-powered zero-day vulnerability scanner by AISLE.",
+      "url": "https://github.com/weareaisle/nano-analyzer",
+      "stars": 196,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-04-14T14:08:14Z",
+      "updated_at": "2026-04-14T14:08:18Z",
+      "forks": 41,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Nano-analyzer is a simple Python-based zero-day vulnerability scanner using LLMs. It scans code and saves results in Markdown and JSON formats. It uses a three-stage LLM pipeline for detection.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-21T06:26:28.913647+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "caomaolufei/AIInfraGuide",
+      "title": "AIInfraGuide",
+      "description": "AI Infra 全栈从0入门学习资料：https://caomaolufei.github.io/AIInfraGuide/",
+      "url": "https://github.com/caomaolufei/AIInfraGuide",
+      "stars": 162,
+      "language": "Astro",
+      "topics": [],
+      "created_at": "2026-04-14T06:24:13Z",
+      "updated_at": "2026-04-20T08:54:43Z",
+      "forks": 10,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI Infra 全栈从0入门学习资料提供全面的AI基础设施技术培训，涵盖从基础到高级的知识点，帮助学员提升技术能力。主要内容包括模型架构和部署，以及实际项目实践。核心技能包括全栈AI基础设施技术掌握。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-21T06:26:30.879957+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "yzhao062/agent-style",
+      "title": "agent-style",
+      "description": "21 writing rules for AI coding and writing agents. Drop-in for Claude Code, Codex, Copilot, Cursor, and Aider, so their output reads like a tech pro.",
+      "url": "https://github.com/yzhao062/agent-style",
+      "stars": 159,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "llm",
+        "prompt-engineering",
+        "style-guide",
+        "technical-writing",
+        "writing-style"
+      ],
+      "created_at": "2026-04-19T08:12:16Z",
+      "updated_at": "2026-04-21T03:46:46Z",
+      "forks": 6,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI coding agents like Claude Code and Cursor write like tech pros by following strict coding rules and tech stack guidelines. They execute multi-step tasks independently and generate consistent documentation. Use precise instructions to maximize their effectiveness.",
+      "tags": [
+        "style-guide",
+        "technical-writing",
+        "agent",
+        "llm",
+        "writing-style"
+      ],
+      "analyzed_at": "2026-04-21T06:26:34.289017+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "AIScientists-Dev/WorldSeed",
+      "title": "WorldSeed",
+      "description": "A world engine where AI agents live autonomously — physical rules, information asymmetry, any agent can plug in. Define scenarios in YAML, watch stories emerge.",
+      "url": "https://github.com/AIScientists-Dev/WorldSeed",
+      "stars": 156,
+      "language": "Python",
+      "topics": [
+        "agent-based-simulation",
+        "agentic-ai",
+        "agents",
+        "ai",
+        "ai-agents",
+        "autonomous-agents",
+        "emergent-behavior",
+        "game-ai",
+        "generative-agents",
+        "generative-ai",
+        "llm",
+        "llm-agents",
+        "multi-agent",
+        "multi-agent-systems",
+        "open-source",
+        "python",
+        "simulation",
+        "social-simulation",
+        "typescript",
+        "world-models"
+      ],
+      "created_at": "2026-04-15T03:47:21Z",
+      "updated_at": "2026-04-18T14:22:00Z",
+      "forks": 16,
+      "open_issues": 0,
+      "relevance_score": 0.7999999999999999,
+      "summary": "WorldSeed is a platform where AI agents can autonomously live in a world defined by YAML, experiencing physical rules and information asymmetry. Any agent can join.",
+      "tags": [
+        "generative-agents",
+        "emergent-behavior",
+        "social-simulation",
+        "llm-agents",
+        "python"
+      ],
+      "analyzed_at": "2026-04-21T06:26:38.403146+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "darbra/awesome-ai-reverse",
+      "title": "awesome-ai-reverse",
+      "description": "ai reverse 一把梭",
+      "url": "https://github.com/darbra/awesome-ai-reverse",
+      "stars": 152,
+      "language": null,
+      "topics": [
+        "crawler",
+        "frida",
+        "ida",
+        "reverse-engineering"
+      ],
+      "created_at": "2026-04-14T01:29:35Z",
+      "updated_at": "2026-04-21T05:12:36Z",
+      "forks": 12,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "I am an AI system built by a team of inventors at Amazon. The term \"awesome-ai-reverse ai reverse 一把梭\" refers to open-source projects related to GPT. These projects include tools and chatbots for various applications.",
+      "tags": [
+        "reverse-engineering",
+        "ida",
+        "frida",
+        "crawler",
+        "ai"
+      ],
+      "analyzed_at": "2026-04-21T06:26:40.643349+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Hainrixz/open-carrusel",
+      "title": "open-carrusel",
+      "description": "AI-powered Instagram carousel builder. Chat with Claude to design slides; export as PNGs at exact Instagram dimensions. Type /start in Claude Code to bootstrap.",
+      "url": "https://github.com/Hainrixz/open-carrusel",
+      "stars": 149,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "carousel",
+        "claude",
+        "claude-code",
+        "instagram",
+        "local-first",
+        "nextjs",
+        "react"
+      ],
+      "created_at": "2026-04-15T01:06:39Z",
+      "updated_at": "2026-04-15T17:54:07Z",
+      "forks": 14,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Open-carrusel is an AI-powered Instagram carousel builder. It allows you to chat with Claude to design slides and export them as PNGs at exact Instagram dimensions. Type /start in Claude Code to begin.",
+      "tags": [
+        "claude",
+        "claude-code",
+        "react",
+        "local-first",
+        "carousel"
+      ],
+      "analyzed_at": "2026-04-21T06:26:44.475917+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "unclebob/swarm-forge",
+      "title": "swarm-forge",
+      "description": "A simple tool for coordinating several AI agents.",
+      "url": "https://github.com/unclebob/swarm-forge",
+      "stars": 144,
+      "language": "Shell",
+      "topics": [],
+      "created_at": "2026-04-17T15:18:26Z",
+      "updated_at": "2026-04-20T21:39:53Z",
+      "forks": 12,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Swarm-forge is a lightweight framework for coordinating multiple AI agents, enhancing system reliability and performance through advanced coordination and quality evaluation. It provides tools for visualizing and optimizing agent workflows. It is designed to prevent cascading failures in multi-agent systems.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-21T06:26:46.712413+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "basketikun/chatgpt2api",
+      "title": "chatgpt2api",
+      "description": null,
+      "url": "https://github.com/basketikun/chatgpt2api",
+      "stars": 136,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-04-19T14:53:01Z",
+      "updated_at": "2026-04-20T13:39:44Z",
+      "forks": 41,
+      "open_issues": 4,
+      "relevance_score": 0.8999999999999999,
+      "summary": "There is no official API for ChatGPT. You can access GPT-3.5 via an API. Use this for similar functionalities.",
+      "tags": [
+        "gpt"
+      ],
+      "analyzed_at": "2026-04-21T06:26:49.460659+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "sightflow-dev/sightflow-desktop-agent",
+      "title": "sightflow-desktop-agent",
+      "description": null,
+      "url": "https://github.com/sightflow-dev/sightflow-desktop-agent",
+      "stars": 133,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-04-15T02:52:09Z",
+      "updated_at": "2026-04-19T08:59:59Z",
+      "forks": 36,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Sightflow-desktop-agent is a GitHub project by sightflow-dev, primarily written in TypeScript, with no open issues or pull requests. Sight flow indicators are devices for visually inspecting fluid flow in pipes, used in industrial processes.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-04-21T06:26:51.364400+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "zxfccmm4/Obsidian-OpenCode-Knowledge",
+      "title": "Obsidian-OpenCode-Knowledge",
+      "description": "🧠 AI 知识库一键部署模板 | Obsidian + OpenCode 驱动的本地知识管理方案",
+      "url": "https://github.com/zxfccmm4/Obsidian-OpenCode-Knowledge",
+      "stars": 132,
+      "language": "Shell",
+      "topics": [],
+      "created_at": "2026-04-14T02:23:54Z",
+      "updated_at": "2026-04-19T06:58:55Z",
+      "forks": 13,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Obsidian combined with OpenCode enables a local AI knowledge base setup, ready in 5 minutes. It addresses the issue of notes becoming disorganized. This solution leverages open-source tools for efficient knowledge management.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-21T06:26:53.381267+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "fluentlc/claude-code-java",
+      "title": "claude-code-java",
+      "description": "claude-code-java 是一个可嵌入任何 Java 应用的 AI Agent 引擎。claude-code-java is an embeddable AI Agent engine for Java applications.",
+      "url": "https://github.com/fluentlc/claude-code-java",
+      "stars": 130,
+      "language": "Java",
+      "topics": [],
+      "created_at": "2026-04-14T06:34:55Z",
+      "updated_at": "2026-04-20T11:12:58Z",
+      "forks": 4,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Claude Code is an embeddable AI Agent engine for Java applications, designed for modern software development. It features specialized agents for various tasks. It's part of a broader trend of AI coding agents moving to desktop apps.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-21T06:26:56.220633+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Eronred/expo-agent-spinners",
+      "title": "expo-agent-spinners",
+      "description": "54 terminal-style agent-like spinners for React Native & Expo. Lightweight, zero native dependencies — just Text. No heavy UI threads",
+      "url": "https://github.com/Eronred/expo-agent-spinners",
+      "stars": 127,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "expo",
+        "react-native",
+        "spinners"
+      ],
+      "created_at": "2026-04-18T13:31:43Z",
+      "updated_at": "2026-04-18T13:44:11Z",
+      "forks": 8,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Expo-agent-spinners offers 54 terminal-style spinners for React Native and Expo, with no native dependencies. It's lightweight and uses only Text and setInterval. This avoids heavy UI threads.",
+      "tags": [
+        "react-native",
+        "spinners",
+        "expo",
+        "agent"
+      ],
+      "analyzed_at": "2026-04-21T06:27:01.929343+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "browser-use/browser-harness-js",
+      "title": "browser-harness-js",
+      "description": "Self-healing browser harness that enables LLMs to complete any task",
+      "url": "https://github.com/browser-use/browser-harness-js",
+      "stars": 126,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-04-18T18:44:16Z",
+      "updated_at": "2026-04-20T18:47:32Z",
+      "forks": 12,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI web agents will likely be more integrated and autonomous by 2027, with browsers supporting advanced self-healing tools. Browser-Harness-JS exemplifies this trend, enabling direct control over browser capabilities. By year-end, browser use will enhance AI's task completion efficiency.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-21T06:27:04.853557+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Blink-h/agent-startup-kit",
+      "title": "agent-startup-kit",
+      "description": "Reusable AI coding workflows for Claude Code and VS Code to ship auth, billing, and landing pages faster.",
+      "url": "https://github.com/Blink-h/agent-startup-kit",
+      "stars": 120,
+      "language": null,
+      "topics": [
+        "ai",
+        "ai-coding",
+        "claude-code",
+        "developer-tools",
+        "productivity",
+        "saas",
+        "skills",
+        "templates",
+        "vscode",
+        "workflow"
+      ],
+      "created_at": "2026-04-17T09:03:55Z",
+      "updated_at": "2026-04-18T08:35:34Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Agent-startup-kit offers reusable AI coding workflows for Claude Code and VS Code to expedite auth, billing, and landing pages. The Claude Coder extension enhances VSCode with AI-powered coding features. Use it to build apps quickly with integrated CLI and secure permissions.",
+      "tags": [
+        "claude-code",
+        "saas",
+        "skills",
+        "agent",
+        "vscode"
+      ],
+      "analyzed_at": "2026-04-21T06:27:08.375808+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "alexandercodes4/AirTrain",
+      "title": "AirTrain",
+      "description": "Distributed ML training across Apple Silicon Macs",
+      "url": "https://github.com/alexandercodes4/AirTrain",
+      "stars": 113,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-04-15T04:02:27Z",
+      "updated_at": "2026-04-21T02:27:49Z",
+      "forks": 9,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "AirTrain enables distributed machine learning training across multiple Apple Silicon Macs using Wi-Fi, reducing costs and bandwidth by 500x. It leverages the DiLoCo algorithm and Apple's MLX framework. It's open-source and free to use.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-21T06:27:10.175863+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "vincentkoc/tokenjuice",
+      "title": "tokenjuice",
+      "description": "🧃 Token weight loss. Lean output compaction for terminal-heavy agent workflows. Works as a native CLI tool or as an extension to popular coding and agent frameworks.",
+      "url": "https://github.com/vincentkoc/tokenjuice",
+      "stars": 110,
+      "language": "TypeScript",
+      "topics": [
+        "openclaw-plugin",
+        "optimization",
+        "token",
+        "tui-app"
+      ],
+      "created_at": "2026-04-14T21:54:01Z",
+      "updated_at": "2026-04-21T04:22:25Z",
+      "forks": 11,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Tokenjuice is a CLI tool for weight loss in AI agent workflows, optimizing output compaction. It works natively or as an extension for coding frameworks. It significantly reduces token usage in coding tasks.",
+      "tags": [
+        "token",
+        "openclaw-plugin",
+        "optimization",
+        "tui-app"
+      ],
+      "analyzed_at": "2026-04-21T06:27:16.963948+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "humanrouter/ddtree-mlx",
+      "title": "ddtree-mlx",
+      "description": "Tree-based speculative decoding for Apple Silicon (MLX). ~10-15% faster than DFlash on code, ~1.5x over autoregressive. First MLX port with custom Metal kernels for hybrid model support.",
+      "url": "https://github.com/humanrouter/ddtree-mlx",
+      "stars": 108,
+      "language": "Python",
+      "topics": [
+        "apple-silicon",
+        "inference",
+        "llm",
+        "mlx",
+        "speculative-decoding"
+      ],
+      "created_at": "2026-04-14T16:47:04Z",
+      "updated_at": "2026-04-15T02:50:10Z",
+      "forks": 8,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "DDTree-MLX is a tree-based speculative decoding method for Apple Silicon, offering ~10-15% speed improvement over DFlash and ~1.5x over autoregressive models. It's the first MLX port with custom Metal kernels for hybrid model support.",
+      "tags": [
+        "llm",
+        "apple-silicon",
+        "speculative-decoding",
+        "mlx",
+        "ml"
+      ],
+      "analyzed_at": "2026-04-21T06:27:24.509006+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "maiobarbero/my-ai-workflow",
+      "title": "my-ai-workflow",
+      "description": null,
+      "url": "https://github.com/maiobarbero/my-ai-workflow",
+      "stars": 105,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-04-14T16:08:48Z",
+      "updated_at": "2026-04-15T07:12:20Z",
+      "forks": 9,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI-assisted workflows emphasize proactive planning and strategic use of AI before coding. Many tools claim to automate workflows but often fall short. Effective AI workflows involve strategic, thoughtful application rather than reliance on automation.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-21T06:27:26.955158+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "ChanningLua/prax-agent",
+      "title": "prax-agent",
+      "description": "Self-improving agent runtime that learns from experience — test-verify-fix loops, correction detection, cross-project memory, multi-model orchestration.",
+      "url": "https://github.com/ChanningLua/prax-agent",
+      "stars": 101,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-04-15T05:18:33Z",
+      "updated_at": "2026-04-20T12:24:46Z",
+      "forks": 14,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "A prax-agent is a self-improving AI that learns from experience through test-verify-fix loops and uses multi-memory architecture for continuous improvement. It employs multi-model orchestration and cross-project memory for enhanced performance.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-04-21T06:27:30.657178+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "simoncirstoiu/alice",
+      "title": "alice",
+      "description": "Analyse · Learn · Ingest · Curate · Export — AI-powered YOLO dataset management toolkit",
+      "url": "https://github.com/simoncirstoiu/alice",
+      "stars": 99,
+      "language": "JavaScript",
+      "topics": [
+        "ai",
+        "ai-tools",
+        "annotation",
+        "computer-vision",
+        "dataset",
+        "frigate",
+        "nvidia-cuda",
+        "nvidia-smi",
+        "nvr",
+        "object-detection",
+        "training",
+        "yolo"
+      ],
+      "created_at": "2026-04-19T09:32:31Z",
+      "updated_at": "2026-04-20T08:13:37Z",
+      "forks": 7,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Alice is an AI-powered toolkit for managing YOLO datasets, automating file operations, and enhancing cybersecurity. It's open-sourced and self-improving.",
+      "tags": [
+        "dataset",
+        "ai-tools",
+        "frigate",
+        "training",
+        "ai"
+      ],
+      "analyzed_at": "2026-04-21T06:27:32.446294+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "golbin/agent-skills",
+      "title": "agent-skills",
+      "description": "Reusable agent skills for Codex and compatible tools",
+      "url": "https://github.com/golbin/agent-skills",
+      "stars": 95,
+      "language": "Shell",
+      "topics": [
+        "agent-skills",
+        "code-review",
+        "codex",
+        "implementation-review",
+        "prd",
+        "product-requirements-document",
+        "review-implementation",
+        "skills-sh"
+      ],
+      "created_at": "2026-04-19T05:56:45Z",
+      "updated_at": "2026-04-20T05:10:10Z",
+      "forks": 16,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Agent skills are reusable instructions for AI agents, stored in `.md` files, and can be used across various platforms like OpenClaw, Codex, and Claude. They enable agents to perform tasks like coding, searching, and automating workflows. Skills are configured with YAML frontmatter and permissions.",
+      "tags": [
+        "codex",
+        "skills-sh",
+        "agent",
+        "agent-skills",
+        "prd"
+      ],
+      "analyzed_at": "2026-04-21T06:27:34.735884+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "intertwine/dspy-agent-skills",
+      "title": "dspy-agent-skills",
+      "description": "DSPy 3.1.x agent skills + validated end-to-end examples for Claude Code and Codex CLI — fundamentals, evaluation, GEPA optimization, and RLM. Three reproducible GEPA-improvement demos on free OpenRouter models.",
+      "url": "https://github.com/intertwine/dspy-agent-skills",
+      "stars": 94,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-04-19T16:20:56Z",
+      "updated_at": "2026-04-20T12:57:28Z",
+      "forks": 8,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "DSPy 3.1.x agent skills include GEPA and RLM optimization, with validated examples for evaluation and reproducible demos on free OpenRouter models. Essential skills focus on programming LLM tasks using DSPy framework. Fundamental skills are available for both Claude Code and Codex CLI.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-04-21T06:27:39.015177+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "335234131/agent-browser-mcp",
+      "title": "agent-browser-mcp",
+      "description": "让 Agent 直接操作真实 Chrome 的 MCP 服务，支持页面扫描、CDP、截图与物理输入",
+      "url": "https://github.com/335234131/agent-browser-mcp",
+      "stars": 90,
+      "language": "Python",
+      "topics": [
+        "ai-agent",
+        "automation",
+        "browser-automation",
+        "cdp",
+        "chrome",
+        "hermes-agent",
+        "mcp"
+      ],
+      "created_at": "2026-04-15T12:07:30Z",
+      "updated_at": "2026-04-15T12:32:29Z",
+      "forks": 9,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Agent-browser-mcp allows AI agents to control real Chrome browsers directly, supporting page scanning, CDP, screenshots, and physical input. It runs as a Chrome extension, bypassing most anti-bot measures. It's open-source and efficient.",
+      "tags": [
+        "agent",
+        "mcp",
+        "cdp",
+        "ai-agent",
+        "hermes-agent"
+      ],
+      "analyzed_at": "2026-04-21T06:27:40.724234+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "yzhao062/anywhere-agents",
+      "title": "anywhere-agents",
+      "description": "One config to rule all your AI agents: portable (every project, every session), effective (curated writing, routing, skills), and safer (destructive-command guard).",
+      "url": "https://github.com/yzhao062/anywhere-agents",
+      "stars": 89,
+      "language": "Python",
+      "topics": [
+        "agent-config",
+        "agent-skills",
+        "agents-md",
+        "ai-agents",
+        "ai-safety",
+        "claude-code",
+        "code-review",
+        "codex",
+        "dual-agent-review",
+        "git-safety",
+        "npm",
+        "opinionated",
+        "portable-config",
+        "pypi",
+        "safety-hooks",
+        "shared-configuration",
+        "skill-dispatch",
+        "skill-router"
+      ],
+      "created_at": "2026-04-16T17:44:59Z",
+      "updated_at": "2026-04-21T04:19:08Z",
+      "forks": 7,
+      "open_issues": 0,
+      "relevance_score": 0.7999999999999999,
+      "summary": "Anywhere-agents is a versatile AI tool for managing multiple projects, ensuring effective and safe AI operations with a single configuration. It includes a destructive-command guard for safety.",
+      "tags": [
+        "codex",
+        "git-safety",
+        "agent-skills",
+        "safety-hooks",
+        "dual-agent-review"
+      ],
+      "analyzed_at": "2026-04-21T06:27:44.824885+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "xiaochong/hi-kid",
+      "title": "hi-kid",
+      "description": "HiKid - Your AI English Pal. An desktop app built with React and TypeScript, targeting children in non-English-speaking countries who want to practice English speaking and listening.",
+      "url": "https://github.com/xiaochong/hi-kid",
+      "stars": 89,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "english-learning",
+        "kids-education",
+        "local-ai",
+        "offline-ai",
+        "speaking-practice",
+        "voice-chat"
+      ],
+      "created_at": "2026-04-19T14:37:15Z",
+      "updated_at": "2026-04-19T15:03:07Z",
+      "forks": 18,
+      "open_issues": 3,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Hi-Kid is a desktop app for children to practice English speaking and listening. It uses React and TypeScript. It targets non-English-speaking children.",
+      "tags": [
+        "offline-ai",
+        "voice-chat",
+        "speaking-practice",
+        "ai",
+        "english-learning"
+      ],
+      "analyzed_at": "2026-04-21T06:27:49.393874+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "cablate/llm-atomic-wiki",
+      "title": "llm-atomic-wiki",
+      "description": "An extension of Karpathy's LLM Wiki pattern: atom layer, topic-branches, two-layer Lint. Distilled from running the pattern end-to-end.",
+      "url": "https://github.com/cablate/llm-atomic-wiki",
+      "stars": 87,
+      "language": "Shell",
+      "topics": [
+        "karpathy",
+        "knowledge-base",
+        "knowledge-management",
+        "llm",
+        "markdown",
+        "wiki"
+      ],
+      "created_at": "2026-04-16T18:45:00Z",
+      "updated_at": "2026-04-20T08:46:15Z",
+      "forks": 19,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "An LLM Wiki is a self-maintained knowledge base using markdown files and an LLM. It builds a structured wiki from sources, unlike traditional RAG. It's an idea by Andrej Karpathy.",
+      "tags": [
+        "llm",
+        "wiki",
+        "knowledge-base",
+        "knowledge-management",
+        "markdown"
+      ],
+      "analyzed_at": "2026-04-21T06:27:53.256148+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Sim2Reason/Sim2Reason",
+      "title": "Sim2Reason",
+      "description": "Sim2Reason: Solving Physics Olympiad via Reinforcement Learning on Physics Simulators.  We present a method for turning physics simulators into scalable generators of question–answer pairs for improving LLM physical reasoning.",
+      "url": "https://github.com/Sim2Reason/Sim2Reason",
+      "stars": 83,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-04-14T00:10:15Z",
+      "updated_at": "2026-04-21T00:47:12Z",
+      "forks": 12,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Sim2Reason uses physics simulators to create scalable, human-annotation-free training data for large language models to improve physical reasoning, achieving better performance on real-world physics problems. It leverages reinforcement learning and synthetic data to enhance LLMs' understanding of physics.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-21T06:27:56.589183+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "zhuqn1021/Agent-template",
+      "title": "Agent-template",
+      "description": " 一个开箱即用的现代化的 AI Agent 项目模板，采用分层架构设计，包含LLM 多模型抽象层、Tools 工具链系统、Skills 技能系统、Agent 核心层 、RAG 检索增强、Memory 记忆系统、 配置系统等企业级功能。",
+      "url": "https://github.com/zhuqn1021/Agent-template",
+      "stars": 78,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-04-17T13:50:07Z",
+      "updated_at": "2026-04-18T15:59:34Z",
+      "forks": 3,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "An agent-template project offers a ready-to-use modern AI agent with a layered architecture, including LLM abstraction, tool integration, skill systems, and enterprise features like RAG and memory. It supports multi-model switching and enhanced search.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-04-21T06:28:03.693190+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
