@@ -1,0 +1,490 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-04-22T06:24:07.205851Z",
+  "analyzed_at": "2026-04-22T06:27:28.874580+00:00",
+  "count": 20,
+  "items": [
+    {
+      "id": 47852835,
+      "title": "ChatGPT Images 2.0",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+      "score": 686,
+      "comments": 536,
+      "author": "wahnfrieden",
+      "time": 1776797400,
+      "hn_url": "https://news.ycombinator.com/item?id=47852835",
+      "text": "Livestream: <a href=\"https:&#x2F;&#x2F;openai.com&#x2F;live&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;openai.com&#x2F;live&#x2F;</a><p>System card: <a href=\"https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;chatgpt-images-2-0&#x2F;chatgpt-images-2-0.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;chatgpt-images-2-0&#x2F;chatg...</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "ChatGPT Images 2.0 adds reasoning before generating images, offering Instant and Thinking modes. It can create up to 2K resolution images. Pricing varies by quality and resolution.",
+      "tags": [
+        "gpt"
+      ],
+      "analyzed_at": "2026-04-22T06:26:48.401010+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47851634,
+      "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
+      "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
+      "score": 299,
+      "comments": 105,
+      "author": "queenelvis",
+      "time": 1776791675,
+      "hn_url": "https://news.ycombinator.com/item?id=47851634",
+      "text": "<i>Vercel April 2026 security incident</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47824463\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47824463</a> - April 2026 (485 comments)<p><i>A Roblox cheat and one AI tool brought down Vercel&#x27;s platform</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47844431\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=47844431</a> - April 2026 (145 comments)",
+      "relevance_score": 0.8999999999999999,
+      "summary": "In June 2024, attackers exploited a compromised OAuth application to breach Vercel, exposing environment variables for some customer projects. The breach highlighted risks from unencrypted credentials and supply chain vulnerabilities. The incident was disclosed in April 2026.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-22T06:26:50.464103+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47814874,
+      "title": "Stephen's Sausage Roll remains one of the most influential puzzle games",
+      "url": "https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/",
+      "score": 173,
+      "comments": 82,
+      "author": "tobr",
+      "time": 1776509622,
+      "hn_url": "https://news.ycombinator.com/item?id=47814874",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Stephen's Sausage Roll is a highly influential puzzle game. It celebrates its 10th anniversary. It has inspired many modern puzzle designs.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-22T06:26:52.200198+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47821853,
+      "title": "Garbage Collection Without Unsafe Code",
+      "url": "https://fitzgen.com/2024/02/06/safe-gc.html",
+      "score": 9,
+      "comments": 0,
+      "author": "foota",
+      "time": 1776573719,
+      "hn_url": "https://news.ycombinator.com/item?id=47821853",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "It is possible to implement garbage collection in Rust without using unsafe code. The fitzgen library achieves this with no unsafe code in its API or implementation. This approach avoids the use of unsafe Rust features.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-22T06:26:54.194653+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47850212,
+      "title": "CrabTrap: An LLM-as-a-judge HTTP proxy to secure agents in production",
+      "url": "https://www.brex.com/crabtrap",
+      "score": 107,
+      "comments": 36,
+      "author": "pedrofranceschi",
+      "time": 1776785356,
+      "hn_url": "https://news.ycombinator.com/item?id=47850212",
+      "text": "<a href=\"https:&#x2F;&#x2F;www.brex.com&#x2F;journal&#x2F;building-crabtrap-open-source\" rel=\"nofollow\">https:&#x2F;&#x2F;www.brex.com&#x2F;journal&#x2F;building-crabtrap-open-source</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "CrabTrap is an open-source HTTP proxy that uses an LLM to judge requests from AI agents to ensure security. It intercepts requests and decides whether to allow or deny them based on predefined policies. Brex developed it to protect against destructive actions by AI agents.",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "analyzed_at": "2026-04-22T06:26:55.212272+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47851948,
+      "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
+      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
+      "score": 464,
+      "comments": 351,
+      "author": "dlx",
+      "time": 1776793239,
+      "hn_url": "https://news.ycombinator.com/item?id=47851948",
+      "text": "Alt link: <a href=\"https:&#x2F;&#x2F;tech.yahoo.com&#x2F;ai&#x2F;meta-ai&#x2F;articles&#x2F;exclusive-meta-start-capturing-employee-162745587.html\" rel=\"nofollow\">https:&#x2F;&#x2F;tech.yahoo.com&#x2F;ai&#x2F;meta-ai&#x2F;articles&#x2F;exclusive-meta-st...</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Meta is installing tracking software to capture employee mouse movements and keystrokes for AI training. This data will help improve its AI models. The initiative aims to develop AI agents that can perform work tasks autonomously.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-22T06:26:56.633106+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47827991,
+      "title": "Hunting a 34 year old pointer bug in EtherSlip",
+      "url": "https://www.brutman.com/Adventures_In_Code/EtherSlip_ARP/EtherSlip_ARP.html",
+      "score": 22,
+      "comments": 2,
+      "author": "mbbrutman",
+      "time": 1776635845,
+      "hn_url": "https://news.ycombinator.com/item?id=47827991",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A 34-year-old pointer bug in EtherSlip (DOS Networking) has been identified. The bug was found by mbbrutman. The issue affects networking software.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-22T06:26:58.815598+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47857964,
+      "title": "Kuri – Zig based agent-browser alternative",
+      "url": "https://github.com/justrach/kuri",
+      "score": 10,
+      "comments": 1,
+      "author": "sorcercode",
+      "time": 1776824138,
+      "hn_url": "https://news.ycombinator.com/item?id=47857964",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Kuri is a Zig-based alternative to agent-browsers, offering lower workflow token costs and browser automation features. It aims to provide efficient web crawling and GUI capabilities without browser jank. It's self-published and available on GitHub.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-04-22T06:27:00.786235+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47854477,
+      "title": "Claude Code to be removed from Anthropic's Pro plan?",
+      "url": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
+      "score": 482,
+      "comments": 473,
+      "author": "JamesMcMinn",
+      "time": 1776805384,
+      "hn_url": "https://news.ycombinator.com/item?id=47854477",
+      "text": "<a href=\"https:&#x2F;&#x2F;x.com&#x2F;TheAmolAvasare&#x2F;status&#x2F;2046725498592722972\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;TheAmolAvasare&#x2F;status&#x2F;2046725498592722972</a><p><a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;TheAmolAvasare&#x2F;status&#x2F;2046725498592722972\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;TheAmolAvasare&#x2F;status&#x2F;204672549859272297...</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Effective April 4, 2026, Anthropic will no longer include Claude Code in its $20 monthly Pro plan, citing usage strain. This change will affect new subscribers, while existing ones may retain access. The move suggests a shift towards specialized or higher-cost tiers for advanced features.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-22T06:27:02.532720+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47815462,
+      "title": "Running a Minecraft Server and more on a 1960s UNIVAC Computer",
+      "url": "https://farlow.dev/2026/04/17/running-a-minecraft-server-and-more-on-a-1960s-univac-computer",
+      "score": 207,
+      "comments": 33,
+      "author": "brilee",
+      "time": 1776516060,
+      "hn_url": "https://news.ycombinator.com/item?id=47815462",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A 1960s UNIVAC computer ran a Minecraft server and other modern software through an 8-month project. The computer used 18-bit words and ones' complement arithmetic. This achievement highlights the computer's capability to run contemporary applications.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-22T06:27:04.718586+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47830332,
+      "title": "Theseus, a Static Windows Emulator",
+      "url": "https://neugierig.org/software/blog/2026/04/theseus.html",
+      "score": 94,
+      "comments": 13,
+      "author": "zdw",
+      "time": 1776658488,
+      "hn_url": "https://news.ycombinator.com/item?id=47830332",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Theseus is a static Windows emulator using binary translation. It recompiles Windows binaries at startup. It was discussed on Hacker News.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-22T06:27:06.228646+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47849097,
+      "title": "Show HN: GoModel – an open-source AI gateway in Go",
+      "url": "https://github.com/ENTERPILOT/GOModel/",
+      "score": 171,
+      "comments": 63,
+      "author": "santiago-pl",
+      "time": 1776780713,
+      "hn_url": "https://news.ycombinator.com/item?id=47849097",
+      "text": "Hi, I’m Jakub, a solo founder based in Warsaw.<p>I’ve been building GoModel since December with a couple of contributors. It&#x27;s an open-source AI gateway that sits between your app and model providers like OpenAI, Anthropic or others.<p>I built it for my startup to solve a few problems:<p><pre><code>  - track AI usage and cost per client or team\n  - switch models without changing app code\n  - debug request flows more easily\n  - reduce AI spendings with exact and semantic caching\n</code></pre",
+      "relevance_score": 0.8999999999999999,
+      "summary": "GoModel is an open-source AI gateway in Go, 44x lighter than LiteLLM, designed to track AI usage, switch models easily, and reduce costs with caching.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-22T06:27:07.869081+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47826768,
+      "title": "Clarus, Moofo, and Lackey",
+      "url": "https://www.storybytes.com/view-moof/articles/mim.html",
+      "score": 5,
+      "comments": 0,
+      "author": "xk3",
+      "time": 1776625821,
+      "hn_url": "https://news.ycombinator.com/item?id=47826768",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Clarus, Moofo, and Lackey are the three official names for the dogcow icon. They are used interchangeably to refer to this fictional creature. These names are widely recognized in trivia and creative contexts.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-22T06:27:10.654860+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47854116,
+      "title": "Zindex – Diagram Infrastructure for Agents",
+      "url": "https://zindex.ai/",
+      "score": 46,
+      "comments": 17,
+      "author": "_ben_",
+      "time": 1776803257,
+      "hn_url": "https://news.ycombinator.com/item?id=47854116",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "ZIndex determines the stacking order of UI elements in WPF. Higher ZIndex values bring elements to the front. It's crucial for managing visibility and layering in complex UIs.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-04-22T06:27:14.982891+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47816333,
+      "title": "Optimizing Tail Sampling in OpenTelemetry with Retroactive Sampling",
+      "url": "https://victoriametrics.com/blog/kubecon-eu-2026-sampling/index.html",
+      "score": 13,
+      "comments": 0,
+      "author": "valyala",
+      "time": 1776523541,
+      "hn_url": "https://news.ycombinator.com/item?id=47816333",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Retroactive sampling optimizes OpenTelemetry tail sampling by reducing traffic and saving CPU/memory resources. It focuses on critical traces, improving efficiency. This technique is effective for managing trace data volume.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-22T06:27:16.638281+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47844890,
+      "title": "Salmon exposed to cocaine and its main byproduct roam more widely",
+      "url": "https://www.science.org/content/article/cocaine-pollution-gives-salmon-wanderlust",
+      "score": 136,
+      "comments": 89,
+      "author": "1659447091",
+      "time": 1776749255,
+      "hn_url": "https://news.ycombinator.com/item?id=47844890",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Salmon exposed to cocaine and its byproduct travel more widely. This behavior was observed in studies published in Current Biology. The findings suggest a link between exposure and increased roaming.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-22T06:27:18.559375+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47844539,
+      "title": "The Beauty of Bonsai Styles",
+      "url": "https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles",
+      "score": 204,
+      "comments": 37,
+      "author": "lagniappe",
+      "time": 1776745890,
+      "hn_url": "https://news.ycombinator.com/item?id=47844539",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Five basic bonsai styles exist: formal upright, informal upright, cascade, raft, and literati. Each style mimics natural tree growth. Bonsai art expresses nature's beauty.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-22T06:27:20.338884+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47845429,
+      "title": "Less human AI agents, please",
+      "url": "https://nial.se/blog/less-human-ai-agents-please/",
+      "score": 142,
+      "comments": 152,
+      "author": "nialse",
+      "time": 1776754688,
+      "hn_url": "https://news.ycombinator.com/item?id=47845429",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI agents reduce human workload while maintaining customer interaction quality. They handle many tasks but require human oversight to manage complexity. Human judgment remains crucial for context and error correction.",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "analyzed_at": "2026-04-22T06:27:24.948545+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47859309,
+      "title": "Arc Raiders players decided to test who was friendlier, PC or console players",
+      "url": "https://www.pcgamer.com/games/third-person-shooter/arc-raiders-players-decided-to-test-who-was-friendlier-pc-or-console-players-i-am-never-playing-the-game-on-cross-play-ever-again/",
+      "score": 5,
+      "comments": 0,
+      "author": "evo_9",
+      "time": 1776834595,
+      "hn_url": "https://news.ycombinator.com/item?id=47859309",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "PC players in Arc Raiders were found to be friendlier than console players. The experiment showed more teamwork and communication on PC. This led some players to avoid cross-play.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-22T06:27:26.652333+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47836740,
+      "title": "Show HN: Ctx – a /resume that works across Claude Code and Codex",
+      "url": "https://github.com/dchu917/ctx",
+      "score": 59,
+      "comments": 25,
+      "author": "dchu17",
+      "time": 1776702905,
+      "hn_url": "https://news.ycombinator.com/item?id=47836740",
+      "text": "ctx is a local SQLite-backed skill for Claude Code and Codex that stores context as a persistent workstream that can be continued across agent sessions. Each workstream can contain multiple sessions, notes, decisions, todos, and resume packs. It essentially functions as a &#x2F;resume that can work across coding agents.<p>Here is a video of how it works: <a href=\"https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;5e558204885e4264a34d2cf6bd488117\" rel=\"nofollow\">https:&#x2F;&#x2F;www.loom.com&#x2F;sh",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Ctx is a SQLite-backed skill for Claude Code and Codex that maintains persistent context across sessions, allowing seamless continuation of workstreams and projects. It manages sessions, notes, decisions, and todos to provide a frictionless resume experience. The tool automates context restoration and suggests next steps based on project documentation.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-22T06:27:28.373509+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
