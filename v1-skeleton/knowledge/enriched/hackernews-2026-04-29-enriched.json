@@ -1,0 +1,512 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-04-29T07:51:50.555956Z",
+  "analyzed_at": "2026-04-29T07:52:04.399383+00:00",
+  "count": 21,
+  "items": [
+    {
+      "id": 47942437,
+      "title": "How ChatGPT serves ads",
+      "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
+      "score": 280,
+      "comments": 195,
+      "author": "lmbbuchodi",
+      "time": 1777420454,
+      "hn_url": "https://news.ycombinator.com/item?id=47942437",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 How ChatGPT serves ads 的技术内容。",
+      "tags": [
+        "gpt"
+      ],
+      "analyzed_at": "2026-04-29T07:51:50.984717+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47937380,
+      "title": "Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU",
+      "url": "https://github.com/FeSens/auto-arch-tournament/blob/main/docs/auto-arch-tournament-blog-post.md",
+      "score": 106,
+      "comments": 23,
+      "author": "fesens",
+      "time": 1777396350,
+      "hn_url": "https://news.ycombinator.com/item?id=47937380",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-29T07:51:51.602308+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47926148,
+      "title": "Withnail's Coat and I",
+      "url": "https://ontherow.substack.com/p/withnails-coat-and-i",
+      "score": 39,
+      "comments": 0,
+      "author": "apollinaire",
+      "time": 1777318067,
+      "hn_url": "https://news.ycombinator.com/item?id=47926148",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Withnail's Coat and I 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-29T07:51:52.223406+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47939320,
+      "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
+      "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+      "score": 238,
+      "comments": 81,
+      "author": "translocator",
+      "time": 1777404283,
+      "hn_url": "https://news.ycombinator.com/item?id=47939320",
+      "text": "<a href=\"https:&#x2F;&#x2F;aws.amazon.com&#x2F;bedrock&#x2F;openai&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;aws.amazon.com&#x2F;bedrock&#x2F;openai&#x2F;</a><p><a href=\"https:&#x2F;&#x2F;www.aboutamazon.com&#x2F;news&#x2F;aws&#x2F;bedrock-openai-models\" rel=\"nofollow\">https:&#x2F;&#x2F;www.aboutamazon.com&#x2F;news&#x2F;aws&#x2F;bedrock-openai-models</a><p><a href=\"https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;openai-on-aws&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;openai.com&#x2F;index&#x2F;openai-",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-29T07:51:52.852022+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47942492,
+      "title": "Regression: malware reminder on every read still causes subagent refusals",
+      "url": "https://github.com/anthropics/claude-code/issues/49363",
+      "score": 202,
+      "comments": 100,
+      "author": "thomashobohm",
+      "time": 1777420797,
+      "hn_url": "https://news.ycombinator.com/item?id=47942492",
+      "text": "Not sure if anybody else has experienced this, but for my job I&#x27;ve been playing around with Claude Managed Agents to run code generation tasks in our repo. Every read operation in the managed agent is appended with a system prompt instructing Claude to scan the file for malware; Claude then wastes a bunch of time and tokens (money) performing the analysis; then, once the agent has confirmed that it is <i>not</i> malware, it still interprets the appended prompt to mean that it is disallowed ",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Regression: malware reminder on every read still causes subagent refusals 的技术内容。",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-04-29T07:51:53.554640+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47921610,
+      "title": "Behavioral timescale synaptic plasticity rewires the brain after an experience",
+      "url": "https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/",
+      "score": 93,
+      "comments": 3,
+      "author": "ibobev",
+      "time": 1777298087,
+      "hn_url": "https://news.ycombinator.com/item?id=47921610",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Behavioral timescale synaptic plasticity rewires the brain after an experience 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-29T07:51:54.163322+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47932937,
+      "title": "Who owns the code Claude Code wrote?",
+      "url": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
+      "score": 358,
+      "comments": 362,
+      "author": "senaevren",
+      "time": 1777375492,
+      "hn_url": "https://news.ycombinator.com/item?id=47932937",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Who owns the code Claude Code wrote? 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-29T07:51:54.776006+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47945192,
+      "title": "Wire to Replace Signal as Standard in the Bundestag",
+      "url": "https://www.heise.de/en/news/Digital-Sovereignty-Wire-to-Replace-Signal-as-Standard-in-the-Bundestag-11275755.html",
+      "score": 10,
+      "comments": 2,
+      "author": "raffael_de",
+      "time": 1777447860,
+      "hn_url": "https://news.ycombinator.com/item?id=47945192",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Wire to Replace Signal as Standard in the Bundestag 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-29T07:51:55.508892+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47933208,
+      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
+      "url": "https://github.com/localsend/localsend",
+      "score": 805,
+      "comments": 247,
+      "author": "bilsbie",
+      "time": 1777377260,
+      "hn_url": "https://news.ycombinator.com/item?id=47933208",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Localsend: An open-source cross-platform alternative to AirDrop 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-29T07:51:56.145657+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47932422,
+      "title": "An update on GitHub availability",
+      "url": "https://github.blog/news-insights/company-news/an-update-on-github-availability/",
+      "score": 362,
+      "comments": 228,
+      "author": "salkahfi",
+      "time": 1777370703,
+      "hn_url": "https://news.ycombinator.com/item?id=47932422",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 An update on GitHub availability 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-29T07:51:56.780883+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47933236,
+      "title": "VibeVoice: Open-source frontier voice AI",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "score": 348,
+      "comments": 169,
+      "author": "tosh",
+      "time": 1777377364,
+      "hn_url": "https://news.ycombinator.com/item?id=47933236",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 VibeVoice: Open-source frontier voice AI 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-29T07:51:57.399971+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47942386,
+      "title": "Claude for Creative Work",
+      "url": "https://www.anthropic.com/news/claude-for-creative-work",
+      "score": 112,
+      "comments": 83,
+      "author": "elsewhen",
+      "time": 1777420016,
+      "hn_url": "https://news.ycombinator.com/item?id=47942386",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Claude for Creative Work 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-29T07:51:58.038654+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47901064,
+      "title": "ASML became the chokepoint for cutting-edge chips",
+      "url": "https://worksinprogress.co/issue/the-worlds-most-complex-machine/",
+      "score": 354,
+      "comments": 212,
+      "author": "mellosouls",
+      "time": 1777121252,
+      "hn_url": "https://news.ycombinator.com/item?id=47901064",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 ASML became the chokepoint for cutting-edge chips 的技术内容。",
+      "tags": [
+        "ml"
+      ],
+      "analyzed_at": "2026-04-29T07:51:58.674229+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47933257,
+      "title": "GitHub Actions is the weakest link",
+      "url": "https://nesbitt.io/2026/04/28/github-actions-is-the-weakest-link.html",
+      "score": 227,
+      "comments": 78,
+      "author": "dochtman",
+      "time": 1777377494,
+      "hn_url": "https://news.ycombinator.com/item?id=47933257",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 GitHub Actions is the weakest link 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-29T07:51:59.370043+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47945135,
+      "title": "Meta found in breach of EU law for failing to keep children off platforms",
+      "url": "https://www.theguardian.com/technology/2026/apr/29/meta-found-in-breach-of-eu-law-for-failing-to-keep-children-off-platforms",
+      "score": 10,
+      "comments": 0,
+      "author": "geox",
+      "time": 1777447340,
+      "hn_url": "https://news.ycombinator.com/item?id=47945135",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Meta found in breach of EU law for failing to keep children off platforms 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-29T07:52:00.039490+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47941590,
+      "title": "Carrot Disclosure: Forgejo",
+      "url": "https://dustri.org/b/carrot-disclosure-forgejo.html",
+      "score": 114,
+      "comments": 40,
+      "author": "bo0tzz",
+      "time": 1777414469,
+      "hn_url": "https://news.ycombinator.com/item?id=47941590",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Carrot Disclosure: Forgejo 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-29T07:52:00.641479+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47942903,
+      "title": "We decreased our LLM costs with Opus",
+      "url": "https://www.mendral.com/blog/frontier-model-lower-costs",
+      "score": 86,
+      "comments": 29,
+      "author": "shad42",
+      "time": 1777424232,
+      "hn_url": "https://news.ycombinator.com/item?id=47942903",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 We decreased our LLM costs with Opus 的技术内容。",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-04-29T07:52:01.258247+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47939079,
+      "title": "A playable DOOM MCP app",
+      "url": "https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/",
+      "score": 82,
+      "comments": 31,
+      "author": "chrisnager",
+      "time": 1777403327,
+      "hn_url": "https://news.ycombinator.com/item?id=47939079",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 A playable DOOM MCP app 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-29T07:52:01.992305+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47921251,
+      "title": "Building a Hamiltonian Path Puzzle",
+      "url": "https://www.4rknova.com//blog/2026/04/24/number-trail",
+      "score": 10,
+      "comments": 2,
+      "author": "ibobev",
+      "time": 1777296172,
+      "hn_url": "https://news.ycombinator.com/item?id=47921251",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Building a Hamiltonian Path Puzzle 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-29T07:52:02.641901+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47938097,
+      "title": "Claude.ai unavailable and elevated errors on the API",
+      "url": "https://status.claude.com/incidents/9l93x2ht4s5w",
+      "score": 282,
+      "comments": 243,
+      "author": "shorsher",
+      "time": 1777399281,
+      "hn_url": "https://news.ycombinator.com/item?id=47938097",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Claude.ai unavailable and elevated errors on the API 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-29T07:52:03.279039+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47943632,
+      "title": "I Built My Own Hair Electrolysis Machine",
+      "url": "https://www.scd31.com/posts/diy-hair-electrolysis-machine",
+      "score": 8,
+      "comments": 1,
+      "author": "y1n0",
+      "time": 1777430566,
+      "hn_url": "https://news.ycombinator.com/item?id=47943632",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 I Built My Own Hair Electrolysis Machine 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-04-29T07:52:03.898440+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
