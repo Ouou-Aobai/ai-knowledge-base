@@ -1,7 +1,7 @@
 {
   "source": "github",
-  "collected_at": "2026-04-30T19:35:17.889669Z",
-  "analyzed_at": "2026-04-30T19:36:17.129022+00:00",
+  "collected_at": "2026-04-30T19:43:07.435837Z",
+  "analyzed_at": "2026-04-30T19:44:06.466227+00:00",
   "count": 50,
   "items": [
     {
@@ -21,7 +21,7 @@
       "tags": [
         "gpt"
       ],
-      "analyzed_at": "2026-04-30T19:35:43.974564+00:00",
+      "analyzed_at": "2026-04-30T19:43:33.412538+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -35,7 +35,7 @@
       "title": "agent-sprite-forge",
       "description": "Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.",
       "url": "https://github.com/0x0funky/agent-sprite-forge",
-      "stars": 1376,
+      "stars": 1379,
       "language": "Python",
       "topics": [
         "agent-skills",
@@ -45,18 +45,18 @@
       ],
       "created_at": "2026-04-23T20:52:52Z",
       "updated_at": "2026-04-30T17:59:43Z",
-      "forks": 137,
+      "forks": 138,
       "open_issues": 2,
       "relevance_score": 0.5,
       "summary": "这是一个关于 agent-sprite-forge 的技术项目。Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts.",
       "tags": [
-        "sprite-generator",
-        "agent-skills",
         "codex",
+        "sprite-generator",
         "pixel-art",
-        "agent"
+        "agent",
+        "agent-skills"
       ],
-      "analyzed_at": "2026-04-30T19:35:44.692972+00:00",
+      "analyzed_at": "2026-04-30T19:43:34.075822+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -79,7 +79,7 @@
         "review"
       ],
       "created_at": "2026-04-23T22:14:49Z",
-      "updated_at": "2026-04-30T19:34:57Z",
+      "updated_at": "2026-04-30T19:41:26Z",
       "forks": 150,
       "open_issues": 0,
       "relevance_score": 0.3,
@@ -90,7 +90,7 @@
         "bot",
         "openclaw"
       ],
-      "analyzed_at": "2026-04-30T19:35:45.351075+00:00",
+      "analyzed_at": "2026-04-30T19:43:34.758316+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -104,7 +104,7 @@
       "title": "harmonist",
       "description": "Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
       "url": "https://github.com/GammaLabTechnologies/harmonist",
-      "stars": 931,
+      "stars": 932,
       "language": "Python",
       "topics": [
         "agent-framework",
@@ -125,13 +125,13 @@
       "relevance_score": 0.3,
       "summary": "这是一个关于 harmonist 的技术项目。Portable AI agent orchestration with mechanical protocol enforcement. 186 agents, zero runtime dependencies.",
       "tags": [
-        "ai-agents",
         "agent-system",
-        "prompt-engineering",
-        "llm",
-        "python"
+        "orchestration",
+        "multi-agent-framework",
+        "agent-framework",
+        "prompt-engineering"
       ],
-      "analyzed_at": "2026-04-30T19:35:45.989073+00:00",
+      "analyzed_at": "2026-04-30T19:43:35.407703+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -162,13 +162,13 @@
       "relevance_score": 0.3,
       "summary": "这是一个关于 future-agi 的技术项目。Open-source, end-to-end platform for evaluating, observing, and improving LLM and AI agent applications. Tracing · Evals · Simulations · Datasets · Gateway · Guardrails. Self-hostable. Apache 2.0.",
       "tags": [
-        "observability",
+        "evals",
         "ai",
-        "simulation",
-        "llm",
-        "evals"
+        "observability",
+        "ai-gateway",
+        "llm"
       ],
-      "analyzed_at": "2026-04-30T19:35:46.726556+00:00",
+      "analyzed_at": "2026-04-30T19:43:36.091952+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -182,7 +182,7 @@
       "title": "Gpt-Agreement-Payment",
       "description": "ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud research",
       "url": "https://github.com/DanOps-1/Gpt-Agreement-Payment",
-      "stars": 746,
+      "stars": 747,
       "language": "Python",
       "topics": [
         "adversarial-ml",
@@ -205,13 +205,13 @@
       "relevance_score": 0.5,
       "summary": "这是一个关于 Gpt-Agreement-Payment 的技术项目。ChatGPT Plus/Team/Pro 订阅协议端到端重放工具集 · hCaptcha 视觉求解器 · 反欺诈机制实证研究 / End-to-end protocol replay toolkit for ChatGPT Plus/Team/Pro subscription with from-scratch hCaptcha solver and empirical anti-fraud r",
       "tags": [
-        "gpt",
-        "adversarial-ml",
-        "playwright",
         "vlm",
-        "chatgpt"
+        "gpt",
+        "bug-bounty",
+        "chatgpt",
+        "adversarial-ml"
       ],
-      "analyzed_at": "2026-04-30T19:35:47.383251+00:00",
+      "analyzed_at": "2026-04-30T19:43:36.895146+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -225,19 +225,19 @@
       "title": "mike",
       "description": "OSS AI Legal Platform",
       "url": "https://github.com/willchen96/mike",
-      "stars": 698,
+      "stars": 701,
       "language": "TypeScript",
       "topics": [],
       "created_at": "2026-04-29T17:41:12Z",
       "updated_at": "2026-04-29T17:49:39Z",
-      "forks": 154,
+      "forks": 155,
       "open_issues": 4,
       "relevance_score": 0.3,
       "summary": "这是一个关于 mike 的技术项目。OSS AI Legal Platform",
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-30T19:35:48.058227+00:00",
+      "analyzed_at": "2026-04-30T19:43:37.543978+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -263,7 +263,7 @@
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-30T19:35:48.721595+00:00",
+      "analyzed_at": "2026-04-30T19:43:38.333058+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -277,7 +277,7 @@
       "title": "stash",
       "description": "Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
       "url": "https://github.com/alash3al/stash",
-      "stars": 590,
+      "stars": 592,
       "language": "Go",
       "topics": [
         "ai",
@@ -293,11 +293,11 @@
       "summary": "这是一个关于 stash 的技术项目。Stash — persistent memory layer for AI agents. Episodes, facts, and working context stored in Postgres. MCP server included. Self-hosted, single binary, no cloud required.",
       "tags": [
         "ai",
-        "ai-agents",
         "memory",
-        "ai-memory"
+        "ai-memory",
+        "ai-agents"
       ],
-      "analyzed_at": "2026-04-30T19:35:49.404800+00:00",
+      "analyzed_at": "2026-04-30T19:43:39.020373+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -311,7 +311,7 @@
       "title": "world2agent",
       "description": "World2Agent(W2A) is an open protocol that standardizes how Al agents perceive the real world.",
       "url": "https://github.com/machinepulse-ai/world2agent",
-      "stars": 579,
+      "stars": 580,
       "language": "TypeScript",
       "topics": [
         "agent",
@@ -325,11 +325,11 @@
       "relevance_score": 0.5,
       "summary": "这是一个关于 world2agent 的技术项目。World2Agent(W2A) is an open protocol that standardizes how Al agents perceive the real world.",
       "tags": [
-        "proactive-agent",
+        "protocol",
         "agent",
-        "protocol"
+        "proactive-agent"
       ],
-      "analyzed_at": "2026-04-30T19:35:50.054081+00:00",
+      "analyzed_at": "2026-04-30T19:43:39.645932+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -362,13 +362,13 @@
       "relevance_score": 0.5,
       "summary": "这是一个关于 gpt_image_playground 的技术项目。基于 OpenAI gpt-image-2 接口的图片生成与编辑工具",
       "tags": [
+        "vite",
+        "gpt",
         "react",
         "typescript",
-        "image-generation",
-        "openai",
-        "tailwindcss"
+        "openai"
       ],
-      "analyzed_at": "2026-04-30T19:35:50.715733+00:00",
+      "analyzed_at": "2026-04-30T19:43:40.426164+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -394,7 +394,7 @@
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-30T19:35:51.359524+00:00",
+      "analyzed_at": "2026-04-30T19:43:41.077773+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -408,19 +408,19 @@
       "title": "AIbijia",
       "description": "分享便宜靠谱Token，抹平信息差",
       "url": "https://github.com/ka-pi-ba-la/AIbijia",
-      "stars": 422,
+      "stars": 423,
       "language": null,
       "topics": [],
       "created_at": "2026-04-27T12:55:00Z",
       "updated_at": "2026-04-27T15:41:05Z",
-      "forks": 13,
+      "forks": 14,
       "open_issues": 2,
       "relevance_score": 0.5,
       "summary": "这是一个关于 AIbijia 的技术项目。分享便宜靠谱Token，抹平信息差",
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-30T19:35:52.005175+00:00",
+      "analyzed_at": "2026-04-30T19:43:41.712808+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -446,7 +446,7 @@
       "tags": [
         "agent"
       ],
-      "analyzed_at": "2026-04-30T19:35:52.674940+00:00",
+      "analyzed_at": "2026-04-30T19:43:42.370655+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -460,7 +460,7 @@
       "title": "link-cli",
       "description": "Let your agents spend on your behalf. Your payment credentials are never exposed. You approve every purchase.",
       "url": "https://github.com/stripe/link-cli",
-      "stars": 295,
+      "stars": 296,
       "language": "TypeScript",
       "topics": [],
       "created_at": "2026-04-23T21:33:50Z",
@@ -472,7 +472,7 @@
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-30T19:35:53.341489+00:00",
+      "analyzed_at": "2026-04-30T19:43:43.011388+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -498,7 +498,7 @@
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-30T19:35:54.007970+00:00",
+      "analyzed_at": "2026-04-30T19:43:43.674888+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -524,7 +524,7 @@
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-30T19:35:54.688156+00:00",
+      "analyzed_at": "2026-04-30T19:43:44.342213+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -556,13 +556,13 @@
       "relevance_score": 0.3,
       "summary": "这是一个关于 hermes-labyrinth 的技术项目。Read-only observability plugin for Hermes Agent: journeys, crossings, guideposts, and reports.",
       "tags": [
-        "observability",
-        "autonomous-agents",
-        "dashboard-plugin",
+        "nous-research",
         "hermes-agent",
+        "dashboard-plugin",
+        "autonomous-agents",
         "hackathon"
       ],
-      "analyzed_at": "2026-04-30T19:35:55.348111+00:00",
+      "analyzed_at": "2026-04-30T19:43:44.968185+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -588,7 +588,7 @@
       "tags": [
         "llm"
       ],
-      "analyzed_at": "2026-04-30T19:35:56.008154+00:00",
+      "analyzed_at": "2026-04-30T19:43:45.595861+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -614,7 +614,7 @@
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-30T19:35:56.794989+00:00",
+      "analyzed_at": "2026-04-30T19:43:46.323793+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -628,7 +628,7 @@
       "title": "compose-performance-skills",
       "description": "⚡️ A curated library of Agent Skills focused on Jetpack Compose performance.",
       "url": "https://github.com/skydoves/compose-performance-skills",
-      "stars": 214,
+      "stars": 215,
       "language": "Shell",
       "topics": [
         "agent-skills",
@@ -650,13 +650,13 @@
       "relevance_score": 0.3,
       "summary": "这是一个关于 compose-performance-skills 的技术项目。⚡️ A curated library of Agent Skills focused on Jetpack Compose performance.",
       "tags": [
-        "claude",
-        "android",
+        "llm-tools",
         "jetpack-compose",
-        "compose",
-        "compose-performance"
+        "skydoves",
+        "kotlin",
+        "compose"
       ],
-      "analyzed_at": "2026-04-30T19:35:57.494008+00:00",
+      "analyzed_at": "2026-04-30T19:43:46.990134+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -682,7 +682,7 @@
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-30T19:35:58.174899+00:00",
+      "analyzed_at": "2026-04-30T19:43:47.622665+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -708,7 +708,7 @@
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-30T19:35:58.834850+00:00",
+      "analyzed_at": "2026-04-30T19:43:48.273251+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -722,7 +722,7 @@
       "title": "GodModeSkill",
       "description": "Multi-LLM cross-review workflow for Claude Code. /work orchestrates plan/implement/bug-fix with 3 different model families voting on every gate.",
       "url": "https://github.com/99xAgency/GodModeSkill",
-      "stars": 179,
+      "stars": 180,
       "language": "Shell",
       "topics": [],
       "created_at": "2026-04-28T05:42:27Z",
@@ -734,7 +734,7 @@
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-30T19:35:59.477346+00:00",
+      "analyzed_at": "2026-04-30T19:43:48.941390+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -771,13 +771,13 @@
       "relevance_score": 0.7,
       "summary": "这是一个关于 Awesome-GPT-Image-2-OpenAi 的技术项目。The Definitive GPT Image 2 Prompt Vault — Master OpenAI's next-gen model with curated prompts for pixel-perfect text, consistent characters, and professional-grade assets. Optimized for creators and d",
       "tags": [
-        "ai",
-        "gpt-image-2-api",
+        "openai-api",
+        "gpt",
         "gpt-image-2",
-        "gpt-image-2-prompts",
-        "text-to-image"
+        "chatgpt",
+        "ai"
       ],
-      "analyzed_at": "2026-04-30T19:36:00.155403+00:00",
+      "analyzed_at": "2026-04-30T19:43:49.689772+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -822,13 +822,13 @@
       "relevance_score": 0.3,
       "summary": "这是一个关于 FL-Production-25.2.5-DAW 的技术项目。25.2.5 Music Production DAW 2026 Beatmaking AI Mastering Stems Separation PluggnB Organic Sounds MIDI Support VST3 Plugins Audio Recording Low Latency Mixing Mastering Windows 11 Sound Design Virtual ",
       "tags": [
+        "ableton-live-pc",
+        "flstudio25",
         "fl-studio-midi",
-        "windows-daw",
-        "fl-studio-extension",
-        "professional-daw",
-        "fl-studio-harmor"
+        "fl-studio-windows",
+        "fl-studio-templates"
       ],
-      "analyzed_at": "2026-04-30T19:36:00.814230+00:00",
+      "analyzed_at": "2026-04-30T19:43:50.344215+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -859,13 +859,13 @@
       "relevance_score": 0.3,
       "summary": "这是一个关于 WRITING.md 的技术项目。Rules to make AI text sharper and genre-aware, with concrete anchors and built-in self-auditing workflow",
       "tags": [
-        "ai-writing",
-        "llm-writing",
-        "prompt-engineering",
         "llm-instructions",
-        "technical-writing"
+        "technical-writing",
+        "prompt-engineering",
+        "content-design",
+        "llm-writing"
       ],
-      "analyzed_at": "2026-04-30T19:36:01.475178+00:00",
+      "analyzed_at": "2026-04-30T19:43:51.012368+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -879,7 +879,7 @@
       "title": "club-3090",
       "description": "Community recipes for serving LLMs on RTX 3090. Multi-engine (vLLM, llama.cpp, SGLang) and model-agnostic. Currently shipping Qwen3.6-27B configs for 1× and 2× cards.",
       "url": "https://github.com/noonghunna/club-3090",
-      "stars": 172,
+      "stars": 173,
       "language": "Shell",
       "topics": [],
       "created_at": "2026-04-28T10:08:59Z",
@@ -891,7 +891,7 @@
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-30T19:36:02.115204+00:00",
+      "analyzed_at": "2026-04-30T19:43:51.657988+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -936,13 +936,13 @@
       "relevance_score": 0.3,
       "summary": "这是一个关于 coinbase-trading-bot 的技术项目。coinbase trading bot, coinbase bot, AI/automated crypto trading, Coinbase Advanced Trade/Pro, spot and futures, grid DCA scalping arbitrage, copy and signal bots, strategy setup tutorial guide automat",
       "tags": [
-        "coinbase",
-        "cryptocurrency",
+        "ethereum",
+        "trading-strategy",
+        "trading-automation",
         "dca",
-        "algorithmic-trading",
-        "defi"
+        "grid-trading"
       ],
-      "analyzed_at": "2026-04-30T19:36:02.778084+00:00",
+      "analyzed_at": "2026-04-30T19:43:52.300968+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -983,13 +983,13 @@
       "relevance_score": 0.3,
       "summary": "这是一个关于 Acrobat-Editor-2026 的技术项目。Download Acrobat AI Assistant PDF Editor Desktop Windows 11 Acrobat DC 2026 Full Version Electronic Signature Tool OCR PDF to Word Document Cloud Sync PDF Security Redaction Tool Fill and Sign Profess",
       "tags": [
-        "acrobat-boost-overkill",
-        "acrobat-pro-dc",
-        "pdf-software",
-        "acrobat-breaker",
-        "acrobat-live"
+        "acrobat-pro-overkill",
+        "acrobat-supremacy",
+        "acrobat-live",
+        "acrobat-sign",
+        "acrobat-unleashed"
       ],
-      "analyzed_at": "2026-04-30T19:36:03.436732+00:00",
+      "analyzed_at": "2026-04-30T19:43:52.956893+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -1015,7 +1015,7 @@
       "tags": [
         "llm"
       ],
-      "analyzed_at": "2026-04-30T19:36:04.108202+00:00",
+      "analyzed_at": "2026-04-30T19:43:53.627324+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -1059,13 +1059,13 @@
       "relevance_score": 0.5,
       "summary": "这是一个关于 polymarket-ai-trading 的技术项目。AI-assisted paper trading for Polymarket: OpenAI market insight, vector search, Kelly sizing, SQLite, polymarket ai trading bot, ai trading bot, trading bot,polymarket ai trading bot, ai trading bot, ",
       "tags": [
-        "paper-trading",
-        "openai",
-        "defi",
-        "sqlite",
-        "mean-reversion"
+        "mean-reversion",
+        "ai",
+        "vercel",
+        "machine-learning",
+        "polymarket"
       ],
-      "analyzed_at": "2026-04-30T19:36:04.792137+00:00",
+      "analyzed_at": "2026-04-30T19:43:54.315192+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -1101,13 +1101,13 @@
       "relevance_score": 0.5,
       "summary": "这是一个关于 pumpfun-ai-trading-bot 的技术项目。OpenAI-powered Pump.fun comment automation on Solana. Thread engagement, proxy support, wallet modes, and local data.json comment bank. ISC. ai trading bot, pumpfun trading bot, trading bot, pumfun ai",
       "tags": [
+        "defi",
+        "solana-web3",
         "ai",
-        "pumpfun",
-        "typescript",
-        "trading-bot",
-        "openai"
+        "artificial-intelligence",
+        "trading-bot"
       ],
-      "analyzed_at": "2026-04-30T19:36:05.427948+00:00",
+      "analyzed_at": "2026-04-30T19:43:54.939319+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -1133,7 +1133,7 @@
       "tags": [
         "agent"
       ],
-      "analyzed_at": "2026-04-30T19:36:06.108229+00:00",
+      "analyzed_at": "2026-04-30T19:43:55.568370+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -1166,13 +1166,13 @@
       "relevance_score": 0.3,
       "summary": "这是一个关于 LoongForge 的技术项目。A modular, scalable, and highly efficient training framework for language, multimodal, and embodied models.",
       "tags": [
-        "training",
+        "vlm",
+        "diffusion",
+        "infra",
         "ai",
-        "wan",
-        "vla",
-        "llm"
+        "wan"
       ],
-      "analyzed_at": "2026-04-30T19:36:06.774563+00:00",
+      "analyzed_at": "2026-04-30T19:43:56.196111+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -1198,7 +1198,7 @@
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-30T19:36:07.433140+00:00",
+      "analyzed_at": "2026-04-30T19:43:56.841394+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -1212,7 +1212,7 @@
       "title": "Auto-2026-Desktop",
       "description": "Resource is a professional suite for advanced 2D/3D drafting. It features optimized toolsets, AI-assisted design, and high-performance libraries. Designed for engineers and architects, it ensures precision and seamless workflow integration for modern industrial projects in 2026.",
       "url": "https://github.com/GHOST-227/Auto-2026-Desktop",
-      "stars": 147,
+      "stars": 148,
       "language": "C++",
       "topics": [
         "auto-cad",
@@ -1231,13 +1231,13 @@
       "relevance_score": 0.3,
       "summary": "这是一个关于 Auto-2026-Desktop 的技术项目。Resource is a professional suite for advanced 2D/3D drafting. It features optimized toolsets, AI-assisted design, and high-performance libraries. Designed for engineers and architects, it ensures prec",
       "tags": [
-        "windows-cad",
-        "auto-cad-free",
-        "auto-cad",
+        "autocad-install",
+        "autocad",
         "autocad-addins",
-        "cad"
+        "cad",
+        "cad-software"
       ],
-      "analyzed_at": "2026-04-30T19:36:08.096537+00:00",
+      "analyzed_at": "2026-04-30T19:43:57.495215+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -1270,13 +1270,13 @@
       "relevance_score": 0.5,
       "summary": "这是一个关于 awesome-agentic-world-modeling 的技术项目。Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond",
       "tags": [
-        "awesome-list",
-        "awesome-readme",
         "agents",
-        "world-models",
-        "agentic-ai"
+        "awesome-list",
+        "agentic-ai",
+        "world-modeling",
+        "world-models"
       ],
-      "analyzed_at": "2026-04-30T19:36:08.744504+00:00",
+      "analyzed_at": "2026-04-30T19:43:58.181918+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -1316,18 +1316,18 @@
       ],
       "created_at": "2026-04-29T21:48:01Z",
       "updated_at": "2026-04-29T21:49:19Z",
-      "forks": 95,
+      "forks": 97,
       "open_issues": 0,
       "relevance_score": 0.7,
       "summary": "这是一个关于 ai-trading-agent 的技术项目。llm trading bot ai agent crypto bitcoin ethereum perpetuals openrouter lighter algorithmic automated quant typescript react postgres bun fintech defi machine-learning open-source crypto-bot signals",
       "tags": [
-        "cryptocurrency",
-        "algorithmic-trading",
-        "llm",
-        "defi",
-        "crypto-bot"
+        "ai",
+        "machine-learning",
+        "ethereum",
+        "agent",
+        "bun"
       ],
-      "analyzed_at": "2026-04-30T19:36:09.405461+00:00",
+      "analyzed_at": "2026-04-30T19:43:58.840901+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -1353,7 +1353,7 @@
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-30T19:36:10.026415+00:00",
+      "analyzed_at": "2026-04-30T19:43:59.476245+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -1397,13 +1397,13 @@
       "relevance_score": 0.5,
       "summary": "这是一个关于 Claude-Code-AI-Design 的技术项目。Claude Design Anthropic Tool Download April 2026 Figma to Code AI Agent Research Preview Claude Code CLI Integration React 19 Tailwind v4 Support Model Context Protocol MCP Server Setup Design Systems",
       "tags": [
-        "claude-code-marketplace",
         "claude-design-alternative",
-        "claude-code",
-        "claude-code-plugins",
-        "claude-code-cli"
+        "claude-code-cli",
+        "claude-code-skill",
+        "ai",
+        "claude-design-download"
       ],
-      "analyzed_at": "2026-04-30T19:36:10.679578+00:00",
+      "analyzed_at": "2026-04-30T19:44:00.103327+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -1429,7 +1429,7 @@
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-30T19:36:11.343633+00:00",
+      "analyzed_at": "2026-04-30T19:44:00.747799+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -1455,7 +1455,7 @@
       "tags": [
         "llm"
       ],
-      "analyzed_at": "2026-04-30T19:36:12.012406+00:00",
+      "analyzed_at": "2026-04-30T19:44:01.414794+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -1500,13 +1500,64 @@
       "relevance_score": 0.5,
       "summary": "这是一个关于 Stable-Diffusion-AI-Free 的技术项目。Stable Diffusion Free AI Image Generator Flux 2 Local Deployment Real-time Video Character Consistency Identity Anchoring SDXL Turbo LoRA Training ControlNet Open Source Art Studio Hyperrealistic Cine",
       "tags": [
-        "ai-image-generator",
-        "stable-diffusion-download",
-        "stable-diffusion-webui-forge",
+        "stable-diffusion-2026",
+        "ai",
+        "diffusion",
         "stable-diffusion-web-ui",
-        "stable-diffusion-library"
+        "stable-diffusion-android"
       ],
-      "analyzed_at": "2026-04-30T19:36:12.651905+00:00",
+      "analyzed_at": "2026-04-30T19:44:02.031790+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "6551-Team/bybit-trading-bot",
+      "title": "bybit-trading-bot",
+      "description": "Bybit trading bot & Bybit bot: AI, automated & auto crypto trading, futures, spot & grid, exchange strategies, algorithmic trading, cryptocurrency bot for Bybit.",
+      "url": "https://github.com/6551-Team/bybit-trading-bot",
+      "stars": 106,
+      "language": "TypeScript",
+      "topics": [
+        "algorithmic-trading",
+        "automated-trading",
+        "bot",
+        "bybit",
+        "bybit-api",
+        "crypto-bot",
+        "crypto-trading",
+        "cryptocurrency",
+        "exchange-api",
+        "fintech",
+        "futures-trading",
+        "grid-trading",
+        "nodejs",
+        "open-source",
+        "quantitative-trading",
+        "spot-trading",
+        "trading-automation",
+        "trading-bot",
+        "trading-strategies",
+        "typescript"
+      ],
+      "created_at": "2026-04-27T17:51:53Z",
+      "updated_at": "2026-04-29T21:35:36Z",
+      "forks": 181,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 bybit-trading-bot 的技术项目。Bybit trading bot & Bybit bot: AI, automated & auto crypto trading, futures, spot & grid, exchange strategies, algorithmic trading, cryptocurrency bot for Bybit.",
+      "tags": [
+        "exchange-api",
+        "trading-automation",
+        "grid-trading",
+        "spot-trading",
+        "trading-bot"
+      ],
+      "analyzed_at": "2026-04-30T19:44:02.672549+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -1543,64 +1594,13 @@
       "relevance_score": 0.3,
       "summary": "这是一个关于 byob 的技术项目。Bring Your Own Browser — let your AI agent use the Chrome you already have open",
       "tags": [
-        "wxt",
-        "cursor",
-        "typescript",
         "ai-agent",
-        "native-messaging"
+        "chrome-debugger",
+        "mcp",
+        "mcp-server",
+        "claude-code"
       ],
-      "analyzed_at": "2026-04-30T19:36:13.334153+00:00",
-      "score_breakdown": {
-        "tech_depth": 0.0,
-        "practical_value": 0.0,
-        "timeliness": 0.0,
-        "community_heat": 0.0,
-        "domain_match": 0.0
-      }
-    },
-    {
-      "id": "6551-Team/bybit-trading-bot",
-      "title": "bybit-trading-bot",
-      "description": "Bybit trading bot & Bybit bot: AI, automated & auto crypto trading, futures, spot & grid, exchange strategies, algorithmic trading, cryptocurrency bot for Bybit.",
-      "url": "https://github.com/6551-Team/bybit-trading-bot",
-      "stars": 105,
-      "language": "TypeScript",
-      "topics": [
-        "algorithmic-trading",
-        "automated-trading",
-        "bot",
-        "bybit",
-        "bybit-api",
-        "crypto-bot",
-        "crypto-trading",
-        "cryptocurrency",
-        "exchange-api",
-        "fintech",
-        "futures-trading",
-        "grid-trading",
-        "nodejs",
-        "open-source",
-        "quantitative-trading",
-        "spot-trading",
-        "trading-automation",
-        "trading-bot",
-        "trading-strategies",
-        "typescript"
-      ],
-      "created_at": "2026-04-27T17:51:53Z",
-      "updated_at": "2026-04-29T21:35:36Z",
-      "forks": 181,
-      "open_issues": 0,
-      "relevance_score": 0.3,
-      "summary": "这是一个关于 bybit-trading-bot 的技术项目。Bybit trading bot & Bybit bot: AI, automated & auto crypto trading, futures, spot & grid, exchange strategies, algorithmic trading, cryptocurrency bot for Bybit.",
-      "tags": [
-        "cryptocurrency",
-        "algorithmic-trading",
-        "exchange-api",
-        "crypto-bot",
-        "bot"
-      ],
-      "analyzed_at": "2026-04-30T19:36:13.994916+00:00",
+      "analyzed_at": "2026-04-30T19:44:03.328592+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -1626,7 +1626,7 @@
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-30T19:36:14.646299+00:00",
+      "analyzed_at": "2026-04-30T19:44:03.975007+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -1652,7 +1652,7 @@
       "tags": [
         "ai"
       ],
-      "analyzed_at": "2026-04-30T19:36:15.300563+00:00",
+      "analyzed_at": "2026-04-30T19:44:04.622911+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -1697,13 +1697,13 @@
       "relevance_score": 0.7,
       "summary": "这是一个关于 ChatGPT-5.5-OpenAI-Unlimited-Desktop 的技术项目。Free ChatGPT 5.5 OpenAI Unlimited is a professional AI suite for advanced reasoning and automation. It features expanded context windows, multimodal support, and high-speed execution. Designed for pow",
       "tags": [
-        "openai",
-        "chatgpt-5-5",
-        "openai-gpt-5-5",
         "chat-gpt",
-        "chatgpt55"
+        "gpt",
+        "ai",
+        "gpt5-jailbreak",
+        "gpt-codex"
       ],
-      "analyzed_at": "2026-04-30T19:36:15.967693+00:00",
+      "analyzed_at": "2026-04-30T19:44:05.301693+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
@@ -1729,7 +1729,7 @@
       "tags": [
         "agent"
       ],
-      "analyzed_at": "2026-04-30T19:36:16.628248+00:00",
+      "analyzed_at": "2026-04-30T19:44:05.965308+00:00",
       "score_breakdown": {
         "tech_depth": 0.0,
         "practical_value": 0.0,
