@@ -136,20 +136,20 @@ def prepare_record_fields(item: Dict[str, Any]) -> Dict[str, Any]:
     summary = item.get('summary', '')
     tags = item.get('tags', [])
     
-    # ★★★ 关键修复：采集时间使用原始数据中的 collected_at ★★★
-    # collected_at 格式示例：2026-04-26T14:30:00Z
-    collected_at = item.get('collected_at', item.get('created_at', ''))
-    if collected_at:
+    # ★★★ 双时间戳修复（2026-05-01）★★★
+    # 1. GitHub发布时间（来自原始数据 collected_at，保留原有逻辑）
+    source_time = item.get('collected_at', item.get('created_at', ''))
+    if source_time:
         try:
-            # 解析 ISO 格式时间并转换为毫秒时间戳
-            dt = datetime.fromisoformat(collected_at.replace('Z', '+00:00'))
-            collection_time_ms = int(dt.timestamp() * 1000)
+            dt_source = datetime.fromisoformat(source_time.replace('Z', '+00:00'))
+            source_time_ms = int(dt_source.timestamp() * 1000)
         except Exception:
-            # 如果解析失败，使用当前时间
-            collection_time_ms = int(datetime.now().timestamp() * 1000)
-            logger.warning(f"时间解析失败，使用当前时间: {collected_at}")
+            source_time_ms = None
     else:
-        collection_time_ms = int(datetime.now().timestamp() * 1000)
+        source_time_ms = None
+    
+    # 2. 抓取时间（脚本运行时间，供鳌拜分析"当天新增"使用）
+    collection_time_ms = int(datetime.now().timestamp() * 1000)
     
     source_cn = 'GitHub' if source == 'github' else 'Hacker News'
     cleaned_summary = clean_text(summary)
@@ -168,7 +168,8 @@ def prepare_record_fields(item: Dict[str, Any]) -> Dict[str, Any]:
         "英文摘要": cleaned_summary[:1000],
         "标签": cleaned_tags[:200],
         "来源": source_cn,
-        "采集时间": collection_time_ms  # ★★★ 现在使用真实采集时间 ★★★
+        "GitHub发布时间": source_time_ms,
+        "抓取时间": collection_time_ms
     }
     return fields
 
