@@ -1,0 +1,418 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-05-05T07:32:22.852859Z",
+  "analyzed_at": "2026-05-05T07:35:16.967722+00:00",
+  "count": 17,
+  "items": [
+    {
+      "id": 48017948,
+      "title": "Train Your Own LLM from Scratch",
+      "url": "https://github.com/angelos-p/llm-from-scratch",
+      "score": 151,
+      "comments": 18,
+      "author": "kristianpaul",
+      "time": 1777954157,
+      "hn_url": "https://news.ycombinator.com/item?id=48017948",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "To train your own large language model from scratch, start with data collection, preprocess it, then use a framework like PyTorch to build and train the model. Fine-tuning on specific data enhances performance for your use case.",
+      "tags": [
+        "ai",
+        "llm"
+      ],
+      "analyzed_at": "2026-05-05T07:34:42.979964+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48017907,
+      "title": "Hand Drawn QR Codes",
+      "url": "https://sethmlarson.dev/hand-drawn-qr-codes",
+      "score": 56,
+      "comments": 3,
+      "author": "jollyjerry",
+      "time": 1777953721,
+      "hn_url": "https://news.ycombinator.com/item?id=48017907",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Hand-drawn QR codes can be created by tracing a digital QR code onto paper. They work if patterns are accurately followed. This method adds uniqueness and visual appeal.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-05T07:34:44.677693+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48013919,
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+      "score": 385,
+      "comments": 120,
+      "author": "Sean-Der",
+      "time": 1777923767,
+      "hn_url": "https://news.ycombinator.com/item?id=48013919",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "OpenAI delivers low-latency voice AI at scale using advanced neural network architectures and optimized cloud infrastructure. They leverage WebRTC for real-time communication and employ distributed computing to handle large user loads efficiently. Their approach ensures minimal delay in voice interactions.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-05T07:34:46.614780+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48017813,
+      "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
+      "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
+      "score": 77,
+      "comments": 25,
+      "author": "averi",
+      "time": 1777952588,
+      "hn_url": "https://news.ycombinator.com/item?id=48017813",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "CVE-2026-31431 allows privilege escalation in rootless containers, but Podman's design limits its impact. The exploit can grant container root access, but it's contained within the user's permissions. This vulnerability affects container security.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-05T07:34:48.862385+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48015397,
+      "title": "Agent Skills",
+      "url": "https://addyosmani.com/blog/agent-skills/",
+      "score": 227,
+      "comments": 99,
+      "author": "BOOSTERHIDROGEN",
+      "time": 1777930842,
+      "hn_url": "https://news.ycombinator.com/item?id=48015397",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Agent Skills are modular packages that enhance AI agents' capabilities by providing specialized instructions and resources. They follow an open specification and load only when relevant. They transform general agents into specialized ones without repetitive guidance.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-05-05T07:34:50.947440+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48019025,
+      "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
+      "url": "https://www.dbreunig.com/2026/05/04/10-lessons-for-agentic-coding.html",
+      "score": 3,
+      "comments": 0,
+      "author": "ingve",
+      "time": 1777964725,
+      "hn_url": "https://news.ycombinator.com/item?id=48019025",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "When code is cheap, focus on minimal, functional solutions and test them iteratively. Prioritize efficiency and avoid over-engineering. Use cost-effective tools for quick, viable prototypes.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-05-05T07:34:53.168146+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48008104,
+      "title": "Gaps in national food production, worldwide",
+      "url": "https://www.nature.com/articles/s43016-025-01173-4",
+      "score": 48,
+      "comments": 22,
+      "author": "simonebrunozzi",
+      "time": 1777899316,
+      "hn_url": "https://news.ycombinator.com/item?id=48008104",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Over a third of countries worldwide cannot meet self-sufficiency for more than two of seven food groups, with only Guyana meeting all seven. African countries face significant nutrient gaps that national food production cannot address due to water and land constraints. Global food poverty gap has increased, particularly affecting Sub-Saharan Africa and South Asia.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-05T07:34:55.500106+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48012162,
+      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+      "url": "https://www.strix.ai/blog/how-strix-found-zero-auth-vulnerability-dod-backed-startup",
+      "score": 192,
+      "comments": 80,
+      "author": "bearsyankees",
+      "time": 1777916792,
+      "hn_url": "https://news.ycombinator.com/item?id=48012162",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A multi-tenant authorization vulnerability was found in a DoD contractor's API, allowing unauthorized access to military training data. The issue persisted for 150 days. The flaw was discovered by Strix.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-05T07:34:57.450407+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47998158,
+      "title": "Testing macOS on the Apple Network Server 2.0 ROMs",
+      "url": "http://oldvcr.blogspot.com/2026/05/testing-macos-on-apple-network-server.html",
+      "score": 83,
+      "comments": 17,
+      "author": "zdw",
+      "time": 1777823373,
+      "hn_url": "https://news.ycombinator.com/item?id=47998158",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "MacOS was tested on the Apple Network Server 2.0 ROMs, showing it could run on early NuBus Power Macs. Pre-production ROMs allowed it to boot, unlike production ROMs. This was a rare instance of MacOS running on an Apple server.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-05T07:34:59.310082+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48016534,
+      "title": "Y Combinator's Stake in OpenAI (0.6%?)",
+      "url": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
+      "score": 291,
+      "comments": 40,
+      "author": "gyomu",
+      "time": 1777939741,
+      "hn_url": "https://news.ycombinator.com/item?id=48016534",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Y Combinator indirectly held a 0.6% stake in OpenAI through its investment in the startup fund. This stake was later restructured. Y Combinator itself does not directly own shares in OpenAI.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-05T07:35:01.108448+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47987738,
+      "title": "18th-century mechanical volcano roars to life 250 years later",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260502015359.htm",
+      "score": 8,
+      "comments": 1,
+      "author": "samizdis",
+      "time": 1777738913,
+      "hn_url": "https://news.ycombinator.com/item?id=47987738",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "In 2026, two University of Melbourne engineering students revived an 18th-century mechanical volcano design, bringing it to life 250 years after its conception. The project used modern technology to simulate the eruption of Mount Vesuvius.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-05T07:35:03.183967+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48010266,
+      "title": "Sierra Raises $950M at $15B Valuation",
+      "url": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
+      "score": 105,
+      "comments": 130,
+      "author": "doppp",
+      "time": 1777909897,
+      "hn_url": "https://news.ycombinator.com/item?id=48010266",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI startup Sierra, co-founded by Bret Taylor, raised $950 million at a $15 billion valuation. The funding round was led by Tiger Global and Google Ventures. This valuation reflects significant investor confidence in the company's potential.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-05T07:35:05.324241+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48014197,
+      "title": "Transformers Are Inherently Succinct (2025)",
+      "url": "https://arxiv.org/abs/2510.19315",
+      "score": 49,
+      "comments": 6,
+      "author": "bearseascape",
+      "time": 1777924988,
+      "hn_url": "https://news.ycombinator.com/item?id=48014197",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Transformers are highly expressive and can represent formal languages more succinctly than finite automata and LTL. Verifying properties of transformers is EXPSPACE-complete. They recognize star-free languages with fixed precision.",
+      "tags": [
+        "transformer"
+      ],
+      "analyzed_at": "2026-05-05T07:35:07.259693+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48017366,
+      "title": "Why AI Agents Need Proof Chains, Not Just Logs",
+      "url": "https://github.com/rodriguezaa22ar-boop/atlas-trust-infrastructure",
+      "score": 8,
+      "comments": 0,
+      "author": "astra_omnia",
+      "time": 1777947459,
+      "hn_url": "https://news.ycombinator.com/item?id=48017366",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI agents require proof chains, not just logs, to ensure actions are traceable, authorized, and cannot be denied. Proof chains provide non-repudiation and integrity, crucial for accountability.",
+      "tags": [
+        "ai",
+        "agent"
+      ],
+      "analyzed_at": "2026-05-05T07:35:09.340472+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47983333,
+      "title": "Texico: Learn the principles of programming without even touching a computer",
+      "url": "https://www3.nhk.or.jp/nhkworld/en/shows/texico/",
+      "score": 195,
+      "comments": 16,
+      "author": "o4c",
+      "time": 1777696480,
+      "hn_url": "https://news.ycombinator.com/item?id=47983333",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Texico teaches programming principles through animated characters, focusing on analysis, combination, generalization, abstraction, and simulation without using a computer. This new-style education program is popular on Hacker News and Reddit. It's designed for a fun and clear introduction to core programming processes.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-05T07:35:11.296143+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 47983467,
+      "title": "Why are neural networks and cryptographic ciphers so similar? (2025)",
+      "url": "https://reiner.org/neural-net-ciphers",
+      "score": 132,
+      "comments": 47,
+      "author": "jxmorris12",
+      "time": 1777698012,
+      "hn_url": "https://news.ycombinator.com/item?id=47983467",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Neural networks and cryptographic ciphers share similarities because both require complex interactions between all parts of their states to ensure robust performance, emphasizing the importance of every input bit influencing every output bit. This design principle maximizes information utilization in neural networks and ensures strong security in cryptographic ciphers.",
+      "tags": [
+        "neural"
+      ],
+      "analyzed_at": "2026-05-05T07:35:13.628605+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48015218,
+      "title": "'Point of no return': New Orleans relocation must start now due to sea level",
+      "url": "https://www.theguardian.com/us-news/2026/may/04/new-orleans-sea-levels-relocation-climate-crisis",
+      "score": 132,
+      "comments": 145,
+      "author": "dmm",
+      "time": 1777929955,
+      "hn_url": "https://news.ycombinator.com/item?id=48015218",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Relocation of New Orleans must start now due to sea level rise; the city is sinking and below sea level. Immediate action is critical to prevent further loss.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-05T07:35:16.466670+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
