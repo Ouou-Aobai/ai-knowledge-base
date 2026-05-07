@@ -1,0 +1,419 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-05-07T09:45:04.890073Z",
+  "analyzed_at": "2026-05-07T09:45:37.778318+00:00",
+  "count": 17,
+  "items": [
+    {
+      "id": 48042434,
+      "title": "SQLite Is a Library of Congress Recommended Storage Format",
+      "url": "https://sqlite.org/locrsf.html",
+      "score": 247,
+      "comments": 67,
+      "author": "whatisabcdefgh",
+      "time": 1778104723,
+      "hn_url": "https://news.ycombinator.com/item?id=48042434",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The US Library of Congress recommends SQLite for long-term data storage due to its reliability and ease of use. This endorsement highlights SQLite's suitability for archiving and distributing data. The Library's support underscores SQLite's effectiveness as a storage format.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-07T09:45:06.777409+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48037128,
+      "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+      "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+      "score": 595,
+      "comments": 650,
+      "author": "e12e",
+      "time": 1778079997,
+      "hn_url": "https://news.ycombinator.com/item?id=48037128",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Vibe coding and agentic engineering are increasingly overlapping, raising ethical concerns about code reliability. AI-assisted coding is becoming more prevalent, reducing manual code review. This shift raises questions about accountability and code quality.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-05-07T09:45:08.742750+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48046397,
+      "title": "Making LLM Training Faster with Unsloth and NVIDIA",
+      "url": "https://unsloth.ai/blog/nvidia-collab",
+      "score": 35,
+      "comments": 2,
+      "author": "segmenta",
+      "time": 1778138111,
+      "hn_url": "https://news.ycombinator.com/item?id=48046397",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Unsloth accelerates LLM training up to 5x faster using custom kernels and smart packing, reducing VRAM usage and context length. It works well with NVIDIA GPUs, including the RTX 5090.",
+      "tags": [
+        "ai",
+        "llm"
+      ],
+      "analyzed_at": "2026-05-07T09:45:10.740143+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48046023,
+      "title": "Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs",
+      "url": "https://github.com/darkrishabh/agent-skills-eval",
+      "score": 19,
+      "comments": 1,
+      "author": "darkrishabh",
+      "time": 1778134345,
+      "hn_url": "https://news.ycombinator.com/item?id=48046023",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Agent-skills-eval tests if agent skills improve outputs by comparing model performance over time using systematic checks. It evaluates skills through prompts, runs, and scoring against predefined rules. The method ensures skill improvements are genuine, not just behavioral changes.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-05-07T09:45:12.646300+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48044311,
+      "title": "The Vatican's Website in Latin",
+      "url": "https://www.vatican.va/latin/latin_index.html",
+      "score": 149,
+      "comments": 86,
+      "author": "ks2048",
+      "time": 1778117163,
+      "hn_url": "https://news.ycombinator.com/item?id=48044311",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Vatican's official website now includes a Latin section called \"Sancta Sedes,\" featuring key Church documents. Latin remains the official language of the Catholic Church. Press statements continue in Italian, English, or French.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-07T09:45:14.686804+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48037724,
+      "title": "Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem",
+      "url": "https://tilde.run/",
+      "score": 161,
+      "comments": 116,
+      "author": "ozkatz",
+      "time": 1778083114,
+      "hn_url": "https://news.ycombinator.com/item?id=48037724",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Tilde.run is an agent sandbox with a transactional, versioned filesystem. It allows users to run agents in isolated environments. It supports version control for the filesystem.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-05-07T09:45:16.548384+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48045384,
+      "title": "Building the TD4 4-Bit CPU",
+      "url": "https://jayakody2000lk.blogspot.com/2026/05/building-td4-4-bit-cpu.html",
+      "score": 18,
+      "comments": 6,
+      "author": "zdw",
+      "time": 1778127943,
+      "hn_url": "https://news.ycombinator.com/item?id=48045384",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The TD4 is a 4-bit CPU based on Kaoru Tonami's book \"How to Build a CPU.\" It uses 74-series TTL logic ICs and includes a 16-byte ROM. The design is open-source and available on GitHub and as a DIY kit.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-07T09:45:18.307973+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48040002,
+      "title": "Learning the Integral of a Diffusion Model",
+      "url": "https://sander.ai/2026/05/06/flow-maps.html",
+      "score": 133,
+      "comments": 21,
+      "author": "benanne",
+      "time": 1778093187,
+      "hn_url": "https://news.ycombinator.com/item?id=48040002",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Diffusion models integrate stochastic processes to transform noise into data, using iterative denoisers. Flow maps predict paths between noise and data. Learning to integrate diffusion ODEs via derivative averaging speeds up sampling.",
+      "tags": [
+        "diffusion"
+      ],
+      "analyzed_at": "2026-05-07T09:45:20.300385+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48027455,
+      "title": "A Theory of Deep Learning",
+      "url": "https://elonlit.com/scrivings/a-theory-of-deep-learning/",
+      "score": 190,
+      "comments": 46,
+      "author": "elonlit",
+      "time": 1778009928,
+      "hn_url": "https://news.ycombinator.com/item?id=48027455",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Deep learning theory explores why neural networks work effectively despite their complexity. It focuses on understanding the role of overparameterization and depth in separating signal from noise. Current research suggests that deep learning's success lies in its ability to manage noise effectively.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-07T09:45:22.307831+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48040622,
+      "title": "Inkscape 1.4.4",
+      "url": "https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html",
+      "score": 308,
+      "comments": 89,
+      "author": "s1291",
+      "time": 1778096005,
+      "hn_url": "https://news.ycombinator.com/item?id=48040622",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Inkscape 1.4.4 is a maintenance update with 20 crash fixes, performance improvements, and new features. It includes a new color palette and support for Windows on Arm. The release candidate is available for testing.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-07T09:45:24.059720+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48038019,
+      "title": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
+      "url": "https://play.templatical.com",
+      "score": 132,
+      "comments": 32,
+      "author": "oahmadov",
+      "time": 1778084400,
+      "hn_url": "https://news.ycombinator.com/item?id=48038019",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "An open-source email builder alternative to Beefree and Unlayer was created. It is available at play.templatical.com. It aims to provide a functional open-source solution.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-07T09:45:25.681826+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48006967,
+      "title": "The bottleneck was never the code",
+      "url": "https://www.thetypicalset.com/blog/thoughts-on-coding-agents",
+      "score": 556,
+      "comments": 369,
+      "author": "Anon84",
+      "time": 1777891575,
+      "hn_url": "https://news.ycombinator.com/item?id=48006967",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The bottleneck in software development is not writing code; it's the time-consuming processes of code reviews, testing, debugging, and coordination. With advances in tools like LLMs, writing code has become less of a bottleneck, but other aspects like understanding and integrating new code remain challenging.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-07T09:45:27.444994+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48037986,
+      "title": "Higher usage limits for Claude and a compute deal with SpaceX",
+      "url": "https://www.anthropic.com/news/higher-limits-spacex",
+      "score": 459,
+      "comments": 420,
+      "author": "meetpateltech",
+      "time": 1778084253,
+      "hn_url": "https://news.ycombinator.com/item?id=48037986",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Anthropic has increased usage limits for its chatbot, Claude, due to a compute deal with SpaceX, providing access to more GPUs and doubling API rate limits. This partnership enhances computational capacity and usage efficiency. Effective immediately, Pro and Max users can double their API usage.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-07T09:45:29.193192+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48031684,
+      "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
+      "url": "https://blog.cloudflare.com/agents-stripe-projects/",
+      "score": 635,
+      "comments": 358,
+      "author": "rolph",
+      "time": 1778037033,
+      "hn_url": "https://news.ycombinator.com/item?id=48031684",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Agents can now create Cloudflare accounts, buy domains, and deploy services directly through Cloudflare and Stripe's new protocol. This enables seamless integration for automated coding agents.",
+      "tags": [
+        "ai",
+        "agent"
+      ],
+      "analyzed_at": "2026-05-07T09:45:30.969578+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48019219,
+      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+      "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+      "score": 1670,
+      "comments": 1103,
+      "author": "john-doe",
+      "time": 1777966495,
+      "hn_url": "https://news.ycombinator.com/item?id=48019219",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Google Chrome installs a 4 GB AI model without user consent. This practice has raised privacy concerns and potential legal issues. Users can disable it via browser settings or uninstall Chrome.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-07T09:45:33.772553+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48031261,
+      "title": "StarFighter 16-Inch",
+      "url": "https://us.starlabs.systems/pages/starfighter",
+      "score": 656,
+      "comments": 364,
+      "author": "signa11",
+      "time": 1778033024,
+      "hn_url": "https://news.ycombinator.com/item?id=48031261",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The StarFighter 16-inch is a Linux-exclusive laptop with a removable webcam, 4K display, and open-source firmware. It offers a 1-year limited warranty for open-source modifications. Available with AMD or Intel processors.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-07T09:45:35.416812+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48023496,
+      "title": "Show HN: Airbyte Agents – context for agents across multiple data sources",
+      "url": "",
+      "score": 141,
+      "comments": 42,
+      "author": "mtricot",
+      "time": 1777993398,
+      "hn_url": "https://news.ycombinator.com/item?id=48023496",
+      "text": "I’m Michel, co-founder and CEO of Airbyte (<a href=\"https:&#x2F;&#x2F;airbyte.com&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;airbyte.com&#x2F;</a>). We’ve spent the last six years building data connectors. Today we&#x27;re launching Airbyte Agents (<a href=\"https:&#x2F;&#x2F;docs.airbyte.com&#x2F;ai-agents&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;docs.airbyte.com&#x2F;ai-agents&#x2F;</a>), a unified data layer for agents to discover information and take action across operational systems.<p>Here’s a ",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Airbyte Agents provide a context layer for AI agents to access data from multiple SaaS tools efficiently, reducing token usage significantly. It uses a Context Store for optimized search. Launched by Airbyte, it aims to improve agent performance across tools.",
+      "tags": [
+        "ai",
+        "agent"
+      ],
+      "analyzed_at": "2026-05-07T09:45:37.277086+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
