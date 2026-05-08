@@ -1,0 +1,632 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-05-08T06:18:51.285562Z",
+  "analyzed_at": "2026-05-08T06:22:03.845918+00:00",
+  "count": 26,
+  "items": [
+    {
+      "id": 48056227,
+      "title": "Maybe you shouldn't install new software for a bit",
+      "url": "https://xeiaso.net/blog/2026/abstain-from-install/",
+      "score": 371,
+      "comments": 166,
+      "author": "psxuaw",
+      "time": 1778194931,
+      "hn_url": "https://news.ycombinator.com/item?id=48056227",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Recent Linux kernel vulnerabilities increase risk; consider delaying new software installations for a week. This advice helps avoid potential supply chain attacks.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-08T06:21:14.676028+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48054423,
+      "title": "Cloudflare to cut about 20% workforce",
+      "url": "https://www.reuters.com/business/world-at-work/cloudflare-cut-over-1100-jobs-2026-05-07/",
+      "score": 530,
+      "comments": 315,
+      "author": "PriorityLeft",
+      "time": 1778185417,
+      "hn_url": "https://news.ycombinator.com/item?id=48054423",
+      "text": "<a href=\"https:&#x2F;&#x2F;blog.cloudflare.com&#x2F;building-for-the-future&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;blog.cloudflare.com&#x2F;building-for-the-future&#x2F;</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Cloudflare announced it will cut about 20% of its workforce due to increased use of AI tools. The layoffs are part of a restructuring to adapt to the \"agentic AI era.\" This move follows similar large-scale layoffs in the tech industry.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-08T06:21:16.595803+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48053623,
+      "title": "Dirtyfrag: Universal Linux LPE",
+      "url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+      "score": 551,
+      "comments": 223,
+      "author": "flipped",
+      "time": 1778181692,
+      "hn_url": "https://news.ycombinator.com/item?id=48053623",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Dirty Frag is a local privilege escalation vulnerability in Linux. It allows attackers with SSH access to become root. Patches are urgently needed.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-08T06:21:18.792884+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48058644,
+      "title": "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
+      "url": "https://github.com/graemeg/blaise",
+      "score": 13,
+      "comments": 1,
+      "author": "peter_d_sherman",
+      "time": 1778215442,
+      "hn_url": "https://news.ycombinator.com/item?id=48058644",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Blaise is a modern self-hosting zero-legacy Object Pascal compiler. It targets QBE and directly emits native x86 code without external assemblers or linkers. It is designed for easy integration into larger software projects.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-08T06:21:20.712751+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48051562,
+      "title": "Agents need control flow, not more prompts",
+      "url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+      "score": 416,
+      "comments": 205,
+      "author": "bsuh",
+      "time": 1778172215,
+      "hn_url": "https://news.ycombinator.com/item?id=48051562",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Reliable agents require deterministic control flow in software, not complex prompt chains. Control flow ensures reliability and error detection. Prompts are non-deterministic and hard to verify.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-05-08T06:21:22.646066+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48021023,
+      "title": "A polynomial autoencoder beats PCA on transformer embeddings",
+      "url": "https://ivanpleshkov.dev/blog/polynomial-autoencoder/",
+      "score": 11,
+      "comments": 1,
+      "author": "timvisee",
+      "time": 1777980672,
+      "hn_url": "https://news.ycombinator.com/item?id=48021023",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A polynomial autoencoder can outperform PCA on transformer embeddings due to its ability to capture non-linear relationships. Autoencoders are generally better for complex, non-linear data compared to PCA. This makes them suitable for advanced dimensionality reduction tasks.",
+      "tags": [
+        "transformer"
+      ],
+      "analyzed_at": "2026-05-08T06:21:24.571899+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48036746,
+      "title": "How to make SSE token streams resumable, cancellable, and multi-device",
+      "url": "https://zknill.io/posts/everyone-said-sse-token-streaming-was-easy/",
+      "score": 15,
+      "comments": 0,
+      "author": "zknill",
+      "time": 1778077902,
+      "hn_url": "https://news.ycombinator.com/item?id=48036746",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "To make SSE token streams resumable, cancellable, and multi-device, store tokens in a database or cache, use Last-Event-ID for resumption, and implement server-side logic to manage cancellations.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-08T06:21:26.585816+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48052537,
+      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+      "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+      "score": 249,
+      "comments": 81,
+      "author": "instagraham",
+      "time": 1778176442,
+      "hn_url": "https://news.ycombinator.com/item?id=48052537",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Natural Language Autoencoders (NLAs) decode AI model activations into readable text, enhancing model transparency and safety. NLAs consist of an activation verbalizer and reconstructor, improving understanding of model internals. They have been used to diagnose safety issues in AI models like Claude.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-08T06:21:28.384533+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48056268,
+      "title": "Plasticity and language in the anaesthetized human hippocampus",
+      "url": "https://www.bcm.edu/news/researchers-discover-advanced-language-processing-in-the-unconscious-human-brain",
+      "score": 91,
+      "comments": 34,
+      "author": "hhs",
+      "time": 1778195204,
+      "hn_url": "https://news.ycombinator.com/item?id=48056268",
+      "text": "<a href=\"https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41586-026-10448-0\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41586-026-10448-0</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The hippocampus retains neural plasticity and processes language under anesthesia. Studies show it can detect oddball tones and semantic features of speech even when unconscious. This challenges traditional views on the hippocampus's role during unconsciousness.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-08T06:21:30.244866+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48050278,
+      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+      "url": "https://deepmind.google/blog/alphaevolve-impact/",
+      "score": 274,
+      "comments": 120,
+      "author": "berlianta",
+      "time": 1778166140,
+      "hn_url": "https://news.ycombinator.com/item?id=48050278",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AlphaEvolve is a Gemini-powered coding agent that optimizes algorithms for various fields, enhancing efficiency in Google's data centers and chip design. It combines large language models with automated evaluators to discover and optimize new algorithms. Its impact spans scientific and algorithmic discovery.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-05-08T06:21:32.169113+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48053203,
+      "title": "AI slop is killing online communities",
+      "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+      "score": 573,
+      "comments": 510,
+      "author": "thm",
+      "time": 1778179585,
+      "hn_url": "https://news.ycombinator.com/item?id=48053203",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI-generated content is overwhelming online communities, diminishing genuine human interaction and engagement. This trend is degrading the quality of online discourse. The prevalence of AI slop is eroding trust and authenticity.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-08T06:21:34.980007+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48032968,
+      "title": "Singapore introduces caning for boys who bully others at school",
+      "url": "https://www.theguardian.com/world/2026/may/06/singapore-caning-school-bullies",
+      "score": 133,
+      "comments": 139,
+      "author": "rustoo",
+      "time": 1778048993,
+      "hn_url": "https://news.ycombinator.com/item?id=48032968",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Singapore has introduced caning as a punishment for male students aged nine and above who bully others at school. This measure is used as a last resort and can involve up to three strokes of the cane. The policy considers the student's maturity and the potential effectiveness of the punishment.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-08T06:21:36.965020+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48051079,
+      "title": "Hardening Firefox with Claude Mythos Preview",
+      "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
+      "score": 131,
+      "comments": 73,
+      "author": "HieronymusBosch",
+      "time": 1778169933,
+      "hn_url": "https://news.ycombinator.com/item?id=48051079",
+      "text": "<a href=\"https:&#x2F;&#x2F;arstechnica.com&#x2F;information-technology&#x2F;2026&#x2F;05&#x2F;mozilla-says-271-vulnerabilities-found-by-mythos-have-almost-no-false-positives&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;arstechnica.com&#x2F;information-technology&#x2F;2026&#x2F;05&#x2F;mozil...</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Firefox recently fixed 271 security vulnerabilities using AI model Claude Mythos Preview. This update is part of ongoing efforts to enhance browser security. The fixes were included in Firefox version 150.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-08T06:21:38.609497+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48053842,
+      "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
+      "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
+      "score": 75,
+      "comments": 18,
+      "author": "jruohonen",
+      "time": 1778182716,
+      "hn_url": "https://news.ycombinator.com/item?id=48053842",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Two Home Affairs officials were suspended due to AI-generated \"hallucinations\" in a policy document. The department is investigating and reviewing all documents since November 2022. The issue was found in references appended to a revised white paper.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-08T06:21:40.901665+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48058340,
+      "title": "US will start revoking passports for parents who owe child support",
+      "url": "https://apnews.com/article/passports-unpaid-child-support-penalty-state-department-42d90cfa8a06ee349bb9145f668919b6",
+      "score": 22,
+      "comments": 4,
+      "author": "OutOfHere",
+      "time": 1778212334,
+      "hn_url": "https://news.ycombinator.com/item?id=48058340",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The U.S. State Department has begun revoking passports of parents who owe $100,000 or more in unpaid child support. This affects about 2,700 American passport holders. The process started on May 7, 2026.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-08T06:21:43.099777+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48052333,
+      "title": "Principles for agent-native CLIs",
+      "url": "https://twitter.com/trevin/status/2051316002730991795",
+      "score": 83,
+      "comments": 43,
+      "author": "blumpy22",
+      "time": 1778175605,
+      "hn_url": "https://news.ycombinator.com/item?id=48052333",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Agent-native CLIs prioritize structured output, schema introspection, and composable commands for efficient use by AI agents. They enforce consistent naming rules and support iterative improvement. These CLIs enhance agent workflows and reduce friction.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-05-08T06:21:44.335562+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48050964,
+      "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
+      "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
+      "score": 534,
+      "comments": 201,
+      "author": "newsoftheday",
+      "time": 1778169393,
+      "hn_url": "https://news.ycombinator.com/item?id=48050964",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Google removed the claim in Chrome that on-device AI models would not send data to Google servers, likely indicating data will now be sent. This change was first spotted in April and discussed on Hacker News and Reddit.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-08T06:21:46.143366+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48027275,
+      "title": "Tools in the Grass: Raising the next generation of crafts person",
+      "url": "https://www.popularwoodworking.com/editors-blog/tools-in-the-grass/",
+      "score": 42,
+      "comments": 3,
+      "author": "NaOH",
+      "time": 1778009099,
+      "hn_url": "https://news.ycombinator.com/item?id=48027275",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Traditional handcraft techniques are being revived to teach the next generation skills using only hand tools, emphasizing patience and heritage. This movement focuses on sustainable practices and preserving craftsmanship.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-08T06:21:48.259627+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48056804,
+      "title": "Komai: a fine Matrix chat app you can get to love",
+      "url": "https://etke.cc/blog/introducing-komai",
+      "score": 42,
+      "comments": 20,
+      "author": "anotherevan",
+      "time": 1778199044,
+      "hn_url": "https://news.ycombinator.com/item?id=48056804",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Komai is a native Matrix chat app that is open source, free, and designed for Linux. It emphasizes clean design and avoids Electron. It received positive feedback for its features.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-08T06:21:50.346913+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48057842,
+      "title": "Claude Code CVE-2026-39861:sandbox escape via symlink",
+      "url": "https://github.com/advisories/GHSA-vp62-r36r-9xqp",
+      "score": 5,
+      "comments": 1,
+      "author": "Armor1AI",
+      "time": 1778207995,
+      "hn_url": "https://news.ycombinator.com/item?id=48057842",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "CVE-2026-39861 is a sandbox escape vulnerability in Anthropic's Claude Code before version 2.1.64, allowing attackers to create symlinks outside the workspace, leading to arbitrary file writes and potential code execution outside the sandbox. The vulnerability was rated high severity with a CVSS score of 7.7. Update to version 2.1.64 or later to mitigate the risk.",
+      "tags": [
+        "ml"
+      ],
+      "analyzed_at": "2026-05-08T06:21:52.442140+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48057209,
+      "title": "GPT-5.5 Price Increase: What It Costs",
+      "url": "https://openrouter.ai/announcements/gpt55-cost-analysis",
+      "score": 7,
+      "comments": 0,
+      "author": "gmays",
+      "time": 1778202148,
+      "hn_url": "https://news.ycombinator.com/item?id=48057209",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "GPT-5.5 costs double the price of GPT-5.4, with input tokens at $5.00/M and output tokens at $30/M. The price increase is partially offset by 19-34% fewer completion tokens for longer prompts.",
+      "tags": [
+        "gpt"
+      ],
+      "analyzed_at": "2026-05-08T06:21:54.235963+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48027346,
+      "title": "The Traveling Salesdog Problem",
+      "url": "https://www.wespiser.com/posts/2026-05-04-traveling-salesdog.html",
+      "score": 22,
+      "comments": 5,
+      "author": "wespiser_2018",
+      "time": 1778009435,
+      "hn_url": "https://news.ycombinator.com/item?id=48027346",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Traveling Salesman Problem seeks the shortest route visiting each city once and returning to the start. It's an NP-complete problem, meaning no polynomial-time solution exists. A greedy algorithm can provide an approximate solution.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-08T06:21:56.094016+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48056128,
+      "title": "Let Me Convince You to Be Prolific",
+      "url": "https://3quarksdaily.com/3quarksdaily/2026/05/let-me-convince-you-to-be-prolific.html",
+      "score": 16,
+      "comments": 1,
+      "author": "herbertl",
+      "time": 1778194252,
+      "hn_url": "https://news.ycombinator.com/item?id=48056128",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "To be prolific means to consistently produce and publish a lot of work. The key is to focus on output rather than perfection. Aim for regular, substantial contributions.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-08T06:21:57.962920+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48058221,
+      "title": "Utah data center: Projected daily heat equivalent to 23 atomic bombs",
+      "url": "https://www.abc4.com/news/northern-utah/box-elder-data-center-heat-atomic-bombs/",
+      "score": 18,
+      "comments": 10,
+      "author": "WarOnPrivacy",
+      "time": 1778211448,
+      "hn_url": "https://news.ycombinator.com/item?id=48058221",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A Utah data center is projected to generate daily heat equivalent to 23 atomic bombs. This immense heat is due to the high energy consumption of the data center operations. The facility's efficiency and thermal load are critical factors in this projection.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-08T06:21:59.672869+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48049208,
+      "title": "Child marriages plunged when girls stayed in school in Nigeria",
+      "url": "https://www.nature.com/articles/d41586-026-00720-8",
+      "score": 351,
+      "comments": 279,
+      "author": "surprisetalk",
+      "time": 1778160604,
+      "hn_url": "https://news.ycombinator.com/item?id=48049208",
+      "text": "Related: <a href=\"https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;d41586-026-00796-2\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;d41586-026-00796-2</a> (<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;otvAa\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;otvAa</a>)",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Girls staying in school in Nigeria led to an 80% reduction in child marriages. Education significantly lowered child marriage rates. This trend highlights the impact of education on reducing child marriages.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-08T06:22:01.473130+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48040465,
+      "title": "OpenBSD Stories: The closest thing to cute kittens (OpenBSD/zaurus)",
+      "url": "http://miod.online.fr/software/openbsd/stories/zaurus1.html",
+      "score": 71,
+      "comments": 8,
+      "author": "zdw",
+      "time": 1778095278,
+      "hn_url": "https://news.ycombinator.com/item?id=48040465",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "OpenBSD Stories details the development of OpenBSD on Sharp Zaurus systems, highlighting its unique challenges and achievements. The project aims for publication in 2026. The story emphasizes the community's dedication to expanding OpenBSD's reach.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-08T06:22:03.344877+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
