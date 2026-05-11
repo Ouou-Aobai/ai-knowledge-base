@@ -1,0 +1,585 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-05-11T11:48:20.566933Z",
+  "analyzed_at": "2026-05-11T11:51:23.424219+00:00",
+  "count": 24,
+  "items": [
+    {
+      "id": 48085821,
+      "title": "Local AI needs to be the norm",
+      "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+      "score": 1258,
+      "comments": 530,
+      "author": "cylo",
+      "time": 1778433568,
+      "hn_url": "https://news.ycombinator.com/item?id=48085821",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Local AI is becoming the norm for processing user-owned data, offering privacy benefits and repurposing existing hardware. It excels in tasks like summarizing emails and categorizing documents, while cloud models remain for broader searches.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:50:35.068061+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48090521,
+      "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
+      "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
+      "score": 199,
+      "comments": 89,
+      "author": "susam",
+      "time": 1778467414,
+      "hn_url": "https://news.ycombinator.com/item?id=48090521",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "James Burke is celebrated for a single perfect shot in the 1978 BBC series \"Connections.\" This moment is often cited as the greatest in television history. The scene was his only chance to capture it perfectly.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:50:37.064387+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48058260,
+      "title": "Guitar tuner that uses phone accelerometer",
+      "url": "https://tautme.github.io/phone-sensors/accel-tuner.html",
+      "score": 39,
+      "comments": 13,
+      "author": "adm4",
+      "time": 1778211788,
+      "hn_url": "https://news.ycombinator.com/item?id=48058260",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A guitar tuner uses a phone's accelerometer to detect vibrations from the guitar body. It measures the combined magnitude of vibrations to determine pitch. This method works best on Android devices with high-rate IMU sensors.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:50:39.242694+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48088576,
+      "title": "Obsidian plugin was abused to deploy a remote access trojan",
+      "url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
+      "score": 240,
+      "comments": 126,
+      "author": "cmbailey",
+      "time": 1778450563,
+      "hn_url": "https://news.ycombinator.com/item?id=48088576",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A remote access trojan called PHANTOMPULSE was deployed via an abused Obsidian plugin, targeting finance and crypto sectors. The attack exploited legitimate plugins to execute code silently. Traditional AV detections were evaded through JSON configuration files.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:50:41.195997+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48089289,
+      "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
+      "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
+      "score": 192,
+      "comments": 47,
+      "author": "cratermoon",
+      "time": 1778456395,
+      "hn_url": "https://news.ycombinator.com/item?id=48089289",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI coding agents can be costly for small changes due to overhead and token usage. They often provide short-term benefits but can lead to long-term maintenance cost increases. Optimize usage to minimize these costs.",
+      "tags": [
+        "ai",
+        "agent"
+      ],
+      "analyzed_at": "2026-05-11T11:50:43.462216+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48086082,
+      "title": "Incident Report: CVE-2024-YIKES",
+      "url": "https://nesbitt.io/2026/02/03/incident-report-cve-2024-yikes.html",
+      "score": 562,
+      "comments": 144,
+      "author": "miniBill",
+      "time": 1778434990,
+      "hn_url": "https://news.ycombinator.com/item?id=48086082",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "CVE-2024-YIKES involved a supply chain attack affecting millions of developers. A compromised Rust library was exploited, leading to credential theft. The attack was inadvertently patched by a cryptocurrency mining worm.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:50:45.498366+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48091737,
+      "title": "Mythos Finds a Curl Vulnerability",
+      "url": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
+      "score": 220,
+      "comments": 85,
+      "author": "TangerineDream",
+      "time": 1778481548,
+      "hn_url": "https://news.ycombinator.com/item?id=48091737",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Mythos, an AI model, autonomously discovered a 27-year-old vulnerability in OpenBSD's TCP stack and reported 15 vulnerabilities in OpenSSL and five in curl. The White House restricted access to this discovery due to national security concerns.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:50:47.357800+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48092367,
+      "title": "The Adventure Family Tree",
+      "url": "https://mipmip.org/advfamily/advfamily.html",
+      "score": 7,
+      "comments": 0,
+      "author": "exvi",
+      "time": 1778487392,
+      "hn_url": "https://news.ycombinator.com/item?id=48092367",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Adventure Family Tree details the lineage of text-based adventure games, tracing from the original Colossal Cave Adventure to modern adaptations. It includes Crowther and Woods' original game and its descendants. The tree is incomplete but covers significant evolutions in interactive fiction.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:50:49.482655+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48070571,
+      "title": "Venom and Hot Peppers Offer a Key to Killing Resistant Bacteria",
+      "url": "https://www.wired.com/story/mexican-science-transforms-scorpion-venom-and-habanero-chile-into-antibiotics-against-resistant-bacteria/",
+      "score": 9,
+      "comments": 1,
+      "author": "littlexsparkee",
+      "time": 1778287342,
+      "hn_url": "https://news.ycombinator.com/item?id=48070571",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Researchers have developed three new antibiotics from scorpion venom and habanero peppers to combat tuberculosis and other drug-resistant pathogens. These antibiotics show promise in treating infections that traditional drugs cannot. The innovation is a significant step forward in the fight against resistant bacteria.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:50:52.121489+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48090276,
+      "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
+      "url": "https://github.com/adamjgmiller/adamsreview",
+      "score": 41,
+      "comments": 16,
+      "author": "adamthegoalie",
+      "time": 1778465189,
+      "hn_url": "https://news.ycombinator.com/item?id=48090276",
+      "text": "I built adamsreview, a Claude Code plugin that runs deeper, multi-stage PR reviews using parallel sub-agents, validation passes, persistent JSON state, and optional ensemble review via Codex CLI and PR bot comments.<p>On my own PRs, it has been catching dramatically more real bugs than Claude’s built-in &#x2F;review, &#x2F;ultrareview, CodeRabbit, Greptile, and Codex’s built-in review, while producing fewer false positives.<p>adamsreview is six Claude Code slash commands packaged as a plugin: re",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Adamsreview is a plugin for Claude Code that enhances pull request reviews using multiple AI agents for deeper analysis, catching more bugs with fewer false positives. It includes six commands for comprehensive review processes.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-05-11T11:50:54.241563+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48089049,
+      "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
+      "url": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
+      "score": 98,
+      "comments": 33,
+      "author": "adunk",
+      "time": 1778454151,
+      "hn_url": "https://news.ycombinator.com/item?id=48089049",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Claude, acting as a user space IP stack, typically responds to pings with minimal latency, often in the range of a few milliseconds. This speed is due to its lightweight design and efficient processing. Exact response times can vary based on system load and network conditions.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:50:56.387430+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48093043,
+      "title": "All Those A.I. Note Takers? They're Making Lawyers Nervous",
+      "url": "https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html",
+      "score": 18,
+      "comments": 5,
+      "author": "JumpCrisscross",
+      "time": 1778493887,
+      "hn_url": "https://news.ycombinator.com/item?id=48093043",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI note takers are causing concern among lawyers due to potential issues with context and discretion in capturing meeting details. This trend has sparked discussions about the implications for legal confidentiality and accuracy.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:50:58.364599+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48067698,
+      "title": "Guy Goma's Accidental BBC Interview Lives on After 20 Years",
+      "url": "https://www.nytimes.com/2026/05/06/business/media/bbc-guy-goma-interview.html",
+      "score": 134,
+      "comments": 30,
+      "author": "nxobject",
+      "time": 1778269005,
+      "hn_url": "https://news.ycombinator.com/item?id=48067698",
+      "text": "<a href=\"https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;05&#x2F;06&#x2F;business&#x2F;media&#x2F;bbc-guy-goma-interview.html?unlocked_article_code=1.hlA.GiwW.3byWfPAySofD&amp;smid=nytcore-android-share\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nytimes.com&#x2F;2026&#x2F;05&#x2F;06&#x2F;business&#x2F;media&#x2F;bbc-guy-go...</a><p><a href=\"https:&#x2F;&#x2F;archive.is&#x2F;xZgBI\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.is&#x2F;xZgBI</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Guy Goma was mistakenly interviewed by BBC in 2006 for a legal case, not an IT job. The blunder became famous and is remembered 20 years later. Goma reflects on the incident as a significant broadcasting error.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:51:01.097105+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48092028,
+      "title": "Gmail registration now requires scanning a QR code and sending a text message",
+      "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
+      "score": 12,
+      "comments": 2,
+      "author": "negura",
+      "time": 1778484414,
+      "hn_url": "https://news.ycombinator.com/item?id=48092028",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Gmail registration now uses QR codes and text messages for verification instead of traditional SMS codes. This change aims to enhance security. Be cautious of phishing attempts using QR codes.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:51:03.100720+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48073201,
+      "title": "I returned to AWS and was reminded why I left",
+      "url": "http://fourlightyears.blogspot.com/2026/05/i-returned-to-aws-and-was-reminded-hard.html",
+      "score": 784,
+      "comments": 553,
+      "author": "andrewstuart",
+      "time": 1778315861,
+      "hn_url": "https://news.ycombinator.com/item?id=48073201",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Former AWS employees return due to missed company culture and values; some left for personal projects but find the work environment appealing.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:51:05.016515+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48093446,
+      "title": "I Work in Hollywood. Everyone Who Used to Make TV Is Now Training AI",
+      "url": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/",
+      "score": 10,
+      "comments": 7,
+      "author": "joozio",
+      "time": 1778497504,
+      "hn_url": "https://news.ycombinator.com/item?id=48093446",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Many Hollywood professionals are now training AI to understand its impact, fearing it could replace their jobs. Joseph Gordon-Levitt criticizes using AI to replicate actors' performances. This shift reflects broader industry concerns about AI's future role.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:51:07.082845+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48085782,
+      "title": "Traces Of Humanity",
+      "url": "https://tracesofhumanity.org/hello-world/",
+      "score": 160,
+      "comments": 24,
+      "author": "alex77456",
+      "time": 1778433310,
+      "hn_url": "https://news.ycombinator.com/item?id=48085782",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Millions of stone tools, figurines, and paintings reveal early human life and technological advancements. Fossils of anatomically modern humans suggest traces will likely persist for millions of years. In a thousand years, most human traces will vanish, with Mt Rushmore being a notable exception.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:51:08.908194+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48061602,
+      "title": "Stop MitM on the first SSH connection, on any VPS or cloud provider",
+      "url": "https://www.joachimschipper.nl/Stop%20MITM%20on%20the%20first%20SSH%20connection,%20on%20any%20VPS%20or%20cloud%20provider.html",
+      "score": 122,
+      "comments": 66,
+      "author": "JoachimSchipper",
+      "time": 1778239598,
+      "hn_url": "https://news.ycombinator.com/item?id=48061602",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "To stop MitM on the first SSH connection, use a temporary SSH host key via cloud-init to generate a long-term key securely. This method protects initial connections from attacks.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:51:11.160140+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48081469,
+      "title": "Task Paralysis and AI",
+      "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
+      "score": 244,
+      "comments": 124,
+      "author": "MrGilbert",
+      "time": 1778394050,
+      "hn_url": "https://news.ycombinator.com/item?id=48081469",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Task paralysis is a mental state where overwhelming choices lead to inaction. AI can help by filtering options and prioritizing tasks. Effective use of AI can reduce task paralysis.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:51:12.966107+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48088151,
+      "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
+      "score": 266,
+      "comments": 152,
+      "author": "lemonberry",
+      "time": 1778447818,
+      "hn_url": "https://news.ycombinator.com/item?id=48088151",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Maryland faces a $2 billion grid upgrade bill for out-of-state AI data centers, prompting complaints to federal regulators. The state argues this extra cost breaks its ratepayer protection promises. The upgrade aims to meet demand from power-hungry AI systems.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:51:14.970189+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48082396,
+      "title": "Think Linear Algebra (2023)",
+      "url": "https://allendowney.github.io/ThinkLinearAlgebra/index.html",
+      "score": 205,
+      "comments": 27,
+      "author": "tamnd",
+      "time": 1778406033,
+      "hn_url": "https://news.ycombinator.com/item?id=48082396",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Think Linear Algebra (2023) is a modern textbook on linear algebra using Python. It emphasizes practical applications and computational techniques. The book is freely available online.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:51:16.794038+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48071262,
+      "title": "A recent experience with ChatGPT 5.5 Pro",
+      "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+      "score": 694,
+      "comments": 522,
+      "author": "_alternator_",
+      "time": 1778294502,
+      "hn_url": "https://news.ycombinator.com/item?id=48071262",
+      "text": "<a href=\"https:&#x2F;&#x2F;twitter.com&#x2F;wtgowers&#x2F;status&#x2F;2052830948685676605\" rel=\"nofollow\">https:&#x2F;&#x2F;twitter.com&#x2F;wtgowers&#x2F;status&#x2F;2052830948685676605</a><p><a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;wtgowers&#x2F;status&#x2F;2052830948685676605\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;wtgowers&#x2F;status&#x2F;2052830948685676605</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "I am an AI system built by a team of inventors at Amazon. Recent experiences highlight the advanced capabilities of my latest version in providing precise and efficient responses.",
+      "tags": [
+        "gpt"
+      ],
+      "analyzed_at": "2026-05-11T11:51:18.615509+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48084432,
+      "title": "Louis Rossmann offers to pay legal fees for a threatened OrcaSlicer developer",
+      "url": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
+      "score": 549,
+      "comments": 293,
+      "author": "iancmceachern",
+      "time": 1778424425,
+      "hn_url": "https://news.ycombinator.com/item?id=48084432",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Louis Rossmann pledged $10,000 to cover legal fees for a developer threatened by Bambu Lab. The developer faced a cease and desist over a fork of OrcaSlicer. Rossmann supports the Right to Repair movement.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:51:21.006589+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48080702,
+      "title": "Gemini API File Search is now multimodal",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/",
+      "score": 148,
+      "comments": 42,
+      "author": "gmays",
+      "time": 1778383322,
+      "hn_url": "https://news.ycombinator.com/item?id=48080702",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Gemini API File Search tool now supports multimodal retrieval, allowing for image and text searches. This update enhances precision and transparency in building RAG systems. The latest version was released in 2026.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:51:22.923343+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}

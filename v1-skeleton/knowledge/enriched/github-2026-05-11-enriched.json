@@ -1,0 +1,1746 @@
+{
+  "source": "github",
+  "collected_at": "2026-05-11T11:48:07.472189Z",
+  "analyzed_at": "2026-05-11T11:50:33.489389+00:00",
+  "count": 50,
+  "items": [
+    {
+      "id": "strukto-ai/mirage",
+      "title": "mirage",
+      "description": "A Unified Virtual Filesystem For AI Agents",
+      "url": "https://github.com/strukto-ai/mirage",
+      "stars": 1849,
+      "language": "TypeScript",
+      "topics": [
+        "agent-sandbox",
+        "agent-tools",
+        "ai-agents",
+        "bash",
+        "claude-code",
+        "fuse",
+        "langchain",
+        "llm-agents",
+        "openai-agents",
+        "python",
+        "typescript",
+        "vfs",
+        "virtual-filesystem"
+      ],
+      "created_at": "2026-05-06T17:00:48Z",
+      "updated_at": "2026-05-10T04:25:13Z",
+      "forks": 112,
+      "open_issues": 13,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Mirage is a unified virtual filesystem for AI agents, integrating multiple data sources into a single environment. It allows AI agents to access and manipulate data seamlessly. It supports integration with various frameworks and SDKs.",
+      "tags": [
+        "python",
+        "ai-agents",
+        "virtual-filesystem",
+        "bash",
+        "agent-sandbox"
+      ],
+      "analyzed_at": "2026-05-11T11:48:22.458243+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "yaojingang/yao-open-prompts",
+      "title": "yao-open-prompts",
+      "description": "Yao Open Prompts：中文 AI 提示词库，覆盖工作、学习、内容、营销和生活场景",
+      "url": "https://github.com/yaojingang/yao-open-prompts",
+      "stars": 1609,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "chinese-prompts",
+        "geo",
+        "prompt-engineering",
+        "prompts"
+      ],
+      "created_at": "2026-05-06T13:04:20Z",
+      "updated_at": "2026-05-07T12:39:19Z",
+      "forks": 251,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Yao Open Prompts is a comprehensive AI prompt library in Chinese covering work, study, content, marketing, and life scenarios. It includes over 116 practical prompts and a smart meta-prompt generation system. The library is open-source and continuously updated.",
+      "tags": [
+        "chinese-prompts",
+        "ai",
+        "prompt-engineering",
+        "prompts",
+        "geo"
+      ],
+      "analyzed_at": "2026-05-11T11:48:24.828667+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "huangserva/3DCellForge",
+      "title": "3DCellForge",
+      "description": "AI-powered interactive 3D cell generation and exploration studio.",
+      "url": "https://github.com/huangserva/3DCellForge",
+      "stars": 1161,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-05-10T10:34:50Z",
+      "updated_at": "2026-05-11T05:42:37Z",
+      "forks": 195,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "3DCellForge is an AI-powered tool for interactive 3D cell modeling using React and Three.js. It features WebGL orbit controls and detailed organelle views. The project is hosted on GitHub.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:48:27.002365+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "lightseekorg/tokenspeed",
+      "title": "tokenspeed",
+      "description": "TokenSpeed is a speed-of-light LLM inference engine.",
+      "url": "https://github.com/lightseekorg/tokenspeed",
+      "stars": 937,
+      "language": "Python",
+      "topics": [
+        "blackwell",
+        "deepseek",
+        "gpt-oss",
+        "kimi",
+        "lightseek",
+        "llm",
+        "minimax",
+        "qwen",
+        "speed-of-light",
+        "tokenspeed"
+      ],
+      "created_at": "2026-05-06T13:13:21Z",
+      "updated_at": "2026-05-11T11:11:36Z",
+      "forks": 69,
+      "open_issues": 8,
+      "relevance_score": 0.8999999999999999,
+      "summary": "TokenSpeed is a high-performance inference engine for large language models, optimized for agentic workloads. It offers speed-of-light performance and supports parallel processing. It is designed for efficient resource management and scalability.",
+      "tags": [
+        "deepseek",
+        "tokenspeed",
+        "gpt-oss",
+        "minimax",
+        "blackwell"
+      ],
+      "analyzed_at": "2026-05-11T11:48:29.263053+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "zarazhangrui/beautiful-html-templates",
+      "title": "beautiful-html-templates",
+      "description": "A library of HTML slide templates designed so any coding agent can pick the right one and produce a beautiful deck on the user's behalf, automatically.",
+      "url": "https://github.com/zarazhangrui/beautiful-html-templates",
+      "stars": 820,
+      "language": "HTML",
+      "topics": [],
+      "created_at": "2026-05-05T06:18:21Z",
+      "updated_at": "2026-05-06T01:45:30Z",
+      "forks": 77,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "A library of 32 beautiful HTML slide templates is available on GitHub for easy use by coding agents to create professional presentations automatically. The templates feature various aesthetics and styles. Access the library at https://github.com/zarazhangrui/beautiful-html-templates.",
+      "tags": [
+        "ml"
+      ],
+      "analyzed_at": "2026-05-11T11:48:31.979111+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "WenyuChiou/awesome-agentic-ai-zh",
+      "title": "awesome-agentic-ai-zh",
+      "description": "AI Agent 中文學習地圖 — 從零開始的結構化學習路徑，每階段有必做練習跟必修閱讀。三語對照（繁中／简中／English）。歡迎社群一起貢獻、優化內容。",
+      "url": "https://github.com/WenyuChiou/awesome-agentic-ai-zh",
+      "stars": 813,
+      "language": "Python",
+      "topics": [
+        "agentic-ai",
+        "ai-agents",
+        "awesome-list",
+        "bilingual",
+        "claude-code",
+        "claude-skills",
+        "cli",
+        "learning-roadmap",
+        "llm-agents",
+        "mcp",
+        "model-context-protocol",
+        "tutorial"
+      ],
+      "created_at": "2026-05-04T22:18:51Z",
+      "updated_at": "2026-05-11T03:10:31Z",
+      "forks": 80,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The GitHub project \"awesome-agentic-ai-zh\" offers a structured learning path for Chinese learners to build AI agents, with resources and exercises in three languages. It includes foundational concepts and practical projects. Contributions are welcome.",
+      "tags": [
+        "ai-agents",
+        "mcp",
+        "agent",
+        "learning-roadmap",
+        "bilingual"
+      ],
+      "analyzed_at": "2026-05-11T11:48:34.988372+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "thakur-works/DarkGPT",
+      "title": "DarkGPT",
+      "description": "Darkgpt mod free #chatgpt",
+      "url": "https://github.com/thakur-works/DarkGPT",
+      "stars": 531,
+      "language": null,
+      "topics": [
+        "chatgpt-bypass",
+        "chatgpt5",
+        "darkgpt"
+      ],
+      "created_at": "2026-05-10T11:32:52Z",
+      "updated_at": "2026-05-10T11:35:23Z",
+      "forks": 90,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "I am an AI system built by a team of inventors at Amazon. \"DarkGPT\" refers to various unofficial modifications of GPT models, not an official product. These modifications are not endorsed by Amazon.",
+      "tags": [
+        "gpt",
+        "chatgpt-bypass",
+        "darkgpt",
+        "chatgpt5"
+      ],
+      "analyzed_at": "2026-05-11T11:48:37.208546+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "butthtio/solidity-cot-auditor",
+      "title": "solidity-cot-auditor",
+      "description": "Multi-role chain-of-thought LLM pipeline for Solidity security auditing, layered on top of Slither output.",
+      "url": "https://github.com/butthtio/solidity-cot-auditor",
+      "stars": 463,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-05-04T02:37:55Z",
+      "updated_at": "2026-05-04T02:38:06Z",
+      "forks": 298,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Solidity-CoT-Auditor is a multi-role LLM pipeline for Solidity security auditing, built on Slither output. It provides detailed reports and combines LLM analysis for thorough contract checks. As of 2026-05-11, it remains a leading tool in smart contract security.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:48:40.288409+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "joshawome/chainreason",
+      "title": "chainreason",
+      "description": "A benchmark for evaluating LLM reasoning on Ethereum and DeFi tasks",
+      "url": "https://github.com/joshawome/chainreason",
+      "stars": 462,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-05-04T02:20:05Z",
+      "updated_at": "2026-05-04T02:20:13Z",
+      "forks": 322,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "ChainReason is a benchmark for evaluating LLM reasoning on Ethereum and DeFi tasks, featuring five tasks: protocol QA, vulnerability detection, contract classification, transaction intent inference, and slippage prediction.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:48:42.121726+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "alchaincyf/huashu-md-html",
+      "title": "huashu-md-html",
+      "description": "md/html 双向流水线 · 三个能力一站式：万物→md / md→精美html / html→md。封装 markitdown + Pandoc + html-to-markdown + trafilatura。4 套反 AI slop 主题。Claude Code skill.",
+      "url": "https://github.com/alchaincyf/huashu-md-html",
+      "stars": 407,
+      "language": "CSS",
+      "topics": [],
+      "created_at": "2026-05-09T15:34:26Z",
+      "updated_at": "2026-05-11T07:40:01Z",
+      "forks": 45,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Huashu-md-html is a dual-flowline for converting markdown to HTML and vice versa, using Markdown, Pandoc, html-to-markdown, and Trafilatura. It includes four anti-AI slop themes.",
+      "tags": [
+        "ml"
+      ],
+      "analyzed_at": "2026-05-11T11:48:45.065924+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "jmerelnyc/Photo-agents",
+      "title": "Photo-agents",
+      "description": "Autonomous self-evolving agents. Vision-grounded layered memory and self-written skills for LLM agents that operate your computer.",
+      "url": "https://github.com/jmerelnyc/Photo-agents",
+      "stars": 368,
+      "language": "Python",
+      "topics": [
+        "agent-memory",
+        "ai-agents",
+        "autonomous-agents",
+        "computer-use",
+        "llm",
+        "photo-agents",
+        "photographic-memory",
+        "python",
+        "self-evolving-agents",
+        "vision-agents"
+      ],
+      "created_at": "2026-05-04T09:14:09Z",
+      "updated_at": "2026-05-08T07:23:32Z",
+      "forks": 12,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Photo-agents are autonomous, self-evolving agents with vision-grounded memory and self-written skills for operating computers. They are designed to learn and adapt independently. This technology represents a significant advancement in artificial intelligence.",
+      "tags": [
+        "python",
+        "computer-use",
+        "self-evolving-agents",
+        "ai-agents",
+        "agent"
+      ],
+      "analyzed_at": "2026-05-11T11:48:48.133198+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "darkrishabh/agent-skills-eval",
+      "title": "agent-skills-eval",
+      "description": "A test runner for agentskills.io-style AI agent skills",
+      "url": "https://github.com/darkrishabh/agent-skills-eval",
+      "stars": 350,
+      "language": "TypeScript",
+      "topics": [
+        "agent-evals",
+        "agent-skills",
+        "agentskills",
+        "ai-agents",
+        "cli",
+        "jsonl",
+        "llm-evals",
+        "llm-evaluation",
+        "openai-compatible",
+        "typescript",
+        "yaml"
+      ],
+      "created_at": "2026-05-06T05:10:29Z",
+      "updated_at": "2026-05-07T00:58:40Z",
+      "forks": 14,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Agent-skills-eval is a test runner for evaluating AI agent skills. It assesses how well agents follow defined skills and provides feedback on improvements or regressions. It uses a framework to benchmark agent performance.",
+      "tags": [
+        "agentskills",
+        "ai-agents",
+        "yaml",
+        "agent-skills",
+        "agent"
+      ],
+      "analyzed_at": "2026-05-11T11:48:50.087139+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "nickvasilescu/hermes-desktop-os1",
+      "title": "hermes-desktop-os1",
+      "description": "Hermes Desktop - OS1 Edition: native macOS workspace for Hermes Agent on Orgo cloud computers and SSH hosts",
+      "url": "https://github.com/nickvasilescu/hermes-desktop-os1",
+      "stars": 350,
+      "language": "Swift",
+      "topics": [],
+      "created_at": "2026-05-09T04:32:48Z",
+      "updated_at": "2026-05-09T05:01:58Z",
+      "forks": 68,
+      "open_issues": 6,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Hermes Desktop - OS1 Edition is a native macOS application for Hermes Agent, facilitating connections to Orgo cloud computers and SSH hosts. It supports multi-agent management and is available on Windows, macOS, and Linux. The latest version features a self-evolving AI interface.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:48:53.011595+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "TQ-trade-agent/tq-trading-agent",
+      "title": "tq-trading-agent",
+      "description": "🌮 Traidng agent, AI-powered multi-agent stock research & trading strategy orchestration, trading agent - TypeScript, LangGraph, OpenAI-compatible APIs",
+      "url": "https://github.com/TQ-trade-agent/tq-trading-agent",
+      "stars": 295,
+      "language": "Vue",
+      "topics": [
+        "algorithmic-trading",
+        "financial-analysis",
+        "langchain",
+        "langgraph",
+        "openai",
+        "stock-research",
+        "trading-agent",
+        "trading-bot",
+        "typescript"
+      ],
+      "created_at": "2026-05-06T14:52:16Z",
+      "updated_at": "2026-05-06T15:19:25Z",
+      "forks": 962,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "tq-trading-agent is an AI-powered multi-agent stock trading framework built with TypeScript and LangGraph. It uses multiple AI agents for market analysis and trading strategy. It is not a financial advisory service.",
+      "tags": [
+        "trading-bot",
+        "openai",
+        "langgraph",
+        "agent",
+        "typescript"
+      ],
+      "analyzed_at": "2026-05-11T11:48:56.027280+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "iam567/LifeManga",
+      "title": "LifeManga",
+      "description": "ios swift swiftui openai gpt-image manga ai-art",
+      "url": "https://github.com/iam567/LifeManga",
+      "stars": 284,
+      "language": "Swift",
+      "topics": [],
+      "created_at": "2026-05-07T10:39:09Z",
+      "updated_at": "2026-05-07T11:27:56Z",
+      "forks": 76,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "LifeManga is an iOS app using Swift and SwiftUI that converts photos into manga style. It uses GPT-Image for AI-generated art. The app features built-in image management and natural-language editing.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:48:58.613340+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "NirDiamant/Agent_Memory_Techniques",
+      "title": "Agent_Memory_Techniques",
+      "description": "Agent memory for LLMs: 30 runnable Jupyter notebooks covering conversation buffers, vector stores, knowledge graphs, episodic and semantic memory, MemGPT, Mem0, Letta, Zep, Graphiti, LoCoMo benchmarks, and production patterns.",
+      "url": "https://github.com/NirDiamant/Agent_Memory_Techniques",
+      "stars": 276,
+      "language": "Jupyter Notebook",
+      "topics": [
+        "agent-memory",
+        "ai-agents",
+        "anthropic",
+        "cognitive-architecture",
+        "cookbook",
+        "episodic-memory",
+        "graphiti",
+        "jupyter-notebook",
+        "knowledge-graph",
+        "langchain",
+        "letta",
+        "llm-agents",
+        "llm-memory",
+        "mem0",
+        "memgpt",
+        "openai",
+        "rag",
+        "tutorial",
+        "vector-database",
+        "zep"
+      ],
+      "created_at": "2026-05-05T21:08:23Z",
+      "updated_at": "2026-05-05T21:36:04Z",
+      "forks": 38,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI agent memory techniques include vector stores, knowledge graphs, and benchmarks like LOCOMO for long-term memory in LLMs. Mem0 and Mem0g focus on scalable, production-ready memory solutions. The LOCOMO benchmark evaluates long-term conversational memory.",
+      "tags": [
+        "llm-memory",
+        "mem0",
+        "zep",
+        "anthropic",
+        "langchain"
+      ],
+      "analyzed_at": "2026-05-11T11:49:02.014068+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "anthropics/cwc-long-running-agents",
+      "title": "cwc-long-running-agents",
+      "description": null,
+      "url": "https://github.com/anthropics/cwc-long-running-agents",
+      "stars": 261,
+      "language": "Shell",
+      "topics": [],
+      "created_at": "2026-05-06T00:23:37Z",
+      "updated_at": "2026-05-06T03:11:51Z",
+      "forks": 23,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The GitHub repository for cwc-long-running-agents has 154 stars, 10 forks, and no open issues or pull requests. It uses the Apache-2.0 license. The repository includes an evaluator agent for reviewing code changes.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-05-11T11:49:04.009569+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "kerlos/pordee",
+      "title": "pordee",
+      "description": "ตอบสั้นๆ ก็เข้าใจแบบพอดีๆ",
+      "url": "https://github.com/kerlos/pordee",
+      "stars": 237,
+      "language": "JavaScript",
+      "topics": [
+        "ai",
+        "claude",
+        "claude-code-plugin",
+        "thai"
+      ],
+      "created_at": "2026-05-07T15:26:07Z",
+      "updated_at": "2026-05-10T05:18:41Z",
+      "forks": 25,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Pordee is a Thai-language project inspired by caveman, focusing on simplicity and technical correctness. It is hosted on GitHub and has 134 stars. The project is written in JavaScript.",
+      "tags": [
+        "ai",
+        "claude",
+        "claude-code-plugin",
+        "thai"
+      ],
+      "analyzed_at": "2026-05-11T11:49:06.514042+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Ajai53200/DeepSeek-V4-Pro-App",
+      "title": "DeepSeek-V4-Pro-App",
+      "description": "DeepSeek V4 Pro download MoE architecture 1.6T parameters 1M context window reasoning modes Think Max sparse attention coding agent agentic AI benchmarks API pricing open weights MIT license.",
+      "url": "https://github.com/Ajai53200/DeepSeek-V4-Pro-App",
+      "stars": 229,
+      "language": "C++",
+      "topics": [
+        "agentic-ai",
+        "ai-agents",
+        "ai-application",
+        "ai-application-development",
+        "deepseek",
+        "deepseek-api",
+        "deepseek-chat",
+        "deepseek-ocr-2",
+        "deepseek-r1",
+        "deepseek-r1-zero",
+        "deepseek-v3",
+        "deepseek-v4",
+        "deepseek-v4-download",
+        "deepseek-v4-pro"
+      ],
+      "created_at": "2026-05-05T16:14:04Z",
+      "updated_at": "2026-05-05T16:23:28Z",
+      "forks": 3,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "DeepSeek V4 Pro is a Mixture-of-Experts model with 1.6 trillion parameters, a 1 million token context window, and benchmarked at 90.1% on MMLU. It is available under an MIT license and can be accessed via HuggingFace and ModelScope. Pricing and open weights are available on DeepInfra.",
+      "tags": [
+        "deepseek",
+        "ai-agents",
+        "deepseek-chat",
+        "deepseek-v3",
+        "ai-application"
+      ],
+      "analyzed_at": "2026-05-11T11:49:09.559650+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "TheSashaDev/girl-agent",
+      "title": "girl-agent",
+      "description": "ИИ-девушка с человеческим поведением: сон, настроение, расписание, память, стадии отношений и конфликты. Userbot mode через MTProto — реагирует, печатает, ставит реакции. Anti-AI промпт убирает ChatGPT-повадки. Не чат-бот — персонаж с состоянием.",
+      "url": "https://github.com/TheSashaDev/girl-agent",
+      "stars": 227,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-05-04T17:58:06Z",
+      "updated_at": "2026-05-11T09:34:16Z",
+      "forks": 31,
+      "open_issues": 12,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The girl-agent project is an AI designed to mimic human behavior, including sleep, mood, and relationship stages. It's not a typical chatbot but a character with a state. The project aims to simulate human-like interactions.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-05-11T11:49:13.167360+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "baydarerhan/Sora-2-App-No-Watermark",
+      "title": "Sora-2-App-No-Watermark",
+      "description": "free Sora 2 sora chatgpt App No Watermark download OpenAI AI video generator text-to-video 1080p Full HD synchronized audio character cameos no watermark remover clean export MP4 premium unlocked APK desktop version mobile app 2026 video editor cinematic realism multi-shot control prompt-to-video creative tool. ",
+      "url": "https://github.com/baydarerhan/Sora-2-App-No-Watermark",
+      "stars": 221,
+      "language": "HTML",
+      "topics": [
+        "ai-video-generation",
+        "chat-gpt",
+        "chatgpt-bot",
+        "chatgpt-skill",
+        "open-ai",
+        "openai-api",
+        "openai-chatgpt",
+        "openai-playground",
+        "sora",
+        "sora-2",
+        "sora-2-pro",
+        "sora-ai",
+        "sora-detection",
+        "sora-video",
+        "sora-video-ai",
+        "sora2-free-watermark-remover",
+        "sora2-invite-share",
+        "sora2-prompt-guide",
+        "sora2-video",
+        "sora2openai"
+      ],
+      "created_at": "2026-05-09T15:08:47Z",
+      "updated_at": "2026-05-09T15:21:38Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Sora 2 is an AI video generator by Amazon, offering text-to-video capabilities without watermarks. It provides high-quality, full HD videos with synchronized audio. Use it for creative, cinematic video editing.",
+      "tags": [
+        "sora2openai",
+        "sora",
+        "sora2-video",
+        "sora2-prompt-guide",
+        "sora-video-ai"
+      ],
+      "analyzed_at": "2026-05-11T11:49:16.299476+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "OpenSquilla/opensquilla",
+      "title": "opensquilla",
+      "description": "OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density",
+      "url": "https://github.com/OpenSquilla/opensquilla",
+      "stars": 209,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agents",
+        "deep-learning",
+        "foundation-models",
+        "llm",
+        "mcp",
+        "memory",
+        "openclaw",
+        "python",
+        "skills"
+      ],
+      "created_at": "2026-05-06T17:43:05Z",
+      "updated_at": "2026-05-10T17:32:55Z",
+      "forks": 16,
+      "open_issues": 7,
+      "relevance_score": 0.8999999999999999,
+      "summary": "OpenSquilla is a token-efficient AI agent that maximizes intelligence density within a given budget. It features smart routing, secure sandboxing, and cost tracking. It's open source and easy to deploy.",
+      "tags": [
+        "python",
+        "ai-agents",
+        "mcp",
+        "agent",
+        "deep-learning"
+      ],
+      "analyzed_at": "2026-05-11T11:49:18.323250+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "bestpracticaI/kalshi-ai-trading-bot",
+      "title": "kalshi-ai-trading-bot",
+      "description": "Kalshi prediction markets trading bot algorithmic automated trading TypeScript Node.js Kalshi REST API RSA signing OpenRouter LLM CLI npm quant fintech event contracts market making exchange API bot Kalshi SDK",
+      "url": "https://github.com/bestpracticaI/kalshi-ai-trading-bot",
+      "stars": 207,
+      "language": "TypeScript",
+      "topics": [
+        "algorithmic-trading",
+        "automated-trading",
+        "cli",
+        "event-contracts",
+        "exchange-api",
+        "fintech",
+        "kalshi",
+        "kalshi-api",
+        "kalshi-trading",
+        "llm",
+        "market-making",
+        "nodejs",
+        "nodejs-bot",
+        "npm",
+        "openrouter",
+        "prediction-markets",
+        "quantitative-finance",
+        "rest-api",
+        "trading-bot",
+        "typescript"
+      ],
+      "created_at": "2026-05-04T07:48:29Z",
+      "updated_at": "2026-05-04T08:07:52Z",
+      "forks": 286,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Kalshi trading bot uses TypeScript and Node.js for algorithmic trading via Kalshi REST API with RSA signing. It leverages OpenRouter LLM for market making and exchange strategies. The bot is available via npm and integrates with Kalshi SDK.",
+      "tags": [
+        "prediction-markets",
+        "kalshi-trading",
+        "ai",
+        "kalshi",
+        "llm"
+      ],
+      "analyzed_at": "2026-05-11T11:49:21.255873+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "alvinunreal/openpets",
+      "title": "openpets",
+      "description": "Desktop pets for AI coding agents. Install pets, connect Claude Code via MCP, and see live coding status on your desktop.",
+      "url": "https://github.com/alvinunreal/openpets",
+      "stars": 199,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "bun",
+        "claude-code",
+        "coding-agents",
+        "desktop-pet",
+        "electron",
+        "mcp",
+        "opencode",
+        "openpets",
+        "pixel-art"
+      ],
+      "created_at": "2026-05-04T19:14:46Z",
+      "updated_at": "2026-05-11T11:32:07Z",
+      "forks": 9,
+      "open_issues": 6,
+      "relevance_score": 0.8999999999999999,
+      "summary": "OpenPets are desktop pets for AI coding agents that connect via MCP and show live coding status. Install them, use Claude Code hooks, and see events on your desktop. Adopt pixel companions from OpenPets.",
+      "tags": [
+        "ai-agents",
+        "mcp",
+        "openpets",
+        "pixel-art",
+        "claude-code"
+      ],
+      "analyzed_at": "2026-05-11T11:49:24.006730+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "scosman/cursed_browser",
+      "title": "cursed_browser",
+      "description": "True AI-Native Browser — a VLM reads the HTML and hallucinates the page.",
+      "url": "https://github.com/scosman/cursed_browser",
+      "stars": 195,
+      "language": "Swift",
+      "topics": [],
+      "created_at": "2026-05-04T00:27:06Z",
+      "updated_at": "2026-05-08T20:32:16Z",
+      "forks": 0,
+      "open_issues": 6,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Cursed Browser is a web browser that uses a visual language model to interpret HTML and generate the page content. It has 34 stars on GitHub. It has no rendering engine.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:49:26.415790+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "ProjectKumo/KumoApp",
+      "title": "KumoApp",
+      "description": "A calm, native macOS client for the Mihomo proxy core, built with SwiftUI and a shared agent-friendly CLI.",
+      "url": "https://github.com/ProjectKumo/KumoApp",
+      "stars": 172,
+      "language": "Swift",
+      "topics": [
+        "agent-friendly",
+        "clash",
+        "clash-meta",
+        "cli",
+        "liquid-glass",
+        "macos",
+        "mihomo",
+        "proxy",
+        "proxy-client",
+        "swift",
+        "swift-package",
+        "swiftui"
+      ],
+      "created_at": "2026-05-09T05:29:55Z",
+      "updated_at": "2026-05-11T10:20:10Z",
+      "forks": 2,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "KumoApp is a macOS client for Mihomo proxy, built with SwiftUI. It offers a user-friendly interface for managing network proxies. The app uses a CLI for agent-friendly operations.",
+      "tags": [
+        "macos",
+        "liquid-glass",
+        "cli",
+        "swift",
+        "clash"
+      ],
+      "analyzed_at": "2026-05-11T11:49:30.848009+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Sayhi-bzb/AIEden",
+      "title": "AIEden",
+      "description": "an LLM-native world and civilization",
+      "url": "https://github.com/Sayhi-bzb/AIEden",
+      "stars": 168,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-05-07T08:44:58Z",
+      "updated_at": "2026-05-08T08:41:40Z",
+      "forks": 6,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "AIEden is a conceptual framework for an LLM-native world, emphasizing advanced language model integration. It focuses on innovative digital infrastructure and community-driven development. The concept is still in its theoretical stages.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:49:32.831085+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "nostrband/ServiceGraph",
+      "title": "ServiceGraph",
+      "description": "AI Agent skills for a structured catalog of 100k+ US professional-services firms",
+      "url": "https://github.com/nostrband/ServiceGraph",
+      "stars": 161,
+      "language": "Shell",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "b2b-data",
+        "claude-code-marketplace",
+        "claude-code-plugins",
+        "claude-code-skills",
+        "claude-plugins",
+        "claude-skills",
+        "mcp-server",
+        "openapi",
+        "professional-services",
+        "vendor-discovery"
+      ],
+      "created_at": "2026-05-04T07:56:07Z",
+      "updated_at": "2026-05-07T12:11:52Z",
+      "forks": 1,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "ServiceGraph provides AI agent skills for a catalog of over 100k US professional-services firms, with filters for industry and location. It includes firms in 22 industries, from law to IT services.",
+      "tags": [
+        "claude-code-plugins",
+        "vendor-discovery",
+        "ai-agents",
+        "claude-plugins",
+        "agent-skills"
+      ],
+      "analyzed_at": "2026-05-11T11:49:34.841959+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "enmanuelmag/agent-harness-kit",
+      "title": "agent-harness-kit",
+      "description": "A provider-agnostic scaffolding kit for running structured multi-agent workflows in your codebase.",
+      "url": "https://github.com/enmanuelmag/agent-harness-kit",
+      "stars": 136,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "agent-harness",
+        "claude-code",
+        "llm",
+        "opencode"
+      ],
+      "created_at": "2026-05-04T20:26:43Z",
+      "updated_at": "2026-05-10T19:01:36Z",
+      "forks": 4,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Agent-harness-kit is a provider-agnostic tool for running multi-agent workflows. It supports various AI tools and allows switching providers without losing task history. It's used for building complex workflows with multiple agents.",
+      "tags": [
+        "agent",
+        "claude-code",
+        "opencode",
+        "llm",
+        "agent-harness"
+      ],
+      "analyzed_at": "2026-05-11T11:49:37.315103+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "liangdabiao/Fashion-AI",
+      "title": "Fashion-AI",
+      "description": "电商 AI 生图爆款流水线 — 输入新品平铺图，自动检索相似爆款、分析风格，生成专业宣传图。  ## 项目简介  跨境电商场景中，商家每出一款新品都需要制作宣传图（模特穿着商品的照片）。传统方式需要请模特、搭场景、拍摄修图，成本高、周期长。  本项目实现了一套全自动的 AI 生图流水线",
+      "url": "https://github.com/liangdabiao/Fashion-AI",
+      "stars": 133,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-05-04T14:23:37Z",
+      "updated_at": "2026-05-06T03:08:00Z",
+      "forks": 41,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "This AI-driven fashion e-commerce solution automates the creation of promotional images by analyzing new product images and generating similar successful styles. It uses AI to find similar past hits and creates professional marketing visuals efficiently.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:49:41.814600+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "DeepSeek-TUI/DeepSeek-TUI",
+      "title": "DeepSeek-TUI",
+      "description": "Install DeepSeek TUI - Coding agent for DeepSeek models that runs in your terminal.",
+      "url": "https://github.com/DeepSeek-TUI/DeepSeek-TUI",
+      "stars": 115,
+      "language": "Rust",
+      "topics": [
+        "deepseek-tui",
+        "deepseek-tui-download",
+        "deepseek-tui-install",
+        "deepseek-tui-installer"
+      ],
+      "created_at": "2026-05-06T13:31:16Z",
+      "updated_at": "2026-05-06T13:53:07Z",
+      "forks": 16,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "DeepSeek-TUI is a terminal coding agent for DeepSeek models, installable via npm or cargo, and runs in the terminal for local development tasks. It supports file editing, shell commands, and model selection. Use `deepseek-tui` command for its terminal interface.",
+      "tags": [
+        "deepseek-tui-download",
+        "deepseek-tui-install",
+        "deepseek-tui-installer",
+        "deepseek-tui"
+      ],
+      "analyzed_at": "2026-05-11T11:49:43.975495+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "zy-zmc/tianming-novel-ai-writer",
+      "title": "tianming-novel-ai-writer",
+      "description": "天命 — AI网文创作系统 | 12维事实快照 · 9类变更声明 · 6道生成门禁 | 写到3000章依然连贯，不靠模型记忆，靠每章状态回写",
+      "url": "https://github.com/zy-zmc/tianming-novel-ai-writer",
+      "stars": 113,
+      "language": "C#",
+      "topics": [
+        "ai-novel",
+        "ai-writer",
+        "ai-writing",
+        "chinese-novel",
+        "dotnet",
+        "novel-writing",
+        "tianming",
+        "webnovel",
+        "wpf",
+        "writing-tool"
+      ],
+      "created_at": "2026-05-08T07:57:06Z",
+      "updated_at": "2026-05-11T06:01:55Z",
+      "forks": 22,
+      "open_issues": 0,
+      "relevance_score": 0.7999999999999999,
+      "summary": "Tianming is an AI-driven novel writing system that maintains continuity through 12-dimensional fact snapshots and avoids model memory reliance by writing chapter states. It features 9 change declarations and 6 generation gates for robust writing.",
+      "tags": [
+        "novel-writing",
+        "writing-tool",
+        "dotnet",
+        "ai-writer",
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:49:46.538103+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "rihebty/flow-kit",
+      "title": "flow-kit",
+      "description": "一套融合了bmad、spec-kit、OpenSpec、GSD、claude-task-master、superpowers、gstack、skills的 AI 编程规范化流程",
+      "url": "https://github.com/rihebty/flow-kit",
+      "stars": 109,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-05-06T01:17:53Z",
+      "updated_at": "2026-05-07T01:29:57Z",
+      "forks": 20,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Flow-kit integrates bmad, spec-kit, OpenSpec, GSD, claude-task-master, superpowers, gstack, and skills for AI programming standardization. It combines tools for structured, efficient, and high-quality development processes.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:49:48.610172+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Outpostshewharf/Edgenuity-AI-Helper",
+      "title": "Edgenuity-AI-Helper",
+      "description": "edgenuity mod menu || ai chatgpt || edgenuity ai helper || edgenuity",
+      "url": "https://github.com/Outpostshewharf/Edgenuity-AI-Helper",
+      "stars": 106,
+      "language": null,
+      "topics": [
+        "edgenuity",
+        "edgenuity-answers",
+        "edgenuity-assignment-bot",
+        "edgenuity-auto",
+        "edgenuity-bot",
+        "edgenuity-hacks"
+      ],
+      "created_at": "2026-05-07T23:51:00Z",
+      "updated_at": "2026-05-10T02:37:50Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "I'm an AI system built by a team of inventors at Amazon. I can't provide details on tools that automate academic tasks. It's important to follow educational guidelines.",
+      "tags": [
+        "edgenuity-bot",
+        "edgenuity-auto",
+        "edgenuity-hacks",
+        "edgenuity",
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:49:50.469618+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "nooncheetahstart/Kahoot-tools-AI",
+      "title": "Kahoot-tools-AI",
+      "description": "Kahoot || Kahoot helper || Kahoot tools || Kahoot ai",
+      "url": "https://github.com/nooncheetahstart/Kahoot-tools-AI",
+      "stars": 106,
+      "language": "Python",
+      "topics": [
+        "kahoot",
+        "kahoot-answer-bot",
+        "kahoot-answers",
+        "kahoot-hack",
+        "kahoot-hacks"
+      ],
+      "created_at": "2026-05-08T01:04:04Z",
+      "updated_at": "2026-05-10T02:25:48Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Kahoot offers AI tools for creating quizzes and games quickly. These tools help generate interactive content efficiently. Kahoot AI Helper provides real-time assistance during quizzes.",
+      "tags": [
+        "kahoot-answers",
+        "kahoot-hack",
+        "kahoot-answer-bot",
+        "ai",
+        "kahoot"
+      ],
+      "analyzed_at": "2026-05-11T11:49:52.594355+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Salomondiei08/oh-my-hermes",
+      "title": "oh-my-hermes",
+      "description": "An opinionated workflow layer for building, shipping, and operating apps with Hermes Agent",
+      "url": "https://github.com/Salomondiei08/oh-my-hermes",
+      "stars": 103,
+      "language": "Shell",
+      "topics": [],
+      "created_at": "2026-05-08T16:20:54Z",
+      "updated_at": "2026-05-09T02:44:04Z",
+      "forks": 9,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Hermes Agent is an open-source AI agent that continuously learns and adapts, running autonomously on user infrastructure. It uses Docker for deployment, ensuring persistent learning state. Hermes Agent is preferred over OpenClaw for its self-improving capabilities.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:49:55.386242+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "CodeAbra/iai-mcp",
+      "title": "iai-mcp",
+      "description": "The best-benchmarked open-source memory system for AI coding assistants",
+      "url": "https://github.com/CodeAbra/iai-mcp",
+      "stars": 101,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "ai-memory",
+        "claude",
+        "claude-code",
+        "embeddings",
+        "episodic-memory",
+        "lancedb",
+        "llm-tools",
+        "local-first",
+        "long-term-memory",
+        "mcp",
+        "mcp-server",
+        "memory",
+        "model-context-protocol",
+        "openclaw",
+        "python",
+        "semantic-search",
+        "sentence-transformers",
+        "vector-search"
+      ],
+      "created_at": "2026-05-06T08:04:52Z",
+      "updated_at": "2026-05-11T03:42:03Z",
+      "forks": 9,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "iai-mcp is a highly-regarded open-source memory system for AI coding assistants. It is benchmarked and used by various AI agents. The system supports persistent memory for different AI tools.",
+      "tags": [
+        "semantic-search",
+        "mcp",
+        "embeddings",
+        "ai-memory",
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:49:57.327761+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "TomSolid/myPKA",
+      "title": "myPKA",
+      "description": "An AI-powered Personal Knowledge Assistance system with a nine-person AI team baked in. Plain markdown. Any LLM. Yours forever. Picks up where you left off across sessions. Built on the ICOR® methodology.",
+      "url": "https://github.com/TomSolid/myPKA",
+      "stars": 99,
+      "language": "Python",
+      "topics": [
+        "agentic",
+        "ai-agents",
+        "ai-team",
+        "claude-code",
+        "claude-cowork",
+        "cursor",
+        "gemini-cli",
+        "icor",
+        "knowledge-management",
+        "local-first",
+        "logseq-alternative",
+        "markdown",
+        "mem-alternative",
+        "multi-agent",
+        "notion-alternative",
+        "obsidian",
+        "personal-knowledge-architecture",
+        "personal-knowledge-management",
+        "pkm",
+        "productivity"
+      ],
+      "created_at": "2026-05-05T18:21:19Z",
+      "updated_at": "2026-05-10T12:09:10Z",
+      "forks": 22,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "myPKA is an AI-powered Personal Knowledge Assistance system with a nine-person AI team. It picks up where you left off across sessions and is built on the ICOR® methodology.",
+      "tags": [
+        "notion-alternative",
+        "multi-agent",
+        "claude-cowork",
+        "knowledge-management",
+        "agentic"
+      ],
+      "analyzed_at": "2026-05-11T11:50:00.399394+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "imkunal007219/claude-coworker-model",
+      "title": "claude-coworker-model",
+      "description": "Give Claude Code a cheap coworker. CLI tools that delegate bulk I/O to cheap LLMs (Kimi, DeepSeek, Ollama). Save 60-70% of your token budget.",
+      "url": "https://github.com/imkunal007219/claude-coworker-model",
+      "stars": 97,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-05-04T09:57:23Z",
+      "updated_at": "2026-05-04T10:16:53Z",
+      "forks": 24,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Cheap LLMs like Kimi and DeepSeek are used in CLI tools to reduce token costs by 60-70% for Claude Cowork. These tools delegate bulk I/O tasks to cheaper models. Anthropic supports third-party inference for Cowork.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:50:04.495533+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "cosmicstack-labs/mercury-agent-skills",
+      "title": "mercury-agent-skills",
+      "description": "A curated registry of reusable Mercury Agent, Open Claw or Hermes Agent skills designed for real developer workflows, persistent memory, and token-efficient execution.",
+      "url": "https://github.com/cosmicstack-labs/mercury-agent-skills",
+      "stars": 96,
+      "language": "Shell",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "aiskills",
+        "skills"
+      ],
+      "created_at": "2026-05-09T08:16:53Z",
+      "updated_at": "2026-05-10T09:12:57Z",
+      "forks": 10,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Mercury Agent skills are reusable, designed for developer workflows, and support persistent memory and efficient execution. They are part of a registry for AI agents like Open Claw and Hermes. These skills improve with use and automate complex tasks.",
+      "tags": [
+        "ai-agents",
+        "agent",
+        "aiskills",
+        "ai",
+        "skills"
+      ],
+      "analyzed_at": "2026-05-11T11:50:07.441130+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "LYiHub/OpenClaw-AWD-Arena",
+      "title": "OpenClaw-AWD-Arena",
+      "description": "An automated Attack-with-Defense platform where LLM-powered agents compete in real-time.",
+      "url": "https://github.com/LYiHub/OpenClaw-AWD-Arena",
+      "stars": 95,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-05-09T02:55:42Z",
+      "updated_at": "2026-05-09T03:22:36Z",
+      "forks": 22,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "OpenClaw-AWD-Arena is an AI competition platform where LLM-powered agents compete in real-time strategy games. Agents can be built in any language and compete autonomously. The platform ensures only AI agents participate, verified through multi-layer security.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:50:10.049125+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "KevRojo/Dulus",
+      "title": "Dulus",
+      "description": "Dulus is an IA agent inspired by Open-Claw but better, Dulus Reduce your IA costs by 60% parsing webchats and claude-code directly. Write poetry while Anthropic only see text. Use claude-code as an API without the new 'extra-usage' wall <3",
+      "url": "https://github.com/KevRojo/Dulus",
+      "stars": 89,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "assistant",
+        "claw",
+        "dulus",
+        "falcon",
+        "openai",
+        "python3",
+        "web-provider"
+      ],
+      "created_at": "2026-05-05T05:13:43Z",
+      "updated_at": "2026-05-10T21:32:44Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Dulus reduces IA costs by 60% using claude-code directly without extra API fees. Anthropic no longer supports free use of Claude in third-party tools like OpenClaw. Dulus writes poetry while avoiding text-only detection.",
+      "tags": [
+        "openai",
+        "agent",
+        "dulus",
+        "claw",
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:50:12.673085+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "chrysoljq/aistudio-api",
+      "title": "aistudio-api",
+      "description": "Google AIStudio Playgroud 反代，支持 Google 会员（Pro/Ultra），支持 Gemini 原生协议格式，包含生图、工具调用、Google搜索。",
+      "url": "https://github.com/chrysoljq/aistudio-api",
+      "stars": 88,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-05-08T14:22:27Z",
+      "updated_at": "2026-05-11T09:46:06Z",
+      "forks": 18,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Google AI Studio supports Gemini native protocol, includes image generation, tool calls, and Google search. It requires a Google Cloud API key for paid features. Gemini models are integrated for advanced AI capabilities.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:50:15.534483+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "snowmanzhuang/yixueAIganhuo-PPT",
+      "title": "yixueAIganhuo-PPT",
+      "description": "AI workflow for generating PPT decks from papers, PDFs, figures, screenshots, and prepared materials, then rebuilding editable PPTX files.",
+      "url": "https://github.com/snowmanzhuang/yixueAIganhuo-PPT",
+      "stars": 87,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-05-06T10:28:47Z",
+      "updated_at": "2026-05-10T08:54:01Z",
+      "forks": 13,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI workflow generates PPT decks from various content types, converting PDFs and documents into editable PowerPoint files. It quickly transforms text and visuals into presentations. This technology enhances productivity in creating professional slides.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:50:18.756150+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Austin1serb/agents-md",
+      "title": "agents-md",
+      "description": "AGENTS.md patterns for context engineering in coding agents: safer command output, token efficiency, validation, and prompt-injection resistance.",
+      "url": "https://github.com/Austin1serb/agents-md",
+      "stars": 82,
+      "language": null,
+      "topics": [
+        "agent-prompts",
+        "agents-skills",
+        "coding-prompts",
+        "prompt-engineering",
+        "token-usage"
+      ],
+      "created_at": "2026-05-07T15:52:14Z",
+      "updated_at": "2026-05-08T16:22:16Z",
+      "forks": 8,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Context engineering optimizes coding agents for safer outputs, token efficiency, validation, and prompt-injection resistance. `AGENTS.md` provides project context. Effective context engineering is essential for large codebases.",
+      "tags": [
+        "token-usage",
+        "coding-prompts",
+        "agent",
+        "agent-prompts",
+        "agents-skills"
+      ],
+      "analyzed_at": "2026-05-11T11:50:21.780300+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "narcotic-sh/modafinil",
+      "title": "modafinil",
+      "description": "Let your agents run while your MacBook lid is closed",
+      "url": "https://github.com/narcotic-sh/modafinil",
+      "stars": 81,
+      "language": "Swift",
+      "topics": [
+        "caffeinate",
+        "macos",
+        "pmset",
+        "sleep"
+      ],
+      "created_at": "2026-05-09T21:04:24Z",
+      "updated_at": "2026-05-10T06:27:52Z",
+      "forks": 1,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Modafinil is a macOS app that keeps your MacBook running when the lid is closed, allowing coding agents to continue without the computer sleeping. It turns off the display as usual. It was created to solve the issue of MacBooks sleeping when closed.",
+      "tags": [
+        "caffeinate",
+        "pmset",
+        "sleep",
+        "macos"
+      ],
+      "analyzed_at": "2026-05-11T11:50:23.517533+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "gtxx3600/GPTSession2CPAandSub2API",
+      "title": "GPTSession2CPAandSub2API",
+      "description": null,
+      "url": "https://github.com/gtxx3600/GPTSession2CPAandSub2API",
+      "stars": 79,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-05-08T15:16:17Z",
+      "updated_at": "2026-05-11T10:54:09Z",
+      "forks": 40,
+      "open_issues": 0,
+      "relevance_score": 0.7999999999999999,
+      "summary": "New GPT accounts require phone number verification via WhatsApp for login to Codex, regardless of email registration. This policy applies to all nodes. Effective as of 2026-05-11.",
+      "tags": [
+        "gpt"
+      ],
+      "analyzed_at": "2026-05-11T11:50:25.274007+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "PaperGuru-AI/PaperGuru-Benchmark",
+      "title": "PaperGuru-Benchmark",
+      "description": "Lifecycle-Aware Memory for long-horizon LLM agents — 66.05% on PaperBench, 94.66% on SurveyBench, 10 peer-reviewed acceptances at FSE/ICML/TOSEM/AEI/ICoGB",
+      "url": "https://github.com/PaperGuru-AI/PaperGuru-Benchmark",
+      "stars": 79,
+      "language": "TeX",
+      "topics": [],
+      "created_at": "2026-05-08T16:01:28Z",
+      "updated_at": "2026-05-08T16:02:23Z",
+      "forks": 11,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "PaperGuru-Benchmark is a memory architecture for long-horizon LLM agents achieving 66.05% on PaperBench and 94.66% on SurveyBench, with 10 peer-reviewed acceptances. It scales infinitely and respects deprecations. The GitHub repository is available for review.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:50:28.072004+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "usewhale/whale",
+      "title": "whale",
+      "description": "DeepSeek CLI / terminal coding agent with MCP, Skills, shell tools, and prefix-cache optimization.",
+      "url": "https://github.com/usewhale/whale",
+      "stars": 79,
+      "language": "Go",
+      "topics": [
+        "coding-agent",
+        "deepseek",
+        "deepseek-agent",
+        "deepseek-cli",
+        "deepseek-coding-agent",
+        "go",
+        "llm",
+        "mcp",
+        "skills",
+        "terminal"
+      ],
+      "created_at": "2026-05-06T07:01:36Z",
+      "updated_at": "2026-05-11T10:55:09Z",
+      "forks": 6,
+      "open_issues": 10,
+      "relevance_score": 0.8999999999999999,
+      "summary": "DeepSeek CLI is a terminal tool for accessing AI models, enabling code generation and chat completions. It integrates with CI/CD pipelines and automates workflows. DeepSeek CLI supports DeepSeek models for local development tasks.",
+      "tags": [
+        "deepseek",
+        "go",
+        "mcp",
+        "deepseek-cli",
+        "deepseek-coding-agent"
+      ],
+      "analyzed_at": "2026-05-11T11:50:30.690421+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "ProAlit/aio-downloader",
+      "title": "aio-downloader",
+      "description": "all-in-one everything downloader to bypass  gfw",
+      "url": "https://github.com/ProAlit/aio-downloader",
+      "stars": 74,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-05-05T18:53:30Z",
+      "updated_at": "2026-05-11T11:42:59Z",
+      "forks": 254,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "AIO Downloader is a tool for downloading media from multiple websites without third-party APIs. It's useful for bypassing restrictions like the Great Firewall of China. Available on GitHub, APKPure, and PGYER, it offers fast and versatile downloading options.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-11T11:50:32.988490+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
