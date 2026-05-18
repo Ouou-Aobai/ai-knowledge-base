@@ -1,0 +1,537 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-05-18T02:49:00.784878Z",
+  "analyzed_at": "2026-05-18T02:49:52.132361+00:00",
+  "count": 22,
+  "items": [
+    {
+      "id": 48173468,
+      "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
+      "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
+      "score": 108,
+      "comments": 89,
+      "author": "ChrisArchitect",
+      "time": 1779054330,
+      "hn_url": "https://news.ycombinator.com/item?id=48173468",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-18T02:49:36.840749+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48169874,
+      "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+      "url": "https://github.com/MinishLab/semble",
+      "score": 186,
+      "comments": 48,
+      "author": "Bibabomas",
+      "time": 1779032227,
+      "hn_url": "https://news.ycombinator.com/item?id=48169874",
+      "text": "Hey HN! We (Stephan and Thomas) recently open-sourced Semble. We kept running into the same problem while using Claude Code on large codebases: when the agent can&#x27;t find something directly, it falls back to grep, reading full files or launching subagents. This uses a lot of tokens, and often still misses the relevant code. There are existing tools for this, but they were either too slow to index on demand, needed API keys, or had poor retrieval quality.<p>Semble is our solution for this. It",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep 的技术内容。",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-05-18T02:49:37.569590+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48157229,
+      "title": "A Good Lemma Is Worth a Thousand Theorems",
+      "url": "https://sites.math.rutgers.edu/~zeilberg/Opinion82.html",
+      "score": 9,
+      "comments": 1,
+      "author": "susam",
+      "time": 1778911001,
+      "hn_url": "https://news.ycombinator.com/item?id=48157229",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 A Good Lemma Is Worth a Thousand Theorems 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-18T02:49:38.256896+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48147351,
+      "title": "Mercurial, 20 years and counting: how are we still alive and kicking? [video]",
+      "url": "https://fosdem.org/2026/schedule/event/AGWUVH-mercurial-aint-you-dead-yet/",
+      "score": 164,
+      "comments": 156,
+      "author": "ibobev",
+      "time": 1778845153,
+      "hn_url": "https://news.ycombinator.com/item?id=48147351",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Mercurial, 20 years and counting: how are we still alive and kicking? [video] 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-18T02:49:38.945959+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48173547,
+      "title": "The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations",
+      "url": "https://www.jdhodges.com/blog/thinkpad-history/",
+      "score": 57,
+      "comments": 30,
+      "author": "zdw",
+      "time": 1779055000,
+      "hn_url": "https://news.ycombinator.com/item?id=48173547",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-18T02:49:39.652189+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48168221,
+      "title": "I don't think AI will make your processes go faster",
+      "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+      "score": 502,
+      "comments": 356,
+      "author": "TheEdonian",
+      "time": 1779020025,
+      "hn_url": "https://news.ycombinator.com/item?id=48168221",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 I don't think AI will make your processes go faster 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-18T02:49:40.366876+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48140556,
+      "title": "Hindenburg’s Smoking Room",
+      "url": "https://www.airships.net/hindenburg-smoking-room/",
+      "score": 159,
+      "comments": 121,
+      "author": "crescit_eundo",
+      "time": 1778789292,
+      "hn_url": "https://news.ycombinator.com/item?id=48140556",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Hindenburg’s Smoking Room 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-18T02:49:41.075580+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48147091,
+      "title": "Prolog Basics Explained with Pokémon",
+      "url": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/",
+      "score": 211,
+      "comments": 34,
+      "author": "birdculture",
+      "time": 1778842934,
+      "hn_url": "https://news.ycombinator.com/item?id=48147091",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Prolog Basics Explained with Pokémon 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-18T02:49:41.779921+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48168159,
+      "title": "Trials on veterans suggest ibogaine could provide a new treatment for PTSD",
+      "url": "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd",
+      "score": 82,
+      "comments": 89,
+      "author": "bushwart",
+      "time": 1779019384,
+      "hn_url": "https://news.ycombinator.com/item?id=48168159",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Trials on veterans suggest ibogaine could provide a new treatment for PTSD 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-18T02:49:42.487610+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48173962,
+      "title": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
+      "url": "https://hellmood.111mb.de//wake_up_16b_writeup.html",
+      "score": 6,
+      "comments": 0,
+      "author": "HellMood",
+      "time": 1779059409,
+      "hn_url": "https://news.ycombinator.com/item?id=48173962",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 WriteUp: 16 Bytes of x86 that turn Matrix rain into sound 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-18T02:49:43.197072+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48170799,
+      "title": "The occasional ECONNRESET",
+      "url": "https://movq.de/blog/postings/2026-05-05/1/POSTING-en.html",
+      "score": 96,
+      "comments": 22,
+      "author": "zdw",
+      "time": 1779037776,
+      "hn_url": "https://news.ycombinator.com/item?id=48170799",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 The occasional ECONNRESET 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-18T02:49:43.900018+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48168626,
+      "title": "AI is a technology not a product",
+      "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
+      "score": 342,
+      "comments": 139,
+      "author": "ch_sm",
+      "time": 1779023480,
+      "hn_url": "https://news.ycombinator.com/item?id=48168626",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 AI is a technology not a product 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-18T02:49:44.591220+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48168198,
+      "title": "Apple Silicon costs more than OpenRouter",
+      "url": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
+      "score": 302,
+      "comments": 256,
+      "author": "datadrivenangel",
+      "time": 1779019763,
+      "hn_url": "https://news.ycombinator.com/item?id=48168198",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Apple Silicon costs more than OpenRouter 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-18T02:49:45.300623+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48171852,
+      "title": "University of Arizona students boo Eric Schmidt's AI cheerleading",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
+      "score": 58,
+      "comments": 1,
+      "author": "latexr",
+      "time": 1779043079,
+      "hn_url": "https://news.ycombinator.com/item?id=48171852",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 University of Arizona students boo Eric Schmidt's AI cheerleading 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-18T02:49:45.987199+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48164287,
+      "title": "Zerostack – A Unix-inspired coding agent written in pure Rust",
+      "url": "https://crates.io/crates/zerostack/1.0.0",
+      "score": 543,
+      "comments": 297,
+      "author": "gidellav",
+      "time": 1778970230,
+      "hn_url": "https://news.ycombinator.com/item?id=48164287",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Zerostack – A Unix-inspired coding agent written in pure Rust 的技术内容。",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-05-18T02:49:46.692215+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48174808,
+      "title": "Most Americans don't trust AI – or the people in charge of it",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/644853/pew-gallup-data-americans-dont-trust-ai",
+      "score": 4,
+      "comments": 0,
+      "author": "cdrnsf",
+      "time": 1779068370,
+      "hn_url": "https://news.ycombinator.com/item?id=48174808",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Most Americans don't trust AI – or the people in charge of it 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-18T02:49:47.410842+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48172952,
+      "title": "Where OpenClaw Security Is Heading",
+      "url": "https://openclaw.ai/blog/where-openclaw-security-is-heading",
+      "score": 20,
+      "comments": 14,
+      "author": "paulofeliciano",
+      "time": 1779049941,
+      "hn_url": "https://news.ycombinator.com/item?id=48172952",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Where OpenClaw Security Is Heading 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-18T02:49:48.124634+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48168426,
+      "title": "Agentic Trading with Safe Guardrails",
+      "url": "https://github.com/ShurikenTrade/shuriken-skills",
+      "score": 44,
+      "comments": 23,
+      "author": "jgan0978",
+      "time": 1779021864,
+      "hn_url": "https://news.ycombinator.com/item?id=48168426",
+      "text": "",
+      "relevance_score": 0.7,
+      "summary": "这是一个关于 Agentic Trading with Safe Guardrails 的技术内容。",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "analyzed_at": "2026-05-18T02:49:48.825910+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48171906,
+      "title": "Scientists “bottle the sun” with a liquid battery that stores solar energy",
+      "url": "https://www.sciencedaily.com/releases/2026/05/260513221821.htm",
+      "score": 50,
+      "comments": 33,
+      "author": "ndr42",
+      "time": 1779043355,
+      "hn_url": "https://news.ycombinator.com/item?id=48171906",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Scientists “bottle the sun” with a liquid battery that stores solar energy 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-18T02:49:49.543104+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48168708,
+      "title": "WHO declares Ebola outbreak a global health emergency",
+      "url": "https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html",
+      "score": 279,
+      "comments": 176,
+      "author": "zzzeek",
+      "time": 1779024134,
+      "hn_url": "https://news.ycombinator.com/item?id=48168708",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 WHO declares Ebola outbreak a global health emergency 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-18T02:49:50.253279+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48158400,
+      "title": "Moving away from Tailwind, and learning to structure my CSS",
+      "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+      "score": 660,
+      "comments": 373,
+      "author": "mpweiher",
+      "time": 1778922866,
+      "hn_url": "https://news.ycombinator.com/item?id=48158400",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Moving away from Tailwind, and learning to structure my CSS 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-18T02:49:50.941829+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48173501,
+      "title": "AI Wearables Are Coming but They'll Need to Pass the Coffee Shop Test to Survive",
+      "url": "https://www.inc.com/connor-jewiss/ai-wearables-are-coming-but-theyll-need-to-pass-this-crucial-coffee-shop-test-to-survive/91345526",
+      "score": 17,
+      "comments": 11,
+      "author": "connorjewiss",
+      "time": 1779054584,
+      "hn_url": "https://news.ycombinator.com/item?id=48173501",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 AI Wearables Are Coming but They'll Need to Pass the Coffee Shop Test to Survive 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-18T02:49:51.631095+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
