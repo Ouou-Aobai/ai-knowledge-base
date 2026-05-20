@@ -1,0 +1,489 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-05-20T02:46:43.392999Z",
+  "analyzed_at": "2026-05-20T02:46:58.307471+00:00",
+  "count": 20,
+  "items": [
+    {
+      "id": 48201484,
+      "title": "Railway Blocked by Google Cloud",
+      "url": "https://status.railway.com/?date=20260519",
+      "score": 193,
+      "comments": 68,
+      "author": "aarondf",
+      "time": 1779236634,
+      "hn_url": "https://news.ycombinator.com/item?id=48201484",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Railway Blocked by Google Cloud 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-20T02:46:43.851576+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48196570,
+      "title": "Gemini 3.5 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "score": 608,
+      "comments": 455,
+      "author": "spectraldrift",
+      "time": 1779212625,
+      "hn_url": "https://news.ycombinator.com/item?id=48196570",
+      "text": "<a href=\"https:&#x2F;&#x2F;ai.google.dev&#x2F;gemini-api&#x2F;docs&#x2F;models&#x2F;gemini-3.5-flash\" rel=\"nofollow\">https:&#x2F;&#x2F;ai.google.dev&#x2F;gemini-api&#x2F;docs&#x2F;models&#x2F;gemini-3.5-flas...</a>",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Gemini 3.5 Flash 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-20T02:46:44.705505+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48195009,
+      "title": "I’ve built a virtual museum with nearly every operating system you can think of",
+      "url": "https://virtualosmuseum.org/",
+      "score": 611,
+      "comments": 146,
+      "author": "andreww591",
+      "time": 1779206018,
+      "hn_url": "https://news.ycombinator.com/item?id=48195009",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 I’ve built a virtual museum with nearly every operating system you can think of 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-20T02:46:45.480693+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48200569,
+      "title": "Remove–AI–Watermarks – CLI and library for removing AI watermarks from images",
+      "url": "https://github.com/wiltodelta/remove-ai-watermarks",
+      "score": 136,
+      "comments": 86,
+      "author": "janalsncm",
+      "time": 1779229831,
+      "hn_url": "https://news.ycombinator.com/item?id=48200569",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Remove–AI–Watermarks – CLI and library for removing AI watermarks from images 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-20T02:46:46.198609+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48198291,
+      "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+      "url": "https://openai.com/index/advancing-content-provenance/",
+      "score": 211,
+      "comments": 109,
+      "author": "smooke",
+      "time": 1779219270,
+      "hn_url": "https://news.ycombinator.com/item?id=48198291",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-20T02:46:46.915805+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48192383,
+      "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
+      "url": "https://github.com/antoinezambelli/forge",
+      "score": 293,
+      "comments": 111,
+      "author": "zambelli",
+      "time": 1779193387,
+      "hn_url": "https://news.ycombinator.com/item?id=48192383",
+      "text": "Hi HN, I&#x27;m Antoine Zambelli, AI Director at Texas Instruments.<p>I built Forge, an open-source reliability layer for self-hosted LLM tool-calling.<p>What it does:<p>- Adds domain-and-tool-agnostic guardrails (retry nudges, step enforcement, error recovery, VRAM-aware context management) to local models running on consumer hardware<p>- Takes an 8B model from ~53% to ~99% on multi-step agentic workflows without changing the model - just the system around it<p>- Ships with an eval harness and ",
+      "relevance_score": 0.7,
+      "summary": "这是一个关于 Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks 的技术内容。",
+      "tags": [
+        "ai",
+        "agent"
+      ],
+      "analyzed_at": "2026-05-20T02:46:47.754944+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48197995,
+      "title": "Mistral AI acquires Emmi AI",
+      "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
+      "score": 175,
+      "comments": 46,
+      "author": "doener",
+      "time": 1779218052,
+      "hn_url": "https://news.ycombinator.com/item?id=48197995",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Mistral AI acquires Emmi AI 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-20T02:46:48.440332+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48169736,
+      "title": "Tool mapping 90 companies in the photonics and CPO supply chain",
+      "url": "https://leonardo-boquillon.com/photonic-cop-supply-chain",
+      "score": 28,
+      "comments": 2,
+      "author": "lboquillon",
+      "time": 1779031330,
+      "hn_url": "https://news.ycombinator.com/item?id=48169736",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Tool mapping 90 companies in the photonics and CPO supply chain 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-20T02:46:49.279956+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48175748,
+      "title": "The two oldest printing presses",
+      "url": "https://museumplantinmoretus.be/en/worlds-two-oldest-printing-presses",
+      "score": 23,
+      "comments": 6,
+      "author": "janpot",
+      "time": 1779080479,
+      "hn_url": "https://news.ycombinator.com/item?id=48175748",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 The two oldest printing presses 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-20T02:46:49.972938+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48194614,
+      "title": "Copy Fail, Dirty Frag, and Fragnesia kernel vulnerabilities",
+      "url": "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
+      "score": 112,
+      "comments": 42,
+      "author": "akhuettel",
+      "time": 1779204473,
+      "hn_url": "https://news.ycombinator.com/item?id=48194614",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Copy Fail, Dirty Frag, and Fragnesia kernel vulnerabilities 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-20T02:46:50.684944+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48198127,
+      "title": "Dumb ways for an open source project to die",
+      "url": "https://nesbitt.io/2026/05/19/dumb-ways-for-an-open-source-project-to-die.html",
+      "score": 155,
+      "comments": 96,
+      "author": "chmaynard",
+      "time": 1779218576,
+      "hn_url": "https://news.ycombinator.com/item?id=48198127",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Dumb ways for an open source project to die 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-20T02:46:51.373370+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48170007,
+      "title": "Intro to TLA+ for the LLM Era: Prompt Your Way to Victory",
+      "url": "https://emptysqua.re/blog/intro-to-tla-plus-for-the-llm-era/",
+      "score": 116,
+      "comments": 27,
+      "author": "zdw",
+      "time": 1779033141,
+      "hn_url": "https://news.ycombinator.com/item?id=48170007",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Intro to TLA+ for the LLM Era: Prompt Your Way to Victory 的技术内容。",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-05-20T02:46:52.065683+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48195021,
+      "title": "Show HN: Superlog (YC P26) – Observability that installs itself and fixes bugs",
+      "url": "https://superlog.sh/",
+      "score": 49,
+      "comments": 43,
+      "author": "Magnanten",
+      "time": 1779206046,
+      "hn_url": "https://news.ycombinator.com/item?id=48195021",
+      "text": "Hey HN, we’re Nico and Arseniy, co-founders of Superlog (<a href=\"https:&#x2F;&#x2F;superlog.sh\">https:&#x2F;&#x2F;superlog.sh</a>). We&#x27;re building a self-installing, self healing observability tool meant not to be opened. It has a wizard that daily sets up proper logging and an agent that investigates errors and opens PRs.<p>Super short demo: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=xFhU9Mk247M\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=xFhU9Mk247M</a>.<p",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Show HN: Superlog (YC P26) – Observability that installs itself and fixes bugs 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-20T02:46:52.756427+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48192882,
+      "title": "OpenBSD 7.9",
+      "url": "https://www.openbsd.org/79.html",
+      "score": 373,
+      "comments": 269,
+      "author": "bradley_taunt",
+      "time": 1779196311,
+      "hn_url": "https://news.ycombinator.com/item?id=48192882",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 OpenBSD 7.9 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-20T02:46:53.446164+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48196303,
+      "title": "AI, \"Humanity\", and Dr. Manhattan Syndrome: A Communications Intervention",
+      "url": "https://www.personfamiliar.com/p/ai-humanity-and-dr-manhattan-syndrome",
+      "score": 39,
+      "comments": 8,
+      "author": "stalfosknight",
+      "time": 1779211365,
+      "hn_url": "https://news.ycombinator.com/item?id=48196303",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 AI, \"Humanity\", and Dr. Manhattan Syndrome: A Communications Intervention 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-20T02:46:54.219782+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48201222,
+      "title": "HTML-in-Canvas Demos",
+      "url": "https://github.com/GoogleChromeLabs/css-web-ui-demos/blob/main/html-in-canvas/awesome-html-in-canvas.md",
+      "score": 3,
+      "comments": 0,
+      "author": "simonpure",
+      "time": 1779234543,
+      "hn_url": "https://news.ycombinator.com/item?id=48201222",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 HTML-in-Canvas Demos 的技术内容。",
+      "tags": [
+        "ml"
+      ],
+      "analyzed_at": "2026-05-20T02:46:54.975167+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48201330,
+      "title": "Tell HN: Google banned Railway's account. Everything down",
+      "url": "",
+      "score": 13,
+      "comments": 8,
+      "author": "sergiotapia",
+      "time": 1779235400,
+      "hn_url": "https://news.ycombinator.com/item?id=48201330",
+      "text": "Everything down including railway.com - this is a bad outage. :(",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Tell HN: Google banned Railway's account. Everything down 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-20T02:46:55.683162+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48201602,
+      "title": "Google Cloud has blocked our account, making some Railway services unavailable",
+      "url": "https://twitter.com/i/status/2056883076496789854",
+      "score": 11,
+      "comments": 3,
+      "author": "bundie",
+      "time": 1779237627,
+      "hn_url": "https://news.ycombinator.com/item?id=48201602",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Google Cloud has blocked our account, making some Railway services unavailable 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-20T02:46:56.423218+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48195706,
+      "title": "KV Sharing, MHC, and Compressed Attention",
+      "url": "https://magazine.sebastianraschka.com/p/recent-developments-in-llm-architectures",
+      "score": 27,
+      "comments": 2,
+      "author": "gmays",
+      "time": 1779208827,
+      "hn_url": "https://news.ycombinator.com/item?id=48195706",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 KV Sharing, MHC, and Compressed Attention 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-20T02:46:57.103734+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48197390,
+      "title": "Show HN: Pg_deltax, Apache-licensed alternative to TimescaleDB",
+      "url": "https://github.com/xataio/deltax",
+      "score": 22,
+      "comments": 1,
+      "author": "tee-es-gee",
+      "time": 1779215770,
+      "hn_url": "https://news.ycombinator.com/item?id=48197390",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Show HN: Pg_deltax, Apache-licensed alternative to TimescaleDB 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-05-20T02:46:57.806280+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
