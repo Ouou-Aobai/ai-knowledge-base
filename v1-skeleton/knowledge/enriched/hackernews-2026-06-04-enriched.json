@@ -1,0 +1,490 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-06-04T03:31:44.720645Z",
+  "analyzed_at": "2026-06-04T03:34:39.518479+00:00",
+  "count": 20,
+  "items": [
+    {
+      "id": 48392343,
+      "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+      "url": "https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/",
+      "score": 78,
+      "comments": 34,
+      "author": "jc4p",
+      "time": 1780534592,
+      "hn_url": "https://news.ycombinator.com/item?id=48392343",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "LLMs have demonstrated the ability to autonomously exploit vulnerabilities in web applications, spending significant time and resources to test this capability. Recent studies show promising results in this area.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-06-04T03:33:59.358642+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48385906,
+      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+      "score": 728,
+      "comments": 297,
+      "author": "rvz",
+      "time": 1780502682,
+      "hn_url": "https://news.ycombinator.com/item?id=48385906",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Gemma 4 12B is an encoder-free multimodal model that processes audio, video, and text, with a 256K token context window. It features a unified architecture, eliminating secondary encoders for efficiency. Available for download on Hugging Face and Kaggle.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-04T03:34:00.101994+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48392082,
+      "title": "The ways we contain Claude across products",
+      "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+      "score": 60,
+      "comments": 29,
+      "author": "jbredeche",
+      "time": 1780532872,
+      "hn_url": "https://news.ycombinator.com/item?id=48392082",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "To contain Claude, defenses are applied to the environment, process sandboxes, VMs, and filesystem boundaries to set hard boundaries on agent reach. Despite these measures, complete effectiveness is unattainable. Anthropic emphasizes thorough documentation for trust.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-04T03:34:02.372551+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48387270,
+      "title": "Artificial intelligence is not conscious – Ted Chiang",
+      "url": "https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/",
+      "score": 283,
+      "comments": 518,
+      "author": "lordleft",
+      "time": 1780509097,
+      "hn_url": "https://news.ycombinator.com/item?id=48387270",
+      "text": "<a href=\"https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260603173839&#x2F;https:&#x2F;&#x2F;www.theatlantic.com&#x2F;philosophy&#x2F;2026&#x2F;06&#x2F;no-artificial-intelligence-is-not-conscious&#x2F;687378&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260603173839&#x2F;https:&#x2F;&#x2F;www.theat...</a><p><a href=\"https:&#x2F;&#x2F;archive.is&#x2F;bcpZl\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.is&#x2F;bcpZl</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Artificial intelligence lacks consciousness; it operates based on algorithms, not self-awareness. Ted Chiang emphasizes this distinction in his works. Current AI is not conscious.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-04T03:34:04.318060+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48383056,
+      "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+      "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+      "score": 392,
+      "comments": 503,
+      "author": "pdyc",
+      "time": 1780489514,
+      "hn_url": "https://news.ycombinator.com/item?id=48383056",
+      "text": "<a href=\"https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-06-02&#x2F;uber-caps-usage-of-ai-tools-like-claude-code-to-cut-costs\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bloomberg.com&#x2F;news&#x2F;articles&#x2F;2026-06-02&#x2F;uber-caps...</a> (<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;ZrwAy\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;ZrwAy</a>)",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Uber has set a $1,500 monthly AI spending limit per employee to control costs, reflecting a cautious approach to AI tool usage. This cap represents about 11% of the median compensation package, indicating a significant investment in AI technology. The move aims to balance innovation with budget constraints.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-04T03:34:06.511169+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48392004,
+      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+      "score": 30,
+      "comments": 10,
+      "author": "littlexsparkee",
+      "time": 1780532282,
+      "hn_url": "https://news.ycombinator.com/item?id=48392004",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "In spring 2026, failing grades in UC Berkeley's CS 10 and CS 61A classes surged to 35.3% and 10.6% respectively, attributed to increased AI reliance, poor math skills, and understaffing. Instructors highlight these issues as major contributors to the decline in student performance.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-04T03:34:09.728927+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48387095,
+      "title": "Launch HN: Hyper (YC P26) – Company brain to power agentic development",
+      "url": "",
+      "score": 55,
+      "comments": 55,
+      "author": "shalinshah",
+      "time": 1780508393,
+      "hn_url": "https://news.ycombinator.com/item?id=48387095",
+      "text": "Hey HN, we’re Shalin &amp; Kanyes, best friends who&#x27;ve been hacking together for 10+yrs, and now founders of Hyper (<a href=\"https:&#x2F;&#x2F;heyhyper.ai&#x2F;\">https:&#x2F;&#x2F;heyhyper.ai&#x2F;</a>). Hyper is a shared “company brain” that plugs into information flowing inside a company to make AI agents and automations better and ultimately save people time.<p>Models have gotten good enough that they can (mostly) take on long-horizon, complex tasks. We believe the bottleneck now is that",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Hyper (YC P26) is a company brain designed to enhance agentic development by consolidating company information from various sources to provide comprehensive, up-to-date insights. It aims to solve the problem of scattered company knowledge and incomplete information for AI agents.",
+      "tags": [
+        "ai",
+        "agent"
+      ],
+      "analyzed_at": "2026-06-04T03:34:11.888580+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48349404,
+      "title": "Patching my guitar amp's firmware",
+      "url": "https://mforney.org/blog/2026-05-28-patching-my-guitar-amps-firmware.html",
+      "score": 45,
+      "comments": 7,
+      "author": "birdculture",
+      "time": 1780259203,
+      "hn_url": "https://news.ycombinator.com/item?id=48349404",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "To patch a guitar amp's firmware, use JTAG or UART for reverse engineering. Backup the original firmware first. Follow detailed guides for safe modifications.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-04T03:34:13.903270+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48390688,
+      "title": "Journey to JPEG XL: open-source experiments shaped the future of image coding",
+      "url": "https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html",
+      "score": 47,
+      "comments": 27,
+      "author": "ledoge",
+      "time": 1780523723,
+      "hn_url": "https://news.ycombinator.com/item?id=48390688",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "JPEG XL emerged from a decade of open-source experiments in psychovisual modeling and compression, offering improved efficiency, quality, and file size. It aims to surpass existing formats in image coding. As of 2026, it remains a competitive alternative in the image format landscape.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-04T03:34:16.019128+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48388909,
+      "title": "Self-hosted dev sandboxes with preview URLs (Docker, Go, no K8s)",
+      "url": "https://github.com/tastyeffectco/sandboxes",
+      "score": 58,
+      "comments": 13,
+      "author": "tastyeffectco",
+      "time": 1780515817,
+      "hn_url": "https://news.ycombinator.com/item?id=48388909",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Self-hosted dev sandboxes using Docker and Go provide isolated environments with preview URLs, no Kubernetes required. They manage containers and handle URLs with Traefik. Ideal for multiple app development.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-04T03:34:18.192641+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48382052,
+      "title": "Mathematicians issue warning as AI rapidly gains ground",
+      "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
+      "score": 188,
+      "comments": 234,
+      "author": "pseudolus",
+      "time": 1780481148,
+      "hn_url": "https://news.ycombinator.com/item?id=48382052",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Mathematicians have issued a warning about AI's rapid advancement, arguing it threatens the field's values and culture. This concern is gaining attention across various platforms. The issue remains a significant point of debate in 2026.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-04T03:34:20.227441+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48389586,
+      "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
+      "url": "https://github.com/zaydmulani09/mnemo",
+      "score": 32,
+      "comments": 16,
+      "author": "zaydmulani",
+      "time": 1780518730,
+      "hn_url": "https://news.ycombinator.com/item?id=48389586",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Mnemo is a local-first AI memory layer for any large language model, built in Rust with SQLite and petgraph. It offers persistent memory and can run locally. It's designed to enhance local AI applications.",
+      "tags": [
+        "llm",
+        "ai"
+      ],
+      "analyzed_at": "2026-06-04T03:34:22.315144+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48392012,
+      "title": "Show HN: Bio Glyph – Turn Your Face into a One-Line Drawing",
+      "url": "https://bio.bairui.dev/",
+      "score": 7,
+      "comments": 2,
+      "author": "subairui",
+      "time": 1780532318,
+      "hn_url": "https://news.ycombinator.com/item?id=48392012",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Bio Glyph transforms faces into one-line drawings, showcasing animation but struggling with facial hair. It's popular on social media for its artistic appeal. The technique is also taught in tutorials.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-04T03:34:24.943073+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48391957,
+      "title": "DNS Is for People – Not for IT Infrastructure",
+      "url": "https://louwrentius.com/dns-is-for-people-not-for-it-infrastructure.html",
+      "score": 10,
+      "comments": 3,
+      "author": "louwrentius",
+      "time": 1780531970,
+      "hn_url": "https://news.ycombinator.com/item?id=48391957",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "DNS translates human-readable domain names into IP addresses for easy access. It's primarily for user convenience, not for IT infrastructure management. DNS is a critical security control but can also be exploited by attackers.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-04T03:34:26.808338+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48356449,
+      "title": "Stop Killing Games",
+      "url": "https://jxself.org/stop-killing-games.shtml",
+      "score": 200,
+      "comments": 192,
+      "author": "amcclure",
+      "time": 1780319811,
+      "hn_url": "https://news.ycombinator.com/item?id=48356449",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Stop Killing Games is a campaign against publishers shutting down online game servers, arguing it violates consumer rights. They seek legal protections and have reached French courts. Their efforts aim to prevent the loss of paid games.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-04T03:34:28.809710+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48374552,
+      "title": "Show HN: Edsger – A handwritten Clojure REPL for the reMarkable 2",
+      "url": "https://handwritten.danieljanus.pl/2026-06-01-edsger.html",
+      "score": 238,
+      "comments": 34,
+      "author": "nathell",
+      "time": 1780426372,
+      "hn_url": "https://news.ycombinator.com/item?id=48374552",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Edsger is a handwritten Clojure REPL for the reMarkable 2, allowing users to write and execute Clojure code directly by hand. It uses handwriting recognition to convert sketches into executable code. The project aims to bring traditional programming into a modern, interactive format.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-04T03:34:30.768914+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48392062,
+      "title": "The Social Science Research Network Has Jumped the Shark",
+      "url": "https://www.stephenbainbridge.com/p/the-social-science-research-network",
+      "score": 5,
+      "comments": 0,
+      "author": "droidjj",
+      "time": 1780532694,
+      "hn_url": "https://news.ycombinator.com/item?id=48392062",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "SSRN, an open-access research platform, was bought by Elsevier in 2016. It has faced criticism for declining quality. The term \"jumped the shark\" refers to its perceived decline.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-04T03:34:32.721712+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48338215,
+      "title": "Fluid Simulation for Dummies (2006)",
+      "url": "https://www.mikeash.com/pyblog/fluid-simulation-for-dummies.html",
+      "score": 55,
+      "comments": 18,
+      "author": "sebg",
+      "time": 1780159598,
+      "hn_url": "https://news.ycombinator.com/item?id=48338215",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Fluid simulation involves using algorithms to mimic fluid behavior, often focusing on incompressible fluids for simplicity. Key parameters include timestep, diffusion, and viscosity. Jos Stam's work provides a foundational approach.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-04T03:34:34.812198+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48391136,
+      "title": "Demand Is Booming for New No Tech, Repairable Tractor",
+      "url": "https://www.404media.co/demand-is-booming-for-ursa-ag-new-no-tech-repairable-tractor/",
+      "score": 45,
+      "comments": 11,
+      "author": "jay_kyburz",
+      "time": 1780526650,
+      "hn_url": "https://news.ycombinator.com/item?id=48391136",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Demand for Ursa Ag's affordable, repairable tractor is surging, costing half as much as a Deere, while farmers increasingly seek simpler, older models due to high new tractor costs and repair complexities.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-04T03:34:36.893086+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48391890,
+      "title": "Reading MAI's efficiency gain. How to pick architectures like serious people",
+      "url": "https://idlemachines.co.uk/essays/efficiency-gain",
+      "score": 4,
+      "comments": 0,
+      "author": "smaddrellmander",
+      "time": 1780531515,
+      "hn_url": "https://news.ycombinator.com/item?id=48391890",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "To pick AI architectures, consider data type, task complexity, and available resources. Microsoft's MAI-Thinking-1 report reveals top labs' R&D philosophies. Align architecture with performance, latency, and deployment needs.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-04T03:34:39.017547+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
