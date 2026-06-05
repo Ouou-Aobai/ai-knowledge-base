@@ -1,0 +1,513 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-06-05T02:53:37.825644Z",
+  "analyzed_at": "2026-06-05T02:54:16.475100+00:00",
+  "count": 21,
+  "items": [
+    {
+      "id": 48405931,
+      "title": "Do transformers need three projections? Systematic study of QKV variants",
+      "url": "https://arxiv.org/abs/2606.04032",
+      "score": 104,
+      "comments": 18,
+      "author": "Anon84",
+      "time": 1780614716,
+      "hn_url": "https://news.ycombinator.com/item?id=48405931",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Transformers can function effectively with a single shared projection for Q, K, and V, as shown in systematic studies, but three distinct projections are traditionally used for optimal performance.",
+      "tags": [
+        "transformer"
+      ],
+      "analyzed_at": "2026-06-05T02:53:39.513090+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48403980,
+      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "url": "https://github.com/anthropics/defending-code-reference-harness",
+      "score": 287,
+      "comments": 96,
+      "author": "binyu",
+      "time": 1780603880,
+      "hn_url": "https://news.ycombinator.com/item?id=48403980",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Anthropic's AI framework, Mythos, significantly enhances vulnerability discovery, challenging traditional security practices. It operates at a level surpassing human expertise in identifying software flaws. This breakthrough necessitates a reevaluation of vulnerability management strategies.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-05T02:53:41.399684+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48406358,
+      "title": "Open Code Review – An AI-powered code review CLI tool",
+      "url": "https://github.com/alibaba/open-code-review",
+      "score": 55,
+      "comments": 12,
+      "author": "geoffbp",
+      "time": 1780617869,
+      "hn_url": "https://news.ycombinator.com/item?id=48406358",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Open Code Review is an AI-powered CLI tool for code review, identifying bugs and performance issues, and offering auto-fixes. It supports multiple AI tools and provides a dashboard for managing code reviews.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-05T02:53:43.092477+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48400842,
+      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+      "score": 348,
+      "comments": 465,
+      "author": "meetpateltech",
+      "time": 1780590017,
+      "hn_url": "https://news.ycombinator.com/item?id=48400842",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Recursive self-improvement allows AI systems to improve without human intervention, speeding up development. Anthropic is leading this progress by delegating AI development to AI itself. Predictions suggest this could lead to an AI capable of designing its own successor by 2028.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-05T02:53:44.859664+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48399974,
+      "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+      "url": "https://github.com/huawei-csl/KVarN",
+      "score": 116,
+      "comments": 12,
+      "author": "theanonymousone",
+      "time": 1780586280,
+      "hn_url": "https://news.ycombinator.com/item?id=48399974",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "KVarN is a native vLLM backend for KV-cache quantization by Huawei, offering 3-5x more context and up to 1.3x throughput of FP16 with FP16-level accuracy. It significantly enhances KV-cache capacity and throughput.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-06-05T02:53:46.676109+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48366090,
+      "title": "Samurai City",
+      "url": "https://worksinprogress.co/issue/samurai-city/",
+      "score": 111,
+      "comments": 18,
+      "author": "zdw",
+      "time": 1780374739,
+      "hn_url": "https://news.ycombinator.com/item?id=48366090",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Aizuwakamatsu is known as the Samurai City, famous for its historical samurai heritage and Tsuruga Castle. It is located in Fukushima Prefecture, Japan.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-05T02:53:48.350326+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48400588,
+      "title": "Retro-Tech Parenting",
+      "url": "https://havenweb.org/2026/05/28/retro-tech.html",
+      "score": 258,
+      "comments": 176,
+      "author": "mawise",
+      "time": 1780588955,
+      "hn_url": "https://news.ycombinator.com/item?id=48400588",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Retro-tech parenting involves using 1980s and 1990s technology to reduce screen time and encourage analog activities. Parents aim to create a slower, more connected family life. This approach includes VHS tapes, typewriters, and minimal phone use.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-05T02:53:50.244287+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48373266,
+      "title": "I made a kernel 2.2x faster. It made my training loop 3x slower",
+      "url": "https://kyrieblunders.bearblog.dev/making-dr-grpo-go-brrr/",
+      "score": 4,
+      "comments": 0,
+      "author": "vishal-padia",
+      "time": 1780421173,
+      "hn_url": "https://news.ycombinator.com/item?id=48373266",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A faster kernel can cause a training loop to slow down due to increased memory access times or synchronization issues. The optimization trade-off often results in slower overall performance. This is a common issue in performance tuning.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-05T02:53:52.089963+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48405019,
+      "title": "IPv6 zones in URLs are a mistake",
+      "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
+      "score": 93,
+      "comments": 72,
+      "author": "xena",
+      "time": 1780609354,
+      "hn_url": "https://news.ycombinator.com/item?id=48405019",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "IPv6 zones in URLs are problematic because URLs can't represent all Unicode values, leading to parsing errors. IPv6 zones should be handled separately, not in URLs. RFC 9884 provides guidance for user interfaces but not for URLs.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-05T02:53:54.040550+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48403753,
+      "title": "Castor: CERN Advanced STORage Manager",
+      "url": "https://castor.web.cern.ch/content/home.html",
+      "score": 44,
+      "comments": 19,
+      "author": "naves",
+      "time": 1780602722,
+      "hn_url": "https://news.ycombinator.com/item?id=48403753",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "CASTOR is a CERN storage management system for archiving large physics data volumes. It was succeeded by CERN Tape Archive (CTA) in 2020. CTA gradually replaced CASTOR for data storage.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-05T02:53:55.666977+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48405841,
+      "title": "Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate",
+      "url": "https://arxiv.org/abs/2604.24881",
+      "score": 15,
+      "comments": 0,
+      "author": "PaulHoule",
+      "time": 1780614100,
+      "hn_url": "https://news.ycombinator.com/item?id=48405841",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Latent Agents is a method for distilling multi-agent debate into a single large language model, using reinforcement learning to internalize debate processes. It aims to reduce token consumption by up to 93% while preserving reasoning benefits. The approach analyzes agent-specific subspaces to manage potential malicious agents.",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "analyzed_at": "2026-06-05T02:53:57.387553+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48360414,
+      "title": "Making Debian or Fedora persistent live images",
+      "url": "https://sigwait.org/~alex/blog/2026/05/28/smdBC8.html",
+      "score": 64,
+      "comments": 6,
+      "author": "henry_flower",
+      "time": 1780336930,
+      "hn_url": "https://news.ycombinator.com/item?id=48360414",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "To make Debian or Fedora persistent live images, use tools like `persistent-live-creator` for Debian or `rpm-ostree` for Fedora. These tools allow state changes to be saved back to the image.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-05T02:53:59.079036+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48406198,
+      "title": "South Korean Forums Will Need to Scan Every Images with AI Censorship Tools",
+      "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
+      "score": 11,
+      "comments": 9,
+      "author": "Cider9986",
+      "time": 1780616756,
+      "hn_url": "https://news.ycombinator.com/item?id=48406198",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "South Korean online communities must use AI tools to scan all uploaded images and videos. This regulation requires significant hardware investment, placing financial strain on small forums. The government mandates AI censorship to combat deepfakes and harmful content.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-05T02:54:00.849642+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48396004,
+      "title": "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
+      "url": "https://uruky.com/?il=en",
+      "score": 211,
+      "comments": 194,
+      "author": "BrunoBernardino",
+      "time": 1780563370,
+      "hn_url": "https://news.ycombinator.com/item?id=48396004",
+      "text": "You can get a 2h free trial by solving a proof-of-work captcha when topping up your account for the first time.<p>If you&#x27;d like to learn more, an independent interview was posted a couple of weeks ago [1], and the FAQ [2] has a lot of information as well.<p>For the source code sharing, we&#x27;ve talked with lawyers and are inclined to no longer require the NDA&#x2F;NCC for privacy reasons shared with us before (signing requires identification), but instead use a source-available permissive",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Uruky, a European-based alternative to Kagi, now offers image search and URL rewrites. This update was announced on Hacker News and Instagram. The feature enhancements aim to improve user privacy and search capabilities.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-05T02:54:02.984675+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48396792,
+      "title": "Gaussian Point Splatting",
+      "url": "https://momentsingraphics.de/Siggraph2026.html",
+      "score": 179,
+      "comments": 66,
+      "author": "ibobev",
+      "time": 1780570093,
+      "hn_url": "https://news.ycombinator.com/item?id=48396792",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Gaussian Point Splatting is a scalable rendering method for handling large numbers of Gaussians in real time. It uses pixel-sized points and parallel programming to achieve high performance. Slight noise and aliasing may occur compared to traditional Gaussian splatting.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-05T02:54:04.904864+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48370558,
+      "title": "3D-printed book turns its own G-code into raised lettering",
+      "url": "https://www.designboom.com/design/3d-printed-book-manual-darius-ou-benson-chong/",
+      "score": 77,
+      "comments": 28,
+      "author": "surprisetalk",
+      "time": 1780409715,
+      "hn_url": "https://news.ycombinator.com/item?id=48370558",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Studio Darius Ou's \"Manual\" is a fully 3D-printed book with raised G-code text embossed across its pages, embodying its own creation process. The book features the exact G-code that directed its printing, merging art and technology seamlessly. This innovative project showcases the meta aspect of 3D printing.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-05T02:54:06.659645+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48392004,
+      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+      "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+      "score": 738,
+      "comments": 719,
+      "author": "littlexsparkee",
+      "time": 1780532282,
+      "hn_url": "https://news.ycombinator.com/item?id=48392004",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Failing grades in UC Berkeley's computer science classes have increased, linked to higher AI usage and declining math skills. This trend was highlighted in spring 2026, with significant failures in CS courses.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-05T02:54:08.581999+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48399528,
+      "title": "AI, Ashby Engineering, and the future",
+      "url": "https://www.ashbyhq.com/blog/engineering/ai-ashby-engineering-and-the-future",
+      "score": 57,
+      "comments": 38,
+      "author": "fredley",
+      "time": 1780584524,
+      "hn_url": "https://news.ycombinator.com/item?id=48399528",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI is increasingly used in engineering to automate routine tasks, enhancing efficiency without compromising quality. Ashby Engineering reports stable customer issues and improved code comprehension with AI. Black & Veatch leverages AI for sustainable infrastructure, aiming to lead in this field.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-05T02:54:10.299924+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48391957,
+      "title": "DNS is for people, not for IT infrastructure",
+      "url": "https://louwrentius.com/dns-is-for-people-not-for-it-infrastructure.html",
+      "score": 51,
+      "comments": 83,
+      "author": "louwrentius",
+      "time": 1780531970,
+      "hn_url": "https://news.ycombinator.com/item?id=48391957",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "DNS is designed for human readability, not for machine-to-machine communication. Machines use IP addresses directly for efficiency. DNS can introduce complexity and security risks in internal infrastructure.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-05T02:54:12.279104+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48356563,
+      "title": "Show HN: Prela – Purely Algebraic Relation Combinators",
+      "url": "https://github.com/remysucre/prela",
+      "score": 63,
+      "comments": 13,
+      "author": "remywang",
+      "time": 1780320361,
+      "hn_url": "https://news.ycombinator.com/item?id=48356563",
+      "text": "Prela is an embedded query language based on Tarski&#x27;s Algebra of Relations. Its queries are concise, clear, and fast. It is implemented by shallow embedding in a host programming language: Prela operators are regular functions in the host. The implementation follows continuation-passing style which compiles to efficient columnar execution.",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Prela is an embedded query language based on Tarski's Algebra of Relations, offering concise and fast queries. It is implemented by embedding Prela operators as regular functions in a host programming language. This approach ensures clear and efficient data manipulation.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-05T02:54:14.118122+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48400053,
+      "title": "Show HN: I embedded 685M public texts in 32 minutes (on 8x A100, Rust, TensorRT)",
+      "url": "https://github.com/Artain-AI/ignite-ms",
+      "score": 3,
+      "comments": 0,
+      "author": "ddayanov",
+      "time": 1780586619,
+      "hn_url": "https://news.ycombinator.com/item?id=48400053",
+      "text": "Quick note on how it works and how I&#x27;ve done my batch embedding engine IgniteMS.<p>The whole thing runs as one process using Rust, reading input, tokenizing, packing batches, keeping the queue full. TensorRT handles inference. Python is only as a wrapper.<p>I built it this way because when you use more than couple of GPUs, the GPUs stop being the problem. CPU cannot feed them fast enough. One A100 can go through batches faster than Python can tokenize and feed, so the GPU just sits there id",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Embedded 685 million texts in 32 minutes using 8x A100 GPUs, Rust, and TensorRT. Achieved 357,893 msg/s throughput. Reduced compute cost to $6.75 for the full run.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-05T02:54:15.974169+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
