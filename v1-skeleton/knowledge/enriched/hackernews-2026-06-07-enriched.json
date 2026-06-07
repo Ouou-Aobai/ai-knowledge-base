@@ -1,0 +1,512 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-06-07T02:59:01.431567Z",
+  "analyzed_at": "2026-06-07T03:01:38.355003+00:00",
+  "count": 21,
+  "items": [
+    {
+      "id": 48416264,
+      "title": "Harness engineering: Leveraging Codex in an agent-first world",
+      "url": "https://openai.com/index/harness-engineering/",
+      "score": 85,
+      "comments": 50,
+      "author": "pramodbiligiri",
+      "time": 1780683606,
+      "hn_url": "https://news.ycombinator.com/item?id=48416264",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Harness engineering leverages Codex to optimize agent-generated repositories, ensuring agent legibility and self-improvement through iterative review loops. Codex drives PR completions by reviewing changes and responding to feedback. The goal is for agents to reason directly from the repository.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-06-07T03:01:01.906124+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48430860,
+      "title": "An Ohio Valley 100k-Watt FM Signal Is Severed in Broad Daylight – Radio World",
+      "url": "https://www.radioworld.com/news-and-business/headlines/an-ohio-valley-100000-watt-fm-signal-is-severed-in-broad-daylight",
+      "score": 49,
+      "comments": 40,
+      "author": "pkaeding",
+      "time": 1780795455,
+      "hn_url": "https://news.ycombinator.com/item?id=48430860",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Paul Crisp allegedly severed the transmission line for 93.7 WDGG(FM), a 100,000-watt country station in Ashland, KY, in broad daylight. The community has rallied in support of the station, known as \"The Dawg.\" The FCC is investigating the incident.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-07T03:01:03.664061+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48430923,
+      "title": "Tokenomics: Quantifying Where Tokens Are Used in Agentic Software Engineering",
+      "url": "https://arxiv.org/abs/2601.14470",
+      "score": 20,
+      "comments": 0,
+      "author": "Anon84",
+      "time": 1780796231,
+      "hn_url": "https://news.ycombinator.com/item?id=48430923",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Tokenomics studies token consumption in LLM-MA systems for software engineering. The Code Review stage uses most tokens. The analysis focuses on 30 tasks using ChatDev and GPT-5.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-06-07T03:01:06.005652+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48430539,
+      "title": "Public Domain Image Archive",
+      "url": "https://pdimagearchive.org/",
+      "score": 34,
+      "comments": 6,
+      "author": "davidbarker",
+      "time": 1780791771,
+      "hn_url": "https://news.ycombinator.com/item?id=48430539",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Public Domain Image Archive offers over 10,000 historical images. Getty and Library of Congress provide extensive public domain artwork. Public Domain Sherpa and Wikipedia also host public domain images.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-07T03:01:07.543388+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48425528,
+      "title": "Moving beyond fork() + exec()",
+      "url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
+      "score": 264,
+      "comments": 264,
+      "author": "jwilk",
+      "time": 1780756460,
+      "hn_url": "https://news.ycombinator.com/item?id=48425528",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Modern Linux systems explore alternatives to fork() + exec() for more efficient process creation, including vfork(), clone(), and advanced container technologies like containers and virtual machines. These methods aim to reduce overhead and improve performance.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-07T03:01:09.394896+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48427643,
+      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+      "score": 456,
+      "comments": 163,
+      "author": "speckx",
+      "time": 1780770927,
+      "hn_url": "https://news.ycombinator.com/item?id=48427643",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Meta confirmed thousands of Instagram accounts were hacked by exploiting its AI chatbot. The breach involved hackers tricking the chatbot into granting unauthorized access. This incident highlights significant security vulnerabilities.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-07T03:01:11.329040+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48430693,
+      "title": "Show HN: DomainTasker – avoid losing domains and surprise renewals",
+      "url": "https://domaintasker.com/",
+      "score": 13,
+      "comments": 7,
+      "author": "si_164",
+      "time": 1780793413,
+      "hn_url": "https://news.ycombinator.com/item?id=48430693",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "DomainTasker helps prevent domain loss and surprise renewals by managing domain registrations and renewals efficiently. It uses auto-renewal and strong password practices. It's a tool to secure domain ownership.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-07T03:01:13.261872+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48406729,
+      "title": "Unicode Fonts and Tools for X11",
+      "url": "https://www.cl.cam.ac.uk/~mgk25/ucs-fonts.html",
+      "score": 20,
+      "comments": 6,
+      "author": "kristianp",
+      "time": 1780621095,
+      "hn_url": "https://news.ycombinator.com/item?id=48406729",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Unicode fonts for X11 include extended \"-misc-fixed-*\" fonts and TrueType fonts from URW. These fonts support all Unicode characters and are freely available. For creating custom Unicode fonts, refer to the X Window System documentation.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-07T03:01:14.905233+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48417490,
+      "title": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
+      "url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
+      "score": 163,
+      "comments": 730,
+      "author": "toephu2",
+      "time": 1780689996,
+      "hn_url": "https://news.ycombinator.com/item?id=48417490",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Google has agreed to pay SpaceX €920 million per month for 32 months to rent computing capacity at SpaceX's data centers. This deal is due to unexpected demand for Google's AI products. The computing resources include 110,000 Nvidia GPUs.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-07T03:01:16.607056+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48426202,
+      "title": "You Can Run",
+      "url": "https://magazine.atavist.com/2026/mccann-cocaine-fugitives",
+      "score": 110,
+      "comments": 60,
+      "author": "bryanrasmussen",
+      "time": 1780761346,
+      "hn_url": "https://news.ycombinator.com/item?id=48426202",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "\"You Can Run\" is a thriller novel by Rebecca Zanetti featuring a profiler against criminals, and also a song by Adam Jones released in 2017.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-07T03:01:18.275190+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48406174,
+      "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
+      "url": "",
+      "score": 560,
+      "comments": 956,
+      "author": "andrehacker",
+      "time": 1780616540,
+      "hn_url": "https://news.ycombinator.com/item?id=48406174",
+      "text": "Most of us were amused when DALL-E and its peers went mainstream, and we were quick to point out the obvious flaws.<p>Then ChatGPT hit the scene and again, many of us dismissed it as a parlor trick that would never amount to much.<p>Using LLMs for coding initially was a only small step up from basic code completion, and a welcome farewell to Stack Overflow.<p>I am curious: what was the specific moment that you went from those quaint, dismissive observations to a slightly panicked,\n&quot;Uh Oh&qu",
+      "relevance_score": 0.8999999999999999,
+      "summary": "My \"oh shit\" moment with GenAI was realizing its potential to automate complex tasks. It's powerful and transformative.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-07T03:01:19.868355+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48393252,
+      "title": "Biohub releases a world model of protein biology",
+      "url": "https://biohub.org/news/world-model-of-protein-biology/",
+      "score": 3,
+      "comments": 0,
+      "author": "gmays",
+      "time": 1780542725,
+      "hn_url": "https://news.ycombinator.com/item?id=48393252",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Biohub released a world model of protein biology in 2026, featuring ESMFold2 for accurate structure prediction and design. It enables mapping proteins across life, predicting structures, and designing new binders. This model is openly available for researchers.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-07T03:01:21.789375+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48428647,
+      "title": "Computex 2026: Are We Heading for the Agentic PC Era Yet?",
+      "url": "https://www.eetimes.com/computex-2026-are-we-heading-for-the-agentic-pc-era-yet/",
+      "score": 26,
+      "comments": 29,
+      "author": "rbanffy",
+      "time": 1780777469,
+      "hn_url": "https://news.ycombinator.com/item?id=48428647",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The RTX Spark launch at Computex 2026 signals a shift towards agentic AI PCs. Analysts predict this marks the beginning of the agentic PC era. This technology is expected to redefine personal computing.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-06-07T03:01:23.352507+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48427523,
+      "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
+      "url": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
+      "score": 441,
+      "comments": 331,
+      "author": "MilnerRoute",
+      "time": 1780770066,
+      "hn_url": "https://news.ycombinator.com/item?id=48427523",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Pentagon raised the threat level of Israeli spying on the U.S. to the highest level due to aggressive espionage. This move led U.S. officials to exercise extra caution in interactions with Israel. The heightened concern stems from Israel's intensified surveillance efforts.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-07T03:01:25.093152+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48424674,
+      "title": "Trees to Flows and Back: Unifying Decision Trees and Diffusion Models",
+      "url": "https://arxiv.org/abs/2605.00414",
+      "score": 44,
+      "comments": 8,
+      "author": "rsn243",
+      "time": 1780750799,
+      "hn_url": "https://news.ycombinator.com/item?id=48424674",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "This paper unifies decision trees and diffusion models through Global Trajectory Score Matching, revealing a shared optimization principle. It establishes a mathematical correspondence between decision trees and diffusion processes. The work was accepted in ICML 2026.",
+      "tags": [
+        "diffusion"
+      ],
+      "analyzed_at": "2026-06-07T03:01:26.843276+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48389360,
+      "title": "How LLMs work",
+      "url": "https://www.0xkato.xyz/how-llms-actually-work/",
+      "score": 853,
+      "comments": 238,
+      "author": "0xkato",
+      "time": 1780517713,
+      "hn_url": "https://news.ycombinator.com/item?id=48389360",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Large language models (LLMs) use neural networks to predict text based on input. They break text into tokens and use transformer architecture. They learn patterns from large datasets.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-06-07T03:01:28.887494+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48421171,
+      "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
+      "url": "https://acoup.blog/2026/06/05/collections-pre-modern-armies-for-worldbuilders-part-i-why-they-fight/",
+      "score": 176,
+      "comments": 51,
+      "author": "gostsamo",
+      "time": 1780717292,
+      "hn_url": "https://news.ycombinator.com/item?id=48421171",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Pre-modern armies fight primarily for territorial expansion, resource control, and political power. Recruitment often relies on feudal obligations or religious duty. Funding typically comes from land taxes or royal patronage.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-07T03:01:30.547865+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48419571,
+      "title": "The perils of UUID primary keys in SQLite",
+      "url": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
+      "score": 155,
+      "comments": 94,
+      "author": "emschwartz",
+      "time": 1780701192,
+      "hn_url": "https://news.ycombinator.com/item?id=48419571",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Using UUIDs as primary keys in SQLite can lead to performance issues due to their unordered nature causing extra paging for the clustered index. A bigint is often a better choice for primary keys in databases. This issue is not unique to SQLite but applies to databases using clustered indexes.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-07T03:01:32.246912+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48428763,
+      "title": "New U.S. college grads now have higher unemployment than the average worker",
+      "url": "https://www.randalolson.com/2026/06/04/recent-grad-unemployment-flip/",
+      "score": 170,
+      "comments": 175,
+      "author": "davidbarker",
+      "time": 1780778140,
+      "hn_url": "https://news.ycombinator.com/item?id=48428763",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Since 2023, new U.S. college grads have experienced higher unemployment than the average worker, rising from 4.0% to 5.3% by March 2026. This trend has persisted since January 2021, surpassing the overall national unemployment rate.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-07T03:01:34.111382+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48427592,
+      "title": "Law Professors Prefer AI over Peer Answers",
+      "url": "https://law.stanford.edu/publications/law-professors-prefer-ai-over-peer-answers/",
+      "score": 13,
+      "comments": 1,
+      "author": "davidbarker",
+      "time": 1780770546,
+      "hn_url": "https://news.ycombinator.com/item?id=48427592",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Law professors prefer AI-generated answers over those from peers, with a 75% preference rate in a Stanford study. AI responses were also flagged as harmful less often. This study reshapes views on AI's role in legal education.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-07T03:01:35.902833+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48398925,
+      "title": "My Agent Skill for Test-Driven Development",
+      "url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
+      "score": 221,
+      "comments": 104,
+      "author": "laxmena",
+      "time": 1780582240,
+      "hn_url": "https://news.ycombinator.com/item?id=48398925",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Test-driven development involves writing tests before code, ensuring high-quality and bug-free software. It emphasizes starting with a failing test, then writing minimal code to pass it. This method promotes clean, maintainable code.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-06-07T03:01:37.853981+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
