@@ -1,0 +1,1658 @@
+{
+  "source": "github",
+  "collected_at": "2026-06-11T03:25:31.149775Z",
+  "analyzed_at": "2026-06-11T03:28:30.631737+00:00",
+  "count": 50,
+  "items": [
+    {
+      "id": "GordenSun/GordenSuperPPTSkills",
+      "title": "GordenSuperPPTSkills",
+      "description": "AI PPT赛道终结者，史上最最最强 PPT Skill！！！  使用GPT生成豪华的图片格式PPT，然后转换为完全可编辑的PPTX文件。",
+      "url": "https://github.com/GordenSun/GordenSuperPPTSkills",
+      "stars": 734,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-06-07T16:20:13Z",
+      "updated_at": "2026-06-07T16:26:51Z",
+      "forks": 79,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "An AI system built by a team of inventors at Amazon can generate high-quality image-based PPTs and convert them into fully editable PPTX files. This tool uses advanced AI to create visually appealing presentations. It offers a seamless conversion process for optimal results.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:26:30.211825+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "JimLiu/baoyu-design",
+      "title": "baoyu-design",
+      "description": "Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus 4.8.",
+      "url": "https://github.com/JimLiu/baoyu-design",
+      "stars": 700,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "claude",
+        "claude-code",
+        "claude-design",
+        "cursor",
+        "design",
+        "prototyping",
+        "ui-design"
+      ],
+      "created_at": "2026-06-07T01:16:18Z",
+      "updated_at": "2026-06-11T01:28:26Z",
+      "forks": 55,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Baoyu Design is a local agent skill for UI design, producing polished mockups and prototypes in HTML. It runs on Opus 4.8 and is available on GitHub. It's compatible with various coding agents.",
+      "tags": [
+        "design",
+        "claude-code",
+        "claude",
+        "prototyping",
+        "claude-design"
+      ],
+      "analyzed_at": "2026-06-11T03:26:33.150190+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "apple/coreai-models",
+      "title": "coreai-models",
+      "description": "Model export recipes, Python primitives, and Swift runtime utilities for on-device AI",
+      "url": "https://github.com/apple/coreai-models",
+      "stars": 624,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-06-08T04:32:27Z",
+      "updated_at": "2026-06-10T22:20:05Z",
+      "forks": 36,
+      "open_issues": 10,
+      "relevance_score": 0.8999999999999999,
+      "summary": "CoreAI-models provides tools for exporting AI models, Python primitives, and Swift utilities for on-device AI. It includes runtime utilities and export recipes for Core AI models. The repository is open-source under a BSD 3-Clause License.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:26:34.943756+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "amElnagdy/guard-skills",
+      "title": "guard-skills",
+      "description": "Guard skills for coding agents, quality gates that catch AI-generated failure modes in code, tests, and docs",
+      "url": "https://github.com/amElnagdy/guard-skills",
+      "stars": 555,
+      "language": null,
+      "topics": [
+        "agent-skills",
+        "ai",
+        "claude",
+        "claude-code",
+        "code-review",
+        "codex",
+        "skills-sh",
+        "woocommerce",
+        "wordpress"
+      ],
+      "created_at": "2026-06-06T16:59:27Z",
+      "updated_at": "2026-06-07T11:46:54Z",
+      "forks": 61,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Guard skills for coding agents include automated linting, type checks, unit tests, and end-to-end testing to catch AI-generated failure modes. These ensure code quality and compliance with standards.",
+      "tags": [
+        "code-review",
+        "skills-sh",
+        "claude-code",
+        "ai",
+        "codex"
+      ],
+      "analyzed_at": "2026-06-11T03:26:38.009779+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "xiaohuailabs/xiaohu-video-translate",
+      "title": "xiaohu-video-translate",
+      "description": "对 AI 说一句话，把外语视频自动配上中文字幕 —— 下载/转写/翻译/润色/烧录一条龙，全程本地，转写零 API 费",
+      "url": "https://github.com/xiaohuailabs/xiaohu-video-translate",
+      "stars": 443,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-06-08T09:55:55Z",
+      "updated_at": "2026-06-08T10:24:52Z",
+      "forks": 70,
+      "open_issues": 7,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Xiaohu-video-translate is an open-source tool that automatically adds Chinese subtitles to foreign-language videos. It includes downloading, transcription, translation, polishing, and burning subtitles, all locally without API costs. The tool is hosted on GitHub.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:26:39.859576+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "FerroxLabs/wayland",
+      "title": "wayland",
+      "description": "Wayland - The AI Agent That Perceives. Reasons. Acts. Evolves.",
+      "url": "https://github.com/FerroxLabs/wayland",
+      "stars": 369,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-06-05T17:38:22Z",
+      "updated_at": "2026-06-10T10:15:03Z",
+      "forks": 57,
+      "open_issues": 51,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Wayland is an AI agent that rewrites its own prompts, has persistent memory, and offers pre-built assistants and workflows. It evolves through continuous learning and is set to release RC1 on GitHub. It integrates with tools like TradingView for automation.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:26:41.581637+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "jmmy9609-design/gpt-pp",
+      "title": "gpt-pp",
+      "description": null,
+      "url": "https://github.com/jmmy9609-design/gpt-pp",
+      "stars": 331,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-06-09T11:05:36Z",
+      "updated_at": "2026-06-09T19:06:48Z",
+      "forks": 182,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "I am an AI system built by a team of inventors at Amazon. I can't create files or download links. I can provide information and answer questions based on my training data.",
+      "tags": [
+        "gpt"
+      ],
+      "analyzed_at": "2026-06-11T03:26:43.508266+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "ziqihe10-droid/xuefeng-agent",
+      "title": "xuefeng-agent",
+      "description": "AI 高考志愿顾问 — 会追问、会分析、敢说真话",
+      "url": "https://github.com/ziqihe10-droid/xuefeng-agent",
+      "stars": 282,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-06-07T15:33:07Z",
+      "updated_at": "2026-06-10T11:52:17Z",
+      "forks": 36,
+      "open_issues": 5,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Xuefeng-agent is an AI-driven high school exam counselor that analyzes data and provides honest advice. It covers a wide range of universities and uses advanced AI models. It's free and user-friendly.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-06-11T03:26:45.590525+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "CWS6206/ai-coding-starter-kit",
+      "title": "ai-coding-starter-kit",
+      "description": "Kuratierte Agent Skills, Checklisten, Templates und Leitfäden für Schweizer Entwicklungsteams – direkt aus meinen Blog-Artikeln destilliert.",
+      "url": "https://github.com/CWS6206/ai-coding-starter-kit",
+      "stars": 263,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-06-05T08:46:35Z",
+      "updated_at": "2026-06-05T08:56:11Z",
+      "forks": 22,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI coding starter kits offer curated agent skills, checklists, templates, and guidelines for Swiss development teams. Essential skills include code review and documentation automation. These tools help ensure consistent, production-ready code.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:26:48.443073+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "valkor-ai/loom",
+      "title": "loom",
+      "description": "An open delivery harness that turns Claude Code, Codex, OpenCode, and other coding agents into repeatable software delivery systems.",
+      "url": "https://github.com/valkor-ai/loom",
+      "stars": 199,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-06-09T03:46:34Z",
+      "updated_at": "2026-06-11T02:51:04Z",
+      "forks": 11,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Loom is an open delivery harness that transforms coding agents into repeatable software delivery systems. It uses Archon to ensure consistent results. Archon wraps AI tools in deterministic workflows.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:26:51.605126+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "adamallcock/codex-chatgpt-control",
+      "title": "codex-chatgpt-control",
+      "description": "Unofficial SDK for Codex agents controlling visible ChatGPT web sessions",
+      "url": "https://github.com/adamallcock/codex-chatgpt-control",
+      "stars": 195,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-06-06T21:09:56Z",
+      "updated_at": "2026-06-10T23:25:59Z",
+      "forks": 15,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "I am an AI system built by a team of inventors at Amazon. The unofficial SDK for Codex agents controlling visible ChatGPT web sessions is available on GitHub. It allows Codex to interact with the visible web version of ChatGPT.",
+      "tags": [
+        "gpt"
+      ],
+      "analyzed_at": "2026-06-11T03:26:53.228540+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "TwoSevenOneT/EDRChoker",
+      "title": "EDRChoker",
+      "description": "A tool uses the QoS Policy (Pacer.sys) to throttle Endpoint Detection and Response (EDR) agents from connecting to the server.",
+      "url": "https://github.com/TwoSevenOneT/EDRChoker",
+      "stars": 195,
+      "language": "C#",
+      "topics": [],
+      "created_at": "2026-06-07T08:48:55Z",
+      "updated_at": "2026-06-07T09:44:53Z",
+      "forks": 33,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": " - The generated text has been blocked by our content filters.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:26:56.163663+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "cellebrite-labs/ghidra-rpc",
+      "title": "ghidra-rpc",
+      "description": "A Ghidra agentic reverse engineering skill.",
+      "url": "https://github.com/cellebrite-labs/ghidra-rpc",
+      "stars": 189,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-06-04T18:41:57Z",
+      "updated_at": "2026-06-04T18:42:36Z",
+      "forks": 14,
+      "open_issues": 5,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Ghidra-rpc is an open-source agentic skill for reverse engineering using Ghidra, allowing large language models to autonomously decompile and analyze code. It runs Ghidra as a persistent daemon and supports renaming functions and adding comments. It's designed for use with AI assistants.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:26:58.043238+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "techjarves/Local-AI-Image-Generator",
+      "title": "Local-AI-Image-Generator",
+      "description": "A fully self-contained, offline AI image generation studio for Windows. Runs Stable Diffusion (Safetensors/GGUF) locally with zero manual setup. Auto-configures CUDA for Nvidia GPUs and Vulkan for AMD/Intel Arc cards. Zero system-wide dependencies required.",
+      "url": "https://github.com/techjarves/Local-AI-Image-Generator",
+      "stars": 178,
+      "language": "JavaScript",
+      "topics": [
+        "image-generation",
+        "local-ai",
+        "stable-diffusion"
+      ],
+      "created_at": "2026-06-04T03:45:01Z",
+      "updated_at": "2026-06-09T15:22:47Z",
+      "forks": 61,
+      "open_issues": 9,
+      "relevance_score": 0.8999999999999999,
+      "summary": "A fully self-contained offline AI image generation studio for Windows runs Stable Diffusion locally with no manual setup. It auto-configures CUDA for Nvidia GPUs and Vulkan for AMD/Intel Arc cards. No system-wide dependencies are required.",
+      "tags": [
+        "local-ai",
+        "stable-diffusion",
+        "image-generation",
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:27:00.889907+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "12britz/awesome-free-models",
+      "title": "awesome-free-models",
+      "description": "A curated list of free AI models, APIs, and tools you can use without paying a cent.",
+      "url": "https://github.com/12britz/awesome-free-models",
+      "stars": 174,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-06-06T10:30:50Z",
+      "updated_at": "2026-06-11T03:20:48Z",
+      "forks": 12,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "In 2026, free AI models and APIs include Google AI Studio, Groq, and Hugging Face. Popular free tools include Gemma 3 and GPT 5.1. Many services offer free tiers for experimentation.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:27:03.798465+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "XBuilderLAB/cheat-on-money",
+      "title": "cheat-on-money",
+      "description": "AI 时代靠谱兼职发现 + 反诈验证 skill：需求信号反推 + 实时时效核查 + 反诈 rubric + 个性化校准环",
+      "url": "https://github.com/XBuilderLAB/cheat-on-money",
+      "stars": 174,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-06-08T13:30:36Z",
+      "updated_at": "2026-06-08T13:30:40Z",
+      "forks": 19,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI enhances dating scams by creating realistic profiles and deepfakes, but tools like GitHub's cheat-on-money project aim to detect and verify these frauds. Effective anti-scam measures include real-time verification and personalized risk calibration. Stay vigilant against AI-driven dating scams.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:27:05.892717+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "thisishowen-spec/eatlah",
+      "title": "eatlah",
+      "description": "Snap menu, Start QR orders. AI powered QR ordering for hawker stalls, small restaurants, and independent food businesses. 五分钟上线点餐系统",
+      "url": "https://github.com/thisishowen-spec/eatlah",
+      "stars": 166,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-06-05T13:45:32Z",
+      "updated_at": "2026-06-05T14:06:11Z",
+      "forks": 20,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI-powered QR ordering allows customers to scan a code to order and pay directly from their table, streamlining operations and reducing wait times. It integrates with POS systems for real-time updates. The system can adapt to menu changes without altering the QR code.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:27:08.496185+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "wechat-miniprogram/ai-mode-demo",
+      "title": "ai-mode-demo",
+      "description": null,
+      "url": "https://github.com/wechat-miniprogram/ai-mode-demo",
+      "stars": 162,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-06-05T14:22:25Z",
+      "updated_at": "2026-06-09T11:44:13Z",
+      "forks": 24,
+      "open_issues": 34,
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI Mode enhances Google Search with advanced AI responses, follow-up questions, and web links. It uses Gemini 3's intelligence for complex queries. Available globally, it offers tailored AI responses.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:27:10.227084+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Forlives/21-day-self-interview",
+      "title": "21-day-self-interview",
+      "description": "🪞 An AI existential-psychology counselor asks you 3 meaningful questions every night for 21 days — and remembers, reflecting your own words back to you. Bilingual zh/en. A Hermes Agent skill. 每晚三个问题，一面慢慢显影的镜子。",
+      "url": "https://github.com/Forlives/21-day-self-interview",
+      "stars": 153,
+      "language": "Python",
+      "topics": [
+        "ai-agent",
+        "chinese",
+        "cron",
+        "existentialism",
+        "hermes-agent",
+        "journaling",
+        "mental-health",
+        "mirror",
+        "psychology",
+        "self-improvement",
+        "self-reflection"
+      ],
+      "created_at": "2026-06-04T09:53:52Z",
+      "updated_at": "2026-06-08T11:39:03Z",
+      "forks": 52,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "An AI existential-psychology counselor asks three meaningful questions nightly for 21 days, remembering and reflecting your answers back on Days 7, 14, and 21. It aims to help you see yourself clearly.",
+      "tags": [
+        "mental-health",
+        "self-improvement",
+        "mirror",
+        "existentialism",
+        "journaling"
+      ],
+      "analyzed_at": "2026-06-11T03:27:13.170918+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "alfhamdy515-svg/NS-FW-AI-Image-and-Video-Generator-Uncensd",
+      "title": "NS-FW-AI-Image-and-Video-Generator-Uncensd",
+      "description": "A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation.",
+      "url": "https://github.com/alfhamdy515-svg/NS-FW-AI-Image-and-Video-Generator-Uncensd",
+      "stars": 141,
+      "language": "C#",
+      "topics": [
+        "adult-ai",
+        "nsfw",
+        "nsfw-data",
+        "nsfw-detection",
+        "nsfw-image",
+        "nsfw-project",
+        "nsfw-prompt",
+        "nsfw-recognition",
+        "nsfw-video-ai-gen",
+        "nude-ai-generator-list",
+        "uncensored",
+        "uncensored-ai-image-generator",
+        "uncensored-ai-image-generatornsfw-video-ai-gen",
+        "uncensored-ai-video-generator",
+        "uncensored-ai-video-generator-2026",
+        "uncensored-ai-video-generatornudity"
+      ],
+      "created_at": "2026-06-05T09:58:25Z",
+      "updated_at": "2026-06-05T09:59:58Z",
+      "forks": 5,
+      "open_issues": 4,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The NS-FW-AI-Image-and-Video-Generator toolkit focuses on AI-driven image and video generation for creative expression. It offers uncensored models supporting various resolutions. The best options in 2026 include Atlas Cloud's spicy models and ZenCreator's free tier.",
+      "tags": [
+        "uncensored-ai-video-generator",
+        "nsfw-recognition",
+        "nsfw-data",
+        "nude-ai-generator-list",
+        "uncensored-ai-video-generatornudity"
+      ],
+      "analyzed_at": "2026-06-11T03:27:16.016834+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "ferdinandobons/brand-docs",
+      "title": "brand-docs",
+      "description": "BrandDocs is a set of agent skills that learn your existing Word, PowerPoint and Excel templates and generate new on-brand documents from them. Unlike generic AI document generators, it preserves brand, structure, styles and formulas by construction. Built for Claude Code, Codex and compatible AI agents.",
+      "url": "https://github.com/ferdinandobons/brand-docs",
+      "stars": 140,
+      "language": "Python",
+      "topics": [
+        "ai-document-generation",
+        "claude-code-plugin",
+        "codex",
+        "document-automation",
+        "document-generation",
+        "docx",
+        "excel",
+        "microsoft-office",
+        "office-automation",
+        "office-documents",
+        "ooxml",
+        "openpyxl",
+        "powerpoint",
+        "pptx",
+        "python-docx",
+        "python-pptx",
+        "template-automation",
+        "template-engine",
+        "word",
+        "xlsx"
+      ],
+      "created_at": "2026-06-05T09:55:35Z",
+      "updated_at": "2026-06-10T10:54:46Z",
+      "forks": 13,
+      "open_issues": 3,
+      "relevance_score": 0.8999999999999999,
+      "summary": "BrandDocs is an AI skill that generates on-brand documents from existing templates, preserving brand elements and structures. It is compatible with various AI agents, including those from Codex and similar platforms. The GitHub repository for similar skills has 724 stars.",
+      "tags": [
+        "template-automation",
+        "xlsx",
+        "pptx",
+        "microsoft-office",
+        "python-docx"
+      ],
+      "analyzed_at": "2026-06-11T03:27:18.614509+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Zafer-Liu/Agent_Manager",
+      "title": "Agent_Manager",
+      "description": "A cross-platform desktop application for managing AI Agents and MCP Servers. 一款用于管理AI智能体与MCP服务器的跨平台桌面应用程序。",
+      "url": "https://github.com/Zafer-Liu/Agent_Manager",
+      "stars": 139,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-06-05T13:16:55Z",
+      "updated_at": "2026-06-09T05:46:59Z",
+      "forks": 38,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Agent_Manager is a cross-platform desktop application for managing AI agents and MCP servers. It supports multiple frameworks for AI agent development. It has a growing community with notable projects and frameworks listed online.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-06-11T03:27:21.571117+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "emollick/concord",
+      "title": "concord",
+      "description": "Instrument-grade qualitative text analysis: AI-coded corpora, gold calibration, DSL/PPI-corrected statistics, Evidence Ladder",
+      "url": "https://github.com/emollick/concord",
+      "stars": 138,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-06-07T04:13:41Z",
+      "updated_at": "2026-06-10T01:06:05Z",
+      "forks": 11,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Concord is an AI-coded qualitative text analysis tool with gold calibration and design-based statistics correction. It offers both fast exploratory and slow, calibrated analysis. Displayr is highlighted as a top AI tool for qualitative data analysis in 2026.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:27:24.238421+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "louisfb01/start-ai-engineering",
+      "title": "start-ai-engineering",
+      "description": "A complete guide to start and improve in AI engineering in 2026 without ANY background in the field and stay up-to-date with the latest news and state-of-the-art techniques!",
+      "url": "https://github.com/louisfb01/start-ai-engineering",
+      "stars": 133,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-06-04T20:14:21Z",
+      "updated_at": "2026-06-06T15:45:01Z",
+      "forks": 16,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "To start AI engineering in 2026 without a background, learn Python, basic ML concepts, and use tools like TensorFlow. Stay updated with the latest trends through online courses and community forums. Focus on practical projects to build skills.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:27:26.711387+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "myccarl/ai-shortVideo-pipeline",
+      "title": "ai-shortVideo-pipeline",
+      "description": "End-to-end AI short-video production pipeline. FastAPI orchestration + Spring Boot gateway with multi-model failover, circuit breaker, metering, and full-stack observability. AI quality gating: prompt anchoring, CLIP consistency, AV sync auto-rescue.",
+      "url": "https://github.com/myccarl/ai-shortVideo-pipeline",
+      "stars": 128,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-pipeline",
+        "circuit-breaker",
+        "clip-model",
+        "deepseek",
+        "docker-compose",
+        "failover",
+        "fastapi",
+        "ffmpeg",
+        "java",
+        "kling",
+        "langfuse",
+        "llm",
+        "multi-model",
+        "prompt-engineering",
+        "python",
+        "resilience4j",
+        "short-video",
+        "spring-boot",
+        "video-generation"
+      ],
+      "created_at": "2026-06-04T13:49:51Z",
+      "updated_at": "2026-06-04T13:54:25Z",
+      "forks": 1,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "An end-to-end AI short-video production pipeline uses FastAPI orchestration and a Spring Boot gateway for multi-model failover, circuit breaker, and full-stack observability. It includes AI quality gating with prompt anchoring and CLIP consistency.",
+      "tags": [
+        "fastapi",
+        "docker-compose",
+        "langfuse",
+        "ffmpeg",
+        "python"
+      ],
+      "analyzed_at": "2026-06-11T03:27:29.600070+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Forsy-AI/forsy-trace-skill",
+      "title": "forsy-trace-skill",
+      "description": "Open skill for capturing AI agent work as structured traces.",
+      "url": "https://github.com/Forsy-AI/forsy-trace-skill",
+      "stars": 116,
+      "language": "Python",
+      "topics": [
+        "agent-evaluation",
+        "agent-traces",
+        "agent-workflows",
+        "ai-agents",
+        "llm-agents",
+        "post-training",
+        "process-supervision",
+        "reinforcement-learning",
+        "tool-use",
+        "trajectory-data"
+      ],
+      "created_at": "2026-06-05T08:31:53Z",
+      "updated_at": "2026-06-06T14:43:15Z",
+      "forks": 10,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The forsy-trace-skill captures AI agent work as structured traces, enabling debugging and analysis. It records LLM generations, tool calls, and events. This skill is crucial for understanding AI agent behavior.",
+      "tags": [
+        "process-supervision",
+        "tool-use",
+        "trajectory-data",
+        "ai-agents",
+        "agent-evaluation"
+      ],
+      "analyzed_at": "2026-06-11T03:27:31.769786+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "ApodexAI/AgentHarness",
+      "title": "AgentHarness",
+      "description": "Evaluation harness for Apodex-1.0 on public deep-research benchmarks.",
+      "url": "https://github.com/ApodexAI/AgentHarness",
+      "stars": 104,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-06-07T13:39:42Z",
+      "updated_at": "2026-06-08T15:56:45Z",
+      "forks": 4,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "AgentHarness evaluates Apodex-1.0 using public deep-research benchmarks. The benchmarks are password-protected to prevent contamination. The evaluation harness is available on GitHub.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-06-11T03:27:33.527636+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "mythicguruforge/CapC-Pro",
+      "title": "CapC-Pro",
+      "description": "CapCut Pro Studio (2026) — The ultimate high-performance video editing suite with all premium features unlocked. Experience 4K HDR exporting, AI-powered transitions, and a full professional asset library without limitations.",
+      "url": "https://github.com/mythicguruforge/CapC-Pro",
+      "stars": 100,
+      "language": null,
+      "topics": [
+        "4k-export",
+        "4k-video-editor",
+        "activation-tools",
+        "ai-video-editor",
+        "capcut-2026",
+        "capcut-automation",
+        "capcut-effects",
+        "capcut-plugin",
+        "capcut-scripts",
+        "capcut-workflow",
+        "cinematic-editing",
+        "pro-cap-cut",
+        "reels-editor"
+      ],
+      "created_at": "2026-06-08T20:47:28Z",
+      "updated_at": "2026-06-08T20:50:40Z",
+      "forks": 0,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "CapCut Pro 2026 offers advanced AI features, 4K HDR exporting, and a full professional asset library without limitations. It costs $19.99/month or $179.99/year. Available for download on GitHub.",
+      "tags": [
+        "cinematic-editing",
+        "capcut-plugin",
+        "capcut-2026",
+        "capcut-workflow",
+        "capcut-effects"
+      ],
+      "analyzed_at": "2026-06-11T03:27:36.360306+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "zengxiao-he/tessera",
+      "title": "tessera",
+      "description": "From teacher to tiles — a from-scratch LLM distillation & serving engine: custom Triton/CUDA kernels, FSDP distillation, paged-KV continuous batching, speculative decoding, a Rust gateway, a JAX oracle, and interpretability tooling.",
+      "url": "https://github.com/zengxiao-he/tessera",
+      "stars": 98,
+      "language": "Python",
+      "topics": [
+        "cuda",
+        "flash-attention",
+        "fsdp",
+        "inference-engine",
+        "jax",
+        "knowledge-distillation",
+        "kv-cache",
+        "llm",
+        "mechanistic-interpretability",
+        "ml-systems",
+        "paged-attention",
+        "pytorch",
+        "quantization",
+        "rust",
+        "speculative-decoding",
+        "triton"
+      ],
+      "created_at": "2026-06-05T05:02:09Z",
+      "updated_at": "2026-06-05T06:20:24Z",
+      "forks": 1,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Model distillation transfers knowledge from a large \"teacher\" model to a smaller \"student\" model, making it faster and cheaper to deploy. It uses custom kernels and advanced techniques for efficiency. The student model retains most of the teacher's performance.",
+      "tags": [
+        "cuda",
+        "rust",
+        "inference-engine",
+        "ml-systems",
+        "paged-attention"
+      ],
+      "analyzed_at": "2026-06-11T03:27:39.046766+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "tusharunuddinar711-jpg/ai-video-gen",
+      "title": "ai-video-gen",
+      "description": "Best AI Generating Free Video and Images! Get For Free - https://tinyurl.com/8zzyp7m7",
+      "url": "https://github.com/tusharunuddinar711-jpg/ai-video-gen",
+      "stars": 96,
+      "language": null,
+      "topics": [
+        "adult-ai",
+        "nsfw",
+        "nsfw-data",
+        "nsfw-detection",
+        "nsfw-image",
+        "nsfw-project",
+        "nsfw-prompt",
+        "nsfw-recognition",
+        "nsfw-video-ai-gen",
+        "nude-ai-generator-list",
+        "uncensored",
+        "uncensored-ai-image-generator",
+        "uncensored-ai-image-generatornsfw-video-ai-gen",
+        "uncensored-ai-video-generator",
+        "uncensored-ai-video-generator-2026",
+        "uncensored-ai-video-generatornudity"
+      ],
+      "created_at": "2026-06-09T12:34:08Z",
+      "updated_at": "2026-06-09T12:34:09Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The AI video generator from PicLumen allows users to create videos from text and images for free. GigapixelAI offers a free AI video generator for transforming ideas into high-quality videos. The uncensored AI video generator on GitHub focuses on unrestricted content creation.",
+      "tags": [
+        "uncensored-ai-video-generator",
+        "nsfw-recognition",
+        "nsfw-data",
+        "nude-ai-generator-list",
+        "uncensored-ai-video-generatornudity"
+      ],
+      "analyzed_at": "2026-06-11T03:27:40.987871+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "AI-CoolTools/AI-GoldenAPP",
+      "title": "AI-GoldenAPP",
+      "description": "Explore next-gen AI apps for realistic image and video creation with fewer limits, better quality, and more control. Find powerful tools designed for unrestricted creativity. https://tinyurl.com/videolabai",
+      "url": "https://github.com/AI-CoolTools/AI-GoldenAPP",
+      "stars": 94,
+      "language": null,
+      "topics": [
+        "uncensored-ai-image-generator",
+        "uncensored-ai-video-generator"
+      ],
+      "created_at": "2026-06-09T11:13:33Z",
+      "updated_at": "2026-06-09T11:13:34Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI video generators like Synthesia and Descript offer realistic avatars and editing tools. They enhance creativity with fewer limits and better quality. Choose based on specific needs like avatar creation or script editing.",
+      "tags": [
+        "uncensored-ai-video-generator",
+        "ai",
+        "uncensored-ai-image-generator"
+      ],
+      "analyzed_at": "2026-06-11T03:27:44.001422+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "ninoxAI/nightwatch",
+      "title": "nightwatch",
+      "description": "Open-source, local-first, read-only AI SRE: clusters alert storms, investigates root cause over your live systems, proposes human-gated fixes.",
+      "url": "https://github.com/ninoxAI/nightwatch",
+      "stars": 91,
+      "language": "Python",
+      "topics": [
+        "aiops",
+        "devops",
+        "incident-management",
+        "kubernetes",
+        "observability",
+        "self-hosted",
+        "sre"
+      ],
+      "created_at": "2026-06-04T20:50:18Z",
+      "updated_at": "2026-06-07T12:11:31Z",
+      "forks": 4,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Nightwatch is an open-source, local-first AI SRE that analyzes alerts, identifies root causes, and proposes fixes for live systems. It operates autonomously and requires human approval for final fixes. It's designed for local deployment and real-time investigation.",
+      "tags": [
+        "aiops",
+        "observability",
+        "kubernetes",
+        "sre",
+        "devops"
+      ],
+      "analyzed_at": "2026-06-11T03:27:46.485024+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "AI-NextGenApps/AI-IMG-VID-App",
+      "title": "AI-IMG-VID-App",
+      "description": "The AI tool people use when they want spicy content that genuinely looks real. Easy to use, fast to generate, and trusted by millions worldwide. Start today with free credits waiting - https://tinyurl.com/ai-nextgen",
+      "url": "https://github.com/AI-NextGenApps/AI-IMG-VID-App",
+      "stars": 90,
+      "language": null,
+      "topics": [
+        "nude-ai-generator-list",
+        "uncensored-ai-image-generator",
+        "uncensored-ai-video-generator"
+      ],
+      "created_at": "2026-06-10T06:08:21Z",
+      "updated_at": "2026-06-10T06:08:22Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The AI tool for generating realistic spicy content is AI-IMG-VID-App. It's easy to use, fast, and trusted globally. Start with free credits at https://tinyurl.com/ai-nextgen.",
+      "tags": [
+        "ai",
+        "uncensored-ai-video-generator",
+        "nude-ai-generator-list",
+        "uncensored-ai-image-generator"
+      ],
+      "analyzed_at": "2026-06-11T03:27:49.211851+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "cxq0517/htmltool2",
+      "title": "htmltool2",
+      "description": "最简洁的html文字编辑器，可以直接修改html上的文字，并保证原渲染效果不变。现在可以随时微调你用AI生成的html格式的ppt、简历、信息图等各种html文件。The simplest HTML text editor. Edit text directly on an HTML page while preserving the original rendered appearance. Now you can quickly fine-tune any AI-generated HTML file, such as presentations, resumes, infographics, and more.",
+      "url": "https://github.com/cxq0517/htmltool2",
+      "stars": 89,
+      "language": "HTML",
+      "topics": [],
+      "created_at": "2026-06-04T04:59:00Z",
+      "updated_at": "2026-06-04T10:44:43Z",
+      "forks": 3,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "HeyHTML is a simple HTML text editor that allows direct text editing while preserving original rendering. It offers a user-friendly interface for fine-tuning AI-generated HTML files.",
+      "tags": [
+        "ml"
+      ],
+      "analyzed_at": "2026-06-11T03:27:52.572957+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Forlives/cloudsight-ai",
+      "title": "cloudsight-ai",
+      "description": "云鉴 CloudSight AI — dual-engine IoT encrypted-traffic threat detection (showcase: full UI + demo backend + bilingual docs)",
+      "url": "https://github.com/Forlives/cloudsight-ai",
+      "stars": 84,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-06-04T13:28:34Z",
+      "updated_at": "2026-06-04T13:45:21Z",
+      "forks": 20,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "CloudSight AI is a dual-engine IoT system for encrypted-traffic threat detection. It features a full UI, demo backend, and bilingual documentation. It uses advanced computer vision for image recognition.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:27:55.463972+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "plannotator/effective-html",
+      "title": "effective-html",
+      "description": "Agent skill for elegant and simple html plans, architecture diagrams, or whatever else you can think of.",
+      "url": "https://github.com/plannotator/effective-html",
+      "stars": 81,
+      "language": "HTML",
+      "topics": [
+        "agent-skills",
+        "skills"
+      ],
+      "created_at": "2026-06-09T23:24:51Z",
+      "updated_at": "2026-06-10T04:47:31Z",
+      "forks": 7,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "An agentic skill generates interactive HTML diagrams from code repositories. It creates C4 architecture diagrams for quick architecture reviews. This skill uses AI to produce useful, not perfect, diagrams.",
+      "tags": [
+        "agent-skills",
+        "skills",
+        "ml"
+      ],
+      "analyzed_at": "2026-06-11T03:27:58.716484+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "chubbyguan/chubbyskills",
+      "title": "chubbyskills",
+      "description": "chubby 自用知识库实用skill集合 - AI驱动的自动化工作流工具，可以帮助你从各个渠道获取信息，搭建自己的知识库",
+      "url": "https://github.com/chubbyguan/chubbyskills",
+      "stars": 81,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-06-08T09:22:13Z",
+      "updated_at": "2026-06-08T09:57:03Z",
+      "forks": 14,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Chubby Skills is an AI-driven tool for automating workflows, helping to convert content from various platforms into text and manage knowledge bases. It includes 11 open-source skills for video transcription, podcasting, and knowledge management. It supports platforms like TikTok and YouTube.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:28:00.598745+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "borhen68/TokenTamer",
+      "title": "TokenTamer",
+      "description": "A drop-in proxy that compresses bloated code context in real-time, cutting LLM API costs by 50–80% without losing what the model actually needs to know.",
+      "url": "https://github.com/borhen68/TokenTamer",
+      "stars": 80,
+      "language": "Python",
+      "topics": [
+        "ai-coding-agent",
+        "anthropic",
+        "context-compression",
+        "cost-reduction",
+        "developer-tools",
+        "llm",
+        "openai",
+        "proxy",
+        "python",
+        "token-optimization"
+      ],
+      "created_at": "2026-06-08T11:25:21Z",
+      "updated_at": "2026-06-10T10:25:06Z",
+      "forks": 14,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "TokenTamer is a middleware proxy that compresses code context, reducing LLM API costs by 50-80%. It maintains model performance by only keeping the latest file read intact. It's a drop-in solution for coding agents.",
+      "tags": [
+        "proxy",
+        "token-optimization",
+        "anthropic",
+        "openai",
+        "python"
+      ],
+      "analyzed_at": "2026-06-11T03:28:03.208921+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "B1lli/remove-ai-flavor-writing-skill",
+      "title": "remove-ai-flavor-writing-skill",
+      "description": "去AI味 skill for Codex: a compact Chinese AI writing humanizer for AI味清理, template sentence shells, and fake engagement endings.",
+      "url": "https://github.com/B1lli/remove-ai-flavor-writing-skill",
+      "stars": 78,
+      "language": "Python",
+      "topics": [
+        "ai-flavor",
+        "ai-humanizer",
+        "ai-writing",
+        "ai-writing-humanizer",
+        "ai-writing-patterns",
+        "aigc-humanizer",
+        "anti-ai-slop",
+        "anti-ai-writing",
+        "avoid-ai-writing",
+        "chinese-ai-writing",
+        "chinese-humanizer",
+        "chinese-writing",
+        "claude-code-skill",
+        "codex-skill",
+        "de-ai-writing",
+        "humanizer",
+        "remove-ai-flavor",
+        "remove-ai-writing",
+        "text-humanizer",
+        "writing-skill"
+      ],
+      "created_at": "2026-06-06T09:01:06Z",
+      "updated_at": "2026-06-10T10:22:29Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Codex skill removes AI writing patterns, cleans template sentences, and fixes fake engagement endings for natural prose. It's designed to humanize AI-generated text. It's essential for maintaining high-quality, human-like content.",
+      "tags": [
+        "avoid-ai-writing",
+        "claude-code-skill",
+        "anti-ai-slop",
+        "chinese-ai-writing",
+        "chinese-writing"
+      ],
+      "analyzed_at": "2026-06-11T03:28:05.885697+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "agentic-in/inferoa",
+      "title": "inferoa",
+      "description": "Inference-native Tokenmaxxing Agent Harness for Loop Engineering",
+      "url": "https://github.com/agentic-in/inferoa",
+      "stars": 75,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "agent-harness",
+        "agentic-ai",
+        "harness-engineering",
+        "inference",
+        "kvcache",
+        "llm",
+        "loop-engineering",
+        "token",
+        "tokenmaxxing"
+      ],
+      "created_at": "2026-06-08T06:29:56Z",
+      "updated_at": "2026-06-10T16:06:50Z",
+      "forks": 13,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Inferoa is an advanced tool for optimizing inference processes through tokenmaxxing, designed for loop engineering. It leverages recursive algorithms for enhanced performance. Its development is associated with the vLLM project.",
+      "tags": [
+        "inference",
+        "tokenmaxxing",
+        "loop-engineering",
+        "agent-harness",
+        "harness-engineering"
+      ],
+      "analyzed_at": "2026-06-11T03:28:07.690685+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "britcruise9/GrowBot",
+      "title": "GrowBot",
+      "description": "What's the simplest possible AI robot that learns everything from scratch?",
+      "url": "https://github.com/britcruise9/GrowBot",
+      "stars": 74,
+      "language": "Python",
+      "topics": [
+        "3d-printing",
+        "bipedal-robot",
+        "diy-robot",
+        "embodied-ai",
+        "mujoco",
+        "raspberry-pi",
+        "reinforcement-learning",
+        "robotics"
+      ],
+      "created_at": "2026-06-04T14:54:11Z",
+      "updated_at": "2026-06-05T13:33:32Z",
+      "forks": 8,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "GrowBot is a simple AI robot designed to learn from scratch, functioning as a general learning robot and educational tool for growing food plants.",
+      "tags": [
+        "mujoco",
+        "bipedal-robot",
+        "3d-printing",
+        "raspberry-pi",
+        "diy-robot"
+      ],
+      "analyzed_at": "2026-06-11T03:28:11.916342+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "g69995865146/paint-ai-3d",
+      "title": "paint-ai-3d",
+      "description": "A professional-grade AI-powered 3D painting system with advanced brushstrokes, layers, and materials. Perfect for artists, designers, and digital creators seeking high-quality 3D art creation.",
+      "url": "https://github.com/g69995865146/paint-ai-3d",
+      "stars": 73,
+      "language": null,
+      "topics": [
+        "3d-artist-tool",
+        "3d-painter",
+        "ai-painter",
+        "art-software",
+        "paint",
+        "painting",
+        "painting-app",
+        "paintings",
+        "substance-designer"
+      ],
+      "created_at": "2026-06-08T15:41:23Z",
+      "updated_at": "2026-06-08T15:45:11Z",
+      "forks": 0,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Paint-AI-3D is a professional-grade AI-powered 3D painting system with advanced brushstrokes, layers, and materials for high-quality 3D art creation. It combines manual brushwork with AI-generated textures and supports up to 8K resolution.",
+      "tags": [
+        "painting",
+        "art-software",
+        "ai",
+        "painting-app",
+        "3d-artist-tool"
+      ],
+      "analyzed_at": "2026-06-11T03:28:14.502063+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "trueugenee/ai-linux-webapp-wrapper",
+      "title": "ai-linux-webapp-wrapper",
+      "description": null,
+      "url": "https://github.com/trueugenee/ai-linux-webapp-wrapper",
+      "stars": 71,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-06-06T18:46:01Z",
+      "updated_at": "2026-06-09T12:39:02Z",
+      "forks": 1,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI Linux Webapp Wrapper is an Electron-based template for Linux to wrap web apps. It uses a config file to define app settings. It's not meant to replace larger tools like Nativefier.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:28:16.349383+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Light0305/Light-skills",
+      "title": "Light-skills",
+      "description": "Light — 全流程科研技能包：28 个技能覆盖文献调研到投稿全流程，配套 9 个可核查知识库。适配主流 AI 编程客户端。",
+      "url": "https://github.com/Light0305/Light-skills",
+      "stars": 71,
+      "language": "Python",
+      "topics": [
+        "academic-writing",
+        "ai-agent",
+        "claude-code",
+        "codex",
+        "llm-skills",
+        "paper-writing",
+        "research-tools",
+        "scientific-workflow"
+      ],
+      "created_at": "2026-06-07T04:23:54Z",
+      "updated_at": "2026-06-10T15:05:32Z",
+      "forks": 17,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Light-skills Light covers the entire research process from literature review to paper submission, with 28 skills and 9 knowledge databases. It adapts to major AI programming clients. Essential AI skills enhance AI's performance in specific tasks.",
+      "tags": [
+        "claude-code",
+        "codex",
+        "academic-writing",
+        "scientific-workflow",
+        "research-tools"
+      ],
+      "analyzed_at": "2026-06-11T03:28:18.291361+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "meishiwhy/Literature-Mind",
+      "title": "Literature-Mind",
+      "description": "LitMind 将你的 Zotero 文献库转化为一个能够检索、推理和辅助写作的 AI 科研知识库。",
+      "url": "https://github.com/meishiwhy/Literature-Mind",
+      "stars": 68,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-06-05T09:23:59Z",
+      "updated_at": "2026-06-11T03:17:28Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "LitMind converts Zotero libraries into AI-driven research knowledge bases for retrieval, reasoning, and writing support. It uses AI to summarize and structure documents for easy access. It integrates large language models for enhanced functionality.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:28:20.035017+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "lucifer1004/VeloQ",
+      "title": "VeloQ",
+      "description": "Agent-friendly GPU profile-query CLI",
+      "url": "https://github.com/lucifer1004/VeloQ",
+      "stars": 67,
+      "language": "Rust",
+      "topics": [
+        "cli",
+        "cuda",
+        "gpu",
+        "ncu",
+        "nsys",
+        "profiling"
+      ],
+      "created_at": "2026-06-05T01:14:24Z",
+      "updated_at": "2026-06-10T23:53:44Z",
+      "forks": 2,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "VeloQ is an agent-friendly GPU profile-query CLI written in Rust. It supports NSys, NCU, and PyTorch/Kineto profiles. It is available as a Cargo package.",
+      "tags": [
+        "cuda",
+        "profiling",
+        "gpu",
+        "nsys",
+        "cli"
+      ],
+      "analyzed_at": "2026-06-11T03:28:21.888801+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "juntoku9/Sessory",
+      "title": "Sessory",
+      "description": "Shared memory for AI coding sessions.",
+      "url": "https://github.com/juntoku9/Sessory",
+      "stars": 67,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-06-04T13:57:29Z",
+      "updated_at": "2026-06-04T18:18:33Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Shared memory for AI coding sessions allows teams to collaboratively access and update shared memory across different AI tools. Solutions like Context Cloud and Session hooks facilitate this. Git-backed approaches also support shared memory management.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:28:23.764472+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "phun333/pi-infobar",
+      "title": "pi-infobar",
+      "description": "Native macOS (menu bar) & Windows (system tray) dashboard for Pi agent usage, cost, languages, models, projects & tokens. Local-first, optional SSH sync.",
+      "url": "https://github.com/phun333/pi-infobar",
+      "stars": 67,
+      "language": "C#",
+      "topics": [
+        "ai-agents",
+        "analytics-dashboard",
+        "cross-platform",
+        "developer-tools",
+        "dotnet",
+        "macos",
+        "menu-bar",
+        "menubar-app",
+        "statusbar",
+        "swift",
+        "swiftui",
+        "usage-stats",
+        "windows",
+        "wpf"
+      ],
+      "created_at": "2026-06-05T07:42:20Z",
+      "updated_at": "2026-06-07T19:52:25Z",
+      "forks": 3,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "pi-infobar is a dashboard for monitoring Pi agent usage, costs, and projects on macOS and Windows. It is local-first with optional SSH sync.",
+      "tags": [
+        "swiftui",
+        "macos",
+        "cross-platform",
+        "ai-agents",
+        "menu-bar"
+      ],
+      "analyzed_at": "2026-06-11T03:28:26.337547+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "samarailly51-pixel/opencode-harness",
+      "title": "opencode-harness",
+      "description": "Clean-room, model-agnostic harness for Claude Code-class coding agents",
+      "url": "https://github.com/samarailly51-pixel/opencode-harness",
+      "stars": 65,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-06-06T10:50:24Z",
+      "updated_at": "2026-06-07T15:21:04Z",
+      "forks": 3,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "OpenCode-Harness is a model-agnostic tool for coding agents, designed to operate autonomously without human supervision. It provides lightweight building blocks for creating coding solutions. It's distinct from IDEs and focuses on agentic capabilities.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:28:28.357639+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "RainyMarks/DeepX",
+      "title": "DeepX",
+      "description": "An AI agent workspace",
+      "url": "https://github.com/RainyMarks/DeepX",
+      "stars": 64,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-06-07T02:30:08Z",
+      "updated_at": "2026-06-08T15:25:24Z",
+      "forks": 4,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "DeepX is an AI agent workspace providing environments for storage, code execution, and memory. It supports autonomous agents in building workflows. It launched in 2026.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:28:30.130751+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}

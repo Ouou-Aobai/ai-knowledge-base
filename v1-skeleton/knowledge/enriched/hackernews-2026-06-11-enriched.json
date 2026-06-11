@@ -1,0 +1,635 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-06-11T03:25:41.276503Z",
+  "analyzed_at": "2026-06-11T03:26:28.851731+00:00",
+  "count": 26,
+  "items": [
+    {
+      "id": 48484584,
+      "title": "AI agent runs amok in Fedora and elsewhere",
+      "url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
+      "score": 162,
+      "comments": 38,
+      "author": "tanelpoder",
+      "time": 1781136608,
+      "hn_url": "https://news.ycombinator.com/item?id=48484584",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "An AI agent caused controversy in Fedora Linux community, leading to debates about its inclusion. The issue sparked discussions across platforms like Hacker News and Mastodon. The situation remains contentious as of 2026-06-11.",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:25:42.799623+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48478969,
+      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+      "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+      "score": 265,
+      "comments": 249,
+      "author": "speckx",
+      "time": 1781109720,
+      "hn_url": "https://news.ycombinator.com/item?id=48478969",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Cybersecurity researchers criticize Anthropic's Fable for overly restrictive guardrails that hinder security research. They find it downgrades to a less powerful model for security-related queries. Anthropic offers a Cyber Verification Program for less restricted access.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:25:44.847443+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48464258,
+      "title": "Anthropic requires 30 day data retention for Fable and Mythos",
+      "url": "https://support.claude.com/en/articles/15425996-data-retention-practices-for-mythos-class-models",
+      "score": 236,
+      "comments": 102,
+      "author": "lebovic",
+      "time": 1781025820,
+      "hn_url": "https://news.ycombinator.com/item?id=48464258",
+      "text": "<a href=\"https:&#x2F;&#x2F;www.theverge.com&#x2F;report&#x2F;947575&#x2F;microsoft-claude-fable-5-restricted-internally\" rel=\"nofollow\">https:&#x2F;&#x2F;www.theverge.com&#x2F;report&#x2F;947575&#x2F;microsoft-claude-fabl...</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Anthropic mandates 30-day data retention for Fable and Mythos. This policy applies to all traffic. Organizations must disable zero-data retention to comply.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:25:47.125310+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48450024,
+      "title": "Klondike Solitaire game for curses in 5k of C",
+      "url": "https://nanochess.org/klondike_in_c.html",
+      "score": 29,
+      "comments": 0,
+      "author": "nanochess",
+      "time": 1780945692,
+      "hn_url": "https://news.ycombinator.com/item?id=48450024",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Klondike Solitaire game in C using curses library, coded in 5k lines, created by nanochess. Released in 2026, features card display, color, and Unicode symbols.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:25:48.751443+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48456808,
+      "title": "L'Affaire Siloxane",
+      "url": "https://mceglowski.substack.com/p/laffaire-siloxane",
+      "score": 166,
+      "comments": 25,
+      "author": "idlewords",
+      "time": 1780982499,
+      "hn_url": "https://news.ycombinator.com/item?id=48456808",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "L'Affaire Siloxane refers to an incident on the International Space Station where an unknown contaminant was found in recycled water. The substance was identified as siloxane, a type of chemical not on the anticipated watchlist. The contamination was discovered through total organic carbon measurements.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:25:50.614878+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48478469,
+      "title": "Show HN: Extend UI – open-source UI kit for modern document apps",
+      "url": "https://www.extend.ai/ui",
+      "score": 162,
+      "comments": 41,
+      "author": "kbyatnal",
+      "time": 1781107766,
+      "hn_url": "https://news.ycombinator.com/item?id=48478469",
+      "text": "We&#x27;re open-sourcing 14 components &amp; examples today for PDF, DOCX, and XLSX viewers, plus bounding box citations, file upload, e-signature, and more. It&#x27;s MIT licensed and fully customizable.<p>Demo video here: <a href=\"https:&#x2F;&#x2F;share.extend.ai&#x2F;kRmSGKRF\">https:&#x2F;&#x2F;share.extend.ai&#x2F;kRmSGKRF</a><p>When we started, we tried every file viewer and document component library we could find. Unfortunately, none of them had all the functionality (and polish) that we",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Extend UI is an open-source UI kit for modern document apps, featuring 14 components for PDF, DOCX, and XLSX viewers, with customizable bounding box citations, file upload, and e-signature capabilities. It is MIT licensed and fully customizable.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:25:52.409617+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48484282,
+      "title": "Deficient executive control in transformer attention",
+      "url": "https://academic.oup.com/pnasnexus/article/5/6/pgag149/8698838",
+      "score": 21,
+      "comments": 7,
+      "author": "derbOac",
+      "time": 1781134501,
+      "hn_url": "https://news.ycombinator.com/item?id=48484282",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Transformer attention architectures lack explicit executive control, hindering conflict resolution and limiting AI's ability to prioritize relevant information. This deficiency can constrain the effectiveness of AI systems. Recent studies highlight this issue as a critical limitation.",
+      "tags": [
+        "transformer"
+      ],
+      "analyzed_at": "2026-06-11T03:25:54.337648+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48459678,
+      "title": "CSS: Unavoidable Bad Parts",
+      "url": "https://matklad.github.io/2026/06/04/css-unavoidable-bad-parts.html",
+      "score": 12,
+      "comments": 1,
+      "author": "surprisetalk",
+      "time": 1781004620,
+      "hn_url": "https://news.ycombinator.com/item?id=48459678",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "CSS has unavoidable bad parts like overuse of media queries and reliance on browser defaults. Good practices include using classless CSS and HTML5 semantic tags. Avoid CSS selectors and box-sizing pitfalls.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:25:56.097794+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48475483,
+      "title": "Building an HTML-first site doubled our users overnight",
+      "url": "https://mohkohn.co.uk/writing/html-first/",
+      "score": 1012,
+      "comments": 467,
+      "author": "edent",
+      "time": 1781095547,
+      "hn_url": "https://news.ycombinator.com/item?id=48475483",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "An HTML-first approach significantly boosted user engagement and growth overnight. It streamlined the user experience by minimizing JavaScript bloat. This method prioritized essential functionality in HTML, leading to faster load times and higher user satisfaction.",
+      "tags": [
+        "ml"
+      ],
+      "analyzed_at": "2026-06-11T03:25:57.998695+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48478148,
+      "title": "Show HN: HelixDB – A graph database built on object storage",
+      "url": "https://github.com/HelixDB/helix-db/tree/main",
+      "score": 96,
+      "comments": 31,
+      "author": "GeorgeCurtis",
+      "time": 1781106451,
+      "hn_url": "https://news.ycombinator.com/item?id=48478148",
+      "text": "Hey HN, it’s been just over a year since we launched HelixDB (<a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=43975423\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=43975423</a>), a project a friend and I started in college. It’s an OLTP graph database built on object-storage, with native vector search and full-text search (FTS).<p>Why graph, vector and FTS? Graph databases provide a natural cognitive model for data, vectors allow for a semantic understanding of the entities ",
+      "relevance_score": 0.8999999999999999,
+      "summary": "HelixDB is a graph database built on object storage, offering native vector and full-text search. It uses a hybrid graph/vector approach for AI applications. HelixDB is open-source and written in Rust.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:25:59.730623+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48446532,
+      "title": "World Capitals Voronoi",
+      "url": "https://www.jasondavies.com/maps/voronoi/capitals/",
+      "score": 43,
+      "comments": 23,
+      "author": "vincnetas",
+      "time": 1780932008,
+      "hn_url": "https://news.ycombinator.com/item?id=48446532",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A Voronoi diagram of world capitals divides territories by the nearest capital city, considering Earth's curvature. The map highlights regions around major capitals like India, China, and the US. Small European countries also fare well in this diagram.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:26:01.392845+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48477400,
+      "title": "Apache Burr: Build reliable AI agents and applications",
+      "url": "https://burr.apache.org/",
+      "score": 180,
+      "comments": 94,
+      "author": "anhldbk",
+      "time": 1781103666,
+      "hn_url": "https://news.ycombinator.com/item?id=48477400",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Apache Burr is an incubating project that simplifies the development of decision-making applications using Python. It supports building reliable AI agents and applications, including chatbots and complex multi-agent systems. It offers a state machine approach and integrates with various frameworks.",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:26:03.250681+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48479452,
+      "title": "Claude Desktop spawns 1.8 GB Hyper-V VM on every launch, even for chat-only use",
+      "url": "https://github.com/anthropics/claude-code/issues/29045",
+      "score": 355,
+      "comments": 250,
+      "author": "tonyrice",
+      "time": 1781111516,
+      "hn_url": "https://news.ycombinator.com/item?id=48479452",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Claude Desktop launches a 1.8 GB Hyper-V VM on every start, even for basic chat, causing significant resource usage. This issue has been reported on GitHub and discussed on Hacker News and X. Users are seeking solutions for more efficient local use.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:26:05.108513+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48475100,
+      "title": "All 9,300 Japanese train station, animated by the year it opened (1872–2026)",
+      "url": "https://jivx.com/eki",
+      "score": 204,
+      "comments": 70,
+      "author": "momentmaker",
+      "time": 1781093488,
+      "hn_url": "https://news.ycombinator.com/item?id=48475100",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "All 9,300 Japanese train stations are animated by their opening years from 1872 to 2026. The visualization was featured on Hacker News and Reddit. The project is complete as of 2026.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:26:07.167456+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48476136,
+      "title": "A €0.01 bank transfer could compromise a banking AI agent",
+      "url": "https://blue41.com/blog/how-we-helped-bunq-secure-their-financial-ai-assistant/",
+      "score": 168,
+      "comments": 161,
+      "author": "tvissers",
+      "time": 1781098751,
+      "hn_url": "https://news.ycombinator.com/item?id=48476136",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A €0.01 bank transfer can exploit vulnerabilities in banking AI agents, potentially compromising security. This issue highlights the need for robust AI security measures. Recent reports confirm this risk.",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:26:09.045674+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48463808,
+      "title": "Claude Fable 5",
+      "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+      "score": 2550,
+      "comments": 2083,
+      "author": "Philpax",
+      "time": 1781024281,
+      "hn_url": "https://news.ycombinator.com/item?id=48463808",
+      "text": "System Card [pdf]: <a href=\"https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;d00db56fa754a1b115b6dd7cb2e3c342ee809620.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;d00db56fa754a1b115b6dd7cb2e3c3...</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Anthropic's Fable 5 is a public version of its advanced Mythos model, with enhanced capabilities and cybersecurity safeguards. It's double the price of its predecessor, Opus 4.8. Fable 5 is available via Anthropic's API and enterprise plans.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:26:09.614269+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48469658,
+      "title": "macOS Container Machines",
+      "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+      "score": 1198,
+      "comments": 417,
+      "author": "timsneath",
+      "time": 1781051341,
+      "hn_url": "https://news.ycombinator.com/item?id=48469658",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Container Machines is a lightweight, persistent Linux environment on macOS, introduced by Apple to enhance Linux development. It integrates seamlessly with macOS and supports OCI images. It lacks native container support due to macOS's kernel limitations.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:26:11.336202+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48442932,
+      "title": "Buy a train, bridge or tracks from the Swiss Railway",
+      "url": "https://sbbresale.ch/",
+      "score": 167,
+      "comments": 97,
+      "author": "kisamoto",
+      "time": 1780909529,
+      "hn_url": "https://news.ycombinator.com/item?id=48442932",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Swiss Federal Railways sells trains, bridges, and tracks for purchase. Buy tickets online at Sbb.ch, Thetrainline.com, or Omio.com. International shipping may be available; check with the seller.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:26:13.450594+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48480719,
+      "title": "Policy on the AI Exponential",
+      "url": "https://darioamodei.com/post/policy-on-the-ai-exponential",
+      "score": 139,
+      "comments": 198,
+      "author": "yjp20",
+      "time": 1781116564,
+      "hn_url": "https://news.ycombinator.com/item?id=48480719",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI's power needs are growing exponentially due to increasing computational demands. This growth raises concerns about energy consumption and infrastructure. Policymakers are debating how to manage these challenges to maintain U.S. competitiveness.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:26:15.401333+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48445702,
+      "title": "Who Runs Your Rust Future? Hands-On Intro to Async Rust",
+      "url": "https://aibodh.com/posts/async-rust-chapter-1-hands-on-intro-to-async-rust/",
+      "score": 100,
+      "comments": 29,
+      "author": "febin",
+      "time": 1780928132,
+      "hn_url": "https://news.ycombinator.com/item?id=48445702",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The executor runs async code in Rust. It uses a waker to manage when futures should be polled. The tutorial teaches building a future and its executor.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:26:17.096709+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48447378,
+      "title": "'They take you out of life, out of time': a journey into Spain's cave paintings",
+      "url": "https://www.theguardian.com/science/2026/jun/02/journey-into-spain-palaeolithic-cave-paintings-altamira",
+      "score": 66,
+      "comments": 25,
+      "author": "NaOH",
+      "time": 1780935796,
+      "hn_url": "https://news.ycombinator.com/item?id=48447378",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Spain's Altamira cave paintings are renowned for their ancient art, captivating visitors with their prehistoric imagery. Diego Garate Maidagan, a prehistory professor, describes them as taking one out of life and time. Picasso reportedly said, \"After Altamira, all is decadence.\"",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:26:18.988572+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48468370,
+      "title": "Surprise, pay $1000",
+      "url": "https://forestwalk.ai/blog/surprise-blacksmith-costs/",
+      "score": 363,
+      "comments": 199,
+      "author": "apike",
+      "time": 1781042475,
+      "hn_url": "https://news.ycombinator.com/item?id=48468370",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A $1000 reward was offered on Hacker News and Reddit for contributions. The initiative aimed to incentivize participation. The offer was widely discussed in tech communities.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:26:20.766686+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48478471,
+      "title": "DiffusionGemma: 4x Faster Text Generation",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/",
+      "score": 287,
+      "comments": 72,
+      "author": "meetpateltech",
+      "time": 1781107777,
+      "hn_url": "https://news.ycombinator.com/item?id=48478471",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "DiffusionGemma is a Google model that generates text 4x faster than traditional models by generating entire blocks of text simultaneously. It uses diffusion techniques and is designed for speed-critical applications. Released under an Apache 2.0 license.",
+      "tags": [
+        "diffusion"
+      ],
+      "analyzed_at": "2026-06-11T03:26:22.518025+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48421858,
+      "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
+      "url": "https://opencv.org/opencv-5/",
+      "score": 823,
+      "comments": 145,
+      "author": "ternaus",
+      "time": 1780725748,
+      "hn_url": "https://news.ycombinator.com/item?id=48421858",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "OpenCV 5 offers significant improvements and new features for computer vision tasks. It simplifies image and video processing with a smaller, cleaner API. The release marks a major advancement in the library's capabilities.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:26:24.425543+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48479177,
+      "title": "The Case for Free Online Books (2014)",
+      "url": "http://from-a-to-remzi.blogspot.com/2014/01/the-case-for-free-online-books-fobs.html",
+      "score": 89,
+      "comments": 80,
+      "author": "jimsojim",
+      "time": 1781110469,
+      "hn_url": "https://news.ycombinator.com/item?id=48479177",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "In 2014, the Internet Archive ended its legal battle over free e-books. The court ruled in favor of fair use for Google's book-scanning project. The Internet Archive's case was closely watched.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:26:26.403655+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48477589,
+      "title": "The iPad was on Tailscale: a WebRTC debugging story",
+      "url": "https://p2claw.com/blog/2026-06-09-the-ipad-was-on-tailscale/",
+      "score": 65,
+      "comments": 27,
+      "author": "syllogistic",
+      "time": 1781104396,
+      "hn_url": "https://news.ycombinator.com/item?id=48477589",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The iPad was successfully connected to Tailscale for WebRTC debugging. The story highlights issues with packet loss. Tailscale's popularity contrasts with its performance issues.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-11T03:26:28.350684+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
