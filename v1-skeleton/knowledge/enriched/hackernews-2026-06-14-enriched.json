@@ -1,0 +1,488 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-06-14T03:29:21.935575Z",
+  "analyzed_at": "2026-06-14T03:31:56.736150+00:00",
+  "count": 20,
+  "items": [
+    {
+      "id": 48517377,
+      "title": "Noise infusion banned from statistical products published by Census Bureau",
+      "url": "https://desfontain.es/blog/banning-noise.html",
+      "score": 762,
+      "comments": 477,
+      "author": "nl",
+      "time": 1781358896,
+      "hn_url": "https://news.ycombinator.com/item?id=48517377",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Census Bureau banned \"noise infusion\" to protect confidentiality, but it may reduce data quality and usefulness. This change follows a Trump administration order. Differential privacy is now the main technique used.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-14T03:31:20.609145+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48503009,
+      "title": "Python 3.14 garbage collection rigamarole",
+      "url": "https://theconsensus.dev/p/2026/06/06/python-3-14-garbage-collection-rigamarole.html",
+      "score": 12,
+      "comments": 5,
+      "author": "eatonphil",
+      "time": 1781265580,
+      "hn_url": "https://news.ycombinator.com/item?id=48503009",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Python 3.14 introduced incremental garbage collection but reverted it in later patches. The new GC caused issues for some users, leading to its removal. The old garbage collection method was restored.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-14T03:31:23.036973+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48497195,
+      "title": "Codex for open source",
+      "url": "https://openai.com/form/codex-for-oss/",
+      "score": 185,
+      "comments": 60,
+      "author": "EvgeniyZh",
+      "time": 1781216403,
+      "hn_url": "https://news.ycombinator.com/item?id=48497195",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Codex for Open Source supports maintainers of critical open-source projects with API credits. It aims to help contributors in pull request review and other core tasks. This initiative is run by a team of inventors at Amazon.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-14T03:31:24.768157+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48519092,
+      "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
+      "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
+      "score": 581,
+      "comments": 429,
+      "author": "ls612",
+      "time": 1781369869,
+      "hn_url": "https://news.ycombinator.com/item?id=48519092",
+      "text": "<a href=\"https:&#x2F;&#x2F;www.wsj.com&#x2F;tech&#x2F;ai&#x2F;amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&amp;reflink=desktopwebshare_permalink\" rel=\"nofollow\">https:&#x2F;&#x2F;www.wsj.com&#x2F;tech&#x2F;ai&#x2F;amazon-ceos-talks-with-u-s-offic...</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Amazon CEO Andy Jassy's discussions with U.S. officials led to a federal crackdown on Anthropic's AI models, resulting in their suspension to comply with export restrictions. The Trump administration halted foreign use of Anthropic's advanced AI models following these talks.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-14T03:31:26.654327+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48523615,
+      "title": "Building a serial and VGA \"everything console\"",
+      "url": "http://oldvcr.blogspot.com/2026/06/building-serial-and-vga-everything.html",
+      "score": 3,
+      "comments": 0,
+      "author": "classichasclass",
+      "time": 1781404275,
+      "hn_url": "https://news.ycombinator.com/item?id=48523615",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "To build a serial and VGA console, use an ATmega328P for serial communication and a VGA adapter for display. Ensure proper baud rate settings for serial data transfer. This setup allows for both serial terminal access and VGA display output.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-14T03:31:28.521170+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48520807,
+      "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
+      "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
+      "score": 251,
+      "comments": 121,
+      "author": "austinallegro",
+      "time": 1781380495,
+      "hn_url": "https://news.ycombinator.com/item?id=48520807",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A Derbyshire police officer is under criminal investigation for allegedly using AI to create evidence in multiple cases, leading to removal from frontline duties. The investigation is ongoing, and no arrests have been made. This is the first known case of its kind in the UK.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-14T03:31:30.402523+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48523550,
+      "title": "Apt Encounters of the Third Kind",
+      "url": "https://igor-blue.github.io/2021/03/24/apt1.html",
+      "score": 3,
+      "comments": 0,
+      "author": "ogurechny",
+      "time": 1781403433,
+      "hn_url": "https://news.ycombinator.com/item?id=48523550",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "\"Close Encounters of the Third Kind\" (1977) by Steven Spielberg follows Roy Neary after a UFO encounter, Jillian Guiler whose son is abducted, and a man deciphering an alien message. The film explores themes of human curiosity and connection with the unknown.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-14T03:31:32.173375+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48522310,
+      "title": "Ancient genome duplications laid the foundations of complex brains",
+      "url": "https://www.ox.ac.uk/news/2026-06-09-ancient-genome-duplications-laid-the-foundations-of-complex-brains",
+      "score": 22,
+      "comments": 1,
+      "author": "hhs",
+      "time": 1781391277,
+      "hn_url": "https://news.ycombinator.com/item?id=48522310",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Ancient genome duplications led to the evolution of specialized brain cells in vertebrates, with major cell types arising from duplications over 520 million years ago. These duplications provided genetic material for new brain cell types, which continued to evolve over time.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-14T03:31:34.093577+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48519011,
+      "title": "The adder at the heart of Intel's 8087 floating-point chip",
+      "url": "https://www.righto.com/2026/06/intel-8087-adder-reverse-engineered.html",
+      "score": 99,
+      "comments": 25,
+      "author": "pwg",
+      "time": 1781369382,
+      "hn_url": "https://news.ycombinator.com/item?id=48519011",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Intel 8087 floating-point chip features a 69-bit adder at its core. This adder uses propagate logic to compute sums and carries. The design is intricate, involving metal wiring and silicon layers.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-14T03:31:36.008672+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48491968,
+      "title": "Resurrecting a soaked, corroded, and damaged Commodore SX‑64 (2025)",
+      "url": "https://jerrylparker.com/blogs/posts/sx-64.html",
+      "score": 22,
+      "comments": 3,
+      "author": "hggh",
+      "time": 1781192787,
+      "hn_url": "https://news.ycombinator.com/item?id=48491968",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Commodore SX-64 was restored after severe water damage and corrosion, involving extensive repairs and replacement of damaged components. The project was documented on Hacker News and personal blogs. The restoration was completed in 2025.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-14T03:31:37.786769+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48518969,
+      "title": "AI coding at home without going broke",
+      "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+      "score": 250,
+      "comments": 218,
+      "author": "sbochins",
+      "time": 1781369103,
+      "hn_url": "https://news.ycombinator.com/item?id=48518969",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Use free AI coding tools like GitHub Copilot and Replit, and leverage community resources to code with AI without spending much.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-14T03:31:39.514062+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48522675,
+      "title": "State Attorneys General Are Investigating OpenAI",
+      "url": "https://www.nytimes.com/2026/06/13/technology/states-investigating-openai.html",
+      "score": 48,
+      "comments": 3,
+      "author": "donohoe",
+      "time": 1781394739,
+      "hn_url": "https://news.ycombinator.com/item?id=48522675",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A coalition of US state attorneys general is investigating OpenAI for its business practices and impact on users, including data handling and activities related to minors. The investigation seeks documents on advertising, user engagement, and consumer data. This probe follows concerns about the company's AI technology.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-14T03:31:41.236015+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48514560,
+      "title": "Israeli firm BlackCore suspected of meddling in New York and Scotland votes",
+      "url": "https://www.reuters.com/world/israeli-firm-blackcore-also-suspected-meddling-nyc-scotland-votes-french-2026-06-11/",
+      "score": 588,
+      "comments": 338,
+      "author": "pera",
+      "time": 1781336739,
+      "hn_url": "https://news.ycombinator.com/item?id=48514560",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Israeli firm BlackCore is suspected of meddling in New York City and Scotland elections, as well as operating in Angola and Togo. French authorities identified BlackCore as the operator behind a disinformation campaign targeting left-wing candidates in France's 2026 municipal elections. This follows previous suspicions of interference in France's local elections in March.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-14T03:31:43.052084+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48516504,
+      "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
+      "url": "https://github.com/tensorzero/tensorzero",
+      "score": 247,
+      "comments": 162,
+      "author": "hek2sch",
+      "time": 1781352647,
+      "hn_url": "https://news.ycombinator.com/item?id=48516504",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The AI open-source tool TensorZero's GitHub repository was archived overnight after it raised $7.3 million in seed funding. The repository's sudden archiving has sparked significant discussion. The project's future remains uncertain.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-14T03:31:44.749356+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48481385,
+      "title": "C47/R47 Calculators",
+      "url": "https://47calc.com/index.html",
+      "score": 26,
+      "comments": 11,
+      "author": "helterskelter",
+      "time": 1781119673,
+      "hn_url": "https://news.ycombinator.com/item?id=48481385",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The C47 is an open-source scientific calculator software for SwissMicros DM42/DM42n, while R47 is a physical calculator offering the same software with a new keyboard layout. The R47 is three times faster in prime factorization compared to the DM42. The R47 is available for purchase.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-14T03:31:47.016457+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48515385,
+      "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
+      "url": "https://github.com/Paca-AI/paca",
+      "score": 140,
+      "comments": 54,
+      "author": "pikann22",
+      "time": 1781343865,
+      "hn_url": "https://news.ycombinator.com/item?id=48515385",
+      "text": "I built Paca out of pure passion—a free and lightweight Jira alternative written in Go where humans and AI agents work together as equal teammates to plan sprints and assign tasks to each other. It is fully customizable with custom views, fields, and a WASM-based plugin architecture. My team uses it daily for our own development, so it will be continuously maintained and completely free forever",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Paca is a free, lightweight Jira alternative for human-AI collaboration, written in Go, and fully customizable. It's open-source and continuously maintained. Available on GitHub.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-14T03:31:48.807891+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48513728,
+      "title": "Shepherd's Dog: A Game by Fable",
+      "url": "https://koenvangilst.nl/lab/claude-fable-shepherds-dog",
+      "score": 178,
+      "comments": 129,
+      "author": "vnglst",
+      "time": 1781329486,
+      "hn_url": "https://news.ycombinator.com/item?id=48513728",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Shepherd's Dog is a game created by AI, showcasing its capability to generate a complete web game in one attempt. The game involves guiding a flock of sheep to safety before nightfall. The project was developed using advanced AI technology.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-14T03:31:50.718681+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48510010,
+      "title": "Electric motors with no rare earths",
+      "url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
+      "score": 684,
+      "comments": 200,
+      "author": "bestouff",
+      "time": 1781302083,
+      "hn_url": "https://news.ycombinator.com/item?id=48510010",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Electric motors without rare earths use common materials like copper and manganese bismuth, achieving performance comparable to traditional motors. Renault Group has developed and mass-marketed such motors in their electric vehicles. Research teams at Texas A&M University and GE Aerospace have also innovated rare-earth-free motor designs.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-14T03:31:52.615667+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48523271,
+      "title": "'Tell Him He's a Piece of Shit': Meta's New AI Unit Is a Total Mess",
+      "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai/",
+      "score": 57,
+      "comments": 53,
+      "author": "momentmaker",
+      "time": 1781400225,
+      "hn_url": "https://news.ycombinator.com/item?id=48523271",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Meta's new AI unit faces internal discontent; an outburst criticized a Meta executive; Meta's AI workforce shift has been deemed problematic.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-14T03:31:54.498269+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48506545,
+      "title": "Launch HN: BitBoard (YC P25) – Analytics Workspace for Agents",
+      "url": "https://bitboard.work/",
+      "score": 54,
+      "comments": 23,
+      "author": "arcb",
+      "time": 1781283483,
+      "hn_url": "https://news.ycombinator.com/item?id=48506545",
+      "text": "We’re Connor and Ambar from BitBoard (<a href=\"https:&#x2F;&#x2F;bitboard.work\">https:&#x2F;&#x2F;bitboard.work</a>). BitBoard is an agentic analytics workspace. We give you the infrastructure and visualization layer to analyze data with AI.<p>Today, we’re launching dashboards that you and your agents can work on together. You can connect your coding agent or AI chat to BitBoard and build live reporting. Here’s a demo: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=HPl0K565a7c\" rel=\"nof",
+      "relevance_score": 0.8999999999999999,
+      "summary": "BitBoard is an analytics workspace designed for agents, offering collaboration tools for humans and AI, and leveraging AI for data analysis. It features dashboards and integrates with coding agents and AI chats. Launched by YC P25, it aims to replace traditional BI tools.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-06-14T03:31:56.235327+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
