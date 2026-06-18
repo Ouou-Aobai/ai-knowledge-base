@@ -1,0 +1,1680 @@
+{
+  "source": "github",
+  "collected_at": "2026-06-18T03:24:40.431155Z",
+  "analyzed_at": "2026-06-18T03:25:29.761064+00:00",
+  "count": 50,
+  "items": [
+    {
+      "id": "DietrichGebert/ponytail",
+      "title": "ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "stars": 32323,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "cursor-rules",
+        "developer-tools",
+        "llm",
+        "prompt-engineering",
+        "yagni"
+      ],
+      "created_at": "2026-06-12T00:52:37Z",
+      "updated_at": "2026-06-17T02:35:22Z",
+      "forks": 1458,
+      "open_issues": 44,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 ponytail 的技术项目。Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "tags": [
+        "cursor-rules",
+        "claude",
+        "agent-skills",
+        "developer-tools",
+        "prompt-engineering"
+      ],
+      "analyzed_at": "2026-06-18T03:24:59.446256+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "omnigent-ai/omnigent",
+      "title": "omnigent",
+      "description": "Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device.",
+      "url": "https://github.com/omnigent-ai/omnigent",
+      "stars": 3556,
+      "language": "Python",
+      "topics": [
+        "agent-framework",
+        "agent-governance",
+        "agent-orchestration",
+        "agents",
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "claude-code",
+        "codex",
+        "coding-agents",
+        "developer-tools",
+        "llm",
+        "ml",
+        "multi-agent",
+        "python",
+        "sandbox"
+      ],
+      "created_at": "2026-06-11T12:18:13Z",
+      "updated_at": "2026-06-18T03:14:24Z",
+      "forks": 395,
+      "open_issues": 173,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 omnigent 的技术项目。Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and c",
+      "tags": [
+        "multi-agent",
+        "codex",
+        "ml",
+        "coding-agents",
+        "sandbox"
+      ],
+      "analyzed_at": "2026-06-18T03:25:00.042304+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "orange2ai/renwei-writing",
+      "title": "renwei-writing",
+      "description": "人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
+      "url": "https://github.com/orange2ai/renwei-writing",
+      "stars": 777,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-06-12T21:45:48Z",
+      "updated_at": "2026-06-13T07:49:49Z",
+      "forks": 77,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 renwei-writing 的技术项目。人味儿写作 · An AI agent skill: edit people's words without erasing the person behind them",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-18T03:25:00.681233+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "vercel/eve",
+      "title": "eve",
+      "description": "The Framework for Building Agents",
+      "url": "https://github.com/vercel/eve",
+      "stars": 771,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "framework",
+        "harness",
+        "javascript",
+        "markdown",
+        "sandbox",
+        "typescript",
+        "vercel",
+        "workflows"
+      ],
+      "created_at": "2026-06-16T10:51:20Z",
+      "updated_at": "2026-06-18T02:53:36Z",
+      "forks": 35,
+      "open_issues": 21,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 eve 的技术项目。The Framework for Building Agents",
+      "tags": [
+        "framework",
+        "sandbox",
+        "harness",
+        "agent",
+        "workflows"
+      ],
+      "analyzed_at": "2026-06-18T03:25:01.293089+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "nolangz/pixel2motion",
+      "title": "pixel2motion",
+      "description": "AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
+      "url": "https://github.com/nolangz/pixel2motion",
+      "stars": 727,
+      "language": "Python",
+      "topics": [
+        "ai-design-tools",
+        "animated-logo",
+        "brand-motion",
+        "claude-skill",
+        "codex-skill",
+        "html-animation",
+        "logo-animation",
+        "logo-motion",
+        "logo-reveal",
+        "motion-design",
+        "pixel-to-svg",
+        "raster-to-svg",
+        "svg-animation",
+        "svg-motion",
+        "vector-animation"
+      ],
+      "created_at": "2026-06-12T04:25:17Z",
+      "updated_at": "2026-06-18T02:29:56Z",
+      "forks": 69,
+      "open_issues": 4,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 pixel2motion 的技术项目。AI logo animation skill: turn raster logos into smooth SVG animation, animated HTML demos, GIF/video previews, and motion QA evidence.",
+      "tags": [
+        "html-animation",
+        "claude-skill",
+        "ai-design-tools",
+        "svg-animation",
+        "svg-motion"
+      ],
+      "analyzed_at": "2026-06-18T03:25:01.892445+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Plaer1/junction",
+      "title": "junction",
+      "description": "VS Code chat sidebar for local AI coding agents",
+      "url": "https://github.com/Plaer1/junction",
+      "stars": 501,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-06-17T05:27:09Z",
+      "updated_at": "2026-06-17T16:39:19Z",
+      "forks": 2,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 junction 的技术项目。VS Code chat sidebar for local AI coding agents",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-18T03:25:02.494168+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "DanMcInerney/architect-loop",
+      "title": "architect-loop",
+      "description": "Claude Fable 5 as architect, GPT-5.5 Codex as builder, the repo as memory - a research-backed Claude Code skill for the cross-vendor agent loop",
+      "url": "https://github.com/DanMcInerney/architect-loop",
+      "stars": 500,
+      "language": "HTML",
+      "topics": [],
+      "created_at": "2026-06-12T01:54:12Z",
+      "updated_at": "2026-06-13T01:53:20Z",
+      "forks": 45,
+      "open_issues": 1,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 architect-loop 的技术项目。Claude Fable 5 as architect, GPT-5.5 Codex as builder, the repo as memory - a research-backed Claude Code skill for the cross-vendor agent loop",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-18T03:25:03.099163+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "fguzman82/gateGPT",
+      "title": "gateGPT",
+      "description": "Full Transformer into a custom chip. microGPT in RTL, generating names on a Virtex-5 FPGA at ~56k tokens/second.",
+      "url": "https://github.com/fguzman82/gateGPT",
+      "stars": 487,
+      "language": "Verilog",
+      "topics": [],
+      "created_at": "2026-06-12T14:55:53Z",
+      "updated_at": "2026-06-14T03:54:22Z",
+      "forks": 84,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 gateGPT 的技术项目。Full Transformer into a custom chip. microGPT in RTL, generating names on a Virtex-5 FPGA at ~56k tokens/second.",
+      "tags": [
+        "gpt"
+      ],
+      "analyzed_at": "2026-06-18T03:25:03.703549+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "mrtooher/fable-mode",
+      "title": "fable-mode",
+      "description": "A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
+      "url": "https://github.com/mrtooher/fable-mode",
+      "stars": 473,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-06-13T05:33:14Z",
+      "updated_at": "2026-06-17T02:59:06Z",
+      "forks": 54,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 fable-mode 的技术项目。A Claude skill that activates Fable-style agentic behavior: explicit multi-stage planning, sub-agent delegation, and self-verification.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-18T03:25:04.321271+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "TestSprite/testsprite-cli",
+      "title": "testsprite-cli",
+      "description": "Official TestSprite CLI — AI-powered automated testing from your terminal",
+      "url": "https://github.com/TestSprite/testsprite-cli",
+      "stars": 422,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "cli",
+        "e2e-testing",
+        "playwright",
+        "qa",
+        "test-automation",
+        "testing"
+      ],
+      "created_at": "2026-06-11T10:44:15Z",
+      "updated_at": "2026-06-13T01:07:02Z",
+      "forks": 15,
+      "open_issues": 1,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 testsprite-cli 的技术项目。Official TestSprite CLI — AI-powered automated testing from your terminal",
+      "tags": [
+        "test-automation",
+        "cli",
+        "ai",
+        "playwright",
+        "testing"
+      ],
+      "analyzed_at": "2026-06-18T03:25:04.944420+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "LearnPrompt/luban-skill",
+      "title": "luban-skill",
+      "description": "鲁班 | Luban — 把'能用的Skill'打磨成'能被装、能传播、能验证、能进化'的公共资产。Agent skill-polishing workshop: 验料·访行·过尺·慢刨·回炉",
+      "url": "https://github.com/LearnPrompt/luban-skill",
+      "stars": 391,
+      "language": "Shell",
+      "topics": [],
+      "created_at": "2026-06-11T08:49:42Z",
+      "updated_at": "2026-06-12T18:49:09Z",
+      "forks": 68,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 luban-skill 的技术项目。鲁班 | Luban — 把'能用的Skill'打磨成'能被装、能传播、能验证、能进化'的公共资产。Agent skill-polishing workshop: 验料·访行·过尺·慢刨·回炉",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-18T03:25:05.542048+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Nanako0129/coralline",
+      "title": "coralline",
+      "description": "🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it",
+      "url": "https://github.com/Nanako0129/coralline",
+      "stars": 358,
+      "language": "Shell",
+      "topics": [
+        "bash",
+        "claude",
+        "claude-code",
+        "nerd-fonts",
+        "powerlevel10k",
+        "statusline",
+        "terminal",
+        "vibe-coding"
+      ],
+      "created_at": "2026-06-12T07:44:56Z",
+      "updated_at": "2026-06-18T02:40:39Z",
+      "forks": 28,
+      "open_issues": 1,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 coralline 的技术项目。🪸 Powerlevel10k-inspired statusline for Claude Code — paste one prompt and your AI interviews you, then installs it",
+      "tags": [
+        "claude",
+        "terminal",
+        "powerlevel10k",
+        "statusline",
+        "vibe-coding"
+      ],
+      "analyzed_at": "2026-06-18T03:25:06.143720+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "duolahypercho/fusion-fable",
+      "title": "fusion-fable",
+      "description": "Fuse two frontier models into one Fable-tier answer: Opus 4.8 drafts, a second model (Opus 4.8 or GPT-5.5 via codex) checks, Opus fuses. A Claude Code skill.",
+      "url": "https://github.com/duolahypercho/fusion-fable",
+      "stars": 350,
+      "language": "Shell",
+      "topics": [],
+      "created_at": "2026-06-13T23:24:39Z",
+      "updated_at": "2026-06-15T19:36:58Z",
+      "forks": 54,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 fusion-fable 的技术项目。Fuse two frontier models into one Fable-tier answer: Opus 4.8 drafts, a second model (Opus 4.8 or GPT-5.5 via codex) checks, Opus fuses. A Claude Code skill.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-18T03:25:06.763181+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "buynao/aipath",
+      "title": "aipath",
+      "description": "Interactive AI General Education Course — 30 Lessons, Zero Math",
+      "url": "https://github.com/buynao/aipath",
+      "stars": 306,
+      "language": "JavaScript",
+      "topics": [
+        "ai",
+        "machine-learning"
+      ],
+      "created_at": "2026-06-12T10:58:35Z",
+      "updated_at": "2026-06-16T13:35:12Z",
+      "forks": 33,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 aipath 的技术项目。Interactive AI General Education Course — 30 Lessons, Zero Math",
+      "tags": [
+        "ai",
+        "machine-learning"
+      ],
+      "analyzed_at": "2026-06-18T03:25:07.371214+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "eli-labz/Third-Eye",
+      "title": "Third-Eye",
+      "description": "A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
+      "url": "https://github.com/eli-labz/Third-Eye",
+      "stars": 294,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "geospatial",
+        "maven-smart-system",
+        "palantir"
+      ],
+      "created_at": "2026-06-13T03:15:46Z",
+      "updated_at": "2026-06-13T06:29:56Z",
+      "forks": 1,
+      "open_issues": 1,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Third-Eye 的技术项目。A production-grade OSINT platform that provides situational awareness across multiple intelligence domains.",
+      "tags": [
+        "maven-smart-system",
+        "palantir",
+        "geospatial",
+        "ai-agent",
+        "ai"
+      ],
+      "analyzed_at": "2026-06-18T03:25:07.996125+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "dongshuyan/compass-skills",
+      "title": "compass-skills",
+      "description": "司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+      "url": "https://github.com/dongshuyan/compass-skills",
+      "stars": 283,
+      "language": "Python",
+      "topics": [
+        "agent-memory",
+        "agent-skills",
+        "ai-agents",
+        "ai-coding-agent",
+        "claude-code",
+        "claude-skills",
+        "codex-skills",
+        "developer-tools",
+        "local-first",
+        "openai-codex",
+        "personal-ai",
+        "prompt-engineering",
+        "skill-md",
+        "task-management",
+        "workflow-automation"
+      ],
+      "created_at": "2026-06-15T06:28:04Z",
+      "updated_at": "2026-06-17T13:15:45Z",
+      "forks": 26,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 compass-skills 的技术项目。司南：个性化 AI 任务总控 Skills 系统 /COMPASS: Personal Alignment Skills OS for AI Agents",
+      "tags": [
+        "ai-coding-agent",
+        "claude-skills",
+        "agent-skills",
+        "skill-md",
+        "openai-codex"
+      ],
+      "analyzed_at": "2026-06-18T03:25:08.615792+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "rebel0789/codexpro",
+      "title": "codexpro",
+      "description": "Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+      "url": "https://github.com/rebel0789/codexpro",
+      "stars": 278,
+      "language": "JavaScript",
+      "topics": [
+        "apps-sdk",
+        "chatgpt",
+        "cloudflare-tunnel",
+        "codex",
+        "local-development",
+        "mcp",
+        "ngrok"
+      ],
+      "created_at": "2026-06-16T21:22:43Z",
+      "updated_at": "2026-06-17T22:55:35Z",
+      "forks": 23,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 codexpro 的技术项目。Use ChatGPT Developer Mode as a local coding agent for your repo through MCP.",
+      "tags": [
+        "local-development",
+        "codex",
+        "cloudflare-tunnel",
+        "apps-sdk",
+        "chatgpt"
+      ],
+      "analyzed_at": "2026-06-18T03:25:09.232258+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Waishnav/devspace",
+      "title": "devspace",
+      "description": "Turn ChatGPT into Codex",
+      "url": "https://github.com/Waishnav/devspace",
+      "stars": 276,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-06-14T16:57:27Z",
+      "updated_at": "2026-06-17T18:49:00Z",
+      "forks": 21,
+      "open_issues": 2,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 devspace 的技术项目。Turn ChatGPT into Codex",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-18T03:25:09.832926+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "baskduf/FableCodex",
+      "title": "FableCodex",
+      "description": "🗿 FableCodex is a Codex-style coding agent workflow that plans like Fable.",
+      "url": "https://github.com/baskduf/FableCodex",
+      "stars": 273,
+      "language": "Python",
+      "topics": [
+        "codex",
+        "context-engineering",
+        "fable-5",
+        "prompt-engineering",
+        "skills",
+        "workflow"
+      ],
+      "created_at": "2026-06-14T13:11:00Z",
+      "updated_at": "2026-06-15T21:41:28Z",
+      "forks": 38,
+      "open_issues": 1,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 FableCodex 的技术项目。🗿 FableCodex is a Codex-style coding agent workflow that plans like Fable.",
+      "tags": [
+        "codex",
+        "fable-5",
+        "prompt-engineering",
+        "context-engineering",
+        "workflow"
+      ],
+      "analyzed_at": "2026-06-18T03:25:10.440978+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "jd-opensource/JoyAI-VL-Interaction",
+      "title": "JoyAI-VL-Interaction",
+      "description": null,
+      "url": "https://github.com/jd-opensource/JoyAI-VL-Interaction",
+      "stars": 272,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-06-11T10:30:19Z",
+      "updated_at": "2026-06-12T04:08:38Z",
+      "forks": 6,
+      "open_issues": 1,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 JoyAI-VL-Interaction 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-18T03:25:11.063570+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "majidmanzarpour/threejs-game-skills",
+      "title": "threejs-game-skills",
+      "description": "Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+      "url": "https://github.com/majidmanzarpour/threejs-game-skills",
+      "stars": 247,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-06-14T04:06:26Z",
+      "updated_at": "2026-06-16T11:18:44Z",
+      "forks": 22,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 threejs-game-skills 的技术项目。Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-18T03:25:11.682486+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "gykim80/perfectpixel-studio",
+      "title": "perfectpixel-studio",
+      "description": "AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
+      "url": "https://github.com/gykim80/perfectpixel-studio",
+      "stars": 230,
+      "language": "Go",
+      "topics": [
+        "ai",
+        "game-development",
+        "golang",
+        "pixel-art",
+        "sprite",
+        "spritesheet",
+        "wails"
+      ],
+      "created_at": "2026-06-14T04:23:45Z",
+      "updated_at": "2026-06-16T12:52:56Z",
+      "forks": 31,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 perfectpixel-studio 的技术项目。AI-powered animation sprite studio — generate character sprite sheets with 8 directions and 100+ actions from a single text prompt (Wails + Go + React)",
+      "tags": [
+        "spritesheet",
+        "golang",
+        "pixel-art",
+        "wails",
+        "game-development"
+      ],
+      "analyzed_at": "2026-06-18T03:25:12.287776+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Jeidoban/Ironsmith",
+      "title": "Ironsmith",
+      "description": "Create personal Mac apps instantly with a prompt. Supports on-device and cloud LLMs",
+      "url": "https://github.com/Jeidoban/Ironsmith",
+      "stars": 221,
+      "language": "Swift",
+      "topics": [],
+      "created_at": "2026-06-14T00:11:35Z",
+      "updated_at": "2026-06-18T00:36:14Z",
+      "forks": 16,
+      "open_issues": 1,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Ironsmith 的技术项目。Create personal Mac apps instantly with a prompt. Supports on-device and cloud LLMs",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-18T03:25:12.890534+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "fendouai/best-humanizer-handbook",
+      "title": "best-humanizer-handbook",
+      "description": "Best AI Humanizer Handbook A practical guide to making AI-assisted writing clearer, more credible, and more human",
+      "url": "https://github.com/fendouai/best-humanizer-handbook",
+      "stars": 212,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-06-15T14:21:44Z",
+      "updated_at": "2026-06-16T13:27:57Z",
+      "forks": 2,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 best-humanizer-handbook 的技术项目。Best AI Humanizer Handbook A practical guide to making AI-assisted writing clearer, more credible, and more human",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-18T03:25:13.492096+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "taisly/agent",
+      "title": "agent",
+      "description": "Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly.",
+      "url": "https://github.com/taisly/agent",
+      "stars": 207,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-06-11T04:33:30Z",
+      "updated_at": "2026-06-18T01:45:38Z",
+      "forks": 0,
+      "open_issues": 1,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 agent 的技术项目。Taisly Agent Kit: SDK, CLI, examples, and docs for AI agents that publish videos through Taisly.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-06-18T03:25:14.090215+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "itsinseong/value-for-fable",
+      "title": "value-for-fable",
+      "description": "Opus에 근접한 품질을 Sonnet 단가에 — 가성비 AI 운영 모델을 직접 구축한 Claude Code 프로젝트",
+      "url": "https://github.com/itsinseong/value-for-fable",
+      "stars": 192,
+      "language": "Python",
+      "topics": [
+        "agentic",
+        "ai",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "fable",
+        "fable5",
+        "harness",
+        "opus",
+        "prompt-engineering",
+        "sonnet"
+      ],
+      "created_at": "2026-06-11T19:54:14Z",
+      "updated_at": "2026-06-14T17:03:45Z",
+      "forks": 46,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 value-for-fable 的技术项目。Opus에 근접한 품질을 Sonnet 단가에 — 가성비 AI 운영 모델을 직접 구축한 Claude Code 프로젝트",
+      "tags": [
+        "anthropic",
+        "harness",
+        "claude",
+        "agentic",
+        "opus"
+      ],
+      "analyzed_at": "2026-06-18T03:25:14.691910+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "bingook/bingo",
+      "title": "bingo",
+      "description": "Bingo - AI-powered Red Team Terminal (DeepSeek/Claude/GPT/GLM)",
+      "url": "https://github.com/bingook/bingo",
+      "stars": 189,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-06-12T10:26:39Z",
+      "updated_at": "2026-06-17T16:01:09Z",
+      "forks": 21,
+      "open_issues": 2,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 bingo 的技术项目。Bingo - AI-powered Red Team Terminal (DeepSeek/Claude/GPT/GLM)",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-18T03:25:15.304794+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "arnabbagxd/Brand-building-skills",
+      "title": "Brand-building-skills",
+      "description": "Brand building skills for Claude Code and AI agents. strategy, naming, identity, voice, positioning, messaging, auditing, and launch",
+      "url": "https://github.com/arnabbagxd/Brand-building-skills",
+      "stars": 185,
+      "language": "Shell",
+      "topics": [
+        "brand-architecture",
+        "brand-audit",
+        "brand-guidelines",
+        "brand-identity",
+        "brand-launch",
+        "brand-messaging",
+        "brand-naming",
+        "brand-positioning-strategy",
+        "brand-strategy",
+        "brand-voice",
+        "branding",
+        "branding-assets",
+        "competitor-analysis",
+        "target-audience"
+      ],
+      "created_at": "2026-06-11T06:12:55Z",
+      "updated_at": "2026-06-13T06:30:29Z",
+      "forks": 19,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Brand-building-skills 的技术项目。Brand building skills for Claude Code and AI agents. strategy, naming, identity, voice, positioning, messaging, auditing, and launch",
+      "tags": [
+        "branding",
+        "brand-naming",
+        "brand-strategy",
+        "branding-assets",
+        "brand-messaging"
+      ],
+      "analyzed_at": "2026-06-18T03:25:15.921133+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "liuluhaixiu/DaVinci-AutoEdit-Agent",
+      "title": "DaVinci-AutoEdit-Agent",
+      "description": "AI自动剪辑的“第一次接触”，一款基于davinci mcp的全自动自媒体视频剪辑skill",
+      "url": "https://github.com/liuluhaixiu/DaVinci-AutoEdit-Agent",
+      "stars": 184,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-06-12T04:02:06Z",
+      "updated_at": "2026-06-12T04:11:09Z",
+      "forks": 31,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 DaVinci-AutoEdit-Agent 的技术项目。AI自动剪辑的“第一次接触”，一款基于davinci mcp的全自动自媒体视频剪辑skill",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-06-18T03:25:16.541990+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "newideas99/open-dungeon",
+      "title": "open-dungeon",
+      "description": "Open Dungeon — the first easy-to-use, fully local AI roleplay app. Story and inline scene images generated 100% on your machine (Gemma 4 QAT via Ollama(and others) + FLUX). No accounts, no API keys, no cloud.",
+      "url": "https://github.com/newideas99/open-dungeon",
+      "stars": 178,
+      "language": "TypeScript",
+      "topics": [
+        "gemma",
+        "image-generation",
+        "interactive-fiction",
+        "local-llm",
+        "nextjs",
+        "ollama",
+        "on-device-ai",
+        "roleplay"
+      ],
+      "created_at": "2026-06-12T00:37:09Z",
+      "updated_at": "2026-06-15T12:41:13Z",
+      "forks": 13,
+      "open_issues": 5,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 open-dungeon 的技术项目。Open Dungeon — the first easy-to-use, fully local AI roleplay app. Story and inline scene images generated 100% on your machine (Gemma 4 QAT via Ollama(and others) + FLUX). No accounts, no API keys, n",
+      "tags": [
+        "image-generation",
+        "interactive-fiction",
+        "roleplay",
+        "on-device-ai",
+        "local-llm"
+      ],
+      "analyzed_at": "2026-06-18T03:25:17.142128+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "vercel-labs/personal-agent-template",
+      "title": "personal-agent-template",
+      "description": "Open-source template for a durable personal AI agent — web chat, Slack, Linear, and long-term memory with user-approved saves. Eve, Nuxt, Better Auth, Vercel Connect.",
+      "url": "https://github.com/vercel-labs/personal-agent-template",
+      "stars": 173,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "better-auth",
+        "eve",
+        "linear",
+        "memory",
+        "nuxt",
+        "personal-agent",
+        "slack",
+        "vercel-connect"
+      ],
+      "created_at": "2026-06-11T13:59:55Z",
+      "updated_at": "2026-06-17T16:47:16Z",
+      "forks": 8,
+      "open_issues": 1,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 personal-agent-template 的技术项目。Open-source template for a durable personal AI agent — web chat, Slack, Linear, and long-term memory with user-approved saves. Eve, Nuxt, Better Auth, Vercel Connect.",
+      "tags": [
+        "memory",
+        "slack",
+        "vercel-connect",
+        "agent",
+        "nuxt"
+      ],
+      "analyzed_at": "2026-06-18T03:25:17.745200+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "dzcmemory-web/bazi-ziwei-skill",
+      "title": "bazi-ziwei-skill",
+      "description": "AI 八字 + 紫微斗数排盘与综合印证 Skill：算法精准排盘（不靠 LLM 猜），三种分析模式，一键生成水墨风 HTML 命盘海报。兼容 Claude / Codex / Cursor / Workbuddy 等 SKILL.md Agent。",
+      "url": "https://github.com/dzcmemory-web/bazi-ziwei-skill",
+      "stars": 169,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agent",
+        "bazi",
+        "bazi-suanming",
+        "chinese-astrology",
+        "claude-skill",
+        "fortune-telling",
+        "metaphysics",
+        "skill-md",
+        "ziwei",
+        "ziwei-doushu"
+      ],
+      "created_at": "2026-06-13T14:22:28Z",
+      "updated_at": "2026-06-14T03:53:54Z",
+      "forks": 16,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 bazi-ziwei-skill 的技术项目。AI 八字 + 紫微斗数排盘与综合印证 Skill：算法精准排盘（不靠 LLM 猜），三种分析模式，一键生成水墨风 HTML 命盘海报。兼容 Claude / Codex / Cursor / Workbuddy 等 SKILL.md Agent。",
+      "tags": [
+        "fortune-telling",
+        "ziwei-doushu",
+        "claude-skill",
+        "chinese-astrology",
+        "ziwei"
+      ],
+      "analyzed_at": "2026-06-18T03:25:18.346491+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "ruvnet/agent-harness-generator",
+      "title": "agent-harness-generator",
+      "description": "🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Codex, pi.dev, Hermes, OpenClaw, and RVM (hardware-isolated sandbox).",
+      "url": "https://github.com/ruvnet/agent-harness-generator",
+      "stars": 167,
+      "language": "TypeScript",
+      "topics": [
+        "agent-harness",
+        "agent-harness-generator",
+        "agent-scaffolding",
+        "agentic-ai",
+        "agentic-framework",
+        "autonomous-agents",
+        "claude-code",
+        "codex",
+        "create-agent-harness",
+        "hermes-agent",
+        "mcp",
+        "mcp-server",
+        "multi-agent",
+        "openai-codex",
+        "openclaw",
+        "pi-dev",
+        "rvm",
+        "sandboxing",
+        "scaffold",
+        "scaffolding"
+      ],
+      "created_at": "2026-06-13T18:29:11Z",
+      "updated_at": "2026-06-18T03:22:10Z",
+      "forks": 15,
+      "open_issues": 15,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 agent-harness-generator 的技术项目。🛠️ The meta-harness for AI agents — scaffold your own focused, branded agent harness with its own npx CLI, MCP server, memory, learning loop, and witness-signed releases. Works with Claude Code, Codex",
+      "tags": [
+        "multi-agent",
+        "create-agent-harness",
+        "rvm",
+        "openai-codex",
+        "hermes-agent"
+      ],
+      "analyzed_at": "2026-06-18T03:25:18.947980+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "tmchow/illo-skill",
+      "title": "illo-skill",
+      "description": "illo — an AI agent skill that turns ideas and articles into original print-style editorial illustrations, starring a recurring mascot. Ten bundled looks, custom characters, OpenRouter-powered.",
+      "url": "https://github.com/tmchow/illo-skill",
+      "stars": 164,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "illustration",
+        "image-generation",
+        "skill"
+      ],
+      "created_at": "2026-06-12T16:03:22Z",
+      "updated_at": "2026-06-17T16:46:45Z",
+      "forks": 5,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 illo-skill 的技术项目。illo — an AI agent skill that turns ideas and articles into original print-style editorial illustrations, starring a recurring mascot. Ten bundled looks, custom characters, OpenRouter-powered.",
+      "tags": [
+        "image-generation",
+        "agent-skills",
+        "illustration",
+        "skill",
+        "claude-code"
+      ],
+      "analyzed_at": "2026-06-18T03:25:19.547248+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "TradingAi666/worldcup2026-prediction-skill",
+      "title": "worldcup2026-prediction-skill",
+      "description": "2026 世界杯 AI 预测引擎「绿茵神算」 — 经实战验证的大模型 system prompt,把 48 队资料库 + 评估方法论 + 严格 JSON 输出契约写死在单文件,任何 OpenAI 兼容接口即贴即用。",
+      "url": "https://github.com/TradingAi666/worldcup2026-prediction-skill",
+      "stars": 160,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-06-11T10:58:44Z",
+      "updated_at": "2026-06-11T22:47:03Z",
+      "forks": 29,
+      "open_issues": 3,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 worldcup2026-prediction-skill 的技术项目。2026 世界杯 AI 预测引擎「绿茵神算」 — 经实战验证的大模型 system prompt,把 48 队资料库 + 评估方法论 + 严格 JSON 输出契约写死在单文件,任何 OpenAI 兼容接口即贴即用。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-18T03:25:20.152391+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "joeseesun/qiaomu-ai-prd",
+      "title": "qiaomu-ai-prd",
+      "description": "Turn one-line product ideas into AI-implementable PRDs with speed-read cards, constraint layers, overdelivery ideas, metrics, and acceptance scripts.",
+      "url": "https://github.com/joeseesun/qiaomu-ai-prd",
+      "stars": 149,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-06-12T02:38:55Z",
+      "updated_at": "2026-06-12T03:20:19Z",
+      "forks": 5,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 qiaomu-ai-prd 的技术项目。Turn one-line product ideas into AI-implementable PRDs with speed-read cards, constraint layers, overdelivery ideas, metrics, and acceptance scripts.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-18T03:25:20.770499+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "shreyashankar/plain-writing-skill",
+      "title": "plain-writing-skill",
+      "description": "A plain-language writing skill for AI agents, with a revision view that shows what changed.",
+      "url": "https://github.com/shreyashankar/plain-writing-skill",
+      "stars": 147,
+      "language": "HTML",
+      "topics": [],
+      "created_at": "2026-06-15T23:49:32Z",
+      "updated_at": "2026-06-16T19:33:36Z",
+      "forks": 4,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 plain-writing-skill 的技术项目。A plain-language writing skill for AI agents, with a revision view that shows what changed.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-18T03:25:21.373957+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "renee-jia/scholar-loop",
+      "title": "scholar-loop",
+      "description": "An autonomous AI scientist: a multi-agent loop over literature, experiments, self-critique and write-up, with deterministic guards against reward-hacking and hallucination.",
+      "url": "https://github.com/renee-jia/scholar-loop",
+      "stars": 125,
+      "language": "Python",
+      "topics": [
+        "ai-research",
+        "autonomous-agents",
+        "llm-tools",
+        "multi-agent"
+      ],
+      "created_at": "2026-06-15T04:50:58Z",
+      "updated_at": "2026-06-16T06:42:39Z",
+      "forks": 26,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 scholar-loop 的技术项目。An autonomous AI scientist: a multi-agent loop over literature, experiments, self-critique and write-up, with deterministic guards against reward-hacking and hallucination.",
+      "tags": [
+        "multi-agent",
+        "llm-tools",
+        "autonomous-agents",
+        "ai-research"
+      ],
+      "analyzed_at": "2026-06-18T03:25:21.992988+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "modelscope/Awesome-Vibe-Research",
+      "title": "Awesome-Vibe-Research",
+      "description": "An open, collaboratively-built repository for AI-assisted scientific research — collecting and curating agents, skills, workflows, tools, and best practices across the full research lifecycle. 面向 AI 辅助科研的开放共建仓库 收集和沉淀科研全流程中的 agents、skills、workflows、tools 与最佳实践",
+      "url": "https://github.com/modelscope/Awesome-Vibe-Research",
+      "stars": 120,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-06-12T14:25:10Z",
+      "updated_at": "2026-06-18T03:05:28Z",
+      "forks": 9,
+      "open_issues": 3,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Awesome-Vibe-Research 的技术项目。An open, collaboratively-built repository for AI-assisted scientific research — collecting and curating agents, skills, workflows, tools, and best practices across the full research lifecycle. 面向 AI 辅",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-18T03:25:22.594706+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "BotchetDig/workout-gate",
+      "title": "workout-gate",
+      "description": "A Claude Code hook that blocks your prompt until you do your push-ups, counted live via webcam. Random reps, session-persistent debt (no closing the tab to skip), streak stats, and three trigger modes. Your AI works hard, so should you.",
+      "url": "https://github.com/BotchetDig/workout-gate",
+      "stars": 117,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-06-12T08:18:14Z",
+      "updated_at": "2026-06-13T21:25:26Z",
+      "forks": 8,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 workout-gate 的技术项目。A Claude Code hook that blocks your prompt until you do your push-ups, counted live via webcam. Random reps, session-persistent debt (no closing the tab to skip), streak stats, and three trigger modes",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-18T03:25:23.210781+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "sgup/ai",
+      "title": "ai",
+      "description": "Notes and operating profiles for working with AI coding agents.",
+      "url": "https://github.com/sgup/ai",
+      "stars": 116,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-06-13T09:43:34Z",
+      "updated_at": "2026-06-17T08:34:46Z",
+      "forks": 10,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 ai 的技术项目。Notes and operating profiles for working with AI coding agents.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-18T03:25:23.812849+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "recursive-org/first-steps-toward-automated-ai-research",
+      "title": "first-steps-toward-automated-ai-research",
+      "description": "Research artifacts from Recursive's automated AI research system",
+      "url": "https://github.com/recursive-org/first-steps-toward-automated-ai-research",
+      "stars": 116,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-06-11T07:53:35Z",
+      "updated_at": "2026-06-11T07:57:36Z",
+      "forks": 11,
+      "open_issues": 1,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 first-steps-toward-automated-ai-research 的技术项目。Research artifacts from Recursive's automated AI research system",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-18T03:25:24.415145+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "cha0upup/LeoAI",
+      "title": "LeoAI",
+      "description": "AI 驱动的后渗透综合管理平台，深度集成 LLM Agent，开箱即用。",
+      "url": "https://github.com/cha0upup/LeoAI",
+      "stars": 112,
+      "language": "Java",
+      "topics": [],
+      "created_at": "2026-06-12T06:48:10Z",
+      "updated_at": "2026-06-18T01:00:05Z",
+      "forks": 13,
+      "open_issues": 1,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 LeoAI 的技术项目。AI 驱动的后渗透综合管理平台，深度集成 LLM Agent，开箱即用。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-18T03:25:25.024466+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "cporter202/stock-market-signal-automation",
+      "title": "stock-market-signal-automation",
+      "description": "Build your own data-driven market edge with swing-trade signal webhooks, dashboards, alerts, AI agents, and automation examples.",
+      "url": "https://github.com/cporter202/stock-market-signal-automation",
+      "stars": 101,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-06-13T04:24:25Z",
+      "updated_at": "2026-06-14T15:25:19Z",
+      "forks": 30,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 stock-market-signal-automation 的技术项目。Build your own data-driven market edge with swing-trade signal webhooks, dashboards, alerts, AI agents, and automation examples.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-18T03:25:25.626750+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Goekdeniz-Guelmez/MLX-LoRA-Studio",
+      "title": "MLX-LoRA-Studio",
+      "description": "A native Mac App for LLM fine-tuning on Apple Silicon — fully on-device, fully open source.",
+      "url": "https://github.com/Goekdeniz-Guelmez/MLX-LoRA-Studio",
+      "stars": 96,
+      "language": "Python",
+      "topics": [
+        "deep-learning",
+        "llm-training",
+        "llms",
+        "machine-learning",
+        "mlx",
+        "mlx-lm",
+        "mlx-lm-lora",
+        "nlp",
+        "preference-learning",
+        "reinforcement-learning",
+        "rl",
+        "rlhf",
+        "sft"
+      ],
+      "created_at": "2026-06-11T19:34:33Z",
+      "updated_at": "2026-06-16T12:38:51Z",
+      "forks": 5,
+      "open_issues": 2,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 MLX-LoRA-Studio 的技术项目。A native Mac App for LLM fine-tuning on Apple Silicon — fully on-device, fully open source.",
+      "tags": [
+        "rlhf",
+        "mlx-lm",
+        "rl",
+        "sft",
+        "ml"
+      ],
+      "analyzed_at": "2026-06-18T03:25:26.230625+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "modem-dev/sideshow",
+      "title": "sideshow",
+      "description": "A live visual surface for terminal coding agents — agents draw HTML snippets, you watch and comment back",
+      "url": "https://github.com/modem-dev/sideshow",
+      "stars": 95,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-06-11T04:22:55Z",
+      "updated_at": "2026-06-18T03:20:20Z",
+      "forks": 1,
+      "open_issues": 3,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 sideshow 的技术项目。A live visual surface for terminal coding agents — agents draw HTML snippets, you watch and comment back",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-18T03:25:26.833719+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "yolfinance/yolfi-agent",
+      "title": "yolfi-agent",
+      "description": "Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
+      "url": "https://github.com/yolfinance/yolfi-agent",
+      "stars": 91,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "checkout",
+        "crypto-payments",
+        "mcp",
+        "payments",
+        "stablecoin-payments",
+        "webhooks"
+      ],
+      "created_at": "2026-06-16T15:43:27Z",
+      "updated_at": "2026-06-18T01:29:14Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 yolfi-agent 的技术项目。Yolfi Agent Kit SDK, CLI, and MCP server for AI coding agents.",
+      "tags": [
+        "checkout",
+        "agent",
+        "stablecoin-payments",
+        "payments",
+        "mcp"
+      ],
+      "analyzed_at": "2026-06-18T03:25:27.429483+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "YannGotti/NS-FW-AI-Adult-Gen",
+      "title": "NS-FW-AI-Adult-Gen",
+      "description": "A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation.",
+      "url": "https://github.com/YannGotti/NS-FW-AI-Adult-Gen",
+      "stars": 91,
+      "language": "C#",
+      "topics": [
+        "ai-girl",
+        "ai-image-generator-api",
+        "ai-video-maker",
+        "best-nsfw-ai-image-generator",
+        "nsfw-data",
+        "nsfw-image",
+        "nsfw-prompt",
+        "nsfw-recognition",
+        "object-removal-tools",
+        "uncensored",
+        "uncensored-ai-video",
+        "uncensored-art",
+        "uncensored-llm",
+        "uncensored-wan",
+        "uncensoredai",
+        "undress-ai-list",
+        "undress-image",
+        "undress-video",
+        "unrestricted-ai",
+        "z-image-turbo-uncensored"
+      ],
+      "created_at": "2026-06-15T21:13:03Z",
+      "updated_at": "2026-06-15T21:16:41Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 NS-FW-AI-Adult-Gen 的技术项目。A foundational toolkit for AI-driven image generation, focusing on creative expression and content creation.",
+      "tags": [
+        "uncensored-wan",
+        "uncensoredai",
+        "object-removal-tools",
+        "undress-ai-list",
+        "unrestricted-ai"
+      ],
+      "analyzed_at": "2026-06-18T03:25:28.026865+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "KorroAi/drunk-claude",
+      "title": "drunk-claude",
+      "description": "Drunk Claude : intensity slider (0.1 tipsy to 1.0 blackout), 5 moods, 8 creative techniques. The unfiltered genius skill for Claude Code. MIT.",
+      "url": "https://github.com/KorroAi/drunk-claude",
+      "stars": 88,
+      "language": null,
+      "topics": [
+        "ai-skills",
+        "ai-tools",
+        "brainstorming",
+        "chaos-engineering",
+        "claude",
+        "claude-code",
+        "creative-ai",
+        "creative-coding",
+        "creativity",
+        "developer-tools",
+        "fun",
+        "ideation",
+        "llm",
+        "mit-license",
+        "open-source",
+        "unfiltered",
+        "viral"
+      ],
+      "created_at": "2026-06-13T20:05:21Z",
+      "updated_at": "2026-06-17T08:31:23Z",
+      "forks": 8,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 drunk-claude 的技术项目。Drunk Claude : intensity slider (0.1 tipsy to 1.0 blackout), 5 moods, 8 creative techniques. The unfiltered genius skill for Claude Code. MIT.",
+      "tags": [
+        "chaos-engineering",
+        "ideation",
+        "brainstorming",
+        "claude",
+        "mit-license"
+      ],
+      "analyzed_at": "2026-06-18T03:25:28.647106+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "liyupi/zhuanglema",
+      "title": "zhuanglema",
+      "description": "装了吗 —— AI 驱动的软件安装助手，帮学编程的同学一键安装软件",
+      "url": "https://github.com/liyupi/zhuanglema",
+      "stars": 82,
+      "language": "JavaScript",
+      "topics": [
+        "ai",
+        "javascript",
+        "programming",
+        "python",
+        "software",
+        "vibe-coding"
+      ],
+      "created_at": "2026-06-11T08:19:58Z",
+      "updated_at": "2026-06-11T08:20:04Z",
+      "forks": 15,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 zhuanglema 的技术项目。装了吗 —— AI 驱动的软件安装助手，帮学编程的同学一键安装软件",
+      "tags": [
+        "software",
+        "python",
+        "programming",
+        "ai",
+        "vibe-coding"
+      ],
+      "analyzed_at": "2026-06-18T03:25:29.260226+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
