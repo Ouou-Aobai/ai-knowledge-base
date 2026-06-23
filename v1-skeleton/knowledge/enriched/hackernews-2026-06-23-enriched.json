@@ -1,0 +1,392 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-06-23T02:44:59.652098Z",
+  "analyzed_at": "2026-06-23T02:45:09.285564+00:00",
+  "count": 16,
+  "items": [
+    {
+      "id": 48636377,
+      "title": "Runing GLM-5.2 on local hardware",
+      "url": "https://unsloth.ai/docs/models/glm-5.2",
+      "score": 196,
+      "comments": 89,
+      "author": "TechTechTech",
+      "time": 1782163261,
+      "hn_url": "https://news.ycombinator.com/item?id=48636377",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Runing GLM-5.2 on local hardware 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-23T02:44:59.996438+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48638886,
+      "title": "In Praise of Memcached",
+      "url": "https://jchri.st/blog/in-praise-of-memcached/",
+      "score": 40,
+      "comments": 13,
+      "author": "j03b",
+      "time": 1782177305,
+      "hn_url": "https://news.ycombinator.com/item?id=48638886",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 In Praise of Memcached 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-23T02:45:00.629613+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48630171,
+      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+      "url": "https://hustvl.github.io/Moebius/",
+      "score": 240,
+      "comments": 65,
+      "author": "DSemba",
+      "time": 1782136382,
+      "hn_url": "https://news.ycombinator.com/item?id=48630171",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Moebius: 0.2B image inpainting model with 10B-level performance 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-23T02:45:01.204297+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48634585,
+      "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
+      "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
+      "score": 332,
+      "comments": 173,
+      "author": "geox",
+      "time": 1782155208,
+      "hn_url": "https://news.ycombinator.com/item?id=48634585",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-23T02:45:01.800695+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48631726,
+      "title": "Show HN: Oak – Git alternative designed for agents",
+      "url": "https://oak.space/oak/oak",
+      "score": 151,
+      "comments": 146,
+      "author": "zdgeier",
+      "time": 1782142668,
+      "hn_url": "https://news.ycombinator.com/item?id=48631726",
+      "text": "Oak is a version control system I&#x27;ve been working on designed for agents (<a href=\"https:&#x2F;&#x2F;oak.space\" rel=\"nofollow\">https:&#x2F;&#x2F;oak.space</a>). It improves the speed and context your agents need when working on serious projects. With virtual mounts, agents locally and in the cloud no longer need a full copy of a repo to get working. You can work on many tasks in parallel without needing to download everything or fight worktrees. Version control shouldn&#x27;t waste you or y",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Show HN: Oak – Git alternative designed for agents 的技术内容。",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-06-23T02:45:02.399745+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48590505,
+      "title": "Show HN: Pagecast – Publish Markdown/HTML Reports to Cloudflare Pages",
+      "url": "https://github.com/Amal-David/pagecast",
+      "score": 35,
+      "comments": 8,
+      "author": "amaldavid",
+      "time": 1781811774,
+      "hn_url": "https://news.ycombinator.com/item?id=48590505",
+      "text": "I built this because I kept generating HTML&#x2F;Markdown reports from Claude Code&#x2F;Codex and needed a permanent share link instead of a localhost tunnel. Pagecast is a local CLI that publishes those files to your own Cloudflare Pages account.<p>It supports Markdown and HTML, stable URLs, renaming, republishing to the same URL, and watch mode for continuous updates to same file. It is MIT licensed.<p>The main design choice is that there is no hosted Pagecast account. It uses your Cloudflare ",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Show HN: Pagecast – Publish Markdown/HTML Reports to Cloudflare Pages 的技术内容。",
+      "tags": [
+        "ml"
+      ],
+      "analyzed_at": "2026-06-23T02:45:02.969976+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48629213,
+      "title": "Show HN: Got sick of ads, so I made my own logic puzzle site",
+      "url": "https://puzzlelair.com/",
+      "score": 149,
+      "comments": 102,
+      "author": "HaxleRose",
+      "time": 1782131026,
+      "hn_url": "https://news.ycombinator.com/item?id=48629213",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Show HN: Got sick of ads, so I made my own logic puzzle site 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-23T02:45:03.552252+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48633410,
+      "title": "Finding the Best Dog Treat with Statistics",
+      "url": "https://www.wespiser.com/posts/2026-06-19-best-dog-treat.html",
+      "score": 84,
+      "comments": 24,
+      "author": "wespiser_2018",
+      "time": 1782150408,
+      "hn_url": "https://news.ycombinator.com/item?id=48633410",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Finding the Best Dog Treat with Statistics 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-23T02:45:04.121018+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48629982,
+      "title": "Die analysis of the 8087 math coprocessor's fast bit shifter (2020)",
+      "url": "https://www.righto.com/2020/05/die-analysis-of-8087-math-coprocessors.html",
+      "score": 81,
+      "comments": 19,
+      "author": "Jimmc414",
+      "time": 1782135616,
+      "hn_url": "https://news.ycombinator.com/item?id=48629982",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Die analysis of the 8087 math coprocessor's fast bit shifter (2020) 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-23T02:45:04.688453+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48630535,
+      "title": "The text in Claude Code’s “Extended Thinking” output",
+      "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
+      "score": 285,
+      "comments": 198,
+      "author": "0o_MrPatrick_o0",
+      "time": 1782138166,
+      "hn_url": "https://news.ycombinator.com/item?id=48630535",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 The text in Claude Code’s “Extended Thinking” output 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-23T02:45:05.264329+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48604115,
+      "title": "How do flocking birds and schools of fish move?",
+      "url": "https://www.nyu.edu/about/news-publications/news/2026/june/how-do-flocking-birds-and-schools-of-fish-move--new-research-off.html",
+      "score": 15,
+      "comments": 5,
+      "author": "hhs",
+      "time": 1781908650,
+      "hn_url": "https://news.ycombinator.com/item?id=48604115",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 How do flocking birds and schools of fish move? 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-23T02:45:05.826253+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48639498,
+      "title": "AWS Lambda MicroVMs for isolated execution of user and AI-generated code",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/aws-lambda-microvms/",
+      "score": 3,
+      "comments": 0,
+      "author": "leemoore",
+      "time": 1782182311,
+      "hn_url": "https://news.ycombinator.com/item?id=48639498",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 AWS Lambda MicroVMs for isolated execution of user and AI-generated code 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-23T02:45:06.390448+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48629387,
+      "title": "window.showDirectoryPicker opens up a whole new world",
+      "url": "https://steveharrison.dev/showdirectorypicker-opens-up-a-whole-new-world/",
+      "score": 106,
+      "comments": 97,
+      "author": "steveharrison",
+      "time": 1782132142,
+      "hn_url": "https://news.ycombinator.com/item?id=48629387",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 window.showDirectoryPicker opens up a whole new world 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-23T02:45:06.954091+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48599998,
+      "title": "Munich 1991: The Roots of the Current AI Boom",
+      "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
+      "score": 214,
+      "comments": 95,
+      "author": "tosh",
+      "time": 1781884463,
+      "hn_url": "https://news.ycombinator.com/item?id=48599998",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Munich 1991: The Roots of the Current AI Boom 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-23T02:45:07.624860+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48626930,
+      "title": "Codex logging bug may write TBs to local SSDs",
+      "url": "https://github.com/openai/codex/issues/28224",
+      "score": 469,
+      "comments": 256,
+      "author": "vantareed",
+      "time": 1782113417,
+      "hn_url": "https://news.ycombinator.com/item?id=48626930",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Codex logging bug may write TBs to local SSDs 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-23T02:45:08.189912+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48636632,
+      "title": "Meta pauses AI training program tracking employee keystrokes after internal leak",
+      "url": "https://www.businessinsider.com/meta-ai-training-data-leak-exposed-employee-activity-across-company-2026-6",
+      "score": 51,
+      "comments": 9,
+      "author": "petethomas",
+      "time": 1782164602,
+      "hn_url": "https://news.ycombinator.com/item?id=48636632",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Meta pauses AI training program tracking employee keystrokes after internal leak 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-06-23T02:45:08.784690+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
