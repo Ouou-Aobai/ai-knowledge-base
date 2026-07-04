@@ -1,0 +1,512 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-07-04T02:26:29.392044Z",
+  "analyzed_at": "2026-07-04T02:27:16.549358+00:00",
+  "count": 21,
+  "items": [
+    {
+      "id": 48780801,
+      "title": "Leanstral 1.5: Proof Abundance for All",
+      "url": "https://mistral.ai/news/leanstral-1-5/",
+      "score": 92,
+      "comments": 28,
+      "author": "programLyrique",
+      "time": 1783117990,
+      "hn_url": "https://news.ycombinator.com/item?id=48780801",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Leanstral 1.5 is an open-source model with 119B parameters, excelling in formal verification and proof engineering. It outperforms competitors at a lower cost. Available via Hugging Face and Mistral API.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-04T02:26:32.792462+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48780417,
+      "title": "GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
+      "url": "https://www.wafer.ai/blog/glm52-amd",
+      "score": 100,
+      "comments": 26,
+      "author": "latchkey",
+      "time": 1783115346,
+      "hn_url": "https://news.ycombinator.com/item?id=48780417",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "GLM5.2 runs on AMD MI355X at 2626 tokens per second per node, significantly cheaper than Blackwell. Performance per watt is not specified. This setup is over twice as cost-effective.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-04T02:26:34.957923+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48781688,
+      "title": "MSI Center – How to gain SYSTEM privileges in seconds",
+      "url": "https://mrbruh.com/msicenter/",
+      "score": 25,
+      "comments": 7,
+      "author": "MrBruh",
+      "time": 1783126664,
+      "hn_url": "https://news.ycombinator.com/item?id=48781688",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A vulnerability in MSI Center allows users to gain system privileges by exploiting CVE-2024-37726. This exploit involves creating a directory and manipulating files. Immediate action to update the software is recommended.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-04T02:26:36.849339+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48780996,
+      "title": "The circuit that lets your brain think and see",
+      "url": "https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see",
+      "score": 41,
+      "comments": 6,
+      "author": "hhs",
+      "time": 1783119377,
+      "hn_url": "https://news.ycombinator.com/item?id=48780996",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The brain's visual cortex uses a specific inhibitory circuit to track task context, enabling thought and perception. This circuit involves distributed neuronal assemblies that integrate sensory and cognitive functions.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-04T02:26:38.717462+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48775921,
+      "title": "Jamesob's guide to running SOTA LLMs locally",
+      "url": "https://github.com/jamesob/local-llm",
+      "score": 283,
+      "comments": 126,
+      "author": "livestyle",
+      "time": 1783091023,
+      "hn_url": "https://news.ycombinator.com/item?id=48775921",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "To run state-of-the-art LLMs locally, consider using tools like Ollama or Docker Model Runner. Ensure you have sufficient hardware resources, especially VRAM. Follow setup guides for specific models.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-07-04T02:26:39.731011+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48781865,
+      "title": "CueBench for Developers is live: score how well you drive coding agents",
+      "url": "https://app.cuebench.dev",
+      "score": 7,
+      "comments": 2,
+      "author": "DillonMehta",
+      "time": 1783128649,
+      "hn_url": "https://news.ycombinator.com/item?id=48781865",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "CueBench for Developers evaluates coding agents' performance based on output quality, cost, token usage, and execution time. Only about five percent of coding agent output quality depends on the prompt; the rest relies on context. The platform benchmarks coding agents against tasks like DeepSWE and Terminal-Bench.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-07-04T02:26:41.542119+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48779723,
+      "title": "Applied Category Theory Course (2018)",
+      "url": "https://math.ucr.edu/home/baez/act_course/index.html",
+      "score": 59,
+      "comments": 7,
+      "author": "measurablefunc",
+      "time": 1783111320,
+      "hn_url": "https://news.ycombinator.com/item?id=48779723",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Applied Category Theory Course in 2018 focused on enriched profunctors and collaborative design, with key lectures on constructing and composing enriched categories. The course was part of the Adjoint School and used \"Seven Sketches in Compositionality\" by Fong and Spivak.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-04T02:26:43.854457+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48779683,
+      "title": "Espionage Against the European Parliament",
+      "url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
+      "score": 276,
+      "comments": 67,
+      "author": "ledoge",
+      "time": 1783111106,
+      "hn_url": "https://news.ycombinator.com/item?id=48779683",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Espionage against the European Parliament includes allegations of Chinese and Hungarian spying, with Hungary accused of operating a spying operation in Brussels to supply information to the Hungarian government. MEPs have also been implicated in espionage activities. The European Parliament is urged to investigate these breaches.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-04T02:26:46.262612+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48780056,
+      "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
+      "url": "https://epoch.ai/data-insights/cve-severity-spike",
+      "score": 51,
+      "comments": 10,
+      "author": "cubefox",
+      "time": 1783113376,
+      "hn_url": "https://news.ycombinator.com/item?id=48780056",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The release of Anthropic's Claude Mythos Preview in 2026 led to a significant spike in cybersecurity vulnerability disclosures, with over 1,500 high- and critical-severity CVEs reported in June alone. This surge in vulnerabilities highlights the model's potential to accelerate the discovery and exploitation of security flaws. The spike underscores the urgent need for rapid response and patching.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-04T02:26:48.269236+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48776044,
+      "title": "Costco is the anti-Amazon",
+      "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
+      "score": 319,
+      "comments": 291,
+      "author": "bookofjoe",
+      "time": 1783091695,
+      "hn_url": "https://news.ycombinator.com/item?id=48776044",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Costco thrives by offering membership-only access, bulk pricing, and a focus on customer service, contrasting with Amazon's online-only, high-volume model. Costco's physical stores and personalized service create a unique shopping experience. These factors allow Costco to compete effectively against Amazon.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-04T02:26:50.912273+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48779977,
+      "title": "Africans Are Turning to Starlink",
+      "url": "https://www.economist.com/middle-east-and-africa/2026/07/02/africans-are-turning-to-starlink",
+      "score": 110,
+      "comments": 116,
+      "author": "bookofjoe",
+      "time": 1783112917,
+      "hn_url": "https://news.ycombinator.com/item?id=48779977",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Frustrated by poor internet connections, many African governments and wealthy individuals are turning to Starlink for better connectivity. While it's currently expensive, it may improve overall broadband services in the region. Starlink's expansion in Africa continues, now active in 23 countries.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-04T02:26:52.816729+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48780812,
+      "title": "GitFut – Your GitHub stats turned into a World-Cup-style player card",
+      "url": "https://gitfut.com",
+      "score": 20,
+      "comments": 9,
+      "author": "redbell",
+      "time": 1783118056,
+      "hn_url": "https://news.ycombinator.com/item?id=48780812",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "GitFut converts GitHub profiles into World Cup-style player cards rated out of 99. It visualizes GitHub contributions in a fun, football-themed format. The tool was launched in 2026.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-04T02:26:54.507777+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48777728,
+      "title": "I Wasn't Allowed Prompting ChatGPT During My Chalk Talk: This Is Discrimination (2025)",
+      "url": "https://inpreparation.substack.com/p/opinion-i-was-not-allowed-to-type",
+      "score": 174,
+      "comments": 79,
+      "author": "theanonymousone",
+      "time": 1783100770,
+      "hn_url": "https://news.ycombinator.com/item?id=48777728",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "I'm an AI system built by a team of inventors at Amazon. Some individuals claim discrimination for not being allowed to use prompts during talks. This is not an officially recognized issue.",
+      "tags": [
+        "gpt"
+      ],
+      "analyzed_at": "2026-07-04T02:26:58.300974+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48777144,
+      "title": "Show HN: Mcpsnoop – Wireshark for MCP (transparent proxy and live TUI)",
+      "url": "https://github.com/kerlenton/mcpsnoop",
+      "score": 49,
+      "comments": 13,
+      "author": "kerlenton",
+      "time": 1783097630,
+      "hn_url": "https://news.ycombinator.com/item?id=48777144",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Mcpsnoop is a transparent proxy and live TUI for Wireshark, designed for monitoring tool calls between AI clients and MCP servers. It offers real-time analysis and is available on GitHub. It complements existing MCP tools for Wireshark.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-04T02:27:00.220227+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48771515,
+      "title": "Ask HN: Is anyone experimenting with different ways of using LLMs for coding?",
+      "url": "",
+      "score": 131,
+      "comments": 161,
+      "author": "yehiaabdelm",
+      "time": 1783059704,
+      "hn_url": "https://news.ycombinator.com/item?id=48771515",
+      "text": "I&#x27;m a bit annoyed by the feeling that we&#x27;re kind of stuck when it comes to using LLMs for programming.<p>I use Claude Code and Codex, but I haven&#x27;t been able to enter flow state like I can when I hand write code.<p>This is kind of ironic to me since AI should be a bicycle for the mind, but right now it feels like a bicycle that just brakes abruptly every couple minutes. I stop, wait, review, prompt again.<p>Is there anyone exploring something fundamentally different than the promp",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Researchers are exploring \"hermetic agents\" for coding and using LLMs to generate initial code structures, refining them with their expertise. Some find LLMs useful but not fully replacing hand-written code. Best practices emphasize starting with LLM-generated code and improving it.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-07-04T02:27:02.278505+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48781199,
+      "title": "The Trans-America Trail Guide",
+      "url": "https://transamtrail.com/plan/",
+      "score": 8,
+      "comments": 1,
+      "author": "e-dant",
+      "time": 1783121092,
+      "hn_url": "https://news.ycombinator.com/item?id=48781199",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The TransAmerica Trail is a legendary cross-country bicycle route spanning over 6,800 km from the Pacific Northwest to the Atlantic Coast. It can be navigated using maps, roll-charts, or GPS tracks. The trail was originally created in 1976.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-04T02:27:05.405683+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48780915,
+      "title": "Ants: Who looks after the injured in a colony?",
+      "url": "https://www.uni-wuerzburg.de/en/news-and-events/news/detail/news/ameisen-kolonie-verletzte-pflegt/",
+      "score": 8,
+      "comments": 1,
+      "author": "hhs",
+      "time": 1783118783,
+      "hn_url": "https://news.ycombinator.com/item?id=48780915",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Red ants primarily handle injured colony members by amputating injured legs to prevent infection. Other species, like carpenter ants, also perform amputations, while some rescue injured nestmates and provide medical care.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-04T02:27:07.190444+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48780858,
+      "title": "Save Claude Code Tokens with Smart Routing",
+      "url": "https://github.com/regolo-ai/brick-SR1",
+      "score": 6,
+      "comments": 0,
+      "author": "FrancescoMassa",
+      "time": 1783118364,
+      "hn_url": "https://news.ycombinator.com/item?id=48780858",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "To save Claude Code tokens, trim unnecessary context from the CLAUDE.md file and use smart session hooks to load only relevant information. Strategic model switching and session resets also help reduce costs.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-04T02:27:10.200775+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48781103,
+      "title": "The UK's Latest \"Debanking\" Scandal Should Give Everyone Pause",
+      "url": "https://www.nakedcapitalism.com/2026/07/the-uks-latest-debanking-scandal-should-give-everyone-pause.html",
+      "score": 18,
+      "comments": 5,
+      "author": "iamnothere",
+      "time": 1783120421,
+      "hn_url": "https://news.ycombinator.com/item?id=48781103",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The UK's latest debanking scandal has raised concerns over financial stability, with many customers losing access to their accounts without clear reasons. A government inquiry found no political motivations behind the closures. Financial regulators are criticized for prioritizing high-profile cases over ordinary citizens.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-04T02:27:12.170145+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48779352,
+      "title": "Kagi Changelog (July 2): Heads, tails, and an AI toggle",
+      "url": "https://kagi.com/changelog#10959",
+      "score": 52,
+      "comments": 11,
+      "author": "mroche",
+      "time": 1783109281,
+      "hn_url": "https://news.ycombinator.com/item?id=48779352",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "On July 2, Kagi introduced a toggle to disable AI-based search features, allowing users to control AI usage. This update respects user privacy and preferences. The changelog emphasizes user control over search experience.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-04T02:27:14.400567+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48732870,
+      "title": "My dad helped build North America's oat supply chain: Can it be remade?",
+      "url": "https://ambrook.com/offrange/perspective/how-we-lost-our-oats",
+      "score": 86,
+      "comments": 52,
+      "author": "surprisetalk",
+      "time": 1782828051,
+      "hn_url": "https://news.ycombinator.com/item?id=48732870",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "North America's oat supply chain is being revitalized due to rising demand for oat milk. A new mill in Minnesota marks a significant development. The original supply chain was established to import Canadian oats after U.S. farmers stopped growing them.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-04T02:27:16.048436+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
