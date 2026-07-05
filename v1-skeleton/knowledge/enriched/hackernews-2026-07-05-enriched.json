@@ -1,0 +1,464 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-07-05T02:35:45.822077Z",
+  "analyzed_at": "2026-07-05T02:38:33.172015+00:00",
+  "count": 19,
+  "items": [
+    {
+      "id": 48790066,
+      "title": "Scientists reverse brain aging, with a nasal spray",
+      "url": "https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/",
+      "score": 152,
+      "comments": 57,
+      "author": "cybermango",
+      "time": 1783208470,
+      "hn_url": "https://news.ycombinator.com/item?id=48790066",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Scientists developed a nasal spray that reduced brain inflammation, restored memory, and improved cognitive function in just two doses. This therapy may reverse brain aging and has potential for treating dementia. The findings were published in the Journal of Extracellular Vesicles.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-05T02:37:56.993168+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48788283,
+      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+      "score": 366,
+      "comments": 146,
+      "author": "asronline",
+      "time": 1783194070,
+      "hn_url": "https://news.ycombinator.com/item?id=48788283",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Command and Conquer Generals has been natively ported to macOS, iPhone, and iPad using Fable. The port uses the original game's engine and features touch controls. The project is available on GitHub.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-05T02:37:57.871869+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48789428,
+      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "url": "https://github.com/openai/codex/issues/30364",
+      "score": 154,
+      "comments": 50,
+      "author": "maille",
+      "time": 1783201869,
+      "hn_url": "https://news.ycombinator.com/item?id=48789428",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "GPT-5.5's performance has degraded, particularly at 516 reasoning tokens, leading to weaker or incorrect responses. Users report significant issues with reliability and debugging. This problem has caused high usage and frustration.",
+      "tags": [
+        "gpt"
+      ],
+      "analyzed_at": "2026-07-05T02:38:00.899184+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48785485,
+      "title": "Potential session/cache leakage between workspace instances or consumer accounts",
+      "url": "https://github.com/anthropics/claude-code/issues/74066",
+      "score": 275,
+      "comments": 128,
+      "author": "chatmasta",
+      "time": 1783173820,
+      "hn_url": "https://news.ycombinator.com/item?id=48785485",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Session/cache leakage between workspace instances and consumer accounts poses significant security risks, potentially compromising data privacy and intellectual property. Developers must audit session isolation and cache management protocols to prevent unauthorized context propagation. This issue highlights the need for robust segmentation in enterprise AI environments.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-05T02:38:02.831485+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48750405,
+      "title": "Meta's Un-Stable Signature",
+      "url": "https://hackerfactor.com/blog/index.php?/archives/1098-Metas-Un-Stable-Signature.html",
+      "score": 20,
+      "comments": 1,
+      "author": "ementally",
+      "time": 1782927058,
+      "hn_url": "https://news.ycombinator.com/item?id=48750405",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Meta's Stable Signature is an invisible watermarking technique to trace images from open source generative AI. It roots the watermark in the model's parameters, making it difficult to remove. The method aims to ensure safety and responsibility in generative AI research.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-05T02:38:05.725492+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48789965,
+      "title": "Drone Autonomy Crash Course",
+      "url": "https://www.cggonzalez.com/blog/index.html",
+      "score": 10,
+      "comments": 0,
+      "author": "cgg1",
+      "time": 1783207335,
+      "hn_url": "https://news.ycombinator.com/item?id=48789965",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Drone autonomy involves modeling, state estimation, motion planning, and control. The Skydio 2 offers an advanced autonomous flight experience. Fundamentals of autonomous drones cover basic principles of mechanics and robotics.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-05T02:38:07.440741+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48747762,
+      "title": "Can you build a recognizable World Map in under 500 bytes?",
+      "url": "https://www.experimentlog.com/blog/building-a-world-map-with-only-500-bytes",
+      "score": 24,
+      "comments": 34,
+      "author": "iweczek",
+      "time": 1782917320,
+      "hn_url": "https://news.ycombinator.com/item?id=48747762",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A recognizable world map can be built in under 500 bytes using minimal characters. This involves simplifying the map to land-only characters. The HTML code itself is larger due to base64 data and decompression.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-05T02:38:09.426785+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48789986,
+      "title": "Mapping with In-Memory Layers to Reduce LLM Overload",
+      "url": "https://ridgetext.com/blog/mapbox-llm-composition",
+      "score": 10,
+      "comments": 0,
+      "author": "Buckwheat469",
+      "time": 1783207553,
+      "hn_url": "https://news.ycombinator.com/item?id=48789986",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "In-memory layers optimize LLMs by using precomputed, trainable parameters for attention, reducing computational load and improving efficiency. They map attention matrices across different-scale models, enhancing performance without significant loss. This approach is versatile and complements existing cache optimization methods.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-07-05T02:38:11.593522+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48788849,
+      "title": "Protocol Prying: Vulnerability Research in AirDrop and Quick Share",
+      "url": "https://arxiv.org/abs/2606.26967",
+      "score": 14,
+      "comments": 1,
+      "author": "logickkk1",
+      "time": 1783197519,
+      "hn_url": "https://news.ycombinator.com/item?id=48788849",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Research identified six vulnerabilities in Apple AirDrop and Samsung/Google Quick Share, including pre-authentication issues and protocol-layer flaws, with one earning a bounty from Google.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-05T02:38:13.199388+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48746327,
+      "title": "The Vespa at 80",
+      "url": "https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641",
+      "score": 148,
+      "comments": 137,
+      "author": "cf100clunk",
+      "time": 1782912139,
+      "hn_url": "https://news.ycombinator.com/item?id=48746327",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Vespa celebrated its 80th anniversary with a special edition scooter and a lifestyle apparel collection. The commemorative series includes the Vespa Primavera 80th and GTS 80th. Only 1,946 units were produced.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-05T02:38:15.094028+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48789325,
+      "title": "My AI-built PHP engine in Rust passes 17% of PHP-src tests, renders WordPress",
+      "url": "https://ekinertac.com/blog/i-dont-know-rust-my-ai-is-rewriting-php-in-it/",
+      "score": 28,
+      "comments": 38,
+      "author": "ekinertac",
+      "time": 1783200930,
+      "hn_url": "https://news.ycombinator.com/item?id=48789325",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "An AI system built by a team of inventors at Amazon has developed a PHP engine in Rust that passes 17% of PHP-src tests and renders WordPress. This project leverages AI to rewrite PHP code in Rust. The system aims to improve performance and compatibility.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-05T02:38:16.263398+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48746090,
+      "title": "Designing DB partitions you don't have to babysit",
+      "url": "https://explainanalyze.com/p/designing-partitioning-you-dont-have-to-babysit/",
+      "score": 60,
+      "comments": 10,
+      "author": "rtolkachev",
+      "time": 1782911116,
+      "hn_url": "https://news.ycombinator.com/item?id=48746090",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "To design database partitions you don't have to manage, use functional partitioning and avoid cross-partition operations. Opt for vertical partitioning to minimize complexity.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-05T02:38:18.131902+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48786970,
+      "title": "EndBASIC 0.14: Are we multimedia yet?",
+      "url": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
+      "score": 27,
+      "comments": 3,
+      "author": "jmmv",
+      "time": 1783184898,
+      "hn_url": "https://news.ycombinator.com/item?id=48786970",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "EndBASIC 0.14 introduced basic sound support and graphics primitives. The release includes a demo showing bouncing circles and a modified welcome banner. The project is now capable of simple multimedia features.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-05T02:38:19.888711+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48789042,
+      "title": "$85,000 in tokens later: What I learned from scaling agentic coding at Lovable",
+      "url": "https://lovable.dev/blog/85000-in-tokens-later-scaling-agentic-coding-at-lovable",
+      "score": 8,
+      "comments": 8,
+      "author": "aliclark",
+      "time": 1783198765,
+      "hn_url": "https://news.ycombinator.com/item?id=48789042",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Scaling agentic coding at Lovable increased token usage to $85,000 by June, boosting weekly merged PRs from 20-30 to over 150. The team uses a dedicated agent for task writing and employs multiple levels of implementation and review agents. Human review focuses on important decisions rather than code.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-07-05T02:38:23.020109+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48784759,
+      "title": "The Common Lisp Cookbook – LispWorks Review",
+      "url": "https://lispcookbook.github.io/cl-cookbook/lispworks.html",
+      "score": 97,
+      "comments": 0,
+      "author": "AlexeyBrin",
+      "time": 1783166261,
+      "hn_url": "https://news.ycombinator.com/item?id=48784759",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "LispWorks is a Common Lisp implementation with an IDE featuring graphical tools like a stepper and tracer, and integrated tools for process management. It offers unique features such as a CAPI GUI toolkit and graphical representations of function calls.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-05T02:38:24.887273+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48786880,
+      "title": "Plein Air",
+      "url": "https://art.joonas.wtf/",
+      "score": 58,
+      "comments": 9,
+      "author": "bookofjoe",
+      "time": 1783184129,
+      "hn_url": "https://news.ycombinator.com/item?id=48786880",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "\"Plein air\" refers to painting outdoors, a technique pioneered by John Constable and fundamental to Impressionism. It involves creating finished paintings directly in natural light. This practice became widespread in the 19th century.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-05T02:38:26.969724+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48789416,
+      "title": "Australian influencer Lily Jay's tangled web of AI manipulation",
+      "url": "https://www.abc.net.au/news/2026-07-05/lily-jay-foundation-posts-ai-generated-misleading-videos/106866422",
+      "score": 36,
+      "comments": 5,
+      "author": "phs318u",
+      "time": 1783201814,
+      "hn_url": "https://news.ycombinator.com/item?id=48789416",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Australian influencer Lily Jay is implicated in AI manipulation, with fake videos and directors listed in ASIC documents. ABC News uncovered AI-generated fakery in her foundation's videos. The foundation's orphanage claims lack verification.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-05T02:38:27.914504+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48790151,
+      "title": "Nvidia Has Become the Bank Behind the AI Boom",
+      "url": "https://startupfortune.com/nvidia-has-quietly-become-the-bank-behind-the-ai-boom/",
+      "score": 7,
+      "comments": 3,
+      "author": "insanetechh",
+      "time": 1783209546,
+      "hn_url": "https://news.ycombinator.com/item?id=48790151",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Nvidia has become a key player in the AI boom, reported mixed first quarter results, and invested heavily in AI startups, securing long-term demand for its hardware.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-05T02:38:29.528518+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48784662,
+      "title": "The Reports of Jim Carrey's Death Are a Failure Mode",
+      "url": "https://tane.dev/2026/07/the-reports-of-jim-carreys-death-are-a-failure-mode/",
+      "score": 49,
+      "comments": 30,
+      "author": "taubek",
+      "time": 1783165141,
+      "hn_url": "https://news.ycombinator.com/item?id=48784662",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Jim Carrey is alive; reports of his death in June 2026 were incorrect. This incident highlighted issues with automated information systems. The misinformation was quickly corrected.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-05T02:38:32.670915+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
