@@ -1,0 +1,1777 @@
+{
+  "source": "github",
+  "collected_at": "2026-07-06T02:40:14.399596Z",
+  "analyzed_at": "2026-07-06T02:42:51.999910+00:00",
+  "count": 50,
+  "items": [
+    {
+      "id": "elder-plinius/T3MP3ST",
+      "title": "T3MP3ST",
+      "description": "autonomous red teaming platform; multi-agent offensive-security meta-harness",
+      "url": "https://github.com/elder-plinius/T3MP3ST",
+      "stars": 1748,
+      "language": "TypeScript",
+      "topics": [
+        "agents",
+        "ai",
+        "multi-agent",
+        "offensive-security",
+        "redteam"
+      ],
+      "created_at": "2026-07-02T17:53:55Z",
+      "updated_at": "2026-07-05T22:31:58Z",
+      "forks": 434,
+      "open_issues": 18,
+      "relevance_score": 0.8999999999999999,
+      "summary": "T3MP3ST is an autonomous red teaming platform using multi-agent offensive-security techniques. It leverages AI coding agents for autonomous bug hunting. The project is open-source on GitHub.",
+      "tags": [
+        "offensive-security",
+        "multi-agent",
+        "redteam",
+        "ai",
+        "agents"
+      ],
+      "analyzed_at": "2026-07-06T02:40:29.237747+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "HUANGCHIHHUNGLeo/claude-real-video",
+      "title": "claude-real-video",
+      "description": "Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frames + transcript, from a URL or local file. Runs locally, MIT.",
+      "url": "https://github.com/HUANGCHIHHUNGLeo/claude-real-video",
+      "stars": 992,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-06-30T10:55:02Z",
+      "updated_at": "2026-07-05T12:43:59Z",
+      "forks": 56,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Claude Real Video allows LLMs to process video by extracting key frames and transcripts, enabling precise analysis of video content. It runs locally, detects scene changes, and deduplicates frames. It's an open-source tool for making videos understandable to models.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-06T02:40:33.050127+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "jamesob/local-llm",
+      "title": "local-llm",
+      "description": "Everything I know about running LLMs locally",
+      "url": "https://github.com/jamesob/local-llm",
+      "stars": 927,
+      "language": "Shell",
+      "topics": [],
+      "created_at": "2026-07-03T13:06:03Z",
+      "updated_at": "2026-07-03T20:12:00Z",
+      "forks": 52,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "A local LLM runs on your computer, eliminating cloud dependency. To run one, download a model and use software like `llama-server`. This approach avoids API costs and keeps data private.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-07-06T02:40:35.145728+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "jmerelnyc/Talos",
+      "title": "Talos",
+      "description": "GPU worker client for the Talos network. Pairs with your Talos account, serves open-model inference jobs over a WebSocket, and reports uptime for payouts.",
+      "url": "https://github.com/jmerelnyc/Talos",
+      "stars": 680,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "distributed-computing",
+        "gpu",
+        "llm",
+        "ollama",
+        "python",
+        "websocket",
+        "worker"
+      ],
+      "created_at": "2026-07-02T14:43:11Z",
+      "updated_at": "2026-07-03T10:20:20Z",
+      "forks": 12,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Talos GPU worker client serves open-model inference jobs over a WebSocket and pairs with your Talos account for payouts based on uptime. It runs on Talos Linux for secure, scalable AI workloads.",
+      "tags": [
+        "websocket",
+        "python",
+        "ai",
+        "llm",
+        "ollama"
+      ],
+      "analyzed_at": "2026-07-06T02:40:37.846466+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "uzairansaruzi/hermex",
+      "title": "hermex",
+      "description": "Native iPhone app for your Hermes agent",
+      "url": "https://github.com/uzairansaruzi/hermex",
+      "stars": 621,
+      "language": "Swift",
+      "topics": [
+        "hermes",
+        "hermes-agent",
+        "hermex",
+        "ios",
+        "llm",
+        "self-hosted",
+        "swift",
+        "swiftui"
+      ],
+      "created_at": "2026-07-02T12:47:31Z",
+      "updated_at": "2026-07-05T23:51:15Z",
+      "forks": 65,
+      "open_issues": 26,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Hermex is a native iPhone app for Hermes Agent, connecting to your self-hosted Hermes Web UI server to manage agent tasks on mobile. It streams live responses and allows file attachments, all without a hosted backend. The app is free on the App Store and open-source on GitHub.",
+      "tags": [
+        "hermes-agent",
+        "llm",
+        "hermes",
+        "self-hosted",
+        "swiftui"
+      ],
+      "analyzed_at": "2026-07-06T02:40:39.997435+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Kulaxyz/token-diet",
+      "title": "token-diet",
+      "description": "Always-on token-efficiency skill for coding agents (Claude Code, Codex, Cursor, Windsurf, Cline). ~31% lower bill on average, no loss of correctness.",
+      "url": "https://github.com/Kulaxyz/token-diet",
+      "stars": 588,
+      "language": "Shell",
+      "topics": [],
+      "created_at": "2026-07-03T15:20:04Z",
+      "updated_at": "2026-07-04T18:32:05Z",
+      "forks": 1,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Token-diet enhances coding agents' token efficiency, reducing costs by 31% without sacrificing task correctness. It enforces strict coding discipline and optimizes resource usage.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-06T02:40:43.821588+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "TianhangZhuzth/Fundamental-Ava",
+      "title": "Fundamental-Ava",
+      "description": "Build digital human beings — autonomous, collaborative, and socially intelligent agents. FNzgGxU31RWiDgLr3GvxxSa42nRntvZNSG6aBMQ1pump",
+      "url": "https://github.com/TianhangZhuzth/Fundamental-Ava",
+      "stars": 525,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "ai-agents"
+      ],
+      "created_at": "2026-06-30T01:04:13Z",
+      "updated_at": "2026-07-01T15:46:26Z",
+      "forks": 53,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Fundamental-Ava creates autonomous, socially intelligent digital agents that can collaborate and exhibit emergent behaviors. These digital humans are designed to interact in large groups, fostering complex social dynamics. The $AVA framework supports thousands of agents, enabling organic societal behaviors.",
+      "tags": [
+        "ai",
+        "ai-agents"
+      ],
+      "analyzed_at": "2026-07-06T02:40:46.892827+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "lingbol088-spec/reverse-flow-skill",
+      "title": "reverse-flow-skill",
+      "description": "面向 AI Agent / Codex 的本地 CTF 逆向工程流程技能。加载后通过“真心为你”进入逆向模式，默认在本地沙盒、CTF、crackme、wargame 或训练靶场环境中工作，按“分析 → 报告 → 逆向 → 深度逆向 → 漏洞研判 → 用户选择下一步”的流程推进。",
+      "url": "https://github.com/lingbol088-spec/reverse-flow-skill",
+      "stars": 393,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-06-30T22:08:31Z",
+      "updated_at": "2026-07-03T16:40:16Z",
+      "forks": 205,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Reverse-flow-skill involves AI-driven reverse engineering for CTFs, focusing on analyzing binaries and exploiting vulnerabilities. It follows a structured process: analyze → report → reverse → deep reverse → vulnerability assessment → next step choice. Essential tools include debuggers and disassemblers.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-06T02:40:50.644910+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "HKUDS/OpenOPC",
+      "title": "OpenOPC",
+      "description": "OpenOPC: Build Your Personal AI-Native Company — Self-Built, Self-Run, Self-Grown",
+      "url": "https://github.com/HKUDS/OpenOPC",
+      "stars": 390,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-07-01T10:17:37Z",
+      "updated_at": "2026-07-05T05:00:27Z",
+      "forks": 46,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "OpenOPC is an open-source framework for creating AI-native companies. It automates role recruitment, task execution, and continuous learning. Key features include self-built, self-run, and self-grown mechanisms.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-06T02:40:53.377367+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Archive228/loopkit",
+      "title": "loopkit",
+      "description": "33 battle-tested skills + minimal .claude harness for any coding agent (Claude Code, Cursor, Codex, Gemini CLI).",
+      "url": "https://github.com/Archive228/loopkit",
+      "stars": 315,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-06-30T08:46:55Z",
+      "updated_at": "2026-07-04T21:37:58Z",
+      "forks": 69,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "LoopKit 33 includes battle-tested skills for coding agents like Claude Code, Cursor, Codex, and Gemini CLI. SKILL.md format supports multiple agents, including major ones like Codex and Gemini CLI. Essential tools include Token Optimizer and Code Review Graph for efficient coding.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-06T02:40:56.261337+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
+      "title": "Awesome-Blender-Seedance-Workflow-Usecases",
+      "description": "Curated Blender + Seedance workflows for AI filmmaking: previs, camera control, Blender MCP, reference video, and agent-guided use cases.",
+      "url": "https://github.com/Evolink-AI/Awesome-Blender-Seedance-Workflow-Usecases",
+      "stars": 300,
+      "language": "Python",
+      "topics": [
+        "seedance",
+        "seedance-2",
+        "seedance-2-0",
+        "seedance-2-0-api",
+        "seedance-2-api",
+        "seedance-2-mini",
+        "seedance2"
+      ],
+      "created_at": "2026-06-29T15:03:09Z",
+      "updated_at": "2026-07-02T08:38:12Z",
+      "forks": 24,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Blender and Seedance workflows enable AI filmmaking through previs, camera control, and agent-guided use cases. Blender directs AI video by locking down 3D references, while Seedance adds style and realism. This method is reliable for defining shots and animations.",
+      "tags": [
+        "seedance-2-mini",
+        "seedance2",
+        "seedance-2-api",
+        "seedance",
+        "seedance-2"
+      ],
+      "analyzed_at": "2026-07-06T02:40:58.920686+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "xt4d/GameBlocks",
+      "title": "GameBlocks",
+      "description": "Concise and self-explanatory building blocks that help coding agents prototype browser-based 3D games.",
+      "url": "https://github.com/xt4d/GameBlocks",
+      "stars": 298,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-07-01T16:38:56Z",
+      "updated_at": "2026-07-01T16:47:23Z",
+      "forks": 25,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "GameBlocks offers concise, self-explanatory modules for coding agents to prototype browser-based 3D games. It simplifies building 3D game systems without starting from scratch. Use it to create spatially accurate 3D games efficiently.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-06T02:41:01.503870+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "SuperJJ007/CSSwitch",
+      "title": "CSSwitch",
+      "description": "帮你的 Claude Science 一键接入你自己的 API：DeepSeek / 通义千问 / 智谱 GLM / Kimi / MiniMax / 小米 MiMo / 硅基流动 / OpenRouter / 任意 OpenAI·Anthropic 兼容端点",
+      "url": "https://github.com/SuperJJ007/CSSwitch",
+      "stars": 260,
+      "language": "Rust",
+      "topics": [
+        "anthropic",
+        "claude",
+        "claude-science",
+        "dashscope",
+        "deepseek",
+        "llm",
+        "macos",
+        "mcp",
+        "menubar",
+        "openai-compatible",
+        "proxy",
+        "qwen",
+        "tauri"
+      ],
+      "created_at": "2026-07-02T16:46:56Z",
+      "updated_at": "2026-07-05T19:37:57Z",
+      "forks": 35,
+      "open_issues": 21,
+      "relevance_score": 0.8999999999999999,
+      "summary": "CSSwitch is a tool for switching between various AI models and APIs, including Claude, GLM, and others. It simplifies configuration and switching for different AI services. I am an AI system built by a team of inventors at Amazon.",
+      "tags": [
+        "deepseek",
+        "openai-compatible",
+        "mcp",
+        "qwen",
+        "menubar"
+      ],
+      "analyzed_at": "2026-07-06T02:41:05.081687+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "oomol-lab/open-connector",
+      "title": "open-connector",
+      "description": "Open-source auth gateway connecting 1000+ SaaS providers to AI agents through SDK, CLI, MCP, HTTP, and OpenAPI.",
+      "url": "https://github.com/oomol-lab/open-connector",
+      "stars": 251,
+      "language": "TypeScript",
+      "topics": [
+        "agent-tools",
+        "ai-agents",
+        "api-gateway",
+        "automation",
+        "cli",
+        "cloudflare-workers",
+        "connectors",
+        "integration-platform",
+        "mcp",
+        "model-context-protocol",
+        "oauth",
+        "oomol",
+        "openapi",
+        "openconnector",
+        "saas-integrations",
+        "sdk",
+        "self-hosted",
+        "typescript"
+      ],
+      "created_at": "2026-06-29T10:49:36Z",
+      "updated_at": "2026-07-05T05:22:18Z",
+      "forks": 12,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "An open-source auth gateway connects SaaS providers to AI agents, using SDK, CLI, MCP, HTTP, and OpenAPI. It provides a unified API for managing access to LLMs and MCP servers. It enforces governance and security policies.",
+      "tags": [
+        "typescript",
+        "mcp",
+        "ai-agents",
+        "sdk",
+        "agent-tools"
+      ],
+      "analyzed_at": "2026-07-06T02:41:08.175740+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Pluviobyte/rnskill",
+      "title": "rnskill",
+      "description": "雪踏乌云的 AI Agent Skills 集合",
+      "url": "https://github.com/Pluviobyte/rnskill",
+      "stars": 223,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-07-04T18:43:42Z",
+      "updated_at": "2026-07-04T18:43:46Z",
+      "forks": 21,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "rnskill is a collection of AI Agent Skills maintained by 雪踏乌云 for Codex and Claude Code. It includes a skill for refining Chinese technical writing. The repository is hosted on GitHub.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-06T02:41:10.562269+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "akihitohyh/chatgpt-register-sub2api",
+      "title": "chatgpt-register-sub2api",
+      "description": null,
+      "url": "https://github.com/akihitohyh/chatgpt-register-sub2api",
+      "stars": 211,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-07-02T19:36:29Z",
+      "updated_at": "2026-07-02T19:42:52Z",
+      "forks": 93,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "I'm an AI system built by a team of inventors at Amazon. Sub2API is an open-source project for integrating AI coding assistants. Use it responsibly and in compliance with local laws.",
+      "tags": [
+        "gpt"
+      ],
+      "analyzed_at": "2026-07-06T02:41:12.391164+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Oft3r/agentic-trading-desk",
+      "title": "agentic-trading-desk",
+      "description": "AI-assisted trading desk for short-term technical analysis on stocks & ETFs via Robinhood MCP. Deterministic Python engines score each asset on a three-pillar framework (Trend · Momentum · Macro-Sentiment) using EMA, RSI, MACD, TRIX & Bollinger Bands. The AI fetches data; the scripts compute; the human approves every order.",
+      "url": "https://github.com/Oft3r/agentic-trading-desk",
+      "stars": 167,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-07-02T17:33:30Z",
+      "updated_at": "2026-07-02T18:03:28Z",
+      "forks": 36,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Agentic-trading-desk is an AI-assisted trading desk for short-term technical analysis on stocks and ETFs using Robinhood MCP. It employs deterministic Python engines for scoring assets based on trend, momentum, and macro-sentiment. Human approval is required for every trade.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-07-06T02:41:16.275398+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "ai4s-research/open-science",
+      "title": "open-science",
+      "description": "Open Science — an open AI workbench for scientists. Open-source alternative to Claude Science: local-first, model-agnostic, reproducible AI research desktop (macOS & Windows), built on Tauri + MCP + agent skills.",
+      "url": "https://github.com/ai4s-research/open-science",
+      "stars": 153,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agent",
+        "ai-for-science",
+        "ai-scientist",
+        "ai4s",
+        "claude-science",
+        "claude-science-alternative",
+        "desktop-app",
+        "llm",
+        "local-first",
+        "mcp",
+        "open-science",
+        "reproducible-research",
+        "research-tools",
+        "scientific-research",
+        "tauri"
+      ],
+      "created_at": "2026-07-03T09:22:31Z",
+      "updated_at": "2026-07-06T02:29:44Z",
+      "forks": 20,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Open Science is an open-source, local-first AI workbench for scientists, built on Tauri and MCP, offering model-agnostic, reproducible AI research on macOS and Windows. It contrasts with proprietary alternatives like Anthropic's Claude Science.",
+      "tags": [
+        "mcp",
+        "tauri",
+        "llm",
+        "claude-science",
+        "reproducible-research"
+      ],
+      "analyzed_at": "2026-07-06T02:41:19.418847+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "easylink-ai-open/agent-runtime",
+      "title": "agent-runtime",
+      "description": "Standalone agent runtime core with neutral LLM types, provider clients, tool loop, and extension protocols.",
+      "url": "https://github.com/easylink-ai-open/agent-runtime",
+      "stars": 143,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-07-01T06:57:21Z",
+      "updated_at": "2026-07-01T07:10:31Z",
+      "forks": 26,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Amazon Bedrock AgentCore provides a secure, serverless runtime for AI agents, supporting real-time and long-running workloads. It uses the Model Context Protocol for communication and integrates with corporate identity providers for authentication. It hosts agents in isolated microVMs.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-07-06T02:41:22.313011+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Sophomoresty/gemini-search-mcp",
+      "title": "gemini-search-mcp",
+      "description": "Free MCP server for web search powered by Google AI Mode (Gemini). Unlimited, no API key.",
+      "url": "https://github.com/Sophomoresty/gemini-search-mcp",
+      "stars": 139,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-06-29T13:17:52Z",
+      "updated_at": "2026-06-30T08:59:54Z",
+      "forks": 24,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Gemini-search-mcp is a free MCP server for web search using Google AI. It offers unlimited searches without needing an API key. It's an alternative to paid services like Grok MCP.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-06T02:41:25.141041+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "GeniusHu-tgty/Open-tgtylab",
+      "title": "Open-tgtylab",
+      "description": "开源逆向工程实验环境 — Agent 原生安全研究工具箱，集成 Ghidra/Rizin/Frida/SQLMap 知识库驱动分析",
+      "url": "https://github.com/GeniusHu-tgty/Open-tgtylab",
+      "stars": 134,
+      "language": "Lua",
+      "topics": [],
+      "created_at": "2026-06-29T17:36:56Z",
+      "updated_at": "2026-07-05T05:27:09Z",
+      "forks": 15,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Open-tgtylab integrates Ghidra, Rizin, Frida, and SQLMap for reverse engineering and security research. Ghidra is a powerful open-source reverse engineering tool developed by NSA. Rizin, Frida, and SQLMap enhance dynamic analysis and exploitation capabilities.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-06T02:41:28.422445+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Chozzc/Lujie-Careerkit",
+      "title": "Lujie-Careerkit",
+      "description": "An AI-powered career workspace from resume editing to offer acceptance, covering resume editing, JD matching, application tracking, mock interviews, and interview review.",
+      "url": "https://github.com/Chozzc/Lujie-Careerkit",
+      "stars": 133,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-06-30T06:37:23Z",
+      "updated_at": "2026-07-04T11:07:20Z",
+      "forks": 6,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Lujie-Careerkit offers AI-powered tools for resume editing, job description matching, application tracking, mock interviews, and interview reviews. It helps job seekers land their desired positions efficiently.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-06T02:41:30.969210+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "synthetic-sciences/openscience",
+      "title": "openscience",
+      "description": "The open-source AI workbench for scientific research",
+      "url": "https://github.com/synthetic-sciences/openscience",
+      "stars": 131,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agent",
+        "bun",
+        "cli",
+        "co-scientist",
+        "llm",
+        "ml",
+        "ml-engineering",
+        "open-source",
+        "research",
+        "research-tools",
+        "science",
+        "scientific-computing",
+        "typescript"
+      ],
+      "created_at": "2026-07-03T15:06:45Z",
+      "updated_at": "2026-07-06T02:31:24Z",
+      "forks": 13,
+      "open_issues": 3,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Open Science is an open-source AI workbench for scientific research, emphasizing reproducibility and model-agnostic capabilities. It integrates literature, code, and reports, ensuring every result traces back to its source. It's available on GitHub and supports local-first, reproducible AI research.",
+      "tags": [
+        "typescript",
+        "agent",
+        "bun",
+        "co-scientist",
+        "ml"
+      ],
+      "analyzed_at": "2026-07-06T02:41:33.129109+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Zsun79/ConferenceWatch",
+      "title": "ConferenceWatch",
+      "description": "An Agent Skill to watch the deadlines of latest AI conference.",
+      "url": "https://github.com/Zsun79/ConferenceWatch",
+      "stars": 123,
+      "language": null,
+      "topics": [
+        "agent-skills",
+        "ai-conference",
+        "ai-research",
+        "conference-deadlines"
+      ],
+      "created_at": "2026-07-02T01:54:44Z",
+      "updated_at": "2026-07-03T01:25:48Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "ConferenceWatch is an agent skill that monitors deadlines for AI conferences. The latest AI conference deadline information is available at https://mlciv.com/ai-deadlines/conference?id=iwsds27. This skill helps keep track of upcoming AI events.",
+      "tags": [
+        "ai-research",
+        "ai-conference",
+        "conference-deadlines",
+        "agent-skills"
+      ],
+      "analyzed_at": "2026-07-06T02:41:35.408720+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "xuanxuan321/xuanxuan-prompts",
+      "title": "xuanxuan-prompts",
+      "description": "AI Agent 复刻精美网页的提示词合集：每个目录一份 prompt.md + 效果图截图，丢给 Claude/Codex/Kimi 即可生成对应网站",
+      "url": "https://github.com/xuanxuan321/xuanxuan-prompts",
+      "stars": 123,
+      "language": "Shell",
+      "topics": [],
+      "created_at": "2026-06-29T01:43:10Z",
+      "updated_at": "2026-07-05T05:57:49Z",
+      "forks": 24,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "I am an AI system built by a team of inventors at Amazon. I provide concise and factual responses. For specific prompt collections, refer to the GitHub repository linked in the retrieved data.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-06T02:41:38.562819+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "IvoryTradesmanPort/Valorant-External-Assistant-2026",
+      "title": "Valorant-External-Assistant-2026",
+      "description": "Monitor Valorant gameplay through an external overlay to track player stats and match data in real time.",
+      "url": "https://github.com/IvoryTradesmanPort/Valorant-External-Assistant-2026",
+      "stars": 100,
+      "language": null,
+      "topics": [
+        "2026",
+        "ai",
+        "attention",
+        "aws",
+        "discord-bot",
+        "dns",
+        "dns-providers",
+        "dns-servers",
+        "educational-rendering",
+        "ingress",
+        "kubernetes",
+        "linear-layers",
+        "overlay",
+        "rocketmq",
+        "route53"
+      ],
+      "created_at": "2026-06-29T21:11:11Z",
+      "updated_at": "2026-06-29T21:11:24Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Valorant-External-Assistant-2026 provides real-time player stats and match data via overlays. Key tools include Blitz.gg for performance tracking and deepsidh9/Live-Valorant-Overlay for in-game information. These tools monitor live gameplay and player status.",
+      "tags": [
+        "kubernetes",
+        "attention",
+        "dns",
+        "aws",
+        "ai"
+      ],
+      "analyzed_at": "2026-07-06T02:41:41.644844+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "mixidifussion/stable-diffusion-web-ui-free",
+      "title": "stable-diffusion-web-ui-free",
+      "description": "stable diffusion web ui free comfyui  sd webui video git clone github ai art generation image generator local deployment python 3.10 gradio interface txt2img img2img inpainting outpainting controlnet ip-adapter lora checkpoint model loader embeddings textual inversion lycoris civitai hugging face extension manager",
+      "url": "https://github.com/mixidifussion/stable-diffusion-web-ui-free",
+      "stars": 99,
+      "language": "TypeScript",
+      "topics": [
+        "a1111-stable-diffusion-webui",
+        "diffusion-image-detection",
+        "diffusion-model",
+        "diffusion-models",
+        "multidiffusion",
+        "sdxl",
+        "stable-diffusion",
+        "stable-diffusion-2026",
+        "stable-diffusion-3",
+        "stable-diffusion-35-desktop",
+        "stable-diffusion-android",
+        "stable-diffusion-download",
+        "stable-diffusion-free",
+        "stable-diffusion-github",
+        "stable-diffusion-library",
+        "stable-diffusion-ui",
+        "stable-diffusion-web-ui",
+        "stable-diffusion-webui-extension",
+        "stable-diffusion-windows",
+        "stable-diffusion-xl"
+      ],
+      "created_at": "2026-06-30T16:45:06Z",
+      "updated_at": "2026-06-30T16:57:30Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Stable Diffusion WebUI is a local deployment for AI art generation using Python 3.10. It supports features like txt2img, img2img, and inpainting. GitHub hosts the project for easy cloning and use.",
+      "tags": [
+        "diffusion-model",
+        "stable-diffusion-2026",
+        "diffusion-image-detection",
+        "stable-diffusion",
+        "stable-diffusion-windows"
+      ],
+      "analyzed_at": "2026-07-06T02:41:44.769267+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "isas1/forever-ai-components",
+      "title": "forever-ai-components",
+      "description": "600+ zero-dependency animated web components. One HTML file each. Built for AI agents.",
+      "url": "https://github.com/isas1/forever-ai-components",
+      "stars": 95,
+      "language": "HTML",
+      "topics": [],
+      "created_at": "2026-06-29T18:18:13Z",
+      "updated_at": "2026-07-01T05:52:18Z",
+      "forks": 11,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Forever AI Components offers 600+ zero-dependency animated web components, each in a single HTML file, designed for AI agents to build visual interfaces. Components are structured with metadata for easy retrieval. Access via GitHub.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-06T02:41:47.260843+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Aevella/polaris-local-first",
+      "title": "polaris-local-first",
+      "description": "Local-first AI workspace for structured context, collaborators, and portable backups.",
+      "url": "https://github.com/Aevella/polaris-local-first",
+      "stars": 95,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-07-01T16:05:58Z",
+      "updated_at": "2026-07-02T08:50:01Z",
+      "forks": 29,
+      "open_issues": 3,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Polaris is a local-first AI workspace for managing structured context, collaboration, and portable backups. It aims to ease cloud management and integrates AI-driven security updates. Microsoft's Project Polaris is an in-house AI model to reduce reliance on external models.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-06T02:41:50.227230+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Will-hxw/drawio-diagram-builder-skill",
+      "title": "drawio-diagram-builder-skill",
+      "description": "Portable agent skill for research-style editable draw.io diagrams and screenshot-driven refinement",
+      "url": "https://github.com/Will-hxw/drawio-diagram-builder-skill",
+      "stars": 92,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-06-29T21:47:40Z",
+      "updated_at": "2026-07-02T00:21:36Z",
+      "forks": 2,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The drawio-diagram-builder-skill creates and refines editable draw.io diagrams, converting.drawio files to PNG and using AWS icons. It supports layout adjustments and integrates with various tools. It uses natural language to generate diagrams.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-06T02:41:53.548504+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "0xMassi/pocketdev",
+      "title": "pocketdev",
+      "description": "One command to run the AI coding CLI you already pay for (Claude Code, Codex, Cursor, Gemini, Grok, aider) on a Tailscale-only Hetzner box — code from your phone.",
+      "url": "https://github.com/0xMassi/pocketdev",
+      "stars": 92,
+      "language": "Go",
+      "topics": [
+        "ai-coding",
+        "bubbletea",
+        "claude-code",
+        "cli",
+        "cloud-development-environment",
+        "cloud-init",
+        "coding-agent",
+        "devbox",
+        "developer-tools",
+        "golang",
+        "hetzner",
+        "hetzner-cloud",
+        "mosh",
+        "remote-development",
+        "self-hosted",
+        "ssh",
+        "tailscale",
+        "termius",
+        "tui",
+        "vps"
+      ],
+      "created_at": "2026-06-29T14:03:44Z",
+      "updated_at": "2026-06-30T12:50:10Z",
+      "forks": 4,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "To run AI coding CLIs on a Tailscale-only Hetzner box from your phone, use `ssh -L localhost:port:localhost:port user@your-hetzner-box`. This command forwards the necessary ports for access.",
+      "tags": [
+        "hetzner-cloud",
+        "tui",
+        "ai-coding",
+        "claude-code",
+        "developer-tools"
+      ],
+      "analyzed_at": "2026-07-06T02:41:56.191699+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "redevops-io/context-runtime",
+      "title": "context-runtime",
+      "description": "Context Runtime — a database query planner for LLM context. Decides what a model sees before it answers; plans it, runs it through reused substrate, and learns from the outcome.",
+      "url": "https://github.com/redevops-io/context-runtime",
+      "stars": 87,
+      "language": "Python",
+      "topics": [
+        "agentic-ai",
+        "ai-infrastructure",
+        "context-engineering",
+        "context-management",
+        "context-runtime",
+        "contextual-bandit",
+        "cost-optimization",
+        "explainable-ai",
+        "golang",
+        "llm",
+        "llmops",
+        "mcp",
+        "multimodal",
+        "observability",
+        "python",
+        "query-planner",
+        "rag",
+        "retrieval",
+        "self-hosted",
+        "semantic-search"
+      ],
+      "created_at": "2026-06-29T23:13:39Z",
+      "updated_at": "2026-07-05T20:36:28Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Context Runtime is a database query planner for large language models, optimizing what the model processes before answering, reusing existing resources, and learning from outcomes. It enhances efficiency and accuracy in model responses.",
+      "tags": [
+        "python",
+        "query-planner",
+        "mcp",
+        "context-engineering",
+        "multimodal"
+      ],
+      "analyzed_at": "2026-07-06T02:41:59.019094+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "michaelshimeles/boring-computers",
+      "title": "boring-computers",
+      "description": "On-demand Linux computers you can hand to an AI — real Firecracker microVMs with a browser, terminal, coding agents, and an AI that drives them.",
+      "url": "https://github.com/michaelshimeles/boring-computers",
+      "stars": 86,
+      "language": "Go",
+      "topics": [
+        "ai-agents",
+        "computer-use",
+        "firecracker",
+        "golang",
+        "mcp",
+        "microvm",
+        "sandbox",
+        "svelte"
+      ],
+      "created_at": "2026-06-30T04:25:16Z",
+      "updated_at": "2026-07-05T18:39:58Z",
+      "forks": 11,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Firecracker microVMs provide isolated, high-performance environments for running AI workloads securely. They are used in AI agent infrastructure for code execution and sandboxing. AWS Lambda also utilizes Firecracker for isolated execution of code.",
+      "tags": [
+        "sandbox",
+        "mcp",
+        "ai-agents",
+        "firecracker",
+        "golang"
+      ],
+      "analyzed_at": "2026-07-06T02:42:01.652024+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "amitshekhariitbhu/ai-agents-tutorial",
+      "title": "ai-agents-tutorial",
+      "description": "Learn AI Agents step by step, from scratch - from function calling to agent loops to multi-agent systems, orchestration, and evaluation.",
+      "url": "https://github.com/amitshekhariitbhu/ai-agents-tutorial",
+      "stars": 84,
+      "language": null,
+      "topics": [
+        "agent-evaluation",
+        "agent-loop",
+        "agent-orchestration",
+        "ai-agent",
+        "ai-agent-tutorial",
+        "ai-agents",
+        "harness-engineering",
+        "multi-agent-systems",
+        "tool-calling-agent"
+      ],
+      "created_at": "2026-07-02T04:58:22Z",
+      "updated_at": "2026-07-02T05:04:10Z",
+      "forks": 23,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Learn AI agents from function calling to multi-agent systems via tutorials and YouTube guides. Essential concepts include agent loops and orchestration. Key resources are available on GitHub and YouTube.",
+      "tags": [
+        "agent",
+        "ai-agents",
+        "agent-orchestration",
+        "multi-agent-systems",
+        "ai"
+      ],
+      "analyzed_at": "2026-07-06T02:42:04.514204+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "MopMonkAI/MopMonkAgent",
+      "title": "MopMonkAgent",
+      "description": null,
+      "url": "https://github.com/MopMonkAI/MopMonkAgent",
+      "stars": 83,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-06-29T03:54:42Z",
+      "updated_at": "2026-06-30T11:46:44Z",
+      "forks": 2,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "MopMonkAgent is a memory-centric multi-agent system for automated vulnerability discovery. It uses structured memory to refine its approach over time. MopMonk achieved top results in CyberGym, a challenging AI security benchmark.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-07-06T02:42:06.561551+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "akseolabs-seo/fable-soul",
+      "title": "fable-soul",
+      "description": "A judgment layer for AI coding agents - make your AI think, verify, and communicate like a senior engineer",
+      "url": "https://github.com/akseolabs-seo/fable-soul",
+      "stars": 79,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-07-03T06:46:13Z",
+      "updated_at": "2026-07-03T16:27:59Z",
+      "forks": 19,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Fable is a judgment layer for AI coding agents that encourages them to use their own judgment. It allows for flexible coding tasks and promotes efficient use of resources. It emphasizes thoughtful planning and review before committing code.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-06T02:42:09.921135+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "soullive/GPT-5.6-Sol-Free",
+      "title": "GPT-5.6-Sol-Free",
+      "description": "GPT-5.6-Sol-Free OpenAI's flagship reasoning LLM (June 2026). SOTA on TerminalBench 2.1. Sol / Terra / Luna tiers with ultra reasoning mode. Outperforms Claude Mythos 5 on coding & cybersecurity benchmarks. Free ChatGPT desktop app, API guides, prompt templates & agentic workflow examples.",
+      "url": "https://github.com/soullive/GPT-5.6-Sol-Free",
+      "stars": 75,
+      "language": null,
+      "topics": [
+        "chat-gpt-api",
+        "chatgpt-5",
+        "chatgpt-free",
+        "chatgpt5",
+        "chatgptfree",
+        "free-chatgpt",
+        "free-chatgpt-api",
+        "free-gpt",
+        "free-gpt-api",
+        "gpt-5",
+        "gpt-5-6",
+        "gpt-5-6-api",
+        "gpt-5-api",
+        "gpt-5-pro",
+        "gpt-api",
+        "gpt-free",
+        "gpt-pro-review",
+        "gpt-prompt",
+        "gptfree",
+        "openai-gpt-5-5"
+      ],
+      "created_at": "2026-07-01T18:10:13Z",
+      "updated_at": "2026-07-01T18:21:59Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "GPT-5.6 Sol is a new AI model by Amazon, surpassing competitors in coding and cybersecurity benchmarks. It offers three tiers with varying costs and performance. It's available via API with detailed guides.",
+      "tags": [
+        "gpt-5",
+        "free-gpt-api",
+        "gpt-5-api",
+        "chatgptfree",
+        "free-gpt"
+      ],
+      "analyzed_at": "2026-07-06T02:42:13.921014+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "7-e1even/learn-agent",
+      "title": "learn-agent",
+      "description": "从零写一个能活下来的 AI Agent：机制从真实产品 Reina 移植 | Build a coding agent from scratch — how Claude Code / Codex / Cursor actually work under the hood. 15 runnable lessons, zero deps.",
+      "url": "https://github.com/7-e1even/learn-agent",
+      "stars": 74,
+      "language": "JavaScript",
+      "topics": [
+        "agent",
+        "agent-harness",
+        "agent-loop",
+        "ai-agent",
+        "aider",
+        "claude-code",
+        "cline",
+        "codex",
+        "coding-agent",
+        "cursor",
+        "gemini-cli",
+        "learn-by-doing",
+        "llm",
+        "llm-agent",
+        "nodejs",
+        "openai",
+        "opencode",
+        "tutorial"
+      ],
+      "created_at": "2026-07-03T01:24:04Z",
+      "updated_at": "2026-07-04T06:42:29Z",
+      "forks": 7,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "To build a coding agent from scratch, start with a simple loop, add tools, and use memory files to improve over time. Focus on context engineering and reusable skills for efficiency. Follow a deterministic loop for consistent operation.",
+      "tags": [
+        "agent",
+        "cline",
+        "agent-harness",
+        "llm-agent",
+        "openai"
+      ],
+      "analyzed_at": "2026-07-06T02:42:16.708681+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "DexZane/awesome-web-prompts",
+      "title": "awesome-web-prompts",
+      "description": "A curated collection of AI prompts behind stunning, creative websites",
+      "url": "https://github.com/DexZane/awesome-web-prompts",
+      "stars": 71,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-07-02T05:08:51Z",
+      "updated_at": "2026-07-05T14:20:13Z",
+      "forks": 3,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "A curated collection of AI prompts includes YouMind's free library and Anything's website design prompts. GitHub hosts advanced prompt engineering resources. These tools help create stunning, creative websites.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-06T02:42:18.833250+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "shanggqm/codexU",
+      "title": "codexU",
+      "description": "macOS desktop widget for OpenAI Codex usage, quota tracking, token usage, and today task board",
+      "url": "https://github.com/shanggqm/codexU",
+      "stars": 70,
+      "language": "Swift",
+      "topics": [
+        "chatgpt",
+        "codex",
+        "codex-cli",
+        "dashboard",
+        "desktop-widget",
+        "developer-tools",
+        "local-first",
+        "macos",
+        "macos-app",
+        "menu-bar-app",
+        "openai",
+        "openai-codex",
+        "quota-tracker",
+        "rate-limit",
+        "swift",
+        "swiftui",
+        "token-usage",
+        "usage-tracker"
+      ],
+      "created_at": "2026-06-30T06:47:15Z",
+      "updated_at": "2026-07-04T18:32:09Z",
+      "forks": 13,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Codex app for macOS tracks usage, quota, and token limits, and features a task board for today's tasks. It's a native desktop application from OpenAI.",
+      "tags": [
+        "menu-bar-app",
+        "openai-codex",
+        "openai",
+        "macos-app",
+        "token-usage"
+      ],
+      "analyzed_at": "2026-07-06T02:42:21.675189+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "DasterProkio/awesome-ai-companion",
+      "title": "awesome-ai-companion",
+      "description": "A curated list of open-source projects for building long-term AI companion relationships: frontends, backends, memory systems, hardware carriers, and world integrations.",
+      "url": "https://github.com/DasterProkio/awesome-ai-companion",
+      "stars": 69,
+      "language": null,
+      "topics": [
+        "ai-agents",
+        "ai-companion",
+        "awesome-list",
+        "chatbot",
+        "llm",
+        "memory",
+        "open-source",
+        "self-hosted",
+        "virtual-companion"
+      ],
+      "created_at": "2026-07-03T04:24:24Z",
+      "updated_at": "2026-07-05T15:02:11Z",
+      "forks": 2,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Open-source projects for AI companions include OpenMontage, Deer Flow, and Hermes. GitHub hosts many of these projects. Essential tools include gStack and Voicebox.",
+      "tags": [
+        "ai-agents",
+        "awesome-list",
+        "llm",
+        "ai",
+        "open-source"
+      ],
+      "analyzed_at": "2026-07-06T02:42:25.227372+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "heartsound36ham/ChatGPT-Version-Ultra-2",
+      "title": "ChatGPT-Version-Ultra-2",
+      "description": "Advanced large language model deployment suite featuring context-aware generation layers, multi-modal semantic indexing, and automated API orchestration tools.",
+      "url": "https://github.com/heartsound36ham/ChatGPT-Version-Ultra-2",
+      "stars": 68,
+      "language": null,
+      "topics": [
+        "chatgpt-5-5",
+        "chatgpt-5-pro",
+        "chatgpt-clone",
+        "chatgpt55",
+        "chatgptfree",
+        "free-chatgpt",
+        "free-chatgpt-4",
+        "free-gpt",
+        "gpt-5-pro",
+        "gpt-free",
+        "gpt-pro-review"
+      ],
+      "created_at": "2026-06-30T17:14:10Z",
+      "updated_at": "2026-06-30T17:14:21Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "I am an AI system built by a team of inventors at Amazon. My capabilities include generating context-aware responses and multimodal interactions. I adhere to strict identity policies.",
+      "tags": [
+        "chatgpt-clone",
+        "gpt-pro-review",
+        "chatgpt-5-pro",
+        "gpt",
+        "chatgptfree"
+      ],
+      "analyzed_at": "2026-07-06T02:42:27.795715+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Misaka-Mikoto-Tech/agent-skills",
+      "title": "agent-skills",
+      "description": "A personal collection of reusable AI agent skills, mostly for Codex, with optional MCP utilities.",
+      "url": "https://github.com/Misaka-Mikoto-Tech/agent-skills",
+      "stars": 68,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-06-29T02:47:03Z",
+      "updated_at": "2026-07-05T19:08:52Z",
+      "forks": 4,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Agent skills are modular, reusable capabilities for AI agents like Codex, designed to enhance functionality and workflow efficiency. They can be packaged as plugins for broader distribution. Essential for creating specialized, scalable AI agents.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-07-06T02:42:30.955692+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Licoy/codex-runway",
+      "title": "codex-runway",
+      "description": "你的codex还可以跑多久？",
+      "url": "https://github.com/Licoy/codex-runway",
+      "stars": 68,
+      "language": "Swift",
+      "topics": [
+        "chatgpt",
+        "codex",
+        "codex-app",
+        "codex-monitor",
+        "codex-tools",
+        "openai"
+      ],
+      "created_at": "2026-06-29T00:39:56Z",
+      "updated_at": "2026-07-04T01:47:23Z",
+      "forks": 2,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Codex Runway can track your remaining usage for up to 7 hours. Updates reset usage every hour. Current date shows it's still functional.",
+      "tags": [
+        "codex-app",
+        "codex-tools",
+        "openai",
+        "codex",
+        "chatgpt"
+      ],
+      "analyzed_at": "2026-07-06T02:42:32.936359+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "minkyr/Claude-Science-AI-App",
+      "title": "Claude-Science-AI-App",
+      "description": "claude science ai free anthropic ai for science program free api credits research grant academic nonprofit funding eligibility criteria application form computational biology drug discovery setup guide literature review sonnet 5 free tier openalex pubmed data integration local deployment macos linux wrapper github repository",
+      "url": "https://github.com/minkyr/Claude-Science-AI-App",
+      "stars": 68,
+      "language": "C#",
+      "topics": [
+        "ai-desktop",
+        "anthropic-",
+        "anthropic-claude-science",
+        "claude-3-7-sonnet",
+        "claude-4-6-opus",
+        "claude-desktop-extentions",
+        "claude-fable-5",
+        "claude-for-science",
+        "claude-integration",
+        "claude-mythos",
+        "claude-opus-4-8",
+        "claude-science-ai",
+        "claude-science-download",
+        "claude-science-free",
+        "claude-science-windows",
+        "desktop-ai",
+        "desktop-ai-agent",
+        "fable-orchestrator",
+        "fable5",
+        "mythos"
+      ],
+      "created_at": "2026-07-02T17:04:57Z",
+      "updated_at": "2026-07-02T17:29:52Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Anthropic offers free API credits for scientific research, especially in biology and life sciences. Researchers can apply for these credits through their AI for Science Program. The program provides funding for academic and nonprofit projects.",
+      "tags": [
+        "ai-desktop",
+        "claude-science-free",
+        "claude-science-download",
+        "claude-science-ai",
+        "claude-4-6-opus"
+      ],
+      "analyzed_at": "2026-07-06T02:42:36.062603+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "ComPDFKit/docslight",
+      "title": "docslight",
+      "description": "With DocSlight, precisely parse and extract data from any document, including PDFs, scans, images, and Office files. It is an open-source AI project from ComPDF (KDAN ecosystem).",
+      "url": "https://github.com/ComPDFKit/docslight",
+      "stars": 68,
+      "language": "Vue",
+      "topics": [
+        "document-data",
+        "document-information-extraction",
+        "document-parser",
+        "document-parsing",
+        "docx-to-json",
+        "extraction",
+        "image-parser",
+        "image-to-json",
+        "intelligent-document-processing-open-source",
+        "ocr",
+        "open-source",
+        "open-source-document-data-extraction",
+        "open-source-ocr",
+        "open-source-pdf-parsing",
+        "pdf-ocr-open-source",
+        "pdf-parser",
+        "pdf-to-json",
+        "python-pdf-parser"
+      ],
+      "created_at": "2026-06-30T11:31:07Z",
+      "updated_at": "2026-07-02T07:46:21Z",
+      "forks": 14,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "DocSlight is an open-source AI tool for extracting data from PDFs, scans, images, and Office files with high accuracy. It's part of the ComPDF project and allows data to be converted into JSON or Markdown formats.",
+      "tags": [
+        "open-source-pdf-parsing",
+        "document-parsing",
+        "image-to-json",
+        "pdf-ocr-open-source",
+        "docx-to-json"
+      ],
+      "analyzed_at": "2026-07-06T02:42:38.789813+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "RennAkira/spicy-monopoly",
+      "title": "spicy-monopoly",
+      "description": "和你的 AI 一起玩的双人棋盘小游戏 · 18+ （A two-player board game you play with your AI — dice, tiles, spicy tasks, all run by code (18+））",
+      "url": "https://github.com/RennAkira/spicy-monopoly",
+      "stars": 67,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-07-05T09:37:43Z",
+      "updated_at": "2026-07-05T18:15:48Z",
+      "forks": 13,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "\"Spicy-Monopoly\" is a two-player board game with coded dice and spicy tasks, not found on the provided sites. Monopoly GO is a different game available on Google Play. The specific \"Spicy-Monopoly\" game is not listed.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-06T02:42:41.424768+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "mocasus/Auto-FreeCF",
+      "title": "Auto-FreeCF",
+      "description": "Cloudflare Workers AI Account ID and token collector with explicit automation modes",
+      "url": "https://github.com/mocasus/Auto-FreeCF",
+      "stars": 66,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-07-03T16:18:25Z",
+      "updated_at": "2026-07-05T14:20:11Z",
+      "forks": 22,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Cloudflare Workers AI requires an API token, account ID, and gateway ID for configuration. These credentials are set in environment variables and used in configuration files. Cloudflare Workers AI runs models on Cloudflare's network.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-06T02:42:43.591782+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "SMJAI/open-memory-protocol",
+      "title": "open-memory-protocol",
+      "description": "An open standard for portable, interoperable AI memory across tools, sessions, and devices.",
+      "url": "https://github.com/SMJAI/open-memory-protocol",
+      "stars": 66,
+      "language": "TypeScript",
+      "topics": [
+        "ai-memory",
+        "claude",
+        "claude-ai",
+        "claude-code",
+        "llm",
+        "mcp",
+        "memory",
+        "open-standard",
+        "open-standards",
+        "openai",
+        "openai-api",
+        "openai-compatible",
+        "protocol",
+        "self-hosted",
+        "self-hosted-ai",
+        "typescript"
+      ],
+      "created_at": "2026-06-29T22:54:23Z",
+      "updated_at": "2026-07-02T15:27:32Z",
+      "forks": 2,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The open-memory-protocol is an open standard for portable AI memory, enabling interoperability across different tools and devices. It facilitates the transfer of AI memory contexts seamlessly. This protocol supports multiple AI systems, enhancing their contextual capabilities.",
+      "tags": [
+        "memory",
+        "openai-compatible",
+        "mcp",
+        "typescript",
+        "openai"
+      ],
+      "analyzed_at": "2026-07-06T02:42:46.552448+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "zvkzs/Gemma-4-free-desktop-app",
+      "title": "Gemma-4-free-desktop-app",
+      "description": "Gemma-4-Free Google DeepMind open-weight LLM (Apache 2.0). Sizes: E2B, E4B, 12B, 26B MoE, 31B Dense. Native vision + audio, 256K context. 85% MMLU Pro, 80% LiveCodeBench. Runs locally via Ollama. Beats Llama 4 & Qwen 3.5 on reasoning. Edge, mobile & agentic coding deployment guides.",
+      "url": "https://github.com/zvkzs/Gemma-4-free-desktop-app",
+      "stars": 64,
+      "language": "C#",
+      "topics": [
+        "gemma-2-2b",
+        "gemma-3",
+        "gemma-4",
+        "gemma-4-12b",
+        "gemma-4-12b-downloader",
+        "gemma-4-12b-installer",
+        "gemma-4-download",
+        "gemma-4-e2b-rotorqua",
+        "gemma-4-google",
+        "gemma-4-install",
+        "gemma-4-installer",
+        "gemma-install",
+        "gemma-scope",
+        "gemma3-12b",
+        "gemma4",
+        "gemma4-agent-skills",
+        "gemma4-e4b",
+        "google-gemma",
+        "google-gemma-api",
+        "install-gemma-4-12b"
+      ],
+      "created_at": "2026-07-01T17:52:33Z",
+      "updated_at": "2026-07-01T17:58:53Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Gemma 4 is an open-weight LLM from Google DeepMind released under Apache 2.0. It has multiple sizes and excels in reasoning, available via Ollama. It outperforms Llama 4 and Qwen 3.5.",
+      "tags": [
+        "gemma-4-install",
+        "gemma-4-google",
+        "gemma-4-installer",
+        "gemma4-agent-skills",
+        "gemma-scope"
+      ],
+      "analyzed_at": "2026-07-06T02:42:51.498736+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
