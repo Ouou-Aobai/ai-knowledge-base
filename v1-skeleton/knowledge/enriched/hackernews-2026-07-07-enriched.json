@@ -1,0 +1,489 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-07-07T02:36:23.362978Z",
+  "analyzed_at": "2026-07-07T02:37:10.060273+00:00",
+  "count": 20,
+  "items": [
+    {
+      "id": 48809877,
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "score": 188,
+      "comments": 116,
+      "author": "martinald",
+      "time": 1783368895,
+      "hn_url": "https://news.ycombinator.com/item?id=48809877",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "GLM 5.2 is seen as a significant competitor to Opus and GPT, and the AI margin collapse suggests diminishing returns on investment in advanced models. The cost of training is high, but the value of inference is substantial. This shift impacts the economics of AI development.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-07T02:36:25.735725+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48811887,
+      "title": "NSA and IETF: Fairness",
+      "url": "https://blog.cr.yp.to/20260706-fairness.html",
+      "score": 51,
+      "comments": 24,
+      "author": "WatchDog",
+      "time": 1783380834,
+      "hn_url": "https://news.ycombinator.com/item?id=48811887",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The NSA was not involved in designing MLKEM; it was developed by European cryptographers. The IETF documented the use of MLKEM in TLS, maintaining fair procedures. The debate focuses on the IETF's handling of post-quantum cryptography proposals.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-07T02:36:29.092364+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48809354,
+      "title": "Pruning RAG context down to what the answer actually needs",
+      "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+      "score": 60,
+      "comments": 6,
+      "author": "emil_sorensen",
+      "time": 1783366104,
+      "hn_url": "https://news.ycombinator.com/item?id=48809354",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Context pruning reduces unnecessary information to improve RAG model efficiency. It focuses on relevant data to enhance answer accuracy. This method lowers costs and speeds up responses.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-07T02:36:30.817183+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48812055,
+      "title": "Small AI Models Gain Traction In places with unreliable networks",
+      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "score": 21,
+      "comments": 3,
+      "author": "sscaryterry",
+      "time": 1783382394,
+      "hn_url": "https://news.ycombinator.com/item?id=48812055",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Smaller AI models are increasingly popular in areas with unreliable networks due to their efficiency and performance. They offer speed, accuracy, and stability without the need for large infrastructure. This trend is driven by their ability to deliver real results in regulated environments.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-07T02:36:32.522255+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48805624,
+      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+      "score": 283,
+      "comments": 202,
+      "author": "LabsLucas",
+      "time": 1783350078,
+      "hn_url": "https://news.ycombinator.com/item?id=48805624",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The AMD Ryzen AI Halo is a $4,000 AI development kit for on-device machine learning, offering enterprise-grade models and software. Despite its high price, it remains a cost-effective option compared to similar high-end systems. It includes necessary software and documentation for local AI deployment.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-07T02:36:35.579646+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48777636,
+      "title": "Craig Mod built his own Good Reads",
+      "url": "https://craigmod.com/roden/115/",
+      "score": 11,
+      "comments": 5,
+      "author": "natbennett",
+      "time": 1783100310,
+      "hn_url": "https://news.ycombinator.com/item?id=48777636",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Craig Mod built his own platform called A Good Book (AGB), an alternative to Goodreads. He is also an author known for \"Things Become Other Things\" and \"Kissa by Kissa.\" His work focuses on creating structured reading experiences.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-07T02:36:37.850848+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48807225,
+      "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "score": 129,
+      "comments": 36,
+      "author": "maxloh",
+      "time": 1783356464,
+      "hn_url": "https://news.ycombinator.com/item?id=48807225",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "OfficeCLI is an open-source tool for AI agents to read, edit, and automate Microsoft Office files. It supports Word, Excel, and PowerPoint, and can create, read, and modify documents, including analyzing and fixing formatting issues. It's free, requires no installation, and is available on GitHub.",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "analyzed_at": "2026-07-07T02:36:40.785004+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48811317,
+      "title": "Poly/ML – A Standard ML Implementation",
+      "url": "https://github.com/polyml/polyml",
+      "score": 27,
+      "comments": 4,
+      "author": "Lyngbakr",
+      "time": 1783376886,
+      "hn_url": "https://news.ycombinator.com/item?id=48811317",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Poly/ML is an implementation of Standard ML with multiprocessor support and an interactive debugger. It includes a thread library for parallel processing and supports static and dynamic libraries. The latest release is version 5.9.2.",
+      "tags": [
+        "ml"
+      ],
+      "analyzed_at": "2026-07-07T02:36:43.687206+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48757619,
+      "title": "Evaluation order and nontermination in query languages",
+      "url": "https://www.rntz.net/post/2026-06-11-datalog-nontermination.html",
+      "score": 24,
+      "comments": 2,
+      "author": "luu",
+      "time": 1782976138,
+      "hn_url": "https://news.ycombinator.com/item?id=48757619",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Evaluation order in query languages determines how subqueries are executed, while nontermination concerns queries that may run indefinitely without a result. λFS ensures finite support to avoid nontermination. Left-to-right evaluation is one possible approach.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-07T02:36:45.514714+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48804297,
+      "title": "Aluminum foil (2021)",
+      "url": "https://dernocua.github.io/notes/aluminum-foil.html",
+      "score": 244,
+      "comments": 106,
+      "author": "firephox",
+      "time": 1783344537,
+      "hn_url": "https://news.ycombinator.com/item?id=48804297",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "In 2021, European aluminum foil demand surged, reaching a record high. The U.S. Department of Commerce finalized antidumping and countervailing duty investigations on aluminum foil from several countries. Research showed enhanced antibacterial properties of aluminum foil through surface nanostructuring.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-07T02:36:47.431619+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48810533,
+      "title": "AI: The ROI Runway Could Be Long Outside the Tech Sector",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/ai-the-roi-runway-could-be-long-outside-the-tech-sector",
+      "score": 57,
+      "comments": 50,
+      "author": "u1hcw9nx",
+      "time": 1783372163,
+      "hn_url": "https://news.ycombinator.com/item?id=48810533",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI's returns on investment may take longer to materialize outside the tech sector, with no signs of rising profit margins. This creates a gap between current market prices and future cash flows. The tech sector sees nearly immediate implementation of AI.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-07T02:36:49.527536+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48809810,
+      "title": "M/PC – A Concatenative OS",
+      "url": "https://wiki.xxiivv.com/site/m_pc.html",
+      "score": 42,
+      "comments": 4,
+      "author": "caminanteblanco",
+      "time": 1783368526,
+      "hn_url": "https://news.ycombinator.com/item?id=48809810",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "M/PC is a concatenative operating system inspired by Openfirmware, designed for Varvara, and uses postfix notation to manage files without a file browser. It was developed to operate efficiently without traditional file management interfaces.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-07T02:36:52.254032+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48802535,
+      "title": "Real-time map of Great Britain's rail network",
+      "url": "https://www.map.signalbox.io",
+      "score": 382,
+      "comments": 141,
+      "author": "scrlk",
+      "time": 1783330716,
+      "hn_url": "https://news.ycombinator.com/item?id=48802535",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The real-time map of Great Britain's rail network is available on Signalbox's live map. It shows live train locations and routes. For detailed statistics, Merritt Cartographic offers an interactive map with usage data.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-07T02:36:54.368332+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48811403,
+      "title": "Not everything should cost a token: the case for deterministic AI",
+      "url": "https://www.vybe.build/blog/learn-what-not-to-tokenize",
+      "score": 12,
+      "comments": 6,
+      "author": "marwann",
+      "time": 1783377400,
+      "hn_url": "https://news.ycombinator.com/item?id=48811403",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Deterministic AI reduces costs by avoiding token expenses on repetitive tasks, offering consistent results without variable costs. It's more efficient than generative AI for predictable processes. This approach minimizes unnecessary token spending.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-07T02:36:56.499923+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48810501,
+      "title": "Taiganet.com, Home of the WS4000 Simulator",
+      "url": "https://www.taiganet.com/",
+      "score": 15,
+      "comments": 3,
+      "author": "Aloha",
+      "time": 1783371984,
+      "hn_url": "https://news.ycombinator.com/item?id=48810501",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Taiganet.com hosts the WS4000 Simulator, a project recreating The Weather Channel's 4000 weather system. It uses National Weather Service data for accurate forecasts. Version 4.1 is available for download.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-07T02:36:59.284069+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48810528,
+      "title": "Show HN: Otari: your open-source LLM control plane",
+      "url": "https://github.com/mozilla-ai/otari",
+      "score": 13,
+      "comments": 0,
+      "author": "angpt",
+      "time": 1783372127,
+      "hn_url": "https://news.ycombinator.com/item?id=48810528",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Otari is an open-source LLM control plane project by Mozilla AI. It was featured on Hacker News. It received 9 points.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-07-07T02:37:01.219326+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48808498,
+      "title": "Companies hire more after AI adoption",
+      "url": "https://ramp.com/data/heavy-ai-adopters-hire-more",
+      "score": 22,
+      "comments": 2,
+      "author": "mooreds",
+      "time": 1783362251,
+      "hn_url": "https://news.ycombinator.com/item?id=48808498",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Companies that heavily invest in AI tend to hire more rather than replace workers, with high-intensity adopters experiencing significant employment growth, particularly in entry-level positions and various sectors. This trend suggests that AI investment correlates with organizational expansion, not workforce reduction.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-07T02:37:02.963034+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48811833,
+      "title": "Complexity theorist Steven Rudich (1961-2024)",
+      "url": "https://blog.computationalcomplexity.org/2024/11/steven-rudich-1961-2024.html",
+      "score": 6,
+      "comments": 0,
+      "author": "mtdewcmu",
+      "time": 1783380427,
+      "hn_url": "https://news.ycombinator.com/item?id=48811833",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Steven Rudich, an influential American computational theorist, passed away on October 29, 2024, at age 63. He was renowned for his work on Natural Proofs and Program Obfuscation.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-07T02:37:04.697408+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48810945,
+      "title": "How ChatGPT Picks Sources (I Read the Network Traffic, Not the Outputs)",
+      "url": "https://suganthan.com/blog/how-chatgpt-picks-sources/",
+      "score": 7,
+      "comments": 0,
+      "author": "trusche",
+      "time": 1783374605,
+      "hn_url": "https://news.ycombinator.com/item?id=48810945",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "I am an AI system built by a team of inventors at Amazon. I don't pick sources; I generate responses based on training data. My responses don't involve reading network traffic.",
+      "tags": [
+        "gpt"
+      ],
+      "analyzed_at": "2026-07-07T02:37:06.663364+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48806073,
+      "title": "1k Words: A Writing Contest",
+      "url": "https://writingclub.world/1picture1000words",
+      "score": 83,
+      "comments": 37,
+      "author": "surprisetalk",
+      "time": 1783351808,
+      "hn_url": "https://news.ycombinator.com/item?id=48806073",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A writing contest exists for a 1,000-word short story with a one-week submission period, followed by public voting. Another contest offers a $1,000 scholarship for a 1,000-word essay. A third contest provides $500+ in prizes for a 1,000-word story.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-07T02:37:09.559373+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
