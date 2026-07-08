@@ -1,0 +1,537 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-07-08T02:09:45.816274Z",
+  "analyzed_at": "2026-07-08T02:10:33.126209+00:00",
+  "count": 22,
+  "items": [
+    {
+      "id": 48823359,
+      "title": "We charge $10k a week to delete AI-generated code",
+      "url": "https://odra.dev/slopfix/",
+      "score": 216,
+      "comments": 117,
+      "author": "zie1ony",
+      "time": 1783456542,
+      "hn_url": "https://news.ycombinator.com/item?id=48823359",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A company charges $10,000 per week to remove AI-generated code, employing senior engineers to make codebases maintainable. This service is discussed on platforms like Reddit and Hacker News. The approach is seen as complex and potentially flawed.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-08T02:09:48.063935+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48825749,
+      "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+      "url": "https://kb.cert.org/vuls/id/213560",
+      "score": 25,
+      "comments": 4,
+      "author": "miniBill",
+      "time": 1783469331,
+      "hn_url": "https://news.ycombinator.com/item?id=48825749",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Multiple versions of Tenda router firmware contain an undocumented backdoor allowing attackers to gain full administrative access without valid credentials. This vulnerability, CVE-2026-11405, has no vendor patch available. Workarounds include disabling remote web management.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-08T02:09:49.924671+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48818311,
+      "title": "Chat Control 1.0 and 2.0 Explained",
+      "url": "https://fightchatcontrol.eu/chat-control-overview",
+      "score": 450,
+      "comments": 144,
+      "author": "gasull",
+      "time": 1783434195,
+      "hn_url": "https://news.ycombinator.com/item?id=48818311",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Chat Control 1.0 and 2.0 are two separate proposals for scanning private messages in the EU, with 1.0 temporarily revived and 2.0 still in negotiation. 1.0 allowed voluntary scanning for child abuse material, while 2.0 mandates it. Both are being considered by EU institutions.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-08T02:09:51.964600+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48821848,
+      "title": "Show HN: Davit, a Apple Containers UI",
+      "url": "https://davit.app",
+      "score": 203,
+      "comments": 48,
+      "author": "xinit",
+      "time": 1783449869,
+      "hn_url": "https://news.ycombinator.com/item?id=48821848",
+      "text": "Mostly vibe-coded Apple Containers front-end that I&#x27;d like to use myself. But if others want to use it, here&#x27;s the source code.",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Davit is a native macOS app for managing Apple's container platform, allowing Linux containers to run without Docker Desktop. It provides a dashboard for monitoring services, disk usage, and live CPU metrics. Davit offers an interactive shell and live resource charts for containers.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-08T02:09:54.085899+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48819608,
+      "title": "30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format",
+      "url": "https://30papers.com/",
+      "score": 365,
+      "comments": 61,
+      "author": "notmcrowley",
+      "time": 1783439893,
+      "hn_url": "https://news.ycombinator.com/item?id=48819608",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Ilya's 30 essential ML papers are curated for beginners, featuring key works in machine learning. The list includes influential papers by notable researchers. It aims to simplify understanding of foundational ML concepts.",
+      "tags": [
+        "ml"
+      ],
+      "analyzed_at": "2026-07-08T02:09:56.076335+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48742703,
+      "title": "IEEE Rolls Out Large Language Models Training Course",
+      "url": "https://spectrum.ieee.org/large-language-models-ieee-course",
+      "score": 37,
+      "comments": 7,
+      "author": "JeanKage",
+      "time": 1782884482,
+      "hn_url": "https://news.ycombinator.com/item?id=48742703",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "IEEE launched a virtual training course on large language models to meet rising demand for technical expertise in AI model implementation and security. The course focuses on the transformer architecture and its impact on digital infrastructure. It targets professionals seeking to understand AI technology's \"how\" and \"why.\"",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-08T02:09:58.433097+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48819808,
+      "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+      "url": "https://github.com/rowboatlabs/rowboat",
+      "score": 96,
+      "comments": 25,
+      "author": "segmenta",
+      "time": 1783440644,
+      "hn_url": "https://news.ycombinator.com/item?id=48819808",
+      "text": "Claude’s desktop app is brilliant, but for our own daily work we kept wanting it to be less like a chat app and more like a full-fledged work app. Rowboat is our attempt at that, including the ability to build your own work surfaces inside Rowboat (more below).<p>Our repo is <a href=\"https:&#x2F;&#x2F;github.com&#x2F;rowboatlabs&#x2F;rowboat\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;rowboatlabs&#x2F;rowboat</a>, and there’s a demo video here: <a href=\"https:&#x2F;&#x2F;www.youtube.com&#x",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Rowboat is an open-source, local-first alternative to Anthropic's Claude Desktop, designed to integrate AI assistance directly into work surfaces like email and meetings. It aims to provide a full-fledged work app experience.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-08T02:10:00.759853+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48821749,
+      "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+      "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+      "score": 83,
+      "comments": 9,
+      "author": "duha",
+      "time": 1783449395,
+      "hn_url": "https://news.ycombinator.com/item?id=48821749",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI confirmed seven real bugs in Cloudflare's CIRCL library, including critical issues in threshold RSA and access-control flaws in attribute-based encryption. The findings highlight vulnerabilities in post-quantum cryptography methods. This audit emphasizes the need for rigorous security testing in cryptographic libraries.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-08T02:10:02.641389+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48825356,
+      "title": "Git Hash Chain Malleability",
+      "url": "https://arxiv.org/abs/2607.02820",
+      "score": 9,
+      "comments": 2,
+      "author": "xqb64",
+      "time": 1783466463,
+      "hn_url": "https://news.ycombinator.com/item?id=48825356",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Signed Git commits are malleable, allowing attackers to alter commits while maintaining valid signatures, affecting all dependent commits. This issue arises from inherent vulnerabilities in commit data representations. GitHub accepts and verifies these altered commits.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-08T02:10:04.568967+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48825745,
+      "title": "Show HN: Fortress – a stealth Chromium so your agents stop getting blocked",
+      "url": "https://github.com/tiliondev/fortress",
+      "score": 20,
+      "comments": 14,
+      "author": "arhamshahrier",
+      "time": 1783469301,
+      "hn_url": "https://news.ycombinator.com/item?id=48825745",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Fortress is an open-source Chromium variant designed to prevent browser agents from getting blocked. It achieved high success rates in stealth benchmarks against major cloud browser providers. The project aims to enhance browser stealth for AI agents.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-07-08T02:10:07.047010+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48825430,
+      "title": "Show HN: Free Mermaid Diagram Editor",
+      "url": "https://moxiedocs.com/mermaid-diagram-editor",
+      "score": 8,
+      "comments": 2,
+      "author": "ghosts_",
+      "time": 1783466976,
+      "hn_url": "https://news.ycombinator.com/item?id=48825430",
+      "text": "I&#x27;ve been slowly adding some new free tools to Moxie Docs (partly for SEO, partly to illustrate some of our feature sets before any commitment) for some reason this mermaid editor one blew up on Google rankings so I figured I&#x27;d share in case people find it useful! We also have ADR, AGENTS.md, LLMs, and a few other free tools.",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Mermaid Diagram Editor is a free, online tool for creating various diagrams using Mermaid syntax. It supports flowcharts, sequence diagrams, and more. Export diagrams as PNG, SVG, or PDF.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-08T02:10:09.891815+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48815982,
+      "title": "Why skilled workers come to Germany and then leave again",
+      "url": "https://www.dw.com/en/germany-migrants-skilled-workers-integration-labor-market-bureaucracy-language-housing/a-77853162",
+      "score": 181,
+      "comments": 474,
+      "author": "theanonymousone",
+      "time": 1783420979,
+      "hn_url": "https://news.ycombinator.com/item?id=48815982",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Skilled workers often leave Germany due to bureaucratic hurdles, high administrative fees, and lack of career development support, leading to frustration and emigration. They also face competition from other European countries for talent.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-08T02:10:11.761845+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48779844,
+      "title": "Camera with transparent display launches for the equivalent of $29",
+      "url": "https://www.notebookcheck.net/Camera-with-transparent-display-launches-for-the-equivalent-of-29.1334495.0.html",
+      "score": 63,
+      "comments": 41,
+      "author": "yread",
+      "time": 1783112076,
+      "hn_url": "https://news.ycombinator.com/item?id=48779844",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Godox C100 is a compact camera with a transparent display, priced at $29. It uses a transparent window as a viewfinder instead of a traditional screen. It stores photos on microSD cards up to 128 GB.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-08T02:10:13.287764+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48818937,
+      "title": "Automating AI Away",
+      "url": "https://replicated.live/blog/away",
+      "score": 103,
+      "comments": 50,
+      "author": "gritzko",
+      "time": 1783437068,
+      "hn_url": "https://news.ycombinator.com/item?id=48818937",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI is increasingly automating tasks, potentially replacing many jobs, but it cannot replace human empathy and creativity. Full automation of all jobs is unlikely. Human connection remains irreplaceable.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-08T02:10:14.944659+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48825906,
+      "title": "Rlm-Workflow",
+      "url": "https://try.works/projects#rlm-workflow",
+      "score": 5,
+      "comments": 0,
+      "author": "handfuloflight",
+      "time": 1783470738,
+      "hn_url": "https://news.ycombinator.com/item?id=48825906",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Rlm-Workflow is a lightweight AI-assisted software development workflow inspired by Recursive Language Models. It uses strict phase gates and systematic debugging. It's now known as 'recursive-mode'.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-08T02:10:16.526881+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48819008,
+      "title": "Chat Control passed first round in EU Parliament",
+      "url": "https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html",
+      "score": 535,
+      "comments": 236,
+      "author": "miroljub",
+      "time": 1783437375,
+      "hn_url": "https://news.ycombinator.com/item?id=48819008",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The EU Parliament passed the first round for Chat Control, but it was narrowly defeated in a subsequent vote. The proposal was rejected by a single vote. The bill was not fully rejected.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-08T02:10:18.510304+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48821500,
+      "title": "Show HN: Docx-CLI: agents read/edit Word docs using 1/2 the time and tokens",
+      "url": "https://github.com/kklimuk/docx-cli",
+      "score": 55,
+      "comments": 24,
+      "author": "kirillklimuk",
+      "time": 1783448340,
+      "hn_url": "https://news.ycombinator.com/item?id=48821500",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Docx-CLI is a tool that allows agents to read and edit Word documents more efficiently, using half the time and fewer tokens. It was showcased on Hacker News and Reddit. The tool aims to improve productivity with MS Office documents.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-07-08T02:10:20.506610+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48818544,
+      "title": "The revenge of the philosophy majors",
+      "url": "https://www.nytimes.com/2026/07/05/business/philosophy-majors-ai-jobs.html",
+      "score": 140,
+      "comments": 210,
+      "author": "benbreen",
+      "time": 1783435316,
+      "hn_url": "https://news.ycombinator.com/item?id=48818544",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Philosophy majors are increasingly sought after for AI roles due to their expertise in ethics and reasoning. Their skills are valuable in addressing AI's moral and epistemological challenges. This trend highlights a growing demand for philosophical insights in tech fields.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-08T02:10:22.407773+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48818098,
+      "title": "Show HN: Halo – open-source, tamper-evident runtime evidence for AI agents",
+      "url": "https://github.com/bkuan001/halo-record",
+      "score": 26,
+      "comments": 17,
+      "author": "brian_kuan",
+      "time": 1783433228,
+      "hn_url": "https://news.ycombinator.com/item?id=48818098",
+      "text": "Hi HN, I&#x27;m Brian, I spent the last few years at Vanta (YC W18), helping startups and enterprises become compliant and I recently started exploring what that might look like in a post-agentic world.<p>The problem Halo solves is: when a company buys an AI agent from a vendor and gives it access to their data, they have no way to check what the agent did with that data. Vendors may have built observability dashboards and audit logs, but those are editable and partisan. SOC 2 and ISO 27001 audi",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Halo is an open-source tool providing tamper-evident runtime evidence for AI agents, ensuring data integrity without guaranteeing completeness. It generates reports from logs for auditing purposes.",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "analyzed_at": "2026-07-08T02:10:25.546104+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48799930,
+      "title": "GitHub Freno: cooperative, highly available throttler service",
+      "url": "https://github.com/github/freno",
+      "score": 37,
+      "comments": 1,
+      "author": "nateb2022",
+      "time": 1783303615,
+      "hn_url": "https://news.ycombinator.com/item?id=48799930",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "GitHub Freno is a cooperative, highly available service that throttles writes to MySQL resources to prevent replication lag. It uses the Raft consensus protocol and dynamically adapts to server changes. Clients must consult Freno before writing to backend stores.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-08T02:10:27.591626+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48813929,
+      "title": "The Art of Computer Programming by Donald E. Knuth",
+      "url": "https://www-cs-faculty.stanford.edu/~knuth/taocp.html",
+      "score": 204,
+      "comments": 52,
+      "author": "archargelod",
+      "time": 1783401543,
+      "hn_url": "https://news.ycombinator.com/item?id=48813929",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Art of Computer Programming by Donald E. Knuth is a multi-volume series covering programming algorithms, with published volumes 1-5 as of 2026. Volumes 1-5 focus on fundamental algorithms for sequential machines. Volume 4A was published in 2011.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-08T02:10:30.651401+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48825354,
+      "title": "Neural Geometry in Vision Models with Block-Sparse Featurizers",
+      "url": "https://www.goodfire.ai/research/bsf-vision",
+      "score": 3,
+      "comments": 0,
+      "author": "babelfish",
+      "time": 1783466461,
+      "hn_url": "https://news.ycombinator.com/item?id=48825354",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Neural geometry in vision models with block-sparse featurizers refers to how these models represent visual concepts. Block-sparse featurizers capture the internal structure of visual concepts. They are effective in decomposing complex visual information.",
+      "tags": [
+        "neural"
+      ],
+      "analyzed_at": "2026-07-08T02:10:32.625312+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
