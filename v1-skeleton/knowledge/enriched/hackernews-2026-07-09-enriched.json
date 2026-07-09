@@ -1,0 +1,537 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-07-09T02:28:15.471719Z",
+  "analyzed_at": "2026-07-09T02:29:07.321950+00:00",
+  "count": 22,
+  "items": [
+    {
+      "id": 48838876,
+      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+      "score": 345,
+      "comments": 68,
+      "author": "djoldman",
+      "time": 1783553863,
+      "hn_url": "https://news.ycombinator.com/item?id=48838876",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "John Deere has agreed to a right-to-repair settlement with the FTC and several states, allowing farmers and independent shops to fix their own equipment. Deere must provide diagnostic and repair tools to all equipment owners and shops, and cannot retaliate against those who choose to repair their own equipment. The settlement also includes a $1 million payment to the five states involved.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-09T02:28:17.178897+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48839984,
+      "title": "I Think I Have LLM Burnout",
+      "url": "https://www.alecscollon.com/blog/llm-burnout/",
+      "score": 49,
+      "comments": 23,
+      "author": "sosodev",
+      "time": 1783562188,
+      "hn_url": "https://news.ycombinator.com/item?id=48839984",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "LLM burnout involves fatigue from over-reliance on AI, leading to cognitive dissonance and reduced productivity. It's marked by constant switching tasks and waiting for AI responses. Some find relief in taking breaks.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-07-09T02:28:19.520393+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48837396,
+      "title": "Separating signal from noise in coding evaluations",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+      "score": 164,
+      "comments": 64,
+      "author": "sk4rekr0w",
+      "time": 1783544631,
+      "hn_url": "https://news.ycombinator.com/item?id=48837396",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Separating signal from noise in coding evaluations involves using benchmarks that reliably distinguish better models from worse ones while minimizing variability. High signal-to-noise ratio benchmarks are more reliable for small-scale decisions. Switching to metrics like perplexity can improve reliability and scaling law error.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-09T02:28:21.797732+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48832212,
+      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+      "url": "https://mistral.ai/news/robostral-navigate/",
+      "score": 421,
+      "comments": 96,
+      "author": "ottomengis",
+      "time": 1783519757,
+      "hn_url": "https://news.ycombinator.com/item?id=48832212",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Mistral's Robostral Navigate is an 8-billion-parameter AI model that enables robots to navigate using just one RGB camera, achieving top performance on unseen environments. It outperforms sensor-heavy robots and is efficient with minimal hardware.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-09T02:28:24.395665+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48834924,
+      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+      "url": "https://microsoft.github.io/flint-chart/#/",
+      "score": 211,
+      "comments": 78,
+      "author": "chenglong-hn",
+      "time": 1783532772,
+      "hn_url": "https://news.ycombinator.com/item?id=48834924",
+      "text": "Data visualizations are the bridge between user and data.<p>But building AI agents that can generate visualizations reliably can be very tricky:<p>- simple chart specs can be reliable, but generated charts are often of low quality due to reliance on system defaults; \n- complex chart specs with explicit details can produce good-looking charts, but they are verbose and agents can struggle with reliability<p>We figured out it is a limitation on the language issue (not just AI capability thing) -- c",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Microsoft released Flint, a visualization language for AI agents to create high-quality charts from simple specifications. Flint aims to bridge the gap between AI capabilities and data visualization. It has gained attention for its reliability and ease of use.",
+      "tags": [
+        "ai",
+        "agent"
+      ],
+      "analyzed_at": "2026-07-09T02:28:26.528542+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48838772,
+      "title": "We made Grok 4.5, GPT-5.5, and Claude build the same apps",
+      "url": "https://www.tryai.dev/blog/grok-4.5-vs-gpt-5.5-vs-claude-build-off",
+      "score": 71,
+      "comments": 29,
+      "author": "hershyb_",
+      "time": 1783553234,
+      "hn_url": "https://news.ycombinator.com/item?id=48838772",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Grok 4.5, GPT-5.5, and Claude Opus 4.8 built identical apps; Codex took the longest, while Composer finished fastest. Codex had the most features, but Composer was the most efficient.",
+      "tags": [
+        "gpt"
+      ],
+      "analyzed_at": "2026-07-09T02:28:29.402505+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48835111,
+      "title": "Grok 4.5",
+      "url": "https://x.ai/news/grok-4-5",
+      "score": 482,
+      "comments": 619,
+      "author": "BoumTAC",
+      "time": 1783533632,
+      "hn_url": "https://news.ycombinator.com/item?id=48835111",
+      "text": "<a href=\"https:&#x2F;&#x2F;cursor.com&#x2F;blog&#x2F;grok-4-5\" rel=\"nofollow\">https:&#x2F;&#x2F;cursor.com&#x2F;blog&#x2F;grok-4-5</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Grok 4.5 is xAI's advanced model, built on a 1.5T V9 foundation, currently in private beta at SpaceX and Tesla. Elon Musk claims it performs close to or exceeds Anthropic's Opus model. It uses Cursor data for supplemental training.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-09T02:28:31.325823+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48839355,
+      "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
+      "url": "https://mira-wm.com/",
+      "score": 21,
+      "comments": 5,
+      "author": "ethanlipson",
+      "time": 1783556877,
+      "hn_url": "https://news.ycombinator.com/item?id=48839355",
+      "text": "<a href=\"https:&#x2F;&#x2F;mira-wm.com&#x2F;blog-post&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;mira-wm.com&#x2F;blog-post&#x2F;</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "MIRA is a multiplayer world model trained on Rocket League, running at 20 fps. It was developed by General Intuition and Kyutai Labs. The model uses publicly available bot data and is open-source.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-09T02:28:33.358840+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48834405,
+      "title": "GPT‑Live",
+      "url": "https://openai.com/index/introducing-gpt-live/",
+      "score": 605,
+      "comments": 415,
+      "author": "logickkk1",
+      "time": 1783530199,
+      "hn_url": "https://news.ycombinator.com/item?id=48834405",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "In 2026, OpenAI introduced GPT-Live, a new voice model for more natural conversations in ChatGPT Voice. It can listen and speak simultaneously, enhancing user interaction.",
+      "tags": [
+        "gpt"
+      ],
+      "analyzed_at": "2026-07-09T02:28:35.429927+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48829312,
+      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+      "score": 1304,
+      "comments": 209,
+      "author": "speerer",
+      "time": 1783500366,
+      "hn_url": "https://news.ycombinator.com/item?id=48829312",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A bash script was found on a Uniqlo t-shirt, intentionally obfuscated. It was decoded by Tris Sherliker. The script's purpose remains unclear.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-09T02:28:37.370561+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48816724,
+      "title": "Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",
+      "url": "https://github.com/Rodiun/frugon",
+      "score": 13,
+      "comments": 2,
+      "author": "jarodrh",
+      "time": 1783426854,
+      "hn_url": "https://news.ycombinator.com/item?id=48816724",
+      "text": "I started leaning in on AI heavily this year, as I wanted to get more done autonomously, but then my token usage climbed dramatically to the point where my weekly quota would run out before the end of the week, sometimes a couple of days into the week.<p>I realised I had to do something about it else I&#x27;d have to double my spend. So I decided to start tracking my cost per task type. This revealed that a lot of my spend went to searches&#x2F;scans or simple things like scouting tasks.<p>I the",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Frugon identifies which cheaper language models can handle specific tasks locally. It analyzes LLM calls and shows savings of up to 34.8%. It's developed by MIT researchers.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-07-09T02:28:39.628835+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48839434,
+      "title": "A software engineering interview question I like: computing the median",
+      "url": "https://krisshamloo.com/blog/007",
+      "score": 46,
+      "comments": 44,
+      "author": "speckx",
+      "time": 1783557482,
+      "hn_url": "https://news.ycombinator.com/item?id=48839434",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "To compute the median, sort the array and return the middle value if the array length is odd; otherwise, return the average of the two middle values. Quickselect can compute the median in O(n) time.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-09T02:28:42.852798+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48804801,
+      "title": "I Built a Telegram Client for Pi",
+      "url": "https://www.npmjs.com/package/@atharva-again/pi-tg",
+      "score": 57,
+      "comments": 26,
+      "author": "atharva-again",
+      "time": 1783346794,
+      "hn_url": "https://news.ycombinator.com/item?id=48804801",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A Telegram client for Pi was developed to allow interaction with Pi via Telegram. The project is hosted on GitHub and includes a Telegram DM bridge. The client enables sending images and files through Telegram.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-09T02:28:44.898505+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48780387,
+      "title": "EVE Online's Carbon engine is now open source: Fenris Creations explains why",
+      "url": "https://www.gamesindustry.biz/eve-onlines-carbon-engine-is-now-open-source-fenris-creations-explains-why",
+      "score": 382,
+      "comments": 135,
+      "author": "Stevvo",
+      "time": 1783115167,
+      "hn_url": "https://news.ycombinator.com/item?id=48780387",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "EVE Online's Carbon engine is now open source. Fenris Creations released it to foster community contributions and innovation. The engine includes over two dozen modules.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-09T02:28:46.790165+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48833866,
+      "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
+      "url": "https://cognition.com/blog/swe-1-7",
+      "score": 254,
+      "comments": 131,
+      "author": "mekpro",
+      "time": 1783527576,
+      "hn_url": "https://news.ycombinator.com/item?id=48833866",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "SWE-1.7 reached performance near GPT 5.5 and Opus Intelligence. It aims to optimize coding efficiency at lower costs. This model competes with Composer 2.5.",
+      "tags": [
+        "gpt"
+      ],
+      "analyzed_at": "2026-07-09T02:28:48.934867+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48831658,
+      "title": "OpenBSD has a use-after-free allowing local privilege escalation to root",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-57589",
+      "score": 251,
+      "comments": 129,
+      "author": "linggen",
+      "time": 1783517092,
+      "hn_url": "https://news.ycombinator.com/item?id=48831658",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "OpenBSD has a use-after-free vulnerability (CVE-2019-19726) allowing local privilege escalation to root. The exploit targets the dynamic loader and can be triggered via set-user-ID executables. Patches are available to fix this issue.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-09T02:28:50.927985+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48836813,
+      "title": "Show HN: Onboard-CLI, a LLM powered and AST-based tool to visualize codebase",
+      "url": "https://github.com/animesh-94/Onboard-CLI",
+      "score": 20,
+      "comments": 5,
+      "author": "yr_animesh",
+      "time": 1783541343,
+      "hn_url": "https://news.ycombinator.com/item?id=48836813",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Onboard-CLI is a tool that uses large language models and abstract syntax trees to visualize codebases. It generates architecture diagrams and supports non-compiling code. For more details, visit the GitHub repository.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-07-09T02:28:52.836403+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48786455,
+      "title": "Show HN: Follow London Trains in 3D",
+      "url": "https://ride.nexttrain.london/",
+      "score": 130,
+      "comments": 56,
+      "author": "mgranados",
+      "time": 1783181466,
+      "hn_url": "https://news.ycombinator.com/item?id=48786455",
+      "text": "deck.gl based visualiser of the TFL Api + National Rails to be able to track (with minimal drift) a train along the way in London and to the nearest airports. If you pick one from any platform in <a href=\"https:&#x2F;&#x2F;nexttrain.london\" rel=\"nofollow\">https:&#x2F;&#x2F;nexttrain.london</a> basically you can share your train journey along the rails. Build to test Cloudflare workers and their infra along with deck.gl performance that is incredible in my opinion.",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A 3D visualizer tracks London Trains using TFL and National Rail APIs. It shows train paths but has issues with map positioning and rendering. Users find it disorienting.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-09T02:28:54.821664+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48805475,
+      "title": "Show HN: Agent Draw: An agent draws while you talk, built on TLDraw",
+      "url": "https://techstackups.com/articles/tldraw-agent-draw/",
+      "score": 30,
+      "comments": 6,
+      "author": "jameswhitford",
+      "time": 1783349406,
+      "hn_url": "https://news.ycombinator.com/item?id=48805475",
+      "text": "We recently built 2draw, a Drawful-style game where players draw on a shared canvas and race to guess each other&#x27;s drawings, on tldraw, an infinite-canvas SDK for React.<p>We started wondering what it would take to put an agent in that loop, as an opponent or a rival guesser, and dug into how an agent could read and draw on a tldraw canvas. That research turned into:<p>Agent draw, a tool that lets an agent draw to the canvas for you while you present.<p>You can try it right now, or grab the",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Agent Draw is an AI tool that draws on a canvas while you talk, built on TLDraw. It uses AI transcription and can assist in presentations. The agent can interpret and manipulate the canvas based on user input.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-07-09T02:28:58.660848+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48837162,
+      "title": "The classifiers Anthropic puts in front of Fable are too zealous",
+      "url": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
+      "score": 191,
+      "comments": 181,
+      "author": "karrot-kake",
+      "time": 1783543293,
+      "hn_url": "https://news.ycombinator.com/item?id=48837162",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Anthropic's Fable model has strict safety measures that some users find overly zealous, leading to false positives and limited utility. The model's stringent rules have caused backlash, though Anthropic defends its cautious approach. Some users criticize the model's sensitivity as unnecessary.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-09T02:29:00.914888+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48792980,
+      "title": "Japan's Hayabusa2 probe to conduct flyby of Torifune asteroid",
+      "url": "https://www3.nhk.or.jp/nhkworld/en/news/20260705_01/",
+      "score": 160,
+      "comments": 17,
+      "author": "dvh",
+      "time": 1783247625,
+      "hn_url": "https://news.ycombinator.com/item?id=48792980",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Japan's Hayabusa2 probe successfully completed a flyby of the Torifune asteroid on July 5, 2026. The probe approached within 800 meters and captured images. This mission tested the probe's precision guidance technology.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-09T02:29:04.674319+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48829242,
+      "title": "Geosql: A Claude/Codex skill for geospatial data",
+      "url": "https://github.com/dekart-xyz/geosql",
+      "score": 127,
+      "comments": 13,
+      "author": "rzk",
+      "time": 1783499846,
+      "hn_url": "https://news.ycombinator.com/item?id=48829242",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Geosql enhances geospatial analytics for data scientists using tools like PostGIS, BigQuery, and Snowflake. It integrates with GitHub Copilot and VS Code for improved efficiency. It uses Dekart for map rendering and data visualization.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-09T02:29:06.821037+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
