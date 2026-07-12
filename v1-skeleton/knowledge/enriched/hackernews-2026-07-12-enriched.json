@@ -1,0 +1,465 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-07-12T02:11:09.199821Z",
+  "analyzed_at": "2026-07-12T02:14:08.477136+00:00",
+  "count": 19,
+  "items": [
+    {
+      "id": 48876505,
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "score": 95,
+      "comments": 25,
+      "author": "tionis",
+      "time": 1783809537,
+      "hn_url": "https://news.ycombinator.com/item?id=48876505",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Mesh LLM enables distributed AI computing using idle GPUs via Iroh protocol, reducing costs and giving users control over their data. It leverages decentralized networks to run large models without expensive hardware. This approach democratizes access to powerful AI models.",
+      "tags": [
+        "llm",
+        "ai"
+      ],
+      "analyzed_at": "2026-07-12T02:13:24.470440+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48877269,
+      "title": "A dock that wakes up reliably",
+      "url": "https://fabiensanglard.net/tb4/index.html",
+      "score": 19,
+      "comments": 19,
+      "author": "ingve",
+      "time": 1783817290,
+      "hn_url": "https://news.ycombinator.com/item?id=48877269",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A dock can reliably wake a laptop from sleep or hibernate, even if Wake-on-LAN is disabled. USB wake functions may enable this. BIOS and OS settings can affect this feature.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-12T02:13:26.503135+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48873836,
+      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+      "score": 160,
+      "comments": 57,
+      "author": "adletbalzhanov",
+      "time": 1783790509,
+      "hn_url": "https://news.ycombinator.com/item?id=48873836",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Nvidia, CoreWeave, and Nebius are involved in AI infrastructure, with rising GPU rental prices driving stock surges. Neoclouds face high growth costs and unique financing structures. The GPU boom continues to fuel demand and market shifts.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-12T02:13:28.659546+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48872858,
+      "title": "The early History of the Singular Value Decomposition (1993) [pdf]",
+      "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
+      "score": 90,
+      "comments": 55,
+      "author": "wolfi1",
+      "time": 1783783572,
+      "hn_url": "https://news.ycombinator.com/item?id=48872858",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Singular Value Decomposition (SVD) was first discussed in the 19th century by Camille Jordan and James Joseph Sylvester. The early history was surveyed by G.W. Stewart in 1993. The paper highlights contributions from several mathematicians over time.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-12T02:13:31.592194+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48876741,
+      "title": "Doctors die. It's not like the rest of us, but it should be (2016)",
+      "url": "https://archive.cancerworld.net/featured/how-doctors-die/",
+      "score": 65,
+      "comments": 39,
+      "author": "downbad_",
+      "time": 1783811706,
+      "hn_url": "https://news.ycombinator.com/item?id=48876741",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Doctors die differently from the general population, often due to unique occupational risks and lifestyle factors. Their mortality patterns show some differences, but not as stark as commonly believed. This highlights the need for tailored health interventions.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-12T02:13:34.117041+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48873501,
+      "title": "Show HN: Orbit – AR satellite tracker, watch 15k+ objects",
+      "url": "https://nagylukas.github.io/orbit.html",
+      "score": 59,
+      "comments": 16,
+      "author": "lukas9",
+      "time": 1783787942,
+      "hn_url": "https://news.ycombinator.com/item?id=48873501",
+      "text": "Hey HN! I made Orbit, an iOS app that allows you to see the satellites, planets, and constellations above you in AR, on a 2D map, and on a 3D globe.\nThe app includes more than 15,000 objects tracked by CelesTrack, together with their pass predictions, descriptions, and detailed orbital data.\nA searchable catalog of all objects is also available, as well as a built-in chatbot designed to answer any space-related questions you might have.<p>This is my first published iOS app, so any feedback is gr",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Orbit is an AR satellite tracker that visualizes over 15,000 objects in real-time. It uses augmented reality to display satellite positions and movements. The app provides live tracking data for various satellites.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-12T02:13:38.362273+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48875342,
+      "title": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+      "url": "https://github.com/sqlsure/sqlsure",
+      "score": 15,
+      "comments": 1,
+      "author": "tejusarora",
+      "time": 1783800222,
+      "hn_url": "https://news.ycombinator.com/item?id=48875342",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Sqlsure performs deterministic semantic checks for AI-generated SQL to ensure correctness and avoid schema hallucination. It validates AI-generated SQL queries before they run on production databases. This tool helps prevent semantically wrong queries from causing errors.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-12T02:13:41.054960+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48873692,
+      "title": "Female US rower completes historic solo journey from California to Hawaii",
+      "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
+      "score": 258,
+      "comments": 87,
+      "author": "speckx",
+      "time": 1783789403,
+      "hn_url": "https://news.ycombinator.com/item?id=48873692",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Kelsey Pfendler, a Grand Canyon river rafting guide, completed a record-breaking solo journey from California to Hawaii, becoming the first American woman to achieve this feat. She finished her 2,400-mile trip in July 2026. Hundreds gathered in Honolulu to celebrate her arrival.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-12T02:13:43.229915+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48876593,
+      "title": "Weightlifting beats running for blood sugar control, researchers find (2025)",
+      "url": "https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html",
+      "score": 110,
+      "comments": 61,
+      "author": "sublinear",
+      "time": 1783810182,
+      "hn_url": "https://news.ycombinator.com/item?id=48876593",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Research shows weightlifting is more effective than running for controlling blood sugar and reducing fat, according to Virginia Tech scientists. The study found resistance training improves insulin sensitivity better than endurance exercise. These findings highlight the benefits of both types of exercise for health.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-12T02:13:45.521772+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48830191,
+      "title": "Digital Deli, 1984 book by early PC hackers and enthusiasts",
+      "url": "https://www.atariarchives.org/deli/",
+      "score": 60,
+      "comments": 7,
+      "author": "achairapart",
+      "time": 1783506937,
+      "hn_url": "https://news.ycombinator.com/item?id=48830191",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "\"Digital Deli\" is a 1984 book by early PC hackers and enthusiasts, edited by Steve Ditlea, featuring computer lore and culture. It includes insights from pioneers like Steve Wozniak.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-12T02:13:48.389304+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48875371,
+      "title": "Wealthy AI workers send San Francisco house prices soaring",
+      "url": "https://www.bbc.com/news/articles/c9q29j47v9ro",
+      "score": 11,
+      "comments": 1,
+      "author": "root-parent",
+      "time": 1783800398,
+      "hn_url": "https://news.ycombinator.com/item?id=48875371",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI workers have driven San Francisco house prices to a record high median sale price of $1.76 million in May 2026, significantly higher than the national average. This trend reflects the influx of high-income professionals in the tech sector.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-12T02:13:52.732456+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48876441,
+      "title": "Stop Telling Me to Ask an LLM",
+      "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm/",
+      "score": 162,
+      "comments": 88,
+      "author": "theorchid",
+      "time": 1783808928,
+      "hn_url": "https://news.ycombinator.com/item?id=48876441",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Large language models often get asked to explain things in overly simplistic terms, but it's important to use them for nuanced queries and not just as a substitute for expert advice. Asking LLMs to be concise can help manage their responses.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-07-12T02:13:53.819404+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48873855,
+      "title": "Reverse centaurs are the answer to the AI paradox (2025)",
+      "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism/#there-is-an-alternative",
+      "score": 93,
+      "comments": 52,
+      "author": "jason_s",
+      "time": 1783790632,
+      "hn_url": "https://news.ycombinator.com/item?id=48873855",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Reverse centaurs, a concept by Cory Doctorow, describe machines that use humans as assistants, addressing the AI paradox by highlighting human vulnerability in tech-driven systems. The term was popularized in 2025. The idea critiques the imbalance in human-AI interactions.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-12T02:13:55.882715+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48865903,
+      "title": "AI Can't Recreate the Thrust Game (But It Can Help You Understand It)",
+      "url": "https://www.jamesdrandall.com/posts/thrust_ai_powered_software_archaeology/",
+      "score": 51,
+      "comments": 28,
+      "author": "msephton",
+      "time": 1783721085,
+      "hn_url": "https://news.ycombinator.com/item?id=48865903",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI has struggled to recreate the classic 1986 game Thrust, but it can assist in understanding its complex physics and gameplay mechanics. Despite attempts, the AI-generated version lacks the elegance and playability of the original.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-12T02:13:58.546081+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48870381,
+      "title": "Ghost Font: A font that humans can read but AI cannot",
+      "url": "https://www.mixfont.com/ghost-font",
+      "score": 194,
+      "comments": 146,
+      "author": "justswim",
+      "time": 1783762613,
+      "hn_url": "https://news.ycombinator.com/item?id=48870381",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Ghost Font is a special typeface designed to be readable by humans but unintelligible to AI. It uses unique characters and patterns that confuse automated systems. This font was created to challenge AI's text recognition capabilities.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-12T02:14:01.002965+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48861717,
+      "title": "QuadRF can spot drones and see WiFi through my wall",
+      "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+      "score": 726,
+      "comments": 230,
+      "author": "speckx",
+      "time": 1783699193,
+      "hn_url": "https://news.ycombinator.com/item?id=48861717",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "QuadRF is a compact SDR board that detects drones and visualizes WiFi signals through walls using GNU Radio software. It leverages advanced RF sensing technology to analyze radio waves and identify specific signals. This tool democratizes professional RF sensing capabilities for hobbyists and professionals alike.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-12T02:14:02.899787+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48874200,
+      "title": "AI 2040 and the cult of intelligence",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
+      "score": 181,
+      "comments": 217,
+      "author": "rvz",
+      "time": 1783793041,
+      "hn_url": "https://news.ycombinator.com/item?id=48874200",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI in 2040 may lead to a cult-like devotion to intelligence, with significant societal shifts and ethical debates. Predictions vary, but the focus will be on balancing technological advancement with human values. The future remains speculative.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-12T02:14:04.059336+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48873424,
+      "title": "Modern decor may be straining people's brains",
+      "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
+      "score": 171,
+      "comments": 185,
+      "author": "downwithdisease",
+      "time": 1783787328,
+      "hn_url": "https://news.ycombinator.com/item?id=48873424",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Modern design elements like cluttered interiors and high-contrast colors can overload the brain, causing visual discomfort and stress. This can lead to feelings of unease in everyday environments. Experts suggest these effects are due to differences from natural scenes.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-12T02:14:05.964909+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48832274,
+      "title": "Taiwan's Lost 8-Bit Computer [video]",
+      "url": "https://www.youtube.com/watch?v=IZH1rR7WogI",
+      "score": 21,
+      "comments": 2,
+      "author": "surprisetalk",
+      "time": 1783520116,
+      "hn_url": "https://news.ycombinator.com/item?id=48832274",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Taiwan's Lost 8-Bit Computer is a video about a forgotten 8-bit computer from Taiwan. The video explores its history and significance. The most notable content is from a YouTube channel called Inkbox.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-12T02:14:07.976275+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
