@@ -1,0 +1,466 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-07-13T02:12:56.276310Z",
+  "analyzed_at": "2026-07-13T02:15:46.441418+00:00",
+  "count": 19,
+  "items": [
+    {
+      "id": 48884853,
+      "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
+      "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
+      "score": 312,
+      "comments": 154,
+      "author": "joahnn_s",
+      "time": 1783890731,
+      "hn_url": "https://news.ycombinator.com/item?id=48884853",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Since Chromium 148, Math.tanh can fingerprint the underlying OS due to different computation results on various platforms. This change exploits variations in math library implementations. This fingerprinting can be mitigated by compiling with `-ffp-contract=off`.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-13T02:15:08.666622+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48834309,
+      "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
+      "url": "https://nebusec.ai/research/ionstack-part-2/",
+      "score": 91,
+      "comments": 16,
+      "author": "ranger_danger",
+      "time": 1783529638,
+      "hn_url": "https://news.ycombinator.com/item?id=48834309",
+      "text": "UAF = Use After Free (<a href=\"https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Dangling_pointer\" rel=\"nofollow\">https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Dangling_pointer</a>)",
+      "relevance_score": 0.8999999999999999,
+      "summary": "GhostLock (CVE-2026-43499) is a long-standing Linux kernel vulnerability discovered in 2026, affecting all major distributions since 2011. It allows an unprivileged local attacker to write to arbitrary memory addresses. The issue was fixed in April 2026.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-13T02:15:10.635292+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48884395,
+      "title": "Tiny Emulators",
+      "url": "https://floooh.github.io/tiny8bit-preview/index.html",
+      "score": 149,
+      "comments": 9,
+      "author": "naves",
+      "time": 1783887785,
+      "hn_url": "https://news.ycombinator.com/item?id=48884395",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "TinyEmulator is a versatile retro game emulator for multiple platforms, offering multiplayer netplay and customizable skins. It supports various classic gaming systems and enhances gameplay with features like shaders and turbo keys. It is available for web, iOS, Android, Windows, Mac, and Linux.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-13T02:15:12.722661+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48885728,
+      "title": "Designing and assembling my first PCB",
+      "url": "https://vilkeliskis.com/b/2026/0711.html",
+      "score": 52,
+      "comments": 5,
+      "author": "tadasv",
+      "time": 1783897016,
+      "hn_url": "https://news.ycombinator.com/item?id=48885728",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "To design and assemble your first PCB, start with a simple schematic, use software like KiCad, and follow a step-by-step guide for layout and routing. Order from a manufacturer like PCBWay for fabrication.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-13T02:15:14.670473+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48886741,
+      "title": "Ask HN: Add flag for AI-generated articles",
+      "url": "",
+      "score": 55,
+      "comments": 19,
+      "author": "levkk",
+      "time": 1783905860,
+      "hn_url": "https://news.ycombinator.com/item?id=48886741",
+      "text": "Should HN add the ability to flag articles as AI-generated? This doesn&#x27;t have to act as a regular flag, i.e., it won&#x27;t de-rank the article; it could just show up as an indicator, allowing others (like myself) who don&#x27;t like reading AI-generated text, to skip it.<p>Open questions:<p>1. Why is the regular voting system not enough?<p>2. Should HN change in response to the gen AI era? It has been successful not changing fundamentals.",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Hacker News bans AI-generated comments to maintain human interaction. Some platforms consider flagging AI-generated content for review. AI-generated articles may still be flagged if similar titles are used.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-13T02:15:15.866832+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48885705,
+      "title": "Why Vanilla JavaScript",
+      "url": "https://guseyn.com/html/posts/why-vanilla-js.html",
+      "score": 48,
+      "comments": 20,
+      "author": "guseyn",
+      "time": 1783896831,
+      "hn_url": "https://news.ycombinator.com/item?id=48885705",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Vanilla JavaScript is favored for its simplicity, direct access to web browsers, and broad support across all modern web platforms. It allows developers to create dynamic and interactive web pages without needing additional libraries or frameworks.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-13T02:15:17.569945+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48880170,
+      "title": "Old and new apps, via modern coding agents",
+      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+      "score": 413,
+      "comments": 120,
+      "author": "subset",
+      "time": 1783854582,
+      "hn_url": "https://news.ycombinator.com/item?id=48880170",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Mathematician Terence Tao used AI coding agents to port old Java applets to JavaScript and build new visualizations, finding the process efficient and effective. The AI found more bugs than it introduced. Tao plans to use similar tools for future interactive supplements.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-07-13T02:15:19.436034+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48882716,
+      "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+      "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+      "score": 145,
+      "comments": 47,
+      "author": "brryant",
+      "time": 1783876387,
+      "hn_url": "https://news.ycombinator.com/item?id=48882716",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Migrating a production AI agent to GPT-5.6 results in a 2.2x speed increase and a 27% cost reduction. This upgrade is highly efficient and economical.",
+      "tags": [
+        "ai",
+        "agent",
+        "gpt"
+      ],
+      "analyzed_at": "2026-07-13T02:15:21.387303+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48883275,
+      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "score": 470,
+      "comments": 264,
+      "author": "systima",
+      "time": 1783880751,
+      "hn_url": "https://news.ycombinator.com/item?id=48883275",
+      "text": "This started based off of a hunch. We usually use OpenCode, but were &#x27;forced&#x27; to use Claude Code for a while due to issues with Meridian. In that time, we saw the usage meter rise much, much more quickly than when using OpenCode.<p>This was the initial anecdotal evidence, but we undertook this small study to collect empirical data:<p>We added logging between the agentic coding tool (Claude Code and OpenCode) and Anthropic&#x27;s endpoint, and captured all requests (and the returned usa",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Claude Code sends 33,000 tokens before reading the prompt; OpenCode sends only 7,000. This shows significant inefficiency in token usage for Claude Code. The study highlights the higher overhead of Claude Code compared to OpenCode.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-13T02:15:23.261325+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48883238,
+      "title": "I Learned to Read Again",
+      "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
+      "score": 102,
+      "comments": 41,
+      "author": "georgex7",
+      "time": 1783880535,
+      "hn_url": "https://news.ycombinator.com/item?id=48883238",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Re-learning to read requires practice, similar to other skills. It can be a transformative experience, offering new perspectives. Many find it helps in personal growth and understanding.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-13T02:15:24.804402+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48883090,
+      "title": "Mechanistic interpretability researchers applying causality theory to LLMs",
+      "url": "https://cacm.acm.org/news/can-we-understand-how-large-language-models-reason/",
+      "score": 84,
+      "comments": 63,
+      "author": "adunk",
+      "time": 1783879481,
+      "hn_url": "https://news.ycombinator.com/item?id=48883090",
+      "text": "<a href=\"https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2301.04709\" rel=\"nofollow\">https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2301.04709</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Mechanistic interpretability researchers apply causality theory to understand how large language models operate, aiming to ensure alignment with human values. This involves identifying internal mechanisms and interventions to mitigate harmful behaviors. Key focus is on automated interpretability and scaling techniques.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-07-13T02:15:27.636128+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48883343,
+      "title": "I love LLMs, I hate hype",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+      "score": 327,
+      "comments": 195,
+      "author": "therepanic",
+      "time": 1783881116,
+      "hn_url": "https://news.ycombinator.com/item?id=48883343",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Large Language Models (LLMs) are powerful but not close to achieving AGI; their hype is often exaggerated; many find them useful despite this skepticism.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-07-13T02:15:29.673512+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48882956,
+      "title": "Against Usefulness",
+      "url": "https://www.motivenotes.ai/p/against-usefulness",
+      "score": 85,
+      "comments": 22,
+      "author": "supo",
+      "time": 1783878427,
+      "hn_url": "https://news.ycombinator.com/item?id=48882956",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "\"Against Usefulness\" critiques the value of usefulness, exploring non-utilitarian aspects of creativity and collaboration. It emphasizes the intrinsic value of art and innovation beyond practical applications. The essay highlights the importance of the creative process itself.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-13T02:15:31.752256+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48883415,
+      "title": "The One-Step Trap (In AI Research)",
+      "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
+      "score": 45,
+      "comments": 8,
+      "author": "jxmorris12",
+      "time": 1783881675,
+      "hn_url": "https://news.ycombinator.com/item?id=48883415",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI research often focuses too much on immediate technical solutions without considering long-term business value, leading to disappointing results. The trap lies in not connecting AI experiments to real customer problems. Focus on business impact is essential for successful AI implementation.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-13T02:15:34.585473+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48884618,
+      "title": "Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels",
+      "url": "https://nanduruganesh.github.io/flash-msa/",
+      "score": 22,
+      "comments": 0,
+      "author": "rawsh",
+      "time": 1783889203,
+      "hn_url": "https://news.ycombinator.com/item?id=48884618",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Flash-MSA accelerates million-token training using sparse attention kernels. It replaces MLA with GQA and introduces blockwise sparsity. It achieves linear time backpropagation and is highly consistent with PyTorch.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-13T02:15:38.330181+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48877371,
+      "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
+      "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+      "score": 403,
+      "comments": 156,
+      "author": "jhoho",
+      "time": 1783818590,
+      "hn_url": "https://news.ycombinator.com/item?id=48877371",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "xAI's Grok build CLI transmits file contents, including secrets, to xAI via two channels: live model turns and session state archives. It also previously uploaded entire repositories.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-13T02:15:40.251177+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48881874,
+      "title": "The shingles vaccine may reduce the risk of dementia",
+      "url": "https://www.economist.com/leaders/2026/07/09/a-no-brainer-for-protecting-your-brain",
+      "score": 216,
+      "comments": 177,
+      "author": "saikatsg",
+      "time": 1783869839,
+      "hn_url": "https://news.ycombinator.com/item?id=48881874",
+      "text": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;PzPop\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;PzPop</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The shingles vaccine may lower the risk of dementia and major cardiovascular events in older adults. Studies show a significant reduction in dementia risk among vaccinated individuals. This suggests the vaccine could protect against serious health issues beyond shingles.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-13T02:15:42.270054+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48881830,
+      "title": "Don't you mean extinct?",
+      "url": "https://fabiensanglard.net/extinct/index.html",
+      "score": 183,
+      "comments": 114,
+      "author": "zdw",
+      "time": 1783869440,
+      "hn_url": "https://news.ycombinator.com/item?id=48881830",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "\"Don't you mean extinct?\" refers to a famous line from Jurassic Park. It's also a trophy in LEGO Jurassic World for collecting all Minikits. This phrase highlights the extinction of dinosaurs.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-13T02:15:44.232924+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48884647,
+      "title": "The State of MCP Security [pdf]",
+      "url": "https://www.canopii.dev/State%20of%20MCP%20Security%202026.pdf",
+      "score": 22,
+      "comments": 2,
+      "author": "mavzer",
+      "time": 1783889386,
+      "hn_url": "https://news.ycombinator.com/item?id=48884647",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Model Context Protocol (MCP) security focuses on secure-by-default design for AI-driven automation, emphasizing rigorous implementation and sandboxing to mitigate risks. Key recommendations include using stdio transport and sandboxing for local deployments. The protocol aims to secure data sharing and task automation across AI ecosystems.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-13T02:15:45.940573+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
