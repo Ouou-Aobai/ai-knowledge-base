@@ -1,0 +1,489 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-07-14T01:58:44.295479Z",
+  "analyzed_at": "2026-07-14T02:02:14.027611+00:00",
+  "count": 20,
+  "items": [
+    {
+      "id": 48894752,
+      "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+      "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+      "score": 454,
+      "comments": 182,
+      "author": "get-inscribe",
+      "time": 1783958768,
+      "hn_url": "https://news.ycombinator.com/item?id=48894752",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Apple's new SpeechAnalyzer API reportedly makes fewer errors than its predecessor and Whisper, though exact accuracy numbers remain unpublished. The new API outperforms Whisper Tiny on clean speech. Benchmarks show it performs significantly better than the old engine.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-14T02:01:25.154268+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48900686,
+      "title": "Turn your singing voice into printable notes (in the browser)",
+      "url": "https://om-intelligence.ch/projects/vocal-notation/vocal-notation.html",
+      "score": 14,
+      "comments": 5,
+      "author": "busssard",
+      "time": 1783987836,
+      "hn_url": "https://news.ycombinator.com/item?id=48900686",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Sing2Notes converts singing into sheet music notes. It works via an online tool and app. You can export the sheet music as PDF, MIDI, or MusicXML.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-14T02:01:27.403141+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48893639,
+      "title": "The art and engineering of Sega CD Silpheed",
+      "url": "https://fabiensanglard.net/silpheed/index.html",
+      "score": 226,
+      "comments": 47,
+      "author": "ibobev",
+      "time": 1783954353,
+      "hn_url": "https://news.ycombinator.com/item?id=48893639",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Silpheed for Sega CD is known for its advanced graphics and sound, with innovative gameplay mechanics and challenging difficulty. Game Arts engineered the game to maximize the system's capabilities. The game features unique scoring based on proximity to enemies.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-14T02:01:29.910320+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48900319,
+      "title": "Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder",
+      "url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
+      "score": 10,
+      "comments": 0,
+      "author": "detkin",
+      "time": 1783985212,
+      "hn_url": "https://news.ycombinator.com/item?id=48900319",
+      "text": "Hi all, author here. SX started as a CLI to let developers share skills across AI clients without having to rely on git for storage. This allowed sharing at the Repo&#x2F;Team&#x2F;Org and Personal level.<p>However, the more we spoke to users the more we realized that non-technical users were actually using skills more and more but they had no way to share. And there was no way you were going to get your legal team to install and learn git.<p>SX 2.0 is targeting non-technical teams by adding a n",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Sx 2.0 allows teams to share AI skills via a Dropbox folder. Applications are open until July 27. Sx is also an open-source package manager for AI skills.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-14T02:01:31.693247+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48894630,
+      "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
+      "url": "https://github.com/jbwinters/jacquard-lang",
+      "score": 51,
+      "comments": 20,
+      "author": "jbwinters",
+      "time": 1783958162,
+      "hn_url": "https://news.ycombinator.com/item?id=48894630",
+      "text": "I&#x27;m fascinated by the generative AI wave rolling over us, and wondered if AI could create a language that it might prefer using over the ones created by and for humans.<p>To create the design, I had AI analyze the ASTs of several mainstream languages plus a few of the conceptually groundbreaking but esoteric ones (listed in the README) and then create a new structure and new syntax. It was named after the Jacquard machine (<a href=\"https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Jacquard_",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Jacquard is a programming language designed for AI-written code reviewed by humans. It features explicit permissions for external interactions and aims for high efficiency. It's currently usable and open-source on GitHub.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-14T02:01:34.365217+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48862854,
+      "title": "The Difference Between Watercolor and Gouache Paints",
+      "url": "https://www.jetpens.com/blog/The-Difference-Between-Watercolor-and-Gouache-Paints/pt/963",
+      "score": 12,
+      "comments": 0,
+      "author": "ynac",
+      "time": 1783704988,
+      "hn_url": "https://news.ycombinator.com/item?id=48862854",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Gouache paints are opaque, while watercolors are transparent. Gouache has more pigment and less water. Watercolors blend easily, while gouache stands out.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-14T02:01:37.233231+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48897878,
+      "title": "Telegram's t.me domain has been suspended",
+      "url": "https://www.whois.com/whois/t.me",
+      "score": 253,
+      "comments": 186,
+      "author": "Tiberium",
+      "time": 1783972345,
+      "hn_url": "https://news.ycombinator.com/item?id=48897878",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Telegram's t.me domain was suspended, causing outages. The registry placed it in a server hold status, preventing resolution. Telegram is now redirecting to telegram.me to avoid further issues.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-14T02:01:39.649880+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48899321,
+      "title": "A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
+      "url": "https://arxiv.org/abs/2607.01418",
+      "score": 27,
+      "comments": 11,
+      "author": "softwaredoug",
+      "time": 1783979031,
+      "hn_url": "https://news.ycombinator.com/item?id=48899321",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "In early 2026, Microsoft released GitHub Copilot CLI, while Anthropic's Claude Code has been in production longer. Copilot CLI offers flexibility and GitHub integration, while Claude Code excels in multi-file refactors.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-14T02:01:44.114793+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48897975,
+      "title": "Show HN: I implemented a neural network in SQL",
+      "url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
+      "score": 59,
+      "comments": 13,
+      "author": "alxmrs",
+      "time": 1783972810,
+      "hn_url": "https://news.ycombinator.com/item?id=48897975",
+      "text": "Two weeks ago I was on my babymoon in Corfu, Greece. While in transit, I was overseeing a GSoC intern submit an important feature to my array database library, Xarray-SQL. He added `to_dataset()`, which completed the roundtrip between thinking of array data in a tabular model simultaneously as gridded rasters (the premise of the project is that every Nd array can be mapped to 2d, where orthogonal dims of the Nd array are just primary keys of a tabular representation). We discussed in chat, now t",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Neural networks can be implemented in SQL using tables to store weights and biases, leveraging JOIN and GROUP BY for computations. This approach reduces data migration and latency. SQL-based neural networks integrate seamlessly with existing data pipelines.",
+      "tags": [
+        "neural"
+      ],
+      "analyzed_at": "2026-07-14T02:01:46.265525+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48897991,
+      "title": "Samsung Health app threatens data deletion if users opt out AI training",
+      "url": "https://neow.in/cWsyMTV3",
+      "score": 276,
+      "comments": 69,
+      "author": "bundie",
+      "time": 1783972903,
+      "hn_url": "https://news.ycombinator.com/item?id=48897991",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Samsung Health app may delete data if users opt out of AI training. This policy is part of broader industry practices. Users should review terms for data handling.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-14T02:01:49.675947+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48900288,
+      "title": "Show HN: ContextVault – Shared memory layer for your AI and your team",
+      "url": "https://www.contextvault.dev/",
+      "score": 7,
+      "comments": 0,
+      "author": "Repeater22746",
+      "time": 1783984938,
+      "hn_url": "https://news.ycombinator.com/item?id=48900288",
+      "text": "Hi HN,<p>I&#x27;m Kevin. I built ContextVault because I kept running into the same problem with AI tools.<p>Every project accumulated prompts, coding conventions, architectural decisions, examples, and other pieces of context that made the models significantly more useful. The problem was that this information quickly became fragmented. Some lived in ChatGPT Projects, some in Claude, some in Markdown files, some in internal documentation, and some only existed in previous conversations.<p>Late l",
+      "relevance_score": 0.8999999999999999,
+      "summary": "ContextVault is a shared memory layer for AI and teams, enabling seamless context sharing across projects and tools. It supports multiple AI clients without vendor lock-in. It offers durable, organized memory for efficient collaboration.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-14T02:01:53.441339+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48900231,
+      "title": "The AI Whale Fall and Open Source",
+      "url": "https://minor.gripe/posts/2026-07-13-the_ai_whalefall_and_open_source/",
+      "score": 11,
+      "comments": 3,
+      "author": "ai_critic",
+      "time": 1783984602,
+      "hn_url": "https://news.ycombinator.com/item?id=48900231",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI usage is subsidized by frontier labs, and it's crucial to leverage it to enhance open source projects while it's available. Critics doubt the sustainability of AI labs due to high costs, but AI remains a temporary tool for development.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-14T02:01:56.014104+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48837755,
+      "title": "Robust Secret Storage in Networks",
+      "url": "https://arxiv.org/abs/2606.30261",
+      "score": 19,
+      "comments": 1,
+      "author": "Anon84",
+      "time": 1783546678,
+      "hn_url": "https://news.ycombinator.com/item?id=48837755",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Robust secret storage in networks balances survivability and security through distributed methods. It ensures secrets remain accessible even if parts of the network fail. This approach enhances data protection across network environments.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-14T02:01:58.252778+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48896599,
+      "title": "Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+      "url": "https://github.com/morganwilliscloud/billai-bass",
+      "score": 57,
+      "comments": 26,
+      "author": "mtw14",
+      "time": 1783966703,
+      "hn_url": "https://news.ycombinator.com/item?id=48896599",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "BillAI Bass is an AI-powered version of the classic Big Mouth Billy Bass toy, using Strands Agents and Amazon Nova for voice assistance. It runs on a Raspberry Pi 5. The project is open source.",
+      "tags": [
+        "ai",
+        "agent"
+      ],
+      "analyzed_at": "2026-07-14T02:02:00.524062+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48866461,
+      "title": "The 4-Bitter Lesson: Balancing Stability and Performance in NVFP4 RL",
+      "url": "https://humansand.ai/blog/nvfp4-rl",
+      "score": 23,
+      "comments": 3,
+      "author": "Areibman",
+      "time": 1783724690,
+      "hn_url": "https://news.ycombinator.com/item?id=48866461",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The word \"the\" is a definite article used before nouns to specify particular items. It can be pronounced as \"thee\" before vowel sounds and \"thuh\" before consonant sounds. This usage varies by dialect and personal preference.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-14T02:02:02.393531+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48834309,
+      "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
+      "url": "https://nebusec.ai/research/ionstack-part-2/",
+      "score": 393,
+      "comments": 191,
+      "author": "ranger_danger",
+      "time": 1783529638,
+      "hn_url": "https://news.ycombinator.com/item?id=48834309",
+      "text": "UAF = Use After Free (<a href=\"https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Dangling_pointer\" rel=\"nofollow\">https:&#x2F;&#x2F;en.wikipedia.org&#x2F;wiki&#x2F;Dangling_pointer</a>)",
+      "relevance_score": 0.8999999999999999,
+      "summary": "GhostLock is a stack-use-after-free (UAF) vulnerability in the Linux kernel present since 2011, fixed in 2026. It allows writing to arbitrary memory addresses using regular threading syscalls. This flaw existed in all major distributions for 15 years.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-14T02:02:04.570354+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48891267,
+      "title": "Show HN: DOM-docx – HTML to native, editable Word docs (MIT)",
+      "url": "https://github.com/floodtide/dom-docx",
+      "score": 137,
+      "comments": 32,
+      "author": "fishbone",
+      "time": 1783943516,
+      "hn_url": "https://news.ycombinator.com/item?id=48891267",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "DOM-docx converts HTML to native, editable Word documents. It supports complex layouts and is MIT licensed. Available in Node, browser, and CLI.",
+      "tags": [
+        "ml"
+      ],
+      "analyzed_at": "2026-07-14T02:02:06.263072+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48900824,
+      "title": "LAPD Regularly Pulled over Innocent People Plate Readers Flagged Cars as Stolen",
+      "url": "https://www.404media.co/lapd-regularly-pulled-over-innocent-people-because-license-plate-readers-flagged-their-cars-as-stolen/",
+      "score": 14,
+      "comments": 2,
+      "author": "Jimmc414",
+      "time": 1783989052,
+      "hn_url": "https://news.ycombinator.com/item?id=48900824",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The LAPD has been found to regularly pull over innocent people whose cars were falsely flagged as stolen by license plate readers. An audit revealed 161 such improper investigations in two months. This issue highlights significant errors in ALPR technology.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-14T02:02:08.478518+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48900140,
+      "title": "Cdbx.ai – AI-powered browser IDE to describe, build, and publish apps",
+      "url": "https://cdbx.ai/",
+      "score": 7,
+      "comments": 2,
+      "author": "chbutler",
+      "time": 1783984036,
+      "hn_url": "https://news.ycombinator.com/item?id=48900140",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Cdbx.ai is an AI-powered browser IDE for building and publishing apps by describing them in plain English. It connects to services like Notion and GitHub. Adapty offers tools for app monetization and analytics.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-14T02:02:10.662352+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48896179,
+      "title": "Show HN: OpenClawMachines – Extending OpenClaw to the Enterprise",
+      "url": "https://github.com/mathaix/OpenClawMachines",
+      "score": 26,
+      "comments": 26,
+      "author": "mathaix",
+      "time": 1783964729,
+      "hn_url": "https://news.ycombinator.com/item?id=48896179",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "OpenClaw has evolved into enterprise-ready platforms like Onyx Craft and NemoClaw, offering secure, sandboxed AI agent capabilities. Onyx Craft is favored for its security features, while NemoClaw is an early-stage fork by NVIDIA.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-14T02:02:13.526703+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
