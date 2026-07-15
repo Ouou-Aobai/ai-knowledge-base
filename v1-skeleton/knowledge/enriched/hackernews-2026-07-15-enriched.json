@@ -1,0 +1,539 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-07-15T01:55:05.669328Z",
+  "analyzed_at": "2026-07-15T01:55:50.713364+00:00",
+  "count": 22,
+  "items": [
+    {
+      "id": 48915004,
+      "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+      "url": "https://tailscale.com/security-bulletins",
+      "score": 25,
+      "comments": 6,
+      "author": "jervant",
+      "time": 1784077706,
+      "hn_url": "https://news.ycombinator.com/item?id=48915004",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Insecure argument handling in Tailscale SSH led to root access vulnerabilities. Tailscale SSH should be restricted to non-root users. Always use strong authentication methods.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-15T01:55:07.541841+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48910545,
+      "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+      "url": "https://prismml.com/news/bonsai-27b",
+      "score": 436,
+      "comments": 160,
+      "author": "xenova",
+      "time": 1784051448,
+      "hn_url": "https://news.ycombinator.com/item?id=48910545",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Bonsai 27B is the first 27B-class model to run on a phone, requiring only 3.9GB of storage. It maintains 95% of its full-precision baseline performance. Released in 2026, it fits within an iPhone's memory.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-15T01:55:10.201263+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48913443,
+      "title": "Financing the AI boom: from cash flows to debt [pdf]",
+      "url": "https://www.bis.org/publ/bisbull120.pdf",
+      "score": 87,
+      "comments": 33,
+      "author": "1vuio0pswjnm7",
+      "time": 1784066316,
+      "hn_url": "https://news.ycombinator.com/item?id=48913443",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Investment in AI is rapidly increasing, prompting firms to rely more on debt than cash flows. Private credit is growing significantly to meet these needs. Risks for lenders are rising due to technology and market volatility.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-15T01:55:11.788037+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48910676,
+      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+      "score": 250,
+      "comments": 107,
+      "author": "Synthetic7346",
+      "time": 1784051915,
+      "hn_url": "https://news.ycombinator.com/item?id=48910676",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A 0day vulnerability in Cursor was disclosed publicly after the developer ignored multiple reports. The flaw allows arbitrary code execution on Windows. Mindgard's full disclosure aimed to protect users.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-15T01:55:13.515674+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48913763,
+      "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
+      "url": "https://www.benjamin-bai.com/projects/lemario",
+      "score": 49,
+      "comments": 5,
+      "author": "kevinjosethomas",
+      "time": 1784068247,
+      "hn_url": "https://news.ycombinator.com/item?id=48913763",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "LeMario trains a JEPA World Model on Super Mario Bros, aiming to understand game dynamics. Yann LeCun's JEPA simplifies training such models. This approach aims to create systems that understand and predict world interactions.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-15T01:55:15.431802+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48905248,
+      "title": "How to stop Claude from saying load-bearing",
+      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+      "score": 435,
+      "comments": 500,
+      "author": "shintoist",
+      "time": 1784029562,
+      "hn_url": "https://news.ycombinator.com/item?id=48905248",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "To stop an AI system from using specific words, update its instruction file with explicit bans. This may require frequent updates as the AI may revert to old patterns. Consult the system's documentation for precise methods.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-15T01:55:16.795376+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48872401,
+      "title": "The largest available Minecraft world, totalling 15 TB",
+      "url": "https://2b2t.place/1million",
+      "score": 165,
+      "comments": 55,
+      "author": "_____k",
+      "time": 1783780339,
+      "hn_url": "https://news.ycombinator.com/item?id=48872401",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The largest Minecraft world is 15 TB, saved from the 2b2t server. It includes over 100 million blocks. The data was saved to preserve the server's history.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-15T01:55:18.629617+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48899473,
+      "title": "The Estranged Worlds of J. G. Ballard",
+      "url": "https://lareviewofbooks.org/article/jg-ballard-illuminated-man-christopher-priest-nina-allan/",
+      "score": 38,
+      "comments": 6,
+      "author": "Caiero",
+      "time": 1783979876,
+      "hn_url": "https://news.ycombinator.com/item?id=48899473",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "J. G. Ballard was a prominent English fiction writer known for his unique blend of science fiction and social science themes, evolving from apocalyptic scenarios to more intimate disasters. His work often focused on cognitive estrangement. He was a key figure in the 1960s New Wave of science fiction.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-15T01:55:21.151494+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48906041,
+      "title": "Guardian Angels: LLM Personalization for Productivity and Security",
+      "url": "https://gwern.net/guardian-angel",
+      "score": 58,
+      "comments": 7,
+      "author": "andsoitis",
+      "time": 1784033429,
+      "hn_url": "https://news.ycombinator.com/item?id=48906041",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Guardian Angels are proposed personalized LLMs that emulate a user's values and preferences to enhance productivity and security. They aim to solve the principal-agent problem by aligning the agent closely with the user's goals. This concept is discussed in various formats including podcasts and essays.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-07-15T01:55:22.651985+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48865001,
+      "title": "The zero-cost fallacy: open-source software in the agentic era",
+      "url": "https://www.thoughtworks.com/insights/blog/open-source/zero-cost-fallacy-open-source-agentic-era",
+      "score": 108,
+      "comments": 82,
+      "author": "backlit4034",
+      "time": 1783716343,
+      "hn_url": "https://news.ycombinator.com/item?id=48865001",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The zero-cost fallacy refers to the misconception that open-source software is free of all costs. It overlooks the hidden expenses of maintenance, support, and integration. Open-source software requires ongoing investment in time and resources.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-07-15T01:55:24.497205+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48908178,
+      "title": "Are we offloading too much of our thinking to AI?",
+      "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+      "score": 381,
+      "comments": 383,
+      "author": "yenniejun111",
+      "time": 1784042293,
+      "hn_url": "https://news.ycombinator.com/item?id=48908178",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Over-reliance on AI can weaken our critical thinking and cognitive skills. Regular use may lead to skill decay. Structured use can enhance critical thinking.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-15T01:55:26.745990+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48908950,
+      "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+      "url": "https://agnost.ai",
+      "score": 46,
+      "comments": 33,
+      "author": "laalshaitaan",
+      "time": 1784045178,
+      "hn_url": "https://news.ycombinator.com/item?id=48908950",
+      "text": "Hey HN, we’re Shubham &amp; Parth, childhood friends building Agnost AI (<a href=\"https:&#x2F;&#x2F;agnost.ai\">https:&#x2F;&#x2F;agnost.ai</a>), product analytics for teams building chat and voice agents.<p>We read production conversations and find behavioral failures like users rageprompting (cursing at the agent), repeatedly rephrasing the same request, correcting the agent, asking for missing features, or leaving after an answer that was technically successful.<p>We have an interactive demo w",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Agnost AI analyzes user interactions with AI agents to identify behavioral failures and extract actionable feedback for product improvement. It helps teams discover user frustrations and repeated requests. Users appreciate its ability to convert overlooked feedback into actionable product updates.",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "analyzed_at": "2026-07-15T01:55:28.928594+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48883305,
+      "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
+      "url": "https://github.com/juggler-ai/juggler",
+      "score": 179,
+      "comments": 80,
+      "author": "julesrms",
+      "time": 1783880895,
+      "hn_url": "https://news.ycombinator.com/item?id=48883305",
+      "text": "Hello HN, I don&#x27;t post on here much, but wanted to get some eyes on a new project I&#x27;m just launching. I think we definitely need one more AI code agent..<p>I&#x27;m a long-term C++ dev, and over 30+ years I&#x27;ve created some successful audio dev tools (JUCE, the Tracktion DAW, the Cmajor DSP language). All of these came from me getting annoyed with something I had to use, and deciding to have a go at my own take on whatever it was.<p>So Juggler is my attempt at an AI code agent, aft",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Juggler is an open-source GUI coding agent created by the JUCE developer. It offers a visual workspace for managing large language model code and supports local, remote, or hybrid operation. It aims to improve the interaction and management of AI code.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-07-15T01:55:30.596187+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48914472,
+      "title": "Legal AI, not a coding agent with scaffolding",
+      "url": "https://lexifina.com/blog/legal-ai-not-a-coding-agent-with-scaffolding",
+      "score": 5,
+      "comments": 0,
+      "author": "alansaber",
+      "time": 1784073117,
+      "hn_url": "https://news.ycombinator.com/item?id=48914472",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Legal AI refers to the use of artificial intelligence in legal contexts, focusing on compliance and risk management without coding or scaffolding. It enhances legal processes and decision-making. AI in law is distinct from coding agents that build or manage code structures.",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "analyzed_at": "2026-07-15T01:55:33.276216+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48913407,
+      "title": "The 3-degree limit could be exceeded as early as 2050",
+      "url": "https://www.dpg-physik.de/veroeffentlichungen/publikationen/stellungnahmen-der-dpg/klima-energie/klimaaufruf",
+      "score": 14,
+      "comments": 0,
+      "author": "simmerup",
+      "time": 1784066059,
+      "hn_url": "https://news.ycombinator.com/item?id=48913407",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Global mean surface temperatures could exceed a 3-degree rise above pre-industrial levels by 2050. This projection is based on current trends in greenhouse gas emissions. Scientists warn this could lead to severe climate impacts.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-15T01:55:35.870727+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48912100,
+      "title": "StubHub, CEO hit with ‘deceptive practices’ class action over mass scalping",
+      "url": "https://www.cbc.ca/news/world/stubhub-ceo-class-action-scalping-9.7268987",
+      "score": 120,
+      "comments": 63,
+      "author": "b112",
+      "time": 1784058516,
+      "hn_url": "https://news.ycombinator.com/item?id=48912100",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "StubHub and its CEO, Eric Baker, face a $5-million class action lawsuit for deceptive practices related to mass scalping. Baker also runs a hedge fund that resells tickets on StubHub. The lawsuit claims StubHub misrepresented itself as a neutral marketplace.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-15T01:55:37.878430+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48907672,
+      "title": "The Agentic Loop: Three loops in a trench coat",
+      "url": "https://www.bobbytables.io/p/the-agentic-loop-three-loops-in-a",
+      "score": 73,
+      "comments": 20,
+      "author": "btables",
+      "time": 1784039996,
+      "hn_url": "https://news.ycombinator.com/item?id=48907672",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "An agentic loop consists of three steps: think, act, observe. It enables AI agents to iteratively reason, perform actions, and evaluate outcomes until a goal is achieved. This loop is essential for autonomous AI agents to function effectively.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-07-15T01:55:39.653213+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48904095,
+      "title": "Demis Hassabis has a plan to harness AI safely",
+      "url": "https://twitter.com/demishassabis/status/2076957440109625718",
+      "score": 135,
+      "comments": 183,
+      "author": "asiergoni",
+      "time": 1784020807,
+      "hn_url": "https://news.ycombinator.com/item?id=48904095",
+      "text": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;i&#x2F;article&#x2F;2076957440109625718\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;i&#x2F;article&#x2F;2076957440109625718</a><p><a href=\"https:&#x2F;&#x2F;www.economist.com&#x2F;business&#x2F;2026&#x2F;07&#x2F;14&#x2F;demis-hassabis-has-a-plan-to-harness-ai-safely\" rel=\"nofollow\">https:&#x2F;&#x2F;www.economist.com&#x2F;business&#x2F;2026&#x2F;07&#x2F;14&#x2F;demis-hassabis...</a>, <a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;GOUcN\" rel=\"nofollo",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Demis Hassabis, co-founder of Google DeepMind, has outlined a plan to ensure the safe development and use of artificial intelligence. His vision focuses on responsible AI practices and regulatory frameworks. For more details, refer to his exclusive interview.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-15T01:55:41.225515+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48902320,
+      "title": "Australian energy retailers must offer three hours of free daytime electricity",
+      "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
+      "score": 265,
+      "comments": 350,
+      "author": "i2oc",
+      "time": 1784003508,
+      "hn_url": "https://news.ycombinator.com/item?id=48902320",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Starting July 1, 2026, Australian energy retailers in NSW, South Australia, and South-East Queensland must offer households at least three hours of free daytime electricity daily. This benefit is available to all with a smart meter. Opt-in is required to access this free electricity.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-15T01:55:43.504280+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48914917,
+      "title": "House Votes for Permanent Daylight Saving Time",
+      "url": "https://www.nytimes.com/2026/07/14/us/politics/house-daylight-savings-time-sunshine-protection-act.html",
+      "score": 8,
+      "comments": 0,
+      "author": "donohoe",
+      "time": 1784076930,
+      "hn_url": "https://news.ycombinator.com/item?id=48914917",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The House is set to vote on making daylight saving time permanent nationwide, with the Sunshine Protection Act aiming to end the twice-yearly clock changes. The bill has bipartisan support and passed the House Energy and Commerce Committee in May. The full House vote is expected soon.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-15T01:55:45.283401+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48905919,
+      "title": "Show HN: I RL-trained an agent that trains models with RL (for ~$1.3k)",
+      "url": "https://github.com/Danau5tin/ai-trains-ai",
+      "score": 97,
+      "comments": 42,
+      "author": "Danau5tin",
+      "time": 1784032885,
+      "hn_url": "https://news.ycombinator.com/item?id=48905919",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "An agent trained with reinforcement learning can also train other models using reinforcement learning, available for around $1.3k. The project is hosted on GitHub.",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "analyzed_at": "2026-07-15T01:55:48.114464+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48914439,
+      "title": "Why organizing knowledge in the age of AI sucks, and how I solve it",
+      "url": "https://jordangreen.bearblog.dev/why-organizing-knowledge-in-the-age-of-ai-sucks-and-what-i-built/",
+      "score": 3,
+      "comments": 1,
+      "author": "enteigss",
+      "time": 1784072873,
+      "hn_url": "https://news.ycombinator.com/item?id=48914439",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Organizing knowledge with AI is challenging due to poor prompt formulation and lack of user expertise. To solve it, refine your questions and understand AI's limitations. Practice and feedback improve results.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-15T01:55:50.212332+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
