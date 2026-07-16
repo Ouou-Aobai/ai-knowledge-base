@@ -1,0 +1,584 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-07-16T02:05:41.603695Z",
+  "analyzed_at": "2026-07-16T02:07:00.016281+00:00",
+  "count": 24,
+  "items": [
+    {
+      "id": 48924912,
+      "title": "Inkling: Our Open-Weights Model",
+      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "score": 699,
+      "comments": 179,
+      "author": "vimarsh6739",
+      "time": 1784139165,
+      "hn_url": "https://news.ycombinator.com/item?id=48924912",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "Inkling: Our Open-Weights Model",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-16T02:05:54.435110+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48926590,
+      "title": "Grok Build is open source",
+      "url": "https://github.com/xai-org/grok-build",
+      "score": 271,
+      "comments": 313,
+      "author": "skp1995",
+      "time": 1784147098,
+      "hn_url": "https://news.ycombinator.com/item?id=48926590",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Grok Build is an open-source coding model by xAI, optimized for software engineering tasks. It supports text and image inputs, and has a large context window. It's available on GitHub and OpenRouter.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-16T02:05:56.437451+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48927095,
+      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+      "score": 88,
+      "comments": 37,
+      "author": "bilsbie",
+      "time": 1784150196,
+      "hn_url": "https://news.ycombinator.com/item?id=48927095",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Governments, companies, and nonprofits should invest in free, open source AI to foster innovation, enhance transparency, and ensure ethical development. Open source AI promotes collaboration and accessibility, benefiting all sectors.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-16T02:06:09.603561+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48927915,
+      "title": "LLM Networking with MikroTik",
+      "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+      "score": 47,
+      "comments": 13,
+      "author": "gregsadetsky",
+      "time": 1784154207,
+      "hn_url": "https://news.ycombinator.com/item?id=48927915",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Large language models (LLMs) are advanced AI systems that generate human-like responses based on extensive training data. They are used in networking for tasks like traffic management and intelligent routing. MikroTik devices utilize LLMs for enhanced network automation and optimization.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-07-16T02:06:11.502150+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48928343,
+      "title": "Nul Characters in Strings in SQLite",
+      "url": "https://sqlite.org/nulinstr.html",
+      "score": 29,
+      "comments": 2,
+      "author": "basilikum",
+      "time": 1784156625,
+      "hn_url": "https://news.ycombinator.com/item?id=48928343",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "In SQLite, a NUL character (`\\0`) is treated as a string terminator, meaning it ends the string at that point. NUL characters can cause issues in data storage and retrieval. To handle them, use functions like `REPLACE` to remove or replace them.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-16T02:06:14.357968+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48903733,
+      "title": "Job queues are deceptively tricky",
+      "url": "https://typesanitizer.com/blog/job-queues.html",
+      "score": 20,
+      "comments": 3,
+      "author": "ingve",
+      "time": 1784017676,
+      "hn_url": "https://news.ycombinator.com/item?id=48903733",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Job queues can be complex and challenging to manage due to their intricate scheduling and prioritization processes. They often require careful design to ensure efficiency and fairness. Advanced algorithms are typically needed to handle job queues effectively.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-16T02:06:26.786299+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48913653,
+      "title": "Book prizes don't work how you think",
+      "url": "https://rebeccamakkai.substack.com/p/book-prizes-dont-work-how-you-think",
+      "score": 70,
+      "comments": 38,
+      "author": "samclemens",
+      "time": 1784067541,
+      "hn_url": "https://news.ycombinator.com/item?id=48913653",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Book prizes often favor unique, unconventional narratives over traditional execution. They tend to highlight controversial or challenging subject matters. The selection process can be subjective and influenced by judges' personal tastes.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-16T02:06:29.016274+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48926085,
+      "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
+      "url": "https://brainless.swerdlow.dev",
+      "score": 93,
+      "comments": 19,
+      "author": "benswerd",
+      "time": 1784144573,
+      "hn_url": "https://news.ycombinator.com/item?id=48926085",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Brainless is a Shadcn component library that mimics the visual styles of Claude Code, Codex, and Grok. It offers React components for coding agent terminals. Install via bunx shadcn add @brainless/component.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-16T02:06:31.031650+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48927900,
+      "title": "P2P local file transfer based on WebRTC",
+      "url": "https://pairdrop.net/",
+      "score": 32,
+      "comments": 14,
+      "author": "halb",
+      "time": 1784154128,
+      "hn_url": "https://news.ycombinator.com/item?id=48927900",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "P2P local file transfer using WebRTC enables direct device-to-device data exchange without a central server, offering fast and secure file sharing over local networks. WebRTC's RTCDataChannel facilitates real-time file transfers. No cloud storage or intermediary servers are needed.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-16T02:06:35.235564+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48894874,
+      "title": "Designing APIs for Agents",
+      "url": "https://www.freestyle.sh/blog/opinion/designing-apis-for-agents",
+      "score": 49,
+      "comments": 22,
+      "author": "benswerd",
+      "time": 1783959341,
+      "hn_url": "https://news.ycombinator.com/item?id=48894874",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Designing APIs for AI agents focuses on behavioral guidelines and usage scenarios, unlike traditional APIs. They must accommodate the probabilistic nature of large language models. Key principles include context-aware design and better API discoverability.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-07-16T02:06:37.757925+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48892273,
+      "title": "MITS: Rockets, Calculators, and Personal Computers",
+      "url": "https://www.abortretry.fail/p/micro-instrumentation-and-telemetry",
+      "score": 34,
+      "comments": 3,
+      "author": "BirAdam",
+      "time": 1783948834,
+      "hn_url": "https://news.ycombinator.com/item?id=48892273",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Madanapalle Institute of Technology & Science (MITS) was established in 1998. It is known for engineering education. MITS is not related to rockets, calculators, or personal computers.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-16T02:06:39.809290+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48921077,
+      "title": "Towards a harness that can do anything",
+      "url": "https://eardatasci.github.io/c/ambiance/index.html",
+      "score": 173,
+      "comments": 86,
+      "author": "evakhoury",
+      "time": 1784124508,
+      "hn_url": "https://news.ycombinator.com/item?id=48921077",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "\"Toward\" and \"towards\" are interchangeable forms of the same word, with \"toward\" more common in American English and \"towards\" preferred in British English. They both mean \"in the direction of\" or \"leading to.\"",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-16T02:06:41.867523+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48923111,
+      "title": "Open-source memory for coding agents, synced over SSH",
+      "url": "https://github.com/vshulcz/deja-vu/",
+      "score": 110,
+      "comments": 27,
+      "author": "vshulcz",
+      "time": 1784132103,
+      "hn_url": "https://news.ycombinator.com/item?id=48923111",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "An open-source memory system for coding agents typically involves shared, accessible data and code. SSH is often used for secure access and synchronization. This setup allows for collaborative development and updates.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-07-16T02:06:43.784390+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48919869,
+      "title": "Briar is in maintenance mode",
+      "url": "https://briarproject.org/news/2026-maintenance-mode/",
+      "score": 148,
+      "comments": 96,
+      "author": "ristello",
+      "time": 1784118807,
+      "hn_url": "https://news.ycombinator.com/item?id=48919869",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Briar is in maintenance mode, focusing on essential security updates and bugfixes. The project remains active but has slowed progress on longstanding issues due to lack of funding. Rumors of shutdown are false.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-16T02:06:45.798221+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48907681,
+      "title": "Show HN: Low-latency local LLM runner via OpenJDK Panama FFM (Java 22)",
+      "url": "https://github.com/projectargus-cc/libargus.cc",
+      "score": 31,
+      "comments": 4,
+      "author": "KingJoker",
+      "time": 1784040046,
+      "hn_url": "https://news.ycombinator.com/item?id=48907681",
+      "text": "I wanted to run AI from inside the JVM. I started out with the standard REST sidecar, ripped that out to use Project Panama (Foreign Function &amp; Memory API) in the new JDK versions to interface directly with llama.cpp.  I still wasn&#x27;t happy with how that functioned, so I built libargus.cc to get a clean ABI to expose a structured API up in the JVM landscape. It still uses Project Panama to interface directly with llama.cpp, whisper.cpp, and ggml compute graphs.<p>I have zero-allocation o",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A low-latency local LLM runner is available using OpenJDK Panama FFM in Java 22. It interfaces directly with models like llama.cpp and whisper.cpp. Libargus.cc provides a structured API for JVM integration.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-07-16T02:06:47.831332+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48918534,
+      "title": "Telegram Serverless",
+      "url": "https://core.telegram.org/bots/serverless",
+      "score": 179,
+      "comments": 94,
+      "author": "soheilpro",
+      "time": 1784109999,
+      "hn_url": "https://news.ycombinator.com/item?id=48918534",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A serverless Telegram bot can be built using AWS Lambda and the Serverless Framework. It can also be implemented with Google Cloud Functions for a webhook-based bot. The bot can interact with the Telegram API and use services like DALL-E for image generation.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-16T02:06:52.472474+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48928002,
+      "title": "Agentty – A drop-in alternative to claude-code, written in C++26. 11.0 MB binary",
+      "url": "https://github.com/1ay1/agentty",
+      "score": 10,
+      "comments": 0,
+      "author": "tfeayush",
+      "time": 1784154624,
+      "hn_url": "https://news.ycombinator.com/item?id=48928002",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Agentty is a fast, C++26-based terminal alternative to claude-code, with a 9.7 MB binary and no external dependencies. It offers instant cold starts and runs inside Zed over ACP. It's a lightweight, standalone solution.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-07-16T02:06:54.475780+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48927999,
+      "title": "Fuse – an open source MCP/CLI tool to speed up Claude Code on C# codebases",
+      "url": "https://github.com/Litenova-Solutions/Fuse",
+      "score": 12,
+      "comments": 2,
+      "author": "litenova",
+      "time": 1784154613,
+      "hn_url": "https://news.ycombinator.com/item?id=48927999",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Fuse – an open source MCP/CLI tool to speed up Claude Code on C# codebases 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-16T02:06:55.195948+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48922706,
+      "title": "Launch HN: Coasty (YC S26) – An API for computer-use agents",
+      "url": "https://coasty.ai/docs",
+      "score": 30,
+      "comments": 7,
+      "author": "nkov47",
+      "time": 1784130680,
+      "hn_url": "https://news.ycombinator.com/item?id=48922706",
+      "text": "Hey HN, we’re Nitish and Prateek, the founders of Coasty (<a href=\"https:&#x2F;&#x2F;coasty.ai&#x2F;computer-use\">https:&#x2F;&#x2F;coasty.ai&#x2F;computer-use</a>). We’re building computer-use agents that can complete workflows inside legacy desktop software and web applications without usable APIs.<p>Developers send Coasty a natural-language task either through our consumer app or through our API, select a machine or browser environment, and any relevant credentials or files. The agent then op",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Launch HN: Coasty (YC S26) – An API for computer-use agents 的技术内容。",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-07-16T02:06:55.917767+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48915709,
+      "title": "Jurassic Park computers in excruciating detail",
+      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+      "score": 869,
+      "comments": 231,
+      "author": "vinhnx",
+      "time": 1784084267,
+      "hn_url": "https://news.ycombinator.com/item?id=48915709",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Jurassic Park computers in excruciating detail 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-16T02:06:56.642016+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48921461,
+      "title": "OpenAI loses trademark dispute at EU court",
+      "url": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143/",
+      "score": 216,
+      "comments": 143,
+      "author": "hermanzegerman",
+      "time": 1784125956,
+      "hn_url": "https://news.ycombinator.com/item?id=48921461",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 OpenAI loses trademark dispute at EU court 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-16T02:06:57.352656+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48913642,
+      "title": "Twain Town, USA",
+      "url": "https://theamericanscholar.org/twain-town-u-s-a/",
+      "score": 13,
+      "comments": 2,
+      "author": "prismatic",
+      "time": 1784067520,
+      "hn_url": "https://news.ycombinator.com/item?id=48913642",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Twain Town, USA 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-16T02:06:58.084880+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48923079,
+      "title": "Codex Micro",
+      "url": "https://openai.com/supply/co-lab/work-louder/",
+      "score": 266,
+      "comments": 225,
+      "author": "davidbarker",
+      "time": 1784131978,
+      "hn_url": "https://news.ycombinator.com/item?id=48923079",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Codex Micro 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-16T02:06:58.806995+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 48928703,
+      "title": "11,700 Free Photos from John Margolies' Archive of Americana Architecture",
+      "url": "https://www.openculture.com/2026/07/free-photos-from-john-margolies-archive-of-americana-architecture.html",
+      "score": 4,
+      "comments": 0,
+      "author": "gslin",
+      "time": 1784159099,
+      "hn_url": "https://news.ycombinator.com/item?id=48928703",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 11,700 Free Photos from John Margolies' Archive of Americana Architecture 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-07-16T02:06:59.515222+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
