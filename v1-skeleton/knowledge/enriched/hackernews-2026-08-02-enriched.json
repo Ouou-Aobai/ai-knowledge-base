@@ -1,0 +1,441 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-08-02T02:12:21.497706Z",
+  "analyzed_at": "2026-08-02T02:13:06.140148+00:00",
+  "count": 18,
+  "items": [
+    {
+      "id": 49140218,
+      "title": "Go 1.27 Interactive Tour",
+      "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+      "score": 18,
+      "comments": 1,
+      "author": "Hixon10",
+      "time": 1785634551,
+      "hn_url": "https://news.ycombinator.com/item?id=49140218",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Go 1.27 introduces an experimental simd package for SIMD operations and a Sleep helper in testing/synctest. It also includes new features like uuid and jsonv2. The release focuses on performance and concurrency improvements.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-02T02:12:23.500770+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49139102,
+      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "score": 168,
+      "comments": 122,
+      "author": "foxtrot8672",
+      "time": 1785623112,
+      "hn_url": "https://news.ycombinator.com/item?id=49139102",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI can provide general financial advice but lacks the nuance and personal context of human advisors for complex decisions. It's best used for basic planning and research. Always consult a professional for personalized advice.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-02T02:12:26.999288+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49139711,
+      "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
+      "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
+      "score": 23,
+      "comments": 0,
+      "author": "Jimmc414",
+      "time": 1785627895,
+      "hn_url": "https://news.ycombinator.com/item?id=49139711",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "RFC 10015 deprecates Diffie-Hellman (DH) over finite fields and RSA for key exchanges in TLS 1.2 and DTLS 1.2. It also discourages static Elliptic Curve Diffie-Hellman (ECDH) cipher suites. This standard is effective as of August 2026.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-02T02:12:29.320293+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49137713,
+      "title": "But can your calculator run Linux?",
+      "url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
+      "score": 66,
+      "comments": 4,
+      "author": "jandeboevrie",
+      "time": 1785613488,
+      "hn_url": "https://news.ycombinator.com/item?id=49137713",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Some graphing calculators, like the TI-Nspire, can run Linux. This is possible through custom software. It requires specific hardware and modifications.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-02T02:12:31.767217+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49140080,
+      "title": "Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
+      "url": "https://zenodo.org/records/21753002",
+      "score": 3,
+      "comments": 0,
+      "author": "yusuke_esaka",
+      "time": 1785632505,
+      "hn_url": "https://news.ycombinator.com/item?id=49140080",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "INT4 in-memory cells enhance LLM attention efficiency with reduced precision. They use asymmetric quantization for computational gains. This approach balances performance and energy efficiency.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-08-02T02:12:34.072788+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49135245,
+      "title": "Explorative modeling: Train on the best of K guesses",
+      "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
+      "score": 77,
+      "comments": 23,
+      "author": "DSemba",
+      "time": 1785597795,
+      "hn_url": "https://news.ycombinator.com/item?id=49135245",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Explorative Modeling trains models by generating K guesses and training on the best match, committing to specific modes rather than averaging. It adds a third pretraining axis beyond parameters and data. This method improves model predictions by focusing on the best-matching guess.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-02T02:12:37.209302+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49139232,
+      "title": "AI opens new era in cognitive studies of wild primates",
+      "url": "https://news.emory.edu/features/2026/07/ai-opens-new-era-cognitive-studies-wild-primates",
+      "score": 6,
+      "comments": 1,
+      "author": "hhs",
+      "time": 1785624022,
+      "hn_url": "https://news.ycombinator.com/item?id=49139232",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Scientists developed an AI system called CapuchinAI to automate cognitive studies of capuchin monkeys in the wild using facial recognition and touchscreen testing. The American Journal of Primatology published a proof-of-concept for this novel method. This AI system provides a scalable way to evaluate primate cognitive abilities in the field.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-02T02:12:39.473260+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49139826,
+      "title": "The Greenhouse and the Lens: Two Modes of Agentic AI Work",
+      "url": "https://www.brethorsting.com/blog/2026/08/the-greenhouse-and-the-lens-two-modes-of-agentic-ai-work/",
+      "score": 3,
+      "comments": 0,
+      "author": "aaronbrethorst",
+      "time": 1785629185,
+      "hn_url": "https://news.ycombinator.com/item?id=49139826",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Agentic AI operates in Explore and Refine modes, with the former capturing broad options and the latter applying constraints. Multi-agent systems are often used for complex tasks. The choice between single-agent and multi-agent systems depends on workflow complexity.",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "analyzed_at": "2026-08-02T02:12:41.804491+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49139796,
+      "title": "Kobuk the Destroyer – Tales from the Wild, Unseen World of Test Engineering",
+      "url": "https://wwnorton.com/books/9781324051299",
+      "score": 3,
+      "comments": 1,
+      "author": "ripe",
+      "time": 1785628906,
+      "hn_url": "https://news.ycombinator.com/item?id=49139796",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "\"Kobuk the Destroyer\" by Alex Davies explores the unconventional and inventive methods test engineers use to ensure product safety and reliability. The book highlights the often bizarre and creative approaches engineers take to test products rigorously.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-02T02:12:43.995905+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49077209,
+      "title": "The Burau representation of the braid group is faithful for n = 4",
+      "url": "https://arxiv.org/abs/2607.05283",
+      "score": 48,
+      "comments": 18,
+      "author": "wglb",
+      "time": 1785195975,
+      "hn_url": "https://news.ycombinator.com/item?id=49077209",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Burau representation of the braid group is known to be faithful for n=4. This result was recently confirmed in a 2026 paper. The significance of this finding is substantial in geometric topology.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-02T02:12:46.106014+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49135985,
+      "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
+      "url": "https://kaisel.dev/",
+      "score": 53,
+      "comments": 8,
+      "author": "TheWiggles",
+      "time": 1785602740,
+      "hn_url": "https://news.ycombinator.com/item?id=49135985",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Kaisel is a Dart 3-native router for Flutter that uses sealed classes for routes, eliminating string paths and code generation. It supports exhaustive navigation and has migration guides.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-02T02:12:49.141555+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49139068,
+      "title": "RFC 9987: Secure Shell (SSH) Agent Protocol",
+      "url": "https://www.rfc-editor.org/rfc/rfc9987.html",
+      "score": 4,
+      "comments": 0,
+      "author": "Jimmc414",
+      "time": 1785622928,
+      "hn_url": "https://news.ycombinator.com/item?id=49139068",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "RFC 9987 specifies a key agent protocol for Secure Shell (SSH) to manage private keys. It is a proposed standard by D. Miller, published in May 2026. The protocol allows SSH clients to interact with a key management agent.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-08-02T02:12:51.371612+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49139461,
+      "title": "Show HN: Symbio self fine-tuning AI loop",
+      "url": "https://github.com/huyedits/Symbio",
+      "score": 6,
+      "comments": 2,
+      "author": "huyedit",
+      "time": 1785625586,
+      "hn_url": "https://news.ycombinator.com/item?id=49139461",
+      "text": "It trains based off the mistakes it made with the solution you gave OR what it got. Thank you for reading",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Symbio self fine-tuning AI loop involves human oversight for model adjustments and continuous improvement. It leverages feedback to refine outputs and adapt to specific use cases. This method enhances precision and relevance over time.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-02T02:12:53.225820+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49139370,
+      "title": "Show HN: Wage Against the Machine – MacWages Index for AI Tasks",
+      "url": "https://watm.ddyo.dev/",
+      "score": 5,
+      "comments": 1,
+      "author": "danr4",
+      "time": 1785624872,
+      "hn_url": "https://news.ycombinator.com/item?id=49139370",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Wage Against the Machine is a MacWages Index for AI tasks. It measures compensation for automatable jobs. Minimum wage increases can reallocate labor from automatable tasks.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-02T02:12:55.820109+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49139277,
+      "title": "Mechanical strain creates chirality",
+      "url": "https://www.mpsd.mpg.de/1208949/2026-07-cavalleri-nature",
+      "score": 4,
+      "comments": 0,
+      "author": "hhs",
+      "time": 1785624328,
+      "hn_url": "https://news.ycombinator.com/item?id=49139277",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Mechanical strain can induce chirality in non-chiral crystals, allowing control over the resulting handedness. This effect, known as piezochirality, can be tuned by changing the direction or type of strain applied.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-02T02:12:57.931949+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49132083,
+      "title": "Solid Queue 1.6.0 now supports fiber workers",
+      "url": "https://github.com/rails/solid_queue/releases/tag/v1.6.0",
+      "score": 96,
+      "comments": 38,
+      "author": "earcar",
+      "time": 1785570128,
+      "hn_url": "https://news.ycombinator.com/item?id=49132083",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Solid Queue 1.6.0 now supports fiber workers, enhancing its ability to handle I/O-bound tasks efficiently. This update improves performance for database-shaped workloads. Fiber workers allow for better resource utilization compared to traditional thread-based execution.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-02T02:13:00.430890+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49139067,
+      "title": "Stateless MCP has recaptured my interest",
+      "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp/",
+      "score": 9,
+      "comments": 0,
+      "author": "swyx",
+      "time": 1785622921,
+      "hn_url": "https://news.ycombinator.com/item?id=49139067",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Model Context Protocol (MCP) has been updated to a stateless version, improving HTTP infrastructure compatibility and reducing session management overhead. This update has rekindled interest in MCP, leading to new tools and enhancements. The stateless nature allows applications to maintain their own state independently.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-02T02:13:03.647641+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49139052,
+      "title": "Drug reverses autism-like brain changes in adult mice within hours",
+      "url": "https://www.uclahealth.org/news/release/drug-reverses-autism-like-brain-changes-adult-mice-within",
+      "score": 5,
+      "comments": 1,
+      "author": "gmays",
+      "time": 1785622821,
+      "hn_url": "https://news.ycombinator.com/item?id=49139052",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Rapamycin rapidly reverses autism-like brain changes in adult mice within hours, improving neuron activity and behavior. The drug rebalances brain cell excitability without structural changes. Its effects are temporary and lose efficacy with repeated dosing.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-02T02:13:05.639260+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}

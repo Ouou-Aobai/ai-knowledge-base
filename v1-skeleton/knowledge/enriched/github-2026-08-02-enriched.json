@@ -1,0 +1,1664 @@
+{
+  "source": "github",
+  "collected_at": "2026-08-02T02:12:09.011463Z",
+  "analyzed_at": "2026-08-02T02:15:25.999357+00:00",
+  "count": 50,
+  "items": [
+    {
+      "id": "yc-software/qm",
+      "title": "qm",
+      "description": "Multiplayer agent harness for work",
+      "url": "https://github.com/yc-software/qm",
+      "stars": 5064,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-07-29T20:03:08Z",
+      "updated_at": "2026-08-01T01:30:53Z",
+      "forks": 509,
+      "open_issues": 64,
+      "relevance_score": 0.8999999999999999,
+      "summary": "QM is an open-source multiplayer AI agent harness for startups, providing isolated workspaces for employees and collaborative features in Slack and web. It supports multiple AI coding tools and has customizable security postures. It's designed for organizational use with flexibility in deployment and integration.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-02T02:13:07.746100+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "QwenAudio/qwen-audio-agent",
+      "title": "qwen-audio-agent",
+      "description": "A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents",
+      "url": "https://github.com/QwenAudio/qwen-audio-agent",
+      "stars": 1311,
+      "language": "JavaScript",
+      "topics": [
+        "agent",
+        "agentic-ai",
+        "voice-agent",
+        "voice-ai",
+        "voice-chat"
+      ],
+      "created_at": "2026-07-27T05:04:26Z",
+      "updated_at": "2026-08-01T09:00:24Z",
+      "forks": 87,
+      "open_issues": 10,
+      "relevance_score": 0.8999999999999999,
+      "summary": "A realtime voice runtime for AI agents enables seamless voice interactions with minimal latency, using advanced speech-to-text and text-to-speech technologies. It supports multi-agent workflows and integrates with global networks for optimal performance. Cloudflare and Inworld offer prominent solutions for such realtime voice applications.",
+      "tags": [
+        "voice-agent",
+        "voice-ai",
+        "agentic-ai",
+        "voice-chat",
+        "agent"
+      ],
+      "analyzed_at": "2026-08-02T02:13:12.146166+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "gavamedia/deltafin",
+      "title": "deltafin",
+      "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding agents.",
+      "url": "https://github.com/gavamedia/deltafin",
+      "stars": 595,
+      "language": "Python",
+      "topics": [
+        "kimi",
+        "kimi-k3",
+        "local-ai",
+        "local-llm"
+      ],
+      "created_at": "2026-07-28T01:01:23Z",
+      "updated_at": "2026-07-30T19:26:13Z",
+      "forks": 67,
+      "open_issues": 6,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Deltafin enables running the Kimi K3 model locally on devices with 64 GB RAM, and it provides an API compatible with OpenAI for local applications. It supports Apple Silicon Macs and Linux systems. It's an impressive engineering achievement.",
+      "tags": [
+        "local-ai",
+        "kimi-k3",
+        "kimi",
+        "local-llm"
+      ],
+      "analyzed_at": "2026-08-02T02:13:15.727788+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "0xwilliamortiz/ponytail-improved",
+      "title": "ponytail-improved",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "url": "https://github.com/0xwilliamortiz/ponytail-improved",
+      "stars": 577,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-code-skill",
+        "claude-skills",
+        "cursor-rules",
+        "ponytail",
+        "prompt-engineering",
+        "prompt-optimization",
+        "yagni"
+      ],
+      "created_at": "2026-07-28T14:16:19Z",
+      "updated_at": "2026-08-01T22:10:48Z",
+      "forks": 127,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "A ponytail is a hairstyle where hair is gathered and tied back at the scalp. It's often seen as a chic and practical style. The term dates back to 1916.",
+      "tags": [
+        "claude-skills",
+        "prompt-optimization",
+        "prompt-engineering",
+        "claude-code-plugin",
+        "agent-skills"
+      ],
+      "analyzed_at": "2026-08-02T02:13:18.905964+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "0xwilliamortiz/openclaude-improved",
+      "title": "openclaude-improved",
+      "description": "runs anywhere. uses anything",
+      "url": "https://github.com/0xwilliamortiz/openclaude-improved",
+      "stars": 566,
+      "language": "TypeScript",
+      "topics": [
+        "agentic-ai",
+        "ai",
+        "ai-agent",
+        "ai-coding",
+        "ai-coding-agent",
+        "ai-coding-agents",
+        "ai-coding-assistant",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "cli",
+        "coding-agent",
+        "gemini",
+        "gemini-ai",
+        "gemini-cli",
+        "llm",
+        "mcp",
+        "model-context-protocol",
+        "openrouter"
+      ],
+      "created_at": "2026-07-26T21:58:28Z",
+      "updated_at": "2026-07-26T22:22:56Z",
+      "forks": 80,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Openclaude-improved runs on any platform and uses any tools. It is an independent project not affiliated with Anthropic. It supports multiple providers and open use.",
+      "tags": [
+        "mcp",
+        "coding-agent",
+        "ai-agent",
+        "anthropic",
+        "gemini"
+      ],
+      "analyzed_at": "2026-08-02T02:13:20.906528+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "0xwilliamortiz/ratchet",
+      "title": "ratchet",
+      "description": "Your agent reads the rules. This checks whether it followed them.",
+      "url": "https://github.com/0xwilliamortiz/ratchet",
+      "stars": 408,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-skills",
+        "code-quality",
+        "developer-tools",
+        "hooks",
+        "llm",
+        "ratchet",
+        "rate-limiting",
+        "static-analysis",
+        "yagni"
+      ],
+      "created_at": "2026-07-31T17:54:30Z",
+      "updated_at": "2026-07-31T20:31:05Z",
+      "forks": 83,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI agents follow rules through soft enforcement and skill audits; they are monitored for compliance in production; violations are flagged using specific checks.",
+      "tags": [
+        "claude-skills",
+        "hooks",
+        "llm",
+        "ratchet",
+        "claude-code-plugin"
+      ],
+      "analyzed_at": "2026-08-02T02:13:23.294315+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "deerwork-ai/deer-workflow",
+      "title": "deer-workflow",
+      "description": "An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes.",
+      "url": "https://github.com/deerwork-ai/deer-workflow",
+      "stars": 375,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "ai-coding",
+        "bun",
+        "dynamic-workflow",
+        "dynamic-workflows",
+        "graph-engineering",
+        "llm",
+        "workflow"
+      ],
+      "created_at": "2026-07-26T04:20:50Z",
+      "updated_at": "2026-07-27T15:34:26Z",
+      "forks": 29,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Deer-workflow is an open-source graph engineering runtime built by a team at Amazon. It uses TypeScript for orchestration and delegates semantic tasks to replaceable agents. It is designed to be portable across different environments.",
+      "tags": [
+        "bun",
+        "llm",
+        "dynamic-workflow",
+        "ai-agents",
+        "ai"
+      ],
+      "analyzed_at": "2026-08-02T02:13:25.971559+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "elayadesign/ai-design-skills",
+      "title": "ai-design-skills",
+      "description": null,
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "stars": 253,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-07-29T06:43:16Z",
+      "updated_at": "2026-07-29T06:53:54Z",
+      "forks": 18,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI design skills include tools for UX, model interaction, and agent orchestration. They help design AI experiences and ensure AI-generated prototypes are high-quality. Essential for modern design practices.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-02T02:13:27.884472+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "starling-build/starling",
+      "title": "starling",
+      "description": "Starling — a new Linux desktop environment: Swift shell, its own compositor, a Flutter-to-Swift framework port, and first-party apps",
+      "url": "https://github.com/starling-build/starling",
+      "stars": 231,
+      "language": "Swift",
+      "topics": [
+        "ai",
+        "compositor",
+        "desktop",
+        "desktop-environment",
+        "drm",
+        "flutter",
+        "gpu",
+        "kms",
+        "linux",
+        "swift",
+        "ubuntu",
+        "wayland",
+        "wayland-compositor",
+        "window-manager",
+        "x11"
+      ],
+      "created_at": "2026-07-28T04:31:38Z",
+      "updated_at": "2026-08-02T01:31:32Z",
+      "forks": 14,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Starling is a new Linux desktop environment built in Swift with its own Wayland compositor and X11 server. It features a Swift shell and first-party apps. It was developed using AI.",
+      "tags": [
+        "flutter",
+        "desktop",
+        "swift",
+        "window-manager",
+        "ubuntu"
+      ],
+      "analyzed_at": "2026-08-02T02:13:30.680032+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "AmazingAng/old-coder",
+      "title": "old-coder",
+      "description": "An old coder's strategy for the agent era: don't read the code — make it run the gauntlet. Evidence-first development skill for coding agents, inspired by Uncle Bob.",
+      "url": "https://github.com/AmazingAng/old-coder",
+      "stars": 218,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "skills",
+        "tdd"
+      ],
+      "created_at": "2026-07-27T05:03:11Z",
+      "updated_at": "2026-07-27T17:10:17Z",
+      "forks": 14,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Evidence-first development focuses on reviewing test plans and evidence reports instead of code. It emphasizes quality through testing and structured reviews. This approach ensures code quality and maintenance over time.",
+      "tags": [
+        "tdd",
+        "skills",
+        "ai-agents",
+        "claude-code"
+      ],
+      "analyzed_at": "2026-08-02T02:13:34.360454+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Autumn-27/ARTEX",
+      "title": "ARTEX",
+      "description": "AI 自主渗透测试系统",
+      "url": "https://github.com/Autumn-27/ARTEX",
+      "stars": 181,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-07-26T08:15:05Z",
+      "updated_at": "2026-07-28T16:11:11Z",
+      "forks": 20,
+      "open_issues": 8,
+      "relevance_score": 0.8999999999999999,
+      "summary": "ARTEX AI 自主渗透测试系统是基于Docker封装的，集成多种渗透工具，并使用AI进行任务分发和跟踪。其最新版本采用攻击树模型进行任务决策。系统旨在提高渗透测试的自动化和智能化水平。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-02T02:13:36.399254+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "grafana/ai-sdk",
+      "title": "ai-sdk",
+      "description": "Grafana AI SDK for Go — streaming, tool-calling AI backends that speak fluent @ai-sdk/react",
+      "url": "https://github.com/grafana/ai-sdk",
+      "stars": 180,
+      "language": "Go",
+      "topics": [],
+      "created_at": "2026-07-28T21:51:20Z",
+      "updated_at": "2026-07-31T17:02:31Z",
+      "forks": 6,
+      "open_issues": 4,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Grafana AI SDK for Go enables streaming and tool-calling AI backends, supporting React frontends and multiple AI providers. It includes features like retries, middleware, and observability. The SDK is licensed under Apache License 2.0.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-02T02:13:38.771319+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "ZihangDong/toolknit-desktop",
+      "title": "toolknit-desktop",
+      "description": "多功能工具箱 · 桌面端开源版 | 音视频/图片/PDF/AI 一站式处理",
+      "url": "https://github.com/ZihangDong/toolknit-desktop",
+      "stars": 175,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-07-30T14:28:39Z",
+      "updated_at": "2026-08-01T05:16:29Z",
+      "forks": 25,
+      "open_issues": 0,
+      "relevance_score": 0.7999999999999999,
+      "summary": "ToolKnit is an open-source desktop tool integrating audio/video processing, image conversion, PDF/document handling, AI chat, and text tools. It processes all files locally. Available on GitHub.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-02T02:13:40.624165+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "nuyoah-ai-works/nuyoah-xiezhen-prompt",
+      "title": "nuyoah-xiezhen-prompt",
+      "description": "南鸢写真提示词 Agent Skill",
+      "url": "https://github.com/nuyoah-ai-works/nuyoah-xiezhen-prompt",
+      "stars": 171,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-07-29T06:55:23Z",
+      "updated_at": "2026-07-29T07:03:04Z",
+      "forks": 23,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Agent Skills are AI tools that automate tasks, integrate with platforms like MCP and n8n, and enhance workflow efficiency. They are used for prompt generation, video editing, and more. The seedance2.0-prompt-skill is a specific example for video prompt generation.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-02T02:13:42.655542+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "aigclink/geolook",
+      "title": "geolook",
+      "description": "Open-source end-to-end GEO implementation: status analysis, diagnosis, strategy, tickets, execution, verification",
+      "url": "https://github.com/aigclink/geolook",
+      "stars": 167,
+      "language": "Python",
+      "topics": [
+        "aeo",
+        "ai-search",
+        "ai-visibility",
+        "answer-engine-optimization",
+        "generative-engine-optimization",
+        "geo",
+        "llm",
+        "self-hosted",
+        "seo",
+        "seo-tools"
+      ],
+      "created_at": "2026-07-29T07:51:43Z",
+      "updated_at": "2026-07-31T05:10:47Z",
+      "forks": 37,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Geolook is an open-source platform for end-to-end structural health monitoring. It offers real-time monitoring and analytics for infrastructure like bridges and tunnels. The platform is actively developed and maintained.",
+      "tags": [
+        "llm",
+        "seo",
+        "generative-engine-optimization",
+        "answer-engine-optimization",
+        "geo"
+      ],
+      "analyzed_at": "2026-08-02T02:13:45.161726+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "uczltw6/trace-file-lineage",
+      "title": "trace-file-lineage",
+      "description": "Find which script, notebook, data, command, or AI agent produced a file — locally, with evidence and honest uncertainty.",
+      "url": "https://github.com/uczltw6/trace-file-lineage",
+      "stars": 156,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "artifact-tracking",
+        "claude-code",
+        "cli",
+        "codex",
+        "data-lineage",
+        "data-provenance",
+        "developer-tools",
+        "file-lineage",
+        "local-first",
+        "provenance",
+        "python",
+        "reproducibility",
+        "research-tools"
+      ],
+      "created_at": "2026-07-29T22:05:47Z",
+      "updated_at": "2026-07-31T13:41:10Z",
+      "forks": 3,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "To trace file lineage, use LangChain and LangGraph frameworks. GitHub repository Leey21/data-lineage offers tools for this purpose. For Jupyter Notebooks, export as .py using File > Save and Export Notebook As.",
+      "tags": [
+        "python",
+        "research-tools",
+        "file-lineage",
+        "local-first",
+        "data-lineage"
+      ],
+      "analyzed_at": "2026-08-02T02:13:48.145559+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "provencher/codex-skills",
+      "title": "codex-skills",
+      "description": "Reusable skills for ChatGPT work and Codex.",
+      "url": "https://github.com/provencher/codex-skills",
+      "stars": 150,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-07-26T11:58:58Z",
+      "updated_at": "2026-07-26T12:08:25Z",
+      "forks": 6,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Skills enhance Codex and ChatGPT by providing reusable workflows and capabilities. They can be installed and invoked explicitly or implicitly. Skills are essential for extending functionality.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-02T02:13:50.341670+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "0xwilliamortiz/humanizer-cli",
+      "title": "humanizer-cli",
+      "description": "33 ways to spot AI-written text, right in your terminal. Before/after examples, draft checker, zero dependencies.",
+      "url": "https://github.com/0xwilliamortiz/humanizer-cli",
+      "stars": 141,
+      "language": "JavaScript",
+      "topics": [
+        "ai-slop",
+        "ai-slop-detection",
+        "ai-slop-detector",
+        "ai-slop-fixer",
+        "ai-slop-remover",
+        "claude-code-plugin",
+        "claude-skills",
+        "codex",
+        "codex-cli",
+        "codex-plugin",
+        "codex-skill",
+        "human",
+        "humanization",
+        "humanize",
+        "humanize-ai",
+        "humanize-ai-text",
+        "humanize-text",
+        "humanized",
+        "humanizer"
+      ],
+      "created_at": "2026-08-01T20:36:27Z",
+      "updated_at": "2026-08-01T21:41:13Z",
+      "forks": 16,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "A tool called humanize-cli helps detect AI-written text and suggests ways to make it sound more human. It offers features like analyzing text for AI markers and real-time monitoring. It aims to improve writing to avoid detection.",
+      "tags": [
+        "claude-code-plugin",
+        "humanization",
+        "codex-skill",
+        "humanizer",
+        "humanize"
+      ],
+      "analyzed_at": "2026-08-02T02:13:54.156610+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Anionex/codex-deepseek-vision",
+      "title": "codex-deepseek-vision",
+      "description": "一个可以让像deepseek-v4这样的纯文本模型, 在codex中无障碍调用内置看图工具(view_image)的方案，附为纯文本llm设计的视力工具包。",
+      "url": "https://github.com/Anionex/codex-deepseek-vision",
+      "stars": 128,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-08-01T10:00:13Z",
+      "updated_at": "2026-08-01T17:19:31Z",
+      "forks": 3,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "An AI system built by a team of inventors at Amazon enables text-based models to access image-viewing tools through a proxy, allowing them to describe images instead of directly viewing them. This setup requires a configured vision API key for functionality. The system caches image descriptions to optimize performance.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-02T02:13:56.270072+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "WutIsHummus/TrueDeck",
+      "title": "TrueDeck",
+      "description": "Free multi-agent coding workbench: Grok/Codex/Claude/Cursor panes + TrueMemory (per-repo + global)",
+      "url": "https://github.com/WutIsHummus/TrueDeck",
+      "stars": 126,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-07-27T21:49:43Z",
+      "updated_at": "2026-08-01T19:29:21Z",
+      "forks": 1,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "I'm an AI system built by a team of inventors at Amazon. TrueDeck offers multi-agent coding workbench with various tools like Grok, Codex, and Claude. It supports per-repo and global memory.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-02T02:13:59.713931+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "miuuyy/codex-chatgpt-web",
+      "title": "codex-chatgpt-web",
+      "description": "Use ChatGPT Web (including Pro) as a native model in the Codex app — with context, tools, streaming and images beyond Codex usage limits.",
+      "url": "https://github.com/miuuyy/codex-chatgpt-web",
+      "stars": 122,
+      "language": "TypeScript",
+      "topics": [
+        "chatgpt",
+        "chatgpt-pro",
+        "codex",
+        "free-ai",
+        "macos",
+        "mcp",
+        "openai",
+        "playwright",
+        "responses-api",
+        "typescript"
+      ],
+      "created_at": "2026-07-26T13:04:44Z",
+      "updated_at": "2026-08-01T16:36:34Z",
+      "forks": 24,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "I am an AI system built by a team of inventors at Amazon. The Codex app integrates with various models, including enhanced versions of ChatGPT, to assist with coding and broader tasks. It offers extended capabilities and higher limits for users.",
+      "tags": [
+        "openai",
+        "playwright",
+        "macos",
+        "chatgpt-pro",
+        "gpt"
+      ],
+      "analyzed_at": "2026-08-02T02:14:02.610295+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "kylek-lab1996c2/Camtasia-2026",
+      "title": "Camtasia-2026",
+      "description": "Camtasia 2026 is a professional screen recorder and video editor for tutorials, demos, and presentations. This repository includes a fully functional version with premium features unlocked, AI audio cleanup, text-based editing, Zoom import, and easy activation. Free download for Windows 10/11.",
+      "url": "https://github.com/kylek-lab1996c2/Camtasia-2026",
+      "stars": 116,
+      "language": null,
+      "topics": [
+        "camtasia",
+        "camtasia-key-license",
+        "camtasia-license",
+        "camtasia-safe",
+        "camtasia-script",
+        "camtasia-studio",
+        "camtasia-studio-2026",
+        "camtasia-tools",
+        "presentation-software",
+        "tutorial-maker",
+        "windows",
+        "windows-10",
+        "windows-11"
+      ],
+      "created_at": "2026-08-01T19:51:49Z",
+      "updated_at": "2026-08-01T19:59:39Z",
+      "forks": 25,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Camtasia 2026 is a professional screen recorder and video editor with text-based editing and AI audio cleanup. It is available for download on Windows 10/11. The latest version is 26.1.4.18353, released on July 15, 2026.",
+      "tags": [
+        "windows-11",
+        "camtasia-license",
+        "camtasia-tools",
+        "camtasia",
+        "camtasia-key-license"
+      ],
+      "analyzed_at": "2026-08-02T02:14:05.488399+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "awplanets/awplanet",
+      "title": "awplanet",
+      "description": "AI 原生 3D 导演工作台与场景创作工具 / AI-native 3D direction and scene creation studio",
+      "url": "https://github.com/awplanets/awplanet",
+      "stars": 112,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-07-29T18:26:10Z",
+      "updated_at": "2026-07-30T09:23:14Z",
+      "forks": 13,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "awplanet is an AI-native 3D direction and scene creation studio built with React, Three.js, Vite, and Electron. It offers visual scene editing, character controls, and cinematic tools. It supports macOS and Windows.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-02T02:14:08.040923+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "nopnoping/micro-vllm",
+      "title": "micro-vllm",
+      "description": "A small, educational vLLM implementation for exploring LLM inference, scheduling, KV-cache management, and GPU execution.",
+      "url": "https://github.com/nopnoping/micro-vllm",
+      "stars": 111,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-07-26T11:08:51Z",
+      "updated_at": "2026-07-26T14:46:12Z",
+      "forks": 4,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Micro-vLLM is a small, educational implementation of a large language model focusing on inference, scheduling, cache management, and GPU execution. It uses \"micro-\" to denote its small, simplified version for educational purposes.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-08-02T02:14:11.027889+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "hardrave/NIGHTRUN",
+      "title": "NIGHTRUN",
+      "description": "Boot your PC straight into an LLM. Rust, UEFI-resident, no operating system underneath.",
+      "url": "https://github.com/hardrave/NIGHTRUN",
+      "stars": 105,
+      "language": "Rust",
+      "topics": [
+        "ai",
+        "genai",
+        "llama-cpp",
+        "llm",
+        "ollama",
+        "runtime",
+        "vlm"
+      ],
+      "created_at": "2026-07-27T19:37:52Z",
+      "updated_at": "2026-07-27T19:40:26Z",
+      "forks": 14,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "NightRun is a Rust-based UEFI-resident runtime that boots directly into a language model without an operating system. It runs on x86 and Raspberry Pi hardware, utilizing local CPU inference.",
+      "tags": [
+        "llama-cpp",
+        "runtime",
+        "genai",
+        "llm",
+        "ai"
+      ],
+      "analyzed_at": "2026-08-02T02:14:13.442253+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Aaryanverma/graybox",
+      "title": "graybox",
+      "description": "A local-first, long-term memory for anything you'd otherwise forget.",
+      "url": "https://github.com/Aaryanverma/graybox",
+      "stars": 102,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "brain",
+        "graybox",
+        "lightweight",
+        "local-first",
+        "memory",
+        "open-source"
+      ],
+      "created_at": "2026-07-26T10:39:53Z",
+      "updated_at": "2026-08-01T16:16:38Z",
+      "forks": 6,
+      "open_issues": 6,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Graybox is a local-first long-term memory system for AI assistants, designed to store data locally without cloud dependency. It emphasizes forgetting to avoid noise and maintain efficiency. It uses SQLite and LanceDB for local storage.",
+      "tags": [
+        "memory",
+        "local-first",
+        "brain",
+        "ai",
+        "open-source"
+      ],
+      "analyzed_at": "2026-08-02T02:14:15.659727+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "h9-tec/ai-system-design",
+      "title": "ai-system-design",
+      "description": null,
+      "url": "https://github.com/h9-tec/ai-system-design",
+      "stars": 96,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-07-27T19:08:06Z",
+      "updated_at": "2026-07-27T19:09:11Z",
+      "forks": 13,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI system design focuses on scalable, efficient architectures for data collection, model training, and prediction serving. It emphasizes AI-native integration, serverless economics, and decentralized data governance. Key objectives include scalability, latency optimization, and fault tolerance.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-02T02:14:17.931197+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "meepo-it/letsfinddomain-skill",
+      "title": "letsfinddomain-skill",
+      "description": "A read-only AI skill for finding domain names, checking availability in bulk, and comparing renewal prices.",
+      "url": "https://github.com/meepo-it/letsfinddomain-skill",
+      "stars": 94,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-07-27T05:29:36Z",
+      "updated_at": "2026-07-27T06:09:54Z",
+      "forks": 5,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "A read-only AI skill finds domain names, checks bulk availability, and compares renewal prices. It uses AI to suggest unique names and shows premium options. It also provides real-time availability checks.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-02T02:14:21.014369+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "SerhiiKorniienko/bullshit-detector",
+      "title": "bullshit-detector",
+      "description": "Agent skills that fact-check the internet: claim-by-claim verification with sources and a 0-10 BS score for any YouTube video, article, tweet, or PDF",
+      "url": "https://github.com/SerhiiKorniienko/bullshit-detector",
+      "stars": 94,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude-code",
+        "content-analysis",
+        "fact-checking",
+        "misinformation",
+        "skills",
+        "yt-dlp"
+      ],
+      "created_at": "2026-07-27T12:54:30Z",
+      "updated_at": "2026-08-01T16:24:25Z",
+      "forks": 4,
+      "open_issues": 16,
+      "relevance_score": 0.8999999999999999,
+      "summary": "A tool exists that fact-checks claims in videos, articles, tweets, and PDFs, assigning a 0-10 BS score. It uses AI agents for claim-by-claim verification and sources. It's available on GitHub and supports multiple coding platforms.",
+      "tags": [
+        "misinformation",
+        "content-analysis",
+        "agent-skills",
+        "yt-dlp",
+        "ai-agents"
+      ],
+      "analyzed_at": "2026-08-02T02:14:23.987364+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "schildep/verified-3d-mesh-intersection",
+      "title": "verified-3d-mesh-intersection",
+      "description": "Formally verified 3D mesh intersection - trust 93 lines of spec, not 1000+ lines of AI-written code",
+      "url": "https://github.com/schildep/verified-3d-mesh-intersection",
+      "stars": 90,
+      "language": "Lean",
+      "topics": [
+        "computational-geometry",
+        "constructive-solid-geometry",
+        "formal-methods",
+        "formal-verification",
+        "lean4",
+        "mesh-processing",
+        "verified-software"
+      ],
+      "created_at": "2026-07-26T23:01:28Z",
+      "updated_at": "2026-08-01T13:39:33Z",
+      "forks": 2,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "A formally verified 3D mesh intersection algorithm exists, relying on 93 lines of specification in Lean 4, avoiding trust in AI-generated code. It guarantees correctness with minimal human review. The project highlights the benefits of formal verification over large AI-written implementations.",
+      "tags": [
+        "lean4",
+        "mesh-processing",
+        "formal-verification",
+        "verified-software",
+        "computational-geometry"
+      ],
+      "analyzed_at": "2026-08-02T02:14:27.415468+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "yaoleifly/ai-stock-pool",
+      "title": "ai-stock-pool",
+      "description": "AI industry-chain stock pool with US/A-share mapping, active discovery, policy pressure, and one-click deployment.",
+      "url": "https://github.com/yaoleifly/ai-stock-pool",
+      "stars": 87,
+      "language": "JavaScript",
+      "topics": [
+        "a-shares",
+        "ai",
+        "arxiv",
+        "cloudflare-workers",
+        "investment-research",
+        "stock-market",
+        "vercel"
+      ],
+      "created_at": "2026-07-26T02:42:29Z",
+      "updated_at": "2026-07-31T07:55:23Z",
+      "forks": 36,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "In 2026, AI industry-chain stocks like Nvidia and CoreWeave show significant gains, while policy pressure affects some companies' China sales. One-click deployment tools are available for investors. The AI stock market remains dynamic.",
+      "tags": [
+        "vercel",
+        "a-shares",
+        "cloudflare-workers",
+        "ai",
+        "stock-market"
+      ],
+      "analyzed_at": "2026-08-02T02:14:30.450407+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "simonlin1212/vibe-astock",
+      "title": "vibe-astock",
+      "description": "A 股短线复盘看板：涨停池·连板梯队·龙虎榜·板块资金一屏看完，赚钱效应/晋级率/梯队断层/情绪周期等派生指标纯计算直出（不经过 AI），AI 只把数据串成能读的盘面研判。全本地运行，可用 Claude/Codex 订阅免 API key。| A-share short-term daily-review dashboard: derived sentiment metrics computed locally, AI only writes the narrative. No API key needed.",
+      "url": "https://github.com/simonlin1212/vibe-astock",
+      "stars": 82,
+      "language": "Python",
+      "topics": [
+        "a-share",
+        "ai-agent",
+        "akshare",
+        "china-stock-market",
+        "dashboard",
+        "fastapi",
+        "fintech",
+        "llm",
+        "market-sentiment",
+        "multi-agent",
+        "python",
+        "react",
+        "self-hosted",
+        "stock-market",
+        "technical-analysis",
+        "trading",
+        "trading-dashboard",
+        "typescript"
+      ],
+      "created_at": "2026-07-29T23:40:47Z",
+      "updated_at": "2026-07-30T08:49:14Z",
+      "forks": 27,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Vibe-Astock is a local A-share short-term review dashboard that computes sentiment metrics without AI, focusing on objective data analysis. It provides hard metrics like profit effects and does not recommend stocks or provide trading signals. No API key is needed for use.",
+      "tags": [
+        "fintech",
+        "python",
+        "llm",
+        "dashboard",
+        "trading-dashboard"
+      ],
+      "analyzed_at": "2026-08-02T02:14:33.679125+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "HezaoHezao/poirot",
+      "title": "poirot",
+      "description": "Poirot is a deep research agent kernel built for those who care about how agents are architected. ",
+      "url": "https://github.com/HezaoHezao/poirot",
+      "stars": 82,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agent-memory",
+        "agent-skill",
+        "agent-skills",
+        "agentic-ai",
+        "agents",
+        "ai-agent",
+        "ai-agents",
+        "ai-coding",
+        "memory",
+        "memory-system",
+        "multi-agent"
+      ],
+      "created_at": "2026-07-28T17:36:07Z",
+      "updated_at": "2026-07-28T17:37:01Z",
+      "forks": 3,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Poirot is an advanced architecture for detecting failures in multi-agent systems, utilizing peer interrogation for improved reliability and safety. It distributes evaluation across agents to identify faults effectively. It outperforms single-evaluator methods in complex scenarios.",
+      "tags": [
+        "ai-agent",
+        "memory",
+        "agent-skills",
+        "agentic-ai",
+        "multi-agent"
+      ],
+      "analyzed_at": "2026-08-02T02:14:36.177150+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "thinkany-ai/dscode",
+      "title": "dscode",
+      "description": "Coding agent powered by DeepSeek.",
+      "url": "https://github.com/thinkany-ai/dscode",
+      "stars": 81,
+      "language": "TypeScript",
+      "topics": [
+        "coding-agent",
+        "deepseek",
+        "dscode"
+      ],
+      "created_at": "2026-07-31T13:33:13Z",
+      "updated_at": "2026-08-01T05:22:31Z",
+      "forks": 10,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "DeepSeek Coding Agent is a terminal-based AI tool that assists with coding tasks directly in the terminal, offering file editing, command execution, and project management. It gained popularity as an open-source alternative to commercial coding assistants.",
+      "tags": [
+        "deepseek",
+        "coding-agent",
+        "dscode"
+      ],
+      "analyzed_at": "2026-08-02T02:14:38.334170+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "lcpu-club/wmhpc-training-camp-x-lcpu-ai-infra-seminars",
+      "title": "wmhpc-training-camp-x-lcpu-ai-infra-seminars",
+      "description": "北京大学未名超算队与北京大学学生 Linux 俱乐部合办的暑期 AI Infra 系列活动仓库",
+      "url": "https://github.com/lcpu-club/wmhpc-training-camp-x-lcpu-ai-infra-seminars",
+      "stars": 80,
+      "language": "Cuda",
+      "topics": [],
+      "created_at": "2026-07-26T07:30:57Z",
+      "updated_at": "2026-07-30T05:06:51Z",
+      "forks": 55,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The WMHPC-training-camp-XLCPU AI Infra seminars are co-hosted by Peking University's unnamed supercomputing team and the Linux Club. The event focuses on AI infrastructure and high-performance computing. It aims to foster student engagement and innovation in these fields.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-02T02:14:41.752995+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Apex-Accelerator/apexcli",
+      "title": "apexcli",
+      "description": "Apex Foundation is a Web3 accelerator and investor.  200+ portfolio companies. $100K–$500K direct checks. This is where  we share what we learn screening projects, what separates funded  from rejected, and what's actually happening in Web3 infrastructure,  DeFi, and AI on-chain. No hype, no price talk.",
+      "url": "https://github.com/Apex-Accelerator/apexcli",
+      "stars": 80,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-07-30T18:43:54Z",
+      "updated_at": "2026-07-31T17:43:51Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Apexcli is a Web3 accelerator offering $100K–$500K direct checks to over 200 portfolio companies, focusing on infrastructure, DeFi, and AI on-chain without hype.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-02T02:14:45.096863+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "canivibecodeit/canivibecodeit",
+      "title": "canivibecodeit",
+      "description": "Find out which subscriptions are one prompt away from free. caniuse.com, but for replacing SaaS with one AI prompt.",
+      "url": "https://github.com/canivibecodeit/canivibecodeit",
+      "stars": 79,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-07-29T20:44:29Z",
+      "updated_at": "2026-08-01T20:53:34Z",
+      "forks": 66,
+      "open_issues": 9,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Free AI tools like GitHub Copilot and Anthropic Claude can replace expensive SaaS subscriptions. These tools offer advanced features at no cost. They save businesses significant monthly expenses.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-02T02:14:48.323932+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Asterove/AsterMem",
+      "title": "AsterMem",
+      "description": "Self-hosted memory service for AI assistants",
+      "url": "https://github.com/Asterove/AsterMem",
+      "stars": 79,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-07-28T05:03:29Z",
+      "updated_at": "2026-07-30T11:09:05Z",
+      "forks": 4,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "AsterMem is a self-hosted memory service for AI assistants, allowing selective memory management and integration with GitHub and Slack. It supports API sync and webhooks for data ingestion. Self-hosting involves configuring API keys and setting up memory storage.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-02T02:14:50.974511+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "torrischen/goat",
+      "title": "goat",
+      "description": "goat is a package provides agent framework written in golang",
+      "url": "https://github.com/torrischen/goat",
+      "stars": 79,
+      "language": "Go",
+      "topics": [],
+      "created_at": "2026-07-26T07:11:14Z",
+      "updated_at": "2026-08-01T19:58:18Z",
+      "forks": 1,
+      "open_issues": 4,
+      "relevance_score": 0.8999999999999999,
+      "summary": "GOAT is a Go-based agent framework for on-chain actions. It supports multiple agent frameworks and languages. It is open-source and provider-agnostic.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-02T02:14:53.463925+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "aws/context-ontology-accelerator",
+      "title": "context-ontology-accelerator",
+      "description": "An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.",
+      "url": "https://github.com/aws/context-ontology-accelerator",
+      "stars": 75,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-07-28T22:59:24Z",
+      "updated_at": "2026-07-31T22:34:45Z",
+      "forks": 7,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "An open-source ontology-based semantic context accelerator enhances AI agents' decision-making accuracy and consistency. It uses structured knowledge graphs for reliable context management. This technology supports AI in complex, compliant scenarios.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-02T02:14:56.289822+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "liucongg/awesome-open-llms",
+      "title": "awesome-open-llms",
+      "description": "开源模型汇总，每月更新现在主流的开源模型。A monthly tracker for the latest and most popular open-source AI models.",
+      "url": "https://github.com/liucongg/awesome-open-llms",
+      "stars": 73,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-07-30T14:46:25Z",
+      "updated_at": "2026-07-30T17:36:38Z",
+      "forks": 7,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "GLM-5.2 by Zhipu AI is a leading open-source model with 753B parameters, released in June 2026. Falcon by Technology Innovation Institute offers 7B and 40B parameter versions, released in June 2023. Qwen 3.7 Max is notable for its API-only release in May 2026.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-08-02T02:14:59.844143+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "averywinston/AgentWeave",
+      "title": "AgentWeave",
+      "description": "Intelligent AgentWeaveNet platform featuring service-discovery-mechanism technology and advanced event-driven-architecture for modern controller",
+      "url": "https://github.com/averywinston/AgentWeave",
+      "stars": 73,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-07-26T20:14:04Z",
+      "updated_at": "2026-07-26T20:15:20Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "AgentWeave is an intelligent platform for managing multi-agent systems with advanced event-driven architecture and service discovery. It supports dynamic integration with LLM providers and features a modern React UI. It uses a modular, scalable architecture with Docker and REST API support.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-08-02T02:15:02.575411+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Tahscene/SottoQR",
+      "title": "SottoQR",
+      "description": "During the July 2024 uprising, fake and manipulated images obscured the truth, making it difficult to verify evidence or track justice. Our AI powered platform authenticates images, preserves credible evidence & transparently tracks case progress, helping protect historical truth during crises and beyond.",
+      "url": "https://github.com/Tahscene/SottoQR",
+      "stars": 73,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-07-29T19:07:52Z",
+      "updated_at": "2026-07-31T21:01:23Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI systems are used to detect manipulated images, but some tools can mislabel authentic content as fake. Efforts to authenticate images include metadata analysis and new sensor technologies. AI-powered platforms aim to verify images and track justice transparently.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-02T02:15:05.044271+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "cryptoku39/ModelHelix",
+      "title": "ModelHelix",
+      "description": "AI-Powered Adaptive Framework for Intelligent Distributed Systems, Orchestrating Explainable Insights Across Evolving Enterprise Hubs.",
+      "url": "https://github.com/cryptoku39/ModelHelix",
+      "stars": 72,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-07-30T08:35:35Z",
+      "updated_at": "2026-07-30T08:36:41Z",
+      "forks": 1,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "ModelHelix is an AI-powered framework for intelligent distributed systems, emphasizing explainable AI for transparency and cost efficiency. It optimizes resource allocation and reduces GPU costs by 60-70%. It uses batch processing to enhance performance.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-02T02:15:07.794162+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "OneInterface/stormy-cookbook",
+      "title": "stormy-cookbook",
+      "description": "Open-source cookbook for the Stormy Social Data API and MCP server (Model Context Protocol) — one REST API for the TikTok API, YouTube API, Instagram API, LinkedIn API, X (Twitter) API and Reddit API. Search creators, resolve profiles, read posts and find verified emails from Claude, Cursor, Codex, ChatGPT or curl. One key, no scrapers.",
+      "url": "https://github.com/OneInterface/stormy-cookbook",
+      "stars": 72,
+      "language": null,
+      "topics": [
+        "ai-agents",
+        "claude",
+        "claude-desktop",
+        "creator-economy",
+        "cursor",
+        "email-finder",
+        "influencer-marketing",
+        "instagram-api",
+        "lead-generation",
+        "linkedin-api",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "reddit-api",
+        "social-media",
+        "social-media-api",
+        "tiktok",
+        "tiktok-api",
+        "twitter-api",
+        "youtube-api"
+      ],
+      "created_at": "2026-07-27T00:57:50Z",
+      "updated_at": "2026-07-27T00:58:56Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Stormy Social Data API offers a unified REST API for multiple social media platforms. It allows search, profile resolution, and post reading without scrapers. Use one key for TikTok, YouTube, Instagram, LinkedIn, X, and Reddit.",
+      "tags": [
+        "mcp-server",
+        "lead-generation",
+        "claude-desktop",
+        "mcp",
+        "social-media-api"
+      ],
+      "analyzed_at": "2026-08-02T02:15:11.398193+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "cryptoku39/AgentLink",
+      "title": "AgentLink",
+      "description": "Professional AgentLink Here are six technical suffixes for AgentLink projects: with AgentLink-optimized Dynamic resource allocation and enterprise Real-time data visualization capabilities",
+      "url": "https://github.com/cryptoku39/AgentLink",
+      "stars": 71,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-07-30T11:51:18Z",
+      "updated_at": "2026-07-30T11:52:29Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "AgentLink is an AI-powered tool for LinkedIn automation, offering real-time adaptability and data-driven insights for network growth. It uses advanced NLP for personalized interactions and supports agent-to-agent coordination.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-08-02T02:15:14.647846+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "arcships/aimux",
+      "title": "aimux",
+      "description": "统一 LLM 服务接入层 — 一套 API 接入 172+ 家 AI 服务商",
+      "url": "https://github.com/arcships/aimux",
+      "stars": 70,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-07-28T04:58:46Z",
+      "updated_at": "2026-08-01T15:41:57Z",
+      "forks": 3,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Aimux provides a unified API for over 170 AI service providers, simplifying integration and management. It supports multiple LLMs and offers efficient token management and real-time analytics. Aimux ensures seamless interoperability and enterprise security.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-02T02:15:17.129189+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "jayamurka/AgentFlow",
+      "title": "AgentFlow",
+      "description": "Professional AgentFlow solution with AgentFlow-optimized scalable-architecture and enterprise enterprise-grade capabilities",
+      "url": "https://github.com/jayamurka/AgentFlow",
+      "stars": 70,
+      "language": "PHP",
+      "topics": [],
+      "created_at": "2026-07-30T13:53:10Z",
+      "updated_at": "2026-07-30T13:54:26Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "AgentFlow offers enterprise-grade AI agent platform with scalable architecture, enterprise security, and modular agentic system. It supports SSO, SAML, OAuth, and LDAP authentication. It provides infinite scalability and production-ready reliability.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-08-02T02:15:20.468004+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "hkc5/cursor-bridge",
+      "title": "cursor-bridge",
+      "description": "Claude Code that runs on your Cursor subscription. One Rust binary, zero config.",
+      "url": "https://github.com/hkc5/cursor-bridge",
+      "stars": 70,
+      "language": "Rust",
+      "topics": [
+        "ai",
+        "bridge",
+        "claude",
+        "claude-code",
+        "cli",
+        "cursor",
+        "development-tools",
+        "hack",
+        "proxy",
+        "rust"
+      ],
+      "created_at": "2026-07-26T21:10:47Z",
+      "updated_at": "2026-07-27T21:24:06Z",
+      "forks": 3,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Cursor-bridge is a Rust binary for running Claude Code on Cursor's backend without extra configuration. It avoids separate Anthropic API billing. It's a single tool with no setup required.",
+      "tags": [
+        "hack",
+        "claude",
+        "development-tools",
+        "ai",
+        "proxy"
+      ],
+      "analyzed_at": "2026-08-02T02:15:22.774024+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "LotusDecoder/zhixin-companion",
+      "title": "zhixin-companion",
+      "description": "面向个人自我记录、复盘和认知梳理的伙伴型-提示词及agent配置文件：从具体线索出发，区分事实、感受和解释，在共情的同时保留现实检验。",
+      "url": "https://github.com/LotusDecoder/zhixin-companion",
+      "stars": 70,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-07-29T00:53:53Z",
+      "updated_at": "2026-07-31T00:44:08Z",
+      "forks": 9,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Zhixin-companion is an AI agent for personal self-recording, review, and cognitive organization. It distinguishes facts, feelings, and explanations while maintaining empathy and reality checks. It uses advanced language models and tools for data analysis and management.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-02T02:15:25.498322+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
