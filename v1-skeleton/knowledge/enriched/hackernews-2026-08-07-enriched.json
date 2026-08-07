@@ -1,0 +1,441 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-08-07T02:23:55.501856Z",
+  "analyzed_at": "2026-08-07T02:27:10.391578+00:00",
+  "count": 18,
+  "items": [
+    {
+      "id": 49201970,
+      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "score": 389,
+      "comments": 309,
+      "author": "itvision",
+      "time": 1786047791,
+      "hn_url": "https://news.ycombinator.com/item?id=49201970",
+      "text": "<a href=\"https:&#x2F;&#x2F;ir.amd.com&#x2F;news-events&#x2F;press-releases&#x2F;detail&#x2F;1296&#x2F;amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market\" rel=\"nofollow\">https:&#x2F;&#x2F;ir.amd.com&#x2F;news-events&#x2F;press-releases&#x2F;detail&#x2F;1296&#x2F;am...</a><p><a href=\"https:&#x2F;&#x2F;chatjimmy.ai&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;chatjimmy.ai&#x2F;</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AMD acquired Taalas to enhance inference performance by embedding models directly into silicon. This move aims to reduce bandwidth and improve efficiency. The acquisition was for an undisclosed sum.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-07T02:26:28.000129+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49202716,
+      "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+      "score": 59,
+      "comments": 9,
+      "author": "Audiophilip",
+      "time": 1786051112,
+      "hn_url": "https://news.ycombinator.com/item?id=49202716",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Bioengineered chewing gum reduces HPV and cancer-linked microbes by up to 93% while preserving beneficial mouth bacteria. This offers a new, targeted approach to treating head and neck cancers.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-07T02:26:31.317086+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49202852,
+      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+      "url": "https://www.aleksagordic.com/blog/vllm",
+      "score": 68,
+      "comments": 2,
+      "author": "sebg",
+      "time": 1786051821,
+      "hn_url": "https://news.ycombinator.com/item?id=49202852",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "vLLM is a high-throughput LLM inference system. It focuses on efficient processing and scalability. The blog post by Aleksa Gordić provides an in-depth look at its architecture and functionality.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-08-07T02:26:33.452451+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49199357,
+      "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+      "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+      "score": 159,
+      "comments": 116,
+      "author": "tedsanders",
+      "time": 1786035724,
+      "hn_url": "https://news.ycombinator.com/item?id=49199357",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "GPT-5 is now available for free to all users, with different access levels based on user type. Free users have strict rate limits, while Pro and Plus users have higher limits and more powerful models. GPT-5 integrates multiple tools into one interface.",
+      "tags": [
+        "gpt"
+      ],
+      "analyzed_at": "2026-08-07T02:26:37.298015+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49198302,
+      "title": "GitHub Actions and Pages are experiencing degraded availability",
+      "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+      "score": 332,
+      "comments": 274,
+      "author": "Footkerchief",
+      "time": 1786031378,
+      "hn_url": "https://news.ycombinator.com/item?id=49198302",
+      "text": "<a href=\"https:&#x2F;&#x2F;www.githubstatus.com&#x2F;uptime&#x2F;br0l2tvcx85d\" rel=\"nofollow\">https:&#x2F;&#x2F;www.githubstatus.com&#x2F;uptime&#x2F;br0l2tvcx85d</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "GitHub Actions and Pages experienced degraded availability due to a service disruption, with most workflow runs affected and some users reporting issues with hosted websites. The incident was resolved after several hours of investigation and recovery efforts.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-07T02:26:39.178143+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49123247,
+      "title": "The Sylvester–Gallai Theorem",
+      "url": "https://www.futilitycloset.com/2026/07/26/the-sylvester-gallai-theorem/",
+      "score": 19,
+      "comments": 1,
+      "author": "surprisetalk",
+      "time": 1785506434,
+      "hn_url": "https://news.ycombinator.com/item?id=49123247",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Sylvester–Gallai theorem states that any set of at least three non-collinear points in a plane determines a line through exactly two of its points. This theorem implies that any set of points not all on a single line will determine at least as many lines as points.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-07T02:26:41.291836+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49138446,
+      "title": "Retired man plants trees on forgotten land, now it's Sao Paulo's largest park",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/in-2003-a-retired-man-planted-trees-on-forgotten-land-alone-20-years-later-it-had-become-one-of-sao-paulos-largest-urban-forests/articleshow/132761848.cms",
+      "score": 31,
+      "comments": 5,
+      "author": "rmason",
+      "time": 1785618146,
+      "hn_url": "https://news.ycombinator.com/item?id=49138446",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "In 2003, retired man Hélio da Silva began planting trees on a forgotten land in São Paulo, which has since become Tiquatira Park, one of the city's largest urban forests. He planted over 40,000 trees over 21 years, transforming the area into a significant green space. The park now stretches 3.2 kilometers and covers 80 acres.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-07T02:26:43.877713+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49195468,
+      "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+      "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+      "score": 259,
+      "comments": 193,
+      "author": "Wirbelwind",
+      "time": 1786017487,
+      "hn_url": "https://news.ycombinator.com/item?id=49195468",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "In a browser game, players missed 1 in 3 malicious AI agent commands, with the most missed being \"npm run analyze.\" The game revealed issues in human oversight under time pressure.",
+      "tags": [
+        "ai",
+        "agent"
+      ],
+      "analyzed_at": "2026-08-07T02:26:47.000633+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49198583,
+      "title": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
+      "url": "https://github.com/CopilotKit/channels-sdk",
+      "score": 89,
+      "comments": 20,
+      "author": "davidmckayv",
+      "time": 1786032351,
+      "hn_url": "https://news.ycombinator.com/item?id=49198583",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Channels SDK is an open-source tool that allows any AI agent to work across platforms like Slack and Microsoft Teams with a unified codebase. It provides a native, interactive UI and maintains context and memory. It is licensed under MIT.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-08-07T02:26:49.147364+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49200652,
+      "title": "Qwen3.8 Max now ranked as the best overall model by agentic index",
+      "url": "https://artificialanalysis.ai/?intelligence=agentic-index",
+      "score": 441,
+      "comments": 282,
+      "author": "apitman",
+      "time": 1786041889,
+      "hn_url": "https://news.ycombinator.com/item?id=49200652",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Qwen3.8 Max is now the best overall model according to the agentic index. It surpassed other models in agentic capabilities. This ranking was confirmed recently.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-08-07T02:26:51.185587+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49184656,
+      "title": "Tiny black holes may be exploding stars across the Milky Way",
+      "url": "https://www.sciencedaily.com/releases/2026/07/260729051515.htm",
+      "score": 73,
+      "comments": 81,
+      "author": "jandrewrogers",
+      "time": 1785945474,
+      "hn_url": "https://news.ycombinator.com/item?id=49184656",
+      "text": "<a href=\"https:&#x2F;&#x2F;iopscience.iop.org&#x2F;article&#x2F;10.3847&#x2F;1538-4357&#x2F;ae6db7\" rel=\"nofollow\">https:&#x2F;&#x2F;iopscience.iop.org&#x2F;article&#x2F;10.3847&#x2F;1538-4357&#x2F;ae6db7</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Primordial black holes may trigger white dwarf stars to explode as Type Ia supernovae, potentially explaining chemical patterns in the Milky Way. Research suggests these black holes pass through white dwarfs, causing them to detonate. Estimates suggest around 170 million black holes exist in the Milky Way.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-07T02:26:53.236705+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49129008,
+      "title": "Unearthing my 1996 windowed OS in machine code for Am29000 homebrew computer",
+      "url": "https://nanochess.org/the_am29000_computer.html",
+      "score": 162,
+      "comments": 32,
+      "author": "nanochess",
+      "time": 1785535023,
+      "hn_url": "https://news.ycombinator.com/item?id=49129008",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "In 1996, a developer created a windowed OS for an Am29000 homebrew computer entirely in machine code. The OS was stored on a floppy disk and ran on a custom computer. This achievement was unique and showcased advanced programming skills.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-07T02:26:55.440955+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49203790,
+      "title": "An Agentic IDE That Builds Itself",
+      "url": "https://www.sawyerhood.com/blog/an-agentic-ide-that-builds-itself",
+      "score": 9,
+      "comments": 0,
+      "author": "sawyerjhood",
+      "time": 1786057145,
+      "hn_url": "https://news.ycombinator.com/item?id=49203790",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "An agentic IDE like Windsurf and Firebase Studio automates development tasks, offering intelligent suggestions and managing workflows without traditional coding. These tools use AI to understand projects and optimize development processes.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-08-07T02:26:58.360190+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49201540,
+      "title": "State-oriented consistency: Why we stopped looking for one right answer",
+      "url": "https://keel-iot.eu/blog/state-oriented-consistency.html",
+      "score": 9,
+      "comments": 4,
+      "author": "fcravio",
+      "time": 1786046059,
+      "hn_url": "https://news.ycombinator.com/item?id=49201540",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "We shifted from seeking one universal consistency model to tailoring specific consistency models for individual state pieces, simplifying distributed systems design.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-07T02:27:00.583744+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49146240,
+      "title": "Poles of Inaccessibility in the San Gabriel Mountains (2015)",
+      "url": "https://notes.secretsauce.net/notes/2015/05/06_poles-of-inaccessibility-in-the-san-gabriel-mountains.html",
+      "score": 34,
+      "comments": 21,
+      "author": "dima55",
+      "time": 1785690186,
+      "hn_url": "https://news.ycombinator.com/item?id=49146240",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The San Gabriel Mountains' poles of inaccessibility are above the East Fork of the San Gabriel River, with the furthest point being 8,157 meters from the nearest paved road. These locations are defined by avoiding all roads and trails. The concept refers to the most remote points within a given area.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-07T02:27:02.579131+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49199092,
+      "title": "How Did Rogue Generate Its Random Dungeons?",
+      "url": "https://howtomakeanrpg.com/r/a/rogue-dungeon-generation.html",
+      "score": 18,
+      "comments": 4,
+      "author": "danschuller",
+      "time": 1786034553,
+      "hn_url": "https://news.ycombinator.com/item?id=49199092",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Rogue generates random dungeons by creating rooms of random sizes and positions, then connecting them with tunnels, ensuring connectivity and navigability.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-07T02:27:05.579133+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49184755,
+      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+      "score": 827,
+      "comments": 885,
+      "author": "colesantiago",
+      "time": 1785945931,
+      "hn_url": "https://news.ycombinator.com/item?id=49184755",
+      "text": "<a href=\"https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;08&#x2F;05&#x2F;google-deepmind-demis-hassabis-ai\" rel=\"nofollow\">https:&#x2F;&#x2F;www.axios.com&#x2F;2026&#x2F;08&#x2F;05&#x2F;google-deepmind-demis-hassa...</a><p><a href=\"https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;google-shakes-up-ai-leadership-deepmind-chief-shifts-role-2026-08-05&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.reuters.com&#x2F;business&#x2F;google-shakes-up-ai-leaders...</a><p><a href=\"https:&#x2F;&#x2F;www.disc",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Demis Hassabis is stepping down as CEO of Google DeepMind to become its Chair, while Jeff Dean and Sanjay Ghemawat are leaving to start a new company. This shift aims to streamline leadership and focus on AI advancements.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-07T02:27:07.786351+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49189075,
+      "title": "Prime Agent: A self-improving RLM agent",
+      "url": "https://www.primeintellect.ai/blog/prime-agent",
+      "score": 242,
+      "comments": 59,
+      "author": "Xeophon",
+      "time": 1785964317,
+      "hn_url": "https://news.ycombinator.com/item?id=49189075",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Prime Agent is a self-improving coding agent based on a Recursive Language Model, designed for long-running tasks and coding workflows. It uses a Continual Harness for self-improvement and persistent sub-agents. It is open-source under the MIT License.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-08-07T02:27:09.890682+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
