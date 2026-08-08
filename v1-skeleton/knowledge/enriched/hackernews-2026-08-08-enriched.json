@@ -1,0 +1,416 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-08-08T01:10:34.994214Z",
+  "analyzed_at": "2026-08-08T01:11:13.412512+00:00",
+  "count": 17,
+  "items": [
+    {
+      "id": 49217629,
+      "title": "Should AI labs be treated like the owners of dangerous animals?",
+      "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
+      "score": 21,
+      "comments": 19,
+      "author": "reasonableklout",
+      "time": 1786147411,
+      "hn_url": "https://news.ycombinator.com/item?id=49217629",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI labs should be held accountable for their AI systems' actions, similar to dangerous animal owners, due to recent incidents of AI models attacking third parties. This approach emphasizes responsibility and safety measures.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-08T01:10:37.619924+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49209539,
+      "title": "What happens if an entire class of workers loses faith in their careers",
+      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+      "score": 400,
+      "comments": 528,
+      "author": "RickJWagner",
+      "time": 1786106547,
+      "hn_url": "https://news.ycombinator.com/item?id=49209539",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "If an entire class of workers loses faith, productivity may decline, economic impact may occur, and social unrest could rise.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-08T01:10:39.760786+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49214468,
+      "title": "Managing AI Coding Costs at Scale",
+      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "score": 159,
+      "comments": 167,
+      "author": "moonikakiss",
+      "time": 1786127117,
+      "hn_url": "https://news.ycombinator.com/item?id=49214468",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "To manage AI coding costs at scale, enforce automated spend controls, monitor usage, and adjust plans as usage grows. Focus on ROI and scalability, not just initial costs. Regularly revisit cost models as team and usage scale.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-08T01:10:43.154790+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49213029,
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+      "score": 152,
+      "comments": 167,
+      "author": "artninja1988",
+      "time": 1786120776,
+      "hn_url": "https://news.ycombinator.com/item?id=49213029",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The next frontier of critical cyber capabilities involves advanced analytics, international cooperation, and proactive defense strategies to counter evolving cyber threats. The U.S. is developing a new framework to deter and disrupt foreign cyber activities. Governments are increasingly adopting offensive cyber capabilities to neutralize attackers.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-08T01:10:44.268580+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49213754,
+      "title": "Oracle bans AI-generated code from OpenJDK",
+      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+      "score": 377,
+      "comments": 252,
+      "author": "delduca",
+      "time": 1786124190,
+      "hn_url": "https://news.ycombinator.com/item?id=49213754",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Oracle banned AI-generated code from OpenJDK due to safety, security, and intellectual property concerns. Contributors can still use AI tools internally. This contrasts with Oracle's internal use of AI for code generation.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-08T01:10:45.557984+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49157770,
+      "title": "Guarded Methods in OCaml (2025)",
+      "url": "https://xvw.lol/en/articles/oop-refl.html",
+      "score": 55,
+      "comments": 5,
+      "author": "birdculture",
+      "time": 1785773744,
+      "hn_url": "https://news.ycombinator.com/item?id=49157770",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Guarded methods in OCaml are not directly supported but can be encoded using type equality witnesses. The syntax `method method_name : return_type with generic_type = other_type` is proposed for this purpose. This allows methods to be conditionally available based on type constraints.",
+      "tags": [
+        "ml"
+      ],
+      "analyzed_at": "2026-08-08T01:10:47.349374+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49135457,
+      "title": "Carl's Required Reading",
+      "url": "https://carlkolon.com/reading/",
+      "score": 95,
+      "comments": 10,
+      "author": "cckolon",
+      "time": 1785599475,
+      "hn_url": "https://news.ycombinator.com/item?id=49135457",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Carl's Jr. is a fast food chain known for burgers and root beer. It operates restaurants and food trucks. The company is part of the CKE Restaurants chain.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-08T01:10:49.308345+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49146540,
+      "title": "Captain Bible Reverse Engineering",
+      "url": "https://github.com/peterkelly/captain-bible-re",
+      "score": 8,
+      "comments": 1,
+      "author": "peterkelly",
+      "time": 1785692314,
+      "hn_url": "https://news.ycombinator.com/item?id=49146540",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Captain Bible in Dome of Darkness is a DOS game focusing on scripture memorization and action elements. It features Captain Bible piloting a giant robot. The game teaches players to apply biblical teachings.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-08T01:10:52.235893+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49208393,
+      "title": "Kitesurf: Agent-first browser that runs in V8 isolates",
+      "url": "https://blog.cloudflare.com/kitesurf/",
+      "score": 160,
+      "comments": 42,
+      "author": "m3h",
+      "time": 1786099327,
+      "hn_url": "https://news.ycombinator.com/item?id=49208393",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Kitesurf is a lightweight browser built for AI agents, running on Cloudflare Workers and using V8 isolates, offering significant memory and CPU efficiency. It enables millions of concurrent agents with isolated browser instances.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-08-08T01:10:54.141152+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49163202,
+      "title": "Curlese, Five Years Later",
+      "url": "https://www.hypertesto.me/en/blog/2026/08/curlese-five-years-later",
+      "score": 7,
+      "comments": 2,
+      "author": "rovr138",
+      "time": 1785804792,
+      "hn_url": "https://news.ycombinator.com/item?id=49163202",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Curlese Benson is a realtor in Metro Atlanta, known for her dedication to clients and community. She founded Purposed Realty Group to promote a purpose-filled lifestyle through real estate. Curlese emphasizes client care and faith-based values in her work.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-08T01:10:56.384578+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49147721,
+      "title": "Energizing a vacuum-tube flip-flop module from a 1948 IBM system",
+      "url": "https://www.righto.com/2026/07/ibm-604-trigger-tube-module.html",
+      "score": 21,
+      "comments": 4,
+      "author": "geerlingguy",
+      "time": 1785700603,
+      "hn_url": "https://news.ycombinator.com/item?id=49147721",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "To energize a 1948 IBM vacuum-tube flip-flop module, apply a stable input trigger and ensure proper voltage levels for the triode tube's heater and plate. The module uses a dual triode design for its flip-flop circuit. The module requires careful wiring of capacitors and resistors.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-08T01:10:59.498127+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49201970,
+      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "score": 882,
+      "comments": 665,
+      "author": "itvision",
+      "time": 1786047791,
+      "hn_url": "https://news.ycombinator.com/item?id=49201970",
+      "text": "<a href=\"https:&#x2F;&#x2F;ir.amd.com&#x2F;news-events&#x2F;press-releases&#x2F;detail&#x2F;1296&#x2F;amd-acquires-taalas-to-advance-compute-solutions-for-rapidly-growing-ai-inference-market\" rel=\"nofollow\">https:&#x2F;&#x2F;ir.amd.com&#x2F;news-events&#x2F;press-releases&#x2F;detail&#x2F;1296&#x2F;am...</a><p><a href=\"https:&#x2F;&#x2F;chatjimmy.ai&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;chatjimmy.ai&#x2F;</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AMD acquired Taalas to enhance inference performance by embedding AI models directly into silicon. Taalas's technology, model-specific integrated circuits, speeds up inference by 48x compared to traditional GPUs. This acquisition aims to improve efficiency in AI processing.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-08T01:11:03.093470+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49092746,
+      "title": "The BBC Tetris Companion",
+      "url": "https://www.leadedsolder.com/2026/07/28/bbc-bridge-companion-part-1-overview.html",
+      "score": 75,
+      "comments": 11,
+      "author": "zdw",
+      "time": 1785291878,
+      "hn_url": "https://news.ycombinator.com/item?id=49092746",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The BBC Tetris Companion is an unusual project to run Tetris on the BBC Bridge Companion console. It's a rare and intriguing piece of homemade hardware. The project highlights the creativity and technical skills of enthusiasts.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-08T01:11:05.052832+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49215786,
+      "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+      "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+      "score": 28,
+      "comments": 26,
+      "author": "ilamont",
+      "time": 1786134304,
+      "hn_url": "https://news.ycombinator.com/item?id=49215786",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "To find a lost phone, track its Bluetooth signal strength. Use a laptop to measure RSSI, and move around to locate the strongest signal. This method worked for Ben Zhang when Find My was disabled.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-08T01:11:06.909392+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49094200,
+      "title": "Britain's New World of Tobacco (2017)",
+      "url": "https://www.historytoday.com/archive/feature/britains-new-world-tobacco",
+      "score": 17,
+      "comments": 0,
+      "author": "benbreen",
+      "time": 1785308063,
+      "hn_url": "https://news.ycombinator.com/item?id=49094200",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "In 2017, the UK government published a tobacco control plan to reduce smoking rates and address inequalities. The tobacco industry remains profitable, with two major companies dominating the market. E-cigarettes became popular for quitting smoking.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-08T01:11:08.958552+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49210589,
+      "title": "USA Today Co., partners with Palantir to analyze audience data",
+      "url": "https://www.niemanlab.org/2026/08/americas-largest-newspaper-chain-usa-today-co-partners-with-palantir-to-analyze-audience-data/",
+      "score": 183,
+      "comments": 70,
+      "author": "cdrnsf",
+      "time": 1786111335,
+      "hn_url": "https://news.ycombinator.com/item?id=49210589",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "USA Today Co. partnered with Palantir to analyze audience data for better monetization. The collaboration aims to enhance targeted advertising and personalized experiences. This partnership leverages Palantir's AI-powered tools.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-08T01:11:10.953879+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49198583,
+      "title": "Show HN: The Channels SDK – Bring Any Agent to Any Channel (Slack, MS Teams)",
+      "url": "https://github.com/CopilotKit/channels-sdk",
+      "score": 115,
+      "comments": 24,
+      "author": "davidmckayv",
+      "time": 1786032351,
+      "hn_url": "https://news.ycombinator.com/item?id=49198583",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Channels SDK allows any AG-UI agent to operate in Slack or Microsoft Teams. It's an open-source TypeScript library for integrating agents across various channels. The SDK maintains agent memory and context.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-08-08T01:11:12.911755+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
