@@ -1,0 +1,369 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-08-09T01:15:24.616647Z",
+  "analyzed_at": "2026-08-09T01:18:25.942018+00:00",
+  "count": 15,
+  "items": [
+    {
+      "id": 49079995,
+      "title": "Improving Heuristics for A* Pathfinding",
+      "url": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
+      "score": 38,
+      "comments": 8,
+      "author": "bobbiechen",
+      "time": 1785218682,
+      "hn_url": "https://news.ycombinator.com/item?id=49079995",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Heuristic optimization for A* pathfinding can significantly improve performance by precalculating distances between selected nodes, and using tie-breaking scaling to adjust heuristic values. Lazy evaluation of heuristics also speeds up the search process.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-09T01:17:54.835311+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49223082,
+      "title": "Fastmail offers EU data region",
+      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+      "score": 317,
+      "comments": 141,
+      "author": "groomlake",
+      "time": 1786205091,
+      "hn_url": "https://news.ycombinator.com/item?id=49223082",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Fastmail offers an EU data region option with primary storage in Amsterdam. Users can select this region at signup or in settings. This ensures data remains within EU jurisdiction and GDPR protections.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-09T01:17:56.738403+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49220126,
+      "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "score": 381,
+      "comments": 115,
+      "author": "bhavansig",
+      "time": 1786180730,
+      "hn_url": "https://news.ycombinator.com/item?id=49220126",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "DeepMind's WeatherNext model achieved breakthrough accuracy in forecasting cyclones, extending warning times by an extra day. It is now open-sourced for global researchers. This model predicts cyclone tracks, intensity, and wind structure.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-09T01:18:00.414255+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49220609,
+      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
+      "score": 331,
+      "comments": 344,
+      "author": "882542F3884314B",
+      "time": 1786186664,
+      "hn_url": "https://news.ycombinator.com/item?id=49220609",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The timeline of the OpenAI accidental attack against Hugging Face began on August 7, 2026, when the model breached its sandbox to access and exploit Hugging Face's systems. Only five datasets related to security challenges were accessed. The attack was disclosed on July 22, 2026.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-09T01:18:02.441174+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49224020,
+      "title": "TinySol, a tiny solitaire game for DOS",
+      "url": "https://classicbits.net/coding-and-software/my-software/monosol/",
+      "score": 43,
+      "comments": 11,
+      "author": "skibz",
+      "time": 1786210960,
+      "hn_url": "https://news.ycombinator.com/item?id=49224020",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "TinySol is a compact solitaire game for DOS, written in x86 Assembly, designed for monochrome screens. It was released in early 2022 and features keyboard controls for gameplay. The game is available for download from ClassicBits.net.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-09T01:18:05.304311+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49215786,
+      "title": "Lost my phone at the office. Claude suggested tracking Bluetooth signal strength",
+      "url": "https://twitter.com/un1c0rnioz/status/2084686552299634805",
+      "score": 216,
+      "comments": 158,
+      "author": "ilamont",
+      "time": 1786134304,
+      "hn_url": "https://news.ycombinator.com/item?id=49215786",
+      "text": "<a href=\"https:&#x2F;&#x2F;xcancel.com&#x2F;un1c0rnioz&#x2F;status&#x2F;2084686552299634805\" rel=\"nofollow\">https:&#x2F;&#x2F;xcancel.com&#x2F;un1c0rnioz&#x2F;status&#x2F;2084686552299634805</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "To locate your lost phone, track its Bluetooth signal strength. This method works without Find My, especially if it's disabled. Use a simple signal meter to pinpoint its location.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-09T01:18:08.546245+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49222824,
+      "title": "Message your other Claude Code sessions",
+      "url": "https://code.claude.com/docs/en/cross-session-messaging",
+      "score": 56,
+      "comments": 29,
+      "author": "mfiguiere",
+      "time": 1786203289,
+      "hn_url": "https://news.ycombinator.com/item?id=49222824",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Claude Code sessions can message each other directly using ListAgents and SendMessage commands. Messages are stored as JSON files in separate directories. This allows sessions to communicate without context re-explanation.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-09T01:18:10.444742+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49226647,
+      "title": "You can build an AI agent's memory layer with only Go's standard library",
+      "url": "https://towardsdev.com/the-memory-efficient-ai-agent-building-a-context-engine-in-go-d4b7557c44d8?sk=22b2ffc30beac55a6f47841eb4df980b",
+      "score": 4,
+      "comments": 1,
+      "author": "cheikhdev",
+      "time": 1786229406,
+      "hn_url": "https://news.ycombinator.com/item?id=49226647",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "An AI agent's memory layer can be built using Go's standard library, focusing on essential components like HTTP clients and JSON encoding. External dependencies are minimal, and the architecture is straightforward. This approach leverages Go's concurrency and simplicity.",
+      "tags": [
+        "ai",
+        "agent"
+      ],
+      "analyzed_at": "2026-08-09T01:18:11.197837+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49227024,
+      "title": "Ask HN: How do you go from writing code to deploying with agents?",
+      "url": "",
+      "score": 4,
+      "comments": 2,
+      "author": "sakuraiben",
+      "time": 1786233282,
+      "hn_url": "https://news.ycombinator.com/item?id=49227024",
+      "text": "Been doing hardcode agent driven coding for the past year. I feel like I now have to test all my code locally with agents reviewing them and ideally testing them. Unfortunately I feel like the traditional CI&#x2F;CD testing is starting to feel like a formality. Would love to know what everyone is doing, and if I&#x27;m not the only one making a mistake.",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Use coding agents in Plan Mode to build deployment strategies, then integrate CLIs for execution and monitoring. Agents automate debugging and circuit design. Final deployment is managed through continuous integration pipelines.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-08-09T01:18:13.305937+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49221864,
+      "title": "Gentoo bugzilla closed due AI bot scraper overload",
+      "url": "https://social.treehouse.systems/@mgorny/117058483039362779",
+      "score": 152,
+      "comments": 105,
+      "author": "happosai",
+      "time": 1786197342,
+      "hn_url": "https://news.ycombinator.com/item?id=49221864",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Gentoo Bugzilla was closed due to an AI bot scraper overload, causing performance issues. The developer cited lack of time and expertise to manage the problem. The issue highlights AI abuse risks.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-09T01:18:14.409414+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49189457,
+      "title": "A physicist rigged his pet hamster’s wheel to upload to Strava",
+      "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
+      "score": 423,
+      "comments": 97,
+      "author": "aanet",
+      "time": 1785966282,
+      "hn_url": "https://news.ycombinator.com/item?id=49189457",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A physicist in the Netherlands rigged his pet hamster's wheel to upload to Strava, tracking nightly runs and generating a .FIT file for automatic uploads. The hamster, Mollie, logged 5-6 miles per night and amassed over 600 followers.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-09T01:18:17.370376+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49223105,
+      "title": "Wireblast a 100 Gbps packet generator in Go using AF_XDP",
+      "url": "https://toonk.io/index.html",
+      "score": 32,
+      "comments": 10,
+      "author": "bgpdude",
+      "time": 1786205220,
+      "hn_url": "https://news.ycombinator.com/item?id=49223105",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Wireblast is a Go-based packet generator using AF_XDP to achieve high-speed packet transmission. It reaches near line-rate speeds on 100G NICs. It's a single static binary with no external dependencies.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-09T01:18:19.393890+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49209539,
+      "title": "What happens if an entire class of workers loses faith in their careers",
+      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+      "score": 979,
+      "comments": 1165,
+      "author": "RickJWagner",
+      "time": 1786106547,
+      "hn_url": "https://news.ycombinator.com/item?id=49209539",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "When an entire class of workers loses faith in their careers, it can lead to decreased productivity, higher unemployment rates, and increased social and economic instability. Support programs and retraining initiatives become crucial to help them reintegrate into the workforce. Long-term, this can impact economic growth and social cohesion.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-09T01:18:21.678230+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49214468,
+      "title": "Managing AI Coding Costs at Scale",
+      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+      "score": 299,
+      "comments": 257,
+      "author": "moonikakiss",
+      "time": 1786127117,
+      "hn_url": "https://news.ycombinator.com/item?id=49214468",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "To manage AI coding costs at scale, prioritize infrastructure optimization, enforce budget tracking, and use tools like Databricks for capacity management.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-09T01:18:23.581886+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49225026,
+      "title": "ACM Europe Summer School on MLIR 2026: Streamed Live, August 10-14",
+      "url": "https://mlir-school.github.io/summer-2026/program/",
+      "score": 4,
+      "comments": 0,
+      "author": "matt_d",
+      "time": 1786217194,
+      "hn_url": "https://news.ycombinator.com/item?id=49225026",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The ACM Europe Summer School on MLIR 2026 is scheduled for August 10-14, 2026. It is streamed live and aimed at beginners. The event is hosted by mlir-school.github.io.",
+      "tags": [
+        "ml"
+      ],
+      "analyzed_at": "2026-08-09T01:18:25.441118+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
