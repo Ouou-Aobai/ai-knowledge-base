@@ -1,0 +1,540 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-08-11T01:15:31.274924Z",
+  "analyzed_at": "2026-08-11T01:16:24.998975+00:00",
+  "count": 22,
+  "items": [
+    {
+      "id": 49246804,
+      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "url": "https://cactuscompute.com/needle",
+      "score": 160,
+      "comments": 73,
+      "author": "HenryNdubuaku",
+      "time": 1786382527,
+      "hn_url": "https://news.ycombinator.com/item?id=49246804",
+      "text": "Hey HN,<p>Henry from Cactus here!<p>We previously released Cactus Needle, a 14MB agentic LLM for tool call, device use, and structured extraction for phones, wearables, smart homes, small robots and microcontrollers. We got really great feedback here, and have now incorporated the suggestions to release Needle 2.<p>The whole model is a single 14MB binary that runs a full session in 28MB of RAM; 45m parameters at 2bit compression. Needle hits 500 tokens&#x2F;sec decode speed on a Raspberry Pi 5, ",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Needle2 is a 14MB agentic LLM optimized for phones, wearables, smart home devices, and robots. It runs efficiently on low-power hardware and offers competitive performance for its size. It is based on Simple Attention Networks.",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "analyzed_at": "2026-08-11T01:15:33.270658+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49241679,
+      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+      "score": 1025,
+      "comments": 572,
+      "author": "riordan",
+      "time": 1786356602,
+      "hn_url": "https://news.ycombinator.com/item?id=49241679",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Muse Glimmer is a 30B-parameter model optimized for local, always-on agent workflows, designed to run on consumer hardware. It delivers strong performance and is released under an Apache 2.0 license. It supports local agents and coding.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-08-11T01:15:36.727075+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49184220,
+      "title": "The \"mechanical miracle\" that ruined Mark Twain's life",
+      "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
+      "score": 29,
+      "comments": 6,
+      "author": "benbreen",
+      "time": 1785943343,
+      "hn_url": "https://news.ycombinator.com/item?id=49184220",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Mark Twain's investment in the Paige Compositor, a complex typesetting machine, led to significant financial ruin. He spent $300,000 on it, but it failed and was rendered obsolete before it could succeed. This investment contributed to his bankruptcy.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-11T01:15:39.586928+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49243880,
+      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+      "score": 355,
+      "comments": 378,
+      "author": "root-parent",
+      "time": 1786370782,
+      "hn_url": "https://news.ycombinator.com/item?id=49243880",
+      "text": "<a href=\"https:&#x2F;&#x2F;archive.is&#x2F;20LOJ\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.is&#x2F;20LOJ</a><p><a href=\"https:&#x2F;&#x2F;www.meta.com&#x2F;thefutureisforeveryone&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.meta.com&#x2F;thefutureisforeveryone&#x2F;</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Mark Zuckerberg criticized closed AI models from rivals and announced Meta's return to open AI models. Meta launched a new open-weight AI model to compete with Chinese startups. The U.S. needs to lower barriers for open-source AI to remain competitive.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-11T01:15:41.656058+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49249555,
+      "title": "Confessions of a Long-Distance Sailor",
+      "url": "https://arachnoid.com/lutusp/sailbook.html",
+      "score": 59,
+      "comments": 10,
+      "author": "AntiRush",
+      "time": 1786395175,
+      "hn_url": "https://news.ycombinator.com/item?id=49249555",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "\"Confessions of a Long-Distance Sailor\" is a book by Paul Lutus about his solo circumnavigation in a 31-foot sailboat. It recounts his 3 1/2-year journey and is available for free online. The book is praised for its honest and inspiring narrative.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-11T01:15:44.938044+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49250894,
+      "title": "World Train Map – 1247 train routes around the world",
+      "url": "https://worldtrainmap.com/",
+      "score": 25,
+      "comments": 7,
+      "author": "Flightmussy",
+      "time": 1786401734,
+      "hn_url": "https://news.ycombinator.com/item?id=49250894",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The world's train routes are mapped on RailsMaps, Google Play's World Transit Maps, and Viaduct's interactive map. These resources cover global railway networks, metro systems, and trams.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-11T01:15:47.288385+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49243474,
+      "title": "Humanising LLM Outputs Is Dumb",
+      "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+      "score": 150,
+      "comments": 88,
+      "author": "kuberwastaken",
+      "time": 1786368940,
+      "hn_url": "https://news.ycombinator.com/item?id=49243474",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Humanizing AI outputs aims to make them more relatable and natural. It's a method to reduce biases and enhance user trust. This approach is essential for better human-AI interaction.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-08-11T01:15:49.699915+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49246057,
+      "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
+      "url": "https://www.stoaexchange.com",
+      "score": 63,
+      "comments": 39,
+      "author": "erenberke",
+      "time": 1786379727,
+      "hn_url": "https://news.ycombinator.com/item?id=49246057",
+      "text": "Hi HN, we’re Eren, Berat and Kaan. We’re building Stoa (<a href=\"https:&#x2F;&#x2F;www.stoaexchange.com\">https:&#x2F;&#x2F;www.stoaexchange.com</a>), a marketplace for new and used GPUs and AI servers.<p>GPUs are the collateral in the data center buildout. Today, financing terms mostly depend on the offtaker, meaning the company that has committed to use the compute.<p>If that company is a hyperscaler, the financing can look investment grade. If it’s a smaller cloud or startup, terms get expensi",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Stoa Markets is a marketplace for buying and selling GPUs and AI servers, launched by YC S26. It aims to simplify trading and provide real-time pricing infrastructure. The founders have extensive experience in financial trading.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-11T01:15:51.772339+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49245936,
+      "title": "What's the best programming language for coding agents?",
+      "url": "http://danluu.com/pl-tokens/",
+      "score": 55,
+      "comments": 33,
+      "author": "chaychoong",
+      "time": 1786379338,
+      "hn_url": "https://news.ycombinator.com/item?id=49245936",
+      "text": "Related: <i>Which programming languages are most token-efficient?</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46582728\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=46582728</a> - Jan 2026 (91 comments)",
+      "relevance_score": 0.8999999999999999,
+      "summary": "For coding agents, Python, JavaScript, and TypeScript are often favored due to their strong community support and extensive tooling. However, languages with strong type systems like TypeScript can enhance accuracy and debugging.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-08-11T01:15:52.412052+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49251978,
+      "title": "Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don't",
+      "url": "https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html",
+      "score": 7,
+      "comments": 1,
+      "author": "pseudolus",
+      "time": 1786409990,
+      "hn_url": "https://news.ycombinator.com/item?id=49251978",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Flock cameras are automated license plate readers used by law enforcement to track vehicles, but many citizens are concerned about privacy invasions. These cameras are widespread across the U.S., but face opposition from civil liberties groups.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-11T01:15:55.372864+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49244308,
+      "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
+      "score": 89,
+      "comments": 167,
+      "author": "hackerBanana",
+      "time": 1786372700,
+      "hn_url": "https://news.ycombinator.com/item?id=49244308",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "In August 2026, OpenAI sent a letter to Texas Governor Greg Abbott committing to responsible AI infrastructure development in Texas, emphasizing community support and resource protection. The letter received mixed reactions, with some viewing it as insufficiently detailed. The letter aims to ensure AI benefits Texans without burdening local resources.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-11T01:15:57.837711+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49244085,
+      "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
+      "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
+      "score": 94,
+      "comments": 14,
+      "author": "sshh12",
+      "time": 1786371641,
+      "hn_url": "https://news.ycombinator.com/item?id=49244085",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI models have a knowledge cutoff, the latest date they were trained up to. My knowledge cutoff is January 2022. This means I don't have information about events after that date.",
+      "tags": [
+        "gpt",
+        "ai"
+      ],
+      "analyzed_at": "2026-08-11T01:15:59.822800+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49242297,
+      "title": "Tail-call optimization in C is relatively recent (2025)",
+      "url": "https://lwn.net/Articles/1034703/",
+      "score": 120,
+      "comments": 122,
+      "author": "prakashqwerty",
+      "time": 1786361680,
+      "hn_url": "https://news.ycombinator.com/item?id=49242297",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Tail-call optimization in C became possible with GCC in 2001, but it was not widely adopted until later. The optimization reduces stack usage by reusing the current stack frame for tail calls. As of 2026, it remains a relatively recent development in C.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-11T01:16:01.865878+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49246704,
+      "title": "GPT 5.6 Cyber",
+      "url": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows/",
+      "score": 63,
+      "comments": 22,
+      "author": "gizmodo59",
+      "time": 1786382040,
+      "hn_url": "https://news.ycombinator.com/item?id=49246704",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "GPT 5.6 Cyber enhances cybersecurity workflows, including exploit development. It is a next-generation model for advanced security tasks. Its performance-efficiency is notable for long-horizon security challenges.",
+      "tags": [
+        "gpt"
+      ],
+      "analyzed_at": "2026-08-11T01:16:03.705998+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49243397,
+      "title": "Mistral Patent for “Code implemented tool calls”",
+      "url": "https://patentsgazette.uspto.gov/week26/OG/html/1547-5/US12670045-20260630.html",
+      "score": 208,
+      "comments": 176,
+      "author": "theanonymousone",
+      "time": 1786368552,
+      "hn_url": "https://news.ycombinator.com/item?id=49243397",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Mistral patented a method for large language models to execute external tool calls via generated code in a sandbox on June 30, 2026. The patent covers code-driven interactions with external systems. This innovation aims to enhance AI agent capabilities.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-11T01:16:06.922137+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49250486,
+      "title": "Show HN: AI Pulse a fake LED strip beside the macOS Dock that shows agent status",
+      "url": "https://github.com/leog/ai-pulse",
+      "score": 6,
+      "comments": 3,
+      "author": "leog_me",
+      "time": 1786399661,
+      "hn_url": "https://news.ycombinator.com/item?id=49250486",
+      "text": "Hi HN!<p>I run a few Claude Code sessions in parallel and kept cmd-tabbing around just to find out one of them had been sitting on a permission prompt for ten minutes. There&#x27;s a hardware gadget I liked (called SidePulse.io) so before waiting to get my shipment I built the software version instead :D<p>I hope you like it and find it useful as I do!",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI Pulse is a fake LED strip showing agent status beside macOS Dock. It was launched on Show HN in 2026. It's a creative take on AI visualization.",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "analyzed_at": "2026-08-11T01:16:09.037647+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49239751,
+      "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+      "url": "https://www.docker.com/products/docker-sandboxes/",
+      "score": 624,
+      "comments": 349,
+      "author": "etoxin",
+      "time": 1786341758,
+      "hn_url": "https://news.ycombinator.com/item?id=49239751",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Docker Sandboxes provide disposable, isolated environments for running AI agents safely. They support long-running tasks without compromising security. Available for macOS and Windows.",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "analyzed_at": "2026-08-11T01:16:12.061405+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49244569,
+      "title": "Kinney Drugs pulls back AI phone assistant after hundreds of customer complaints",
+      "url": "https://www.wcax.com/2026/08/07/kinney-drugs-pulls-back-ai-phone-assistant-after-hundreds-customer-complaints/",
+      "score": 142,
+      "comments": 153,
+      "author": "kotaKat",
+      "time": 1786373792,
+      "hn_url": "https://news.ycombinator.com/item?id=49244569",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Kinney Drugs halted its AI phone assistant due to numerous customer complaints about incoherent calls, wrong dosages, and missed notifications. The company will revert to its old phone system.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-11T01:16:14.981900+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49245359,
+      "title": "The Tragedy of the Cognitive Commons",
+      "url": "https://arxiv.org/abs/2607.29380",
+      "score": 88,
+      "comments": 68,
+      "author": "jmintz",
+      "time": 1786377315,
+      "hn_url": "https://news.ycombinator.com/item?id=49245359",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The \"Tragedy of the Cognitive Commons\" refers to the risk that AI could lead to a decline in collective human knowledge and expertise. This could happen if AI reduces the need for humans to engage in the effortful learning that builds expertise. The concept highlights the potential for knowledge collapse in certain fields.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-11T01:16:16.789973+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49241559,
+      "title": "Tech leaders say AI means less work – staff say they work up to 90 hours a week",
+      "url": "https://www.bbc.com/news/articles/cvgx4yd1gl2o",
+      "score": 48,
+      "comments": 11,
+      "author": "dijksterhuis",
+      "time": 1786355617,
+      "hn_url": "https://news.ycombinator.com/item?id=49241559",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Tech leaders claim AI reduces workload, but employees report working up to 90 hours weekly. Studies show increased pace and broader tasks, often during \"sprints\" before product releases. Despite AI, many tech workers still face long hours.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-11T01:16:19.797940+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49244250,
+      "title": "There is no “done”: Reflections on a completed Appalachian Trail thru-hike (2022)",
+      "url": "https://thetrek.co/appalachian-trail/there-is-no-done-reflections-on-a-completed-at-thru-hike/",
+      "score": 47,
+      "comments": 9,
+      "author": "mooreds",
+      "time": 1786372374,
+      "hn_url": "https://news.ycombinator.com/item?id=49244250",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Appalachian Trail thru-hike is a 2,180-mile journey completed by few; it reflects on the continuous nature of personal growth and the feeling of peaceful completion. The hiker emphasizes mental preparation and the idea that there is no final \"done.\"",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-11T01:16:22.376442+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49238851,
+      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+      "url": "https://www.whodunnitai.com/",
+      "score": 190,
+      "comments": 81,
+      "author": "MrRowTheBoat",
+      "time": 1786331920,
+      "hn_url": "https://news.ycombinator.com/item?id=49238851",
+      "text": "Hey HN!<p>I&#x27;m excited to show off this really fun project I put together. I originally built this project 2-3 years ago, AI was already booming at the time, however voice AI agents were still very early. I loved my proof of concept at the time, but wasn&#x27;t quite happy with it.<p>I recently had the desire to check out the tech again, and know many of you will be interested.<p>Interviews are speech to speech with OpenAI&#x27;s gpt-realtime-2.1 over WebRTC. This model is... expensive, and ",
+      "relevance_score": 0.8999999999999999,
+      "summary": "WhoDunnitAI is a voice-driven murder mystery game where players interrogate AI suspects using their voice. It features realistic conversations and aims to solve a poisoning mystery in Blackwood Manor. The game received positive feedback on Hacker News.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-11T01:16:24.498191+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
