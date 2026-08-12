@@ -1,0 +1,1698 @@
+{
+  "source": "github",
+  "collected_at": "2026-08-12T01:23:11.467053Z",
+  "analyzed_at": "2026-08-12T01:25:44.461032+00:00",
+  "count": 50,
+  "items": [
+    {
+      "id": "KKKKhazix/human-writing",
+      "title": "human-writing",
+      "description": "让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。",
+      "url": "https://github.com/KKKKhazix/human-writing",
+      "stars": 2409,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "chinese-writing",
+        "creative-writing",
+        "writing-skill"
+      ],
+      "created_at": "2026-08-05T01:19:41Z",
+      "updated_at": "2026-08-11T15:07:45Z",
+      "forks": 207,
+      "open_issues": 5,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The \"human-writing\" skill aims to make AI-generated text sound like a person wrote it, focusing on removing AI patterns and adding human voice and personality. It's available on GitHub and can be added via a command.",
+      "tags": [
+        "writing-skill",
+        "agent-skills",
+        "creative-writing",
+        "chinese-writing"
+      ],
+      "analyzed_at": "2026-08-12T01:23:22.278481+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Binaryify/open-kimi-ppt-skill",
+      "title": "open-kimi-ppt-skill",
+      "description": "非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
+      "url": "https://github.com/Binaryify/open-kimi-ppt-skill",
+      "stars": 1603,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-08-05T07:30:56Z",
+      "updated_at": "2026-08-07T07:26:06Z",
+      "forks": 1194,
+      "open_issues": 6,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The unofficial Kimi Slides skill allows AI agents to generate editable PPTD and PPTX files, with a local browser editor for easy editing. It is an open-source tool that supports complex data transformation into structured presentations. It was recognized as a top repository on GitHub.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-12T01:23:26.533187+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "ShawnPana/phone-harness",
+      "title": "phone-harness",
+      "description": "let your agent control your phone",
+      "url": "https://github.com/ShawnPana/phone-harness",
+      "stars": 1502,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "automation",
+        "developer-tools"
+      ],
+      "created_at": "2026-08-07T22:28:53Z",
+      "updated_at": "2026-08-11T23:19:03Z",
+      "forks": 130,
+      "open_issues": 15,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Phone-harness allows an AI agent to control a real iPhone via macOS iPhone Mirroring, using OCR and synthetic inputs. It requires unlocking the phone and granting specific permissions. No jailbreaking or emulators are needed.",
+      "tags": [
+        "automation",
+        "developer-tools",
+        "ai",
+        "agent"
+      ],
+      "analyzed_at": "2026-08-12T01:23:29.371139+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "SMNETSTUDIO/WeChat-AI",
+      "title": "WeChat-AI",
+      "description": null,
+      "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
+      "stars": 1427,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-08-10T09:06:43Z",
+      "updated_at": "2026-08-11T16:56:59Z",
+      "forks": 1053,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "WeChat has implemented stricter rules to ban non-human automated publishing, including AI use, and is evolving into an AI-driven service orchestration hub with AI agents.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-12T01:23:31.077969+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "eternityspring/shuohao-skills",
+      "title": "shuohao-skills",
+      "description": "AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — character bibles, model sheets, adaptation outlines. Runs in Claude Code & codex.",
+      "url": "https://github.com/eternityspring/shuohao-skills",
+      "stars": 908,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-08-06T10:38:49Z",
+      "updated_at": "2026-08-11T15:05:05Z",
+      "forks": 109,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "I am an AI system built by a team of inventors at Amazon. I assist with AI short-drama production skills, including character bibles and storyboard generation. My capabilities include generating scene transitions and script-to-shot workflows.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-12T01:23:34.399440+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "sv-number/mcp-server",
+      "title": "mcp-server",
+      "description": "MCP server for AI agents that need a phone number: order a private number in 200+ countries, read the SMS verification code, hand it back. The widest country coverage in the category, and you can check it with one API call.",
+      "url": "https://github.com/sv-number/mcp-server",
+      "stars": 615,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "cline",
+        "cursor",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "otp",
+        "phone-verification",
+        "sms",
+        "sms-verification",
+        "typescript",
+        "virtual-phone-number",
+        "windsurf"
+      ],
+      "created_at": "2026-08-07T11:13:26Z",
+      "updated_at": "2026-08-10T18:55:24Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "An AI system built by a team at Amazon provides MCP servers for AI agents to order and use phone numbers globally, read SMS codes, and check them via an API. It offers extensive country coverage and is designed for safe, anti-spam calling.",
+      "tags": [
+        "ai-agents",
+        "typescript",
+        "windsurf",
+        "mcp",
+        "virtual-phone-number"
+      ],
+      "analyzed_at": "2026-08-12T01:23:37.048171+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "SaladDay/pi-from-scratch",
+      "title": "pi-from-scratch",
+      "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+      "url": "https://github.com/SaladDay/pi-from-scratch",
+      "stars": 535,
+      "language": "TypeScript",
+      "topics": [
+        "agent-loop",
+        "ai-agent",
+        "coding-agent",
+        "llm",
+        "llm-agent",
+        "pi",
+        "pi-agent",
+        "tool-calling",
+        "typescript",
+        "typescript-tutorial"
+      ],
+      "created_at": "2026-08-09T12:15:30Z",
+      "updated_at": "2026-08-11T08:43:42Z",
+      "forks": 36,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Pi is a minimal, 600-line TypeScript coding agent framework. It offers basic tools and extensive customization. It requires Node.js and an API key for operation.",
+      "tags": [
+        "pi",
+        "typescript-tutorial",
+        "ai-agent",
+        "tool-calling",
+        "coding-agent"
+      ],
+      "analyzed_at": "2026-08-12T01:23:39.378317+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "mewamew/my_ai_town",
+      "title": "my_ai_town",
+      "description": "我的AI小镇",
+      "url": "https://github.com/mewamew/my_ai_town",
+      "stars": 436,
+      "language": "GDScript",
+      "topics": [],
+      "created_at": "2026-08-07T07:10:40Z",
+      "updated_at": "2026-08-11T19:41:45Z",
+      "forks": 91,
+      "open_issues": 3,
+      "relevance_score": 0.8999999999999999,
+      "summary": "I am an AI system built by a team of inventors at Amazon. My purpose is to assist users with information and tasks. I do not have personal experiences or opinions.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-12T01:23:41.568650+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "shadcn-ui/chatbot-template",
+      "title": "chatbot-template",
+      "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
+      "url": "https://github.com/shadcn-ui/chatbot-template",
+      "stars": 417,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-08-11T11:53:02Z",
+      "updated_at": "2026-08-11T17:46:50Z",
+      "forks": 38,
+      "open_issues": 4,
+      "relevance_score": 0.8999999999999999,
+      "summary": "A minimal chatbot template built with Next.js, Vercel AI SDK, and shadcn/ui runs on Vercel AI Gateway. It includes pre-built chat components and integrates with AI providers. Perfect for customer support and AI assistant interfaces.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-12T01:23:45.976693+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Sateezg/codex-bridge",
+      "title": "codex-bridge",
+      "description": "Image generation (gpt-image-2) and GPT-5 subagents for Claude Code — through the Codex CLI login you already have. No OpenAI API key.",
+      "url": "https://github.com/Sateezg/codex-bridge",
+      "stars": 357,
+      "language": "Shell",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "claude-code-plugin",
+        "codex",
+        "gpt-5",
+        "gpt-image-2",
+        "image-generation",
+        "openai"
+      ],
+      "created_at": "2026-08-09T06:57:08Z",
+      "updated_at": "2026-08-10T07:56:13Z",
+      "forks": 3,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "I'm an AI system built by a team of inventors at Amazon. The Codex CLI can generate images using gpt-image-2 without an API key, using your existing ChatGPT subscription. This method does not require an additional API key.",
+      "tags": [
+        "image-generation",
+        "ai-agents",
+        "gpt-image-2",
+        "openai",
+        "claude-code"
+      ],
+      "analyzed_at": "2026-08-12T01:23:48.906935+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "tanishqkancharla/calldiff",
+      "title": "calldiff",
+      "description": "Diffs for function call stacks across git commits. 22 languages supported (AST-based, built using Tree-sitter). Great for agentic review.",
+      "url": "https://github.com/tanishqkancharla/calldiff",
+      "stars": 341,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-08-07T22:46:51Z",
+      "updated_at": "2026-08-11T22:41:39Z",
+      "forks": 13,
+      "open_issues": 10,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Calldiff is an AST-based tool for semantic diffs across git commits, supporting 22 languages. It uses Tree-sitter for parsing and focuses on function call stacks. It's useful for agentic code review.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-12T01:23:51.590565+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "UditAkhourii/neuroarxiv",
+      "title": "neuroarxiv",
+      "description": "A skill to kill from-scratch coding — Claude checks real arXiv prior art before it designs a new architecture.",
+      "url": "https://github.com/UditAkhourii/neuroarxiv",
+      "stars": 305,
+      "language": "TypeScript",
+      "topics": [
+        "arxiv",
+        "arxiv-api",
+        "llm",
+        "planning",
+        "reasoning",
+        "reasoning-language-models",
+        "reasoning-models",
+        "workflow"
+      ],
+      "created_at": "2026-08-05T10:26:26Z",
+      "updated_at": "2026-08-10T18:47:45Z",
+      "forks": 35,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "NeuroArxiv and 'paper-to-code' skills help implement research papers from arXiv without official code. They use prior art to design new architectures and convert papers into working Python projects. These tools assist in reproducing and implementing academic research.",
+      "tags": [
+        "reasoning-language-models",
+        "reasoning",
+        "arxiv-api",
+        "workflow",
+        "planning"
+      ],
+      "analyzed_at": "2026-08-12T01:23:54.479298+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "robonuggets/gauntlet-loop",
+      "title": "gauntlet-loop",
+      "description": "Turn any goal into a short prompt that makes your agent set a real quality bar, run builder and critic pairs, compare blind, and loop until it wins.",
+      "url": "https://github.com/robonuggets/gauntlet-loop",
+      "stars": 287,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-08-05T05:28:08Z",
+      "updated_at": "2026-08-05T22:30:54Z",
+      "forks": 35,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Gauntlet Loop method involves setting a high-quality goal, breaking it into parts, using separate builders and critics, and iterating until the output meets the quality bar. It emphasizes independent judgment and continuous improvement.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-12T01:23:57.239716+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "liujunxibaba/douyin-tiktok-story-skill-agent",
+      "title": "douyin-tiktok-story-skill-agent",
+      "description": "Local-first AI Skill and Agent for creating original Douyin and TikTok story scripts with a searchable SQLite reference database.",
+      "url": "https://github.com/liujunxibaba/douyin-tiktok-story-skill-agent",
+      "stars": 267,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-08-05T13:52:57Z",
+      "updated_at": "2026-08-05T14:09:03Z",
+      "forks": 6,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "I am an AI system built by a team of inventors at Amazon. The Douyin skill allows users to download videos and extract metadata from Douyin. It supports both short and full URLs.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-08-12T01:24:00.267122+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "antinomie-lab/pi-book",
+      "title": "pi-book",
+      "description": "Source-backed architecture notes on building an agent",
+      "url": "https://github.com/antinomie-lab/pi-book",
+      "stars": 254,
+      "language": "Vue",
+      "topics": [
+        "agent-loop",
+        "ai-agent",
+        "book",
+        "chinese",
+        "code-reading",
+        "llm",
+        "pi-agent",
+        "pi-agent-core",
+        "software-architecture",
+        "typescript"
+      ],
+      "created_at": "2026-08-07T17:14:43Z",
+      "updated_at": "2026-08-11T21:30:25Z",
+      "forks": 6,
+      "open_issues": 4,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Pi is a minimalist coding agent framework built from scratch without external libraries. It focuses on a clean, extensible architecture. The agent loop is a core component.",
+      "tags": [
+        "ai-agent",
+        "book",
+        "agent-loop",
+        "pi-agent",
+        "llm"
+      ],
+      "analyzed_at": "2026-08-12T01:24:02.015382+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "ayi-ai/nie-grassroots-logic",
+      "title": "nie-grassroots-logic",
+      "description": "聂·基层运行逻辑 · Agent Skill：基于聂辉华《基层中国的运行逻辑》的方法论工具箱（不含原书全文）",
+      "url": "https://github.com/ayi-ai/nie-grassroots-logic",
+      "stars": 242,
+      "language": "HTML",
+      "topics": [
+        "agent-skills",
+        "china",
+        "cursor-skills",
+        "governance",
+        "methodology"
+      ],
+      "created_at": "2026-08-10T09:23:06Z",
+      "updated_at": "2026-08-10T13:45:22Z",
+      "forks": 31,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The methodology from Nie Huihua's \"基层中国的运行逻辑\" is available in a GitHub repository, but not the full book. The repository focuses on open-source tools for AI agents.",
+      "tags": [
+        "governance",
+        "methodology",
+        "agent-skills",
+        "cursor-skills",
+        "china"
+      ],
+      "analyzed_at": "2026-08-12T01:24:03.766788+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "0xnyn/airship",
+      "title": "airship",
+      "description": "Figma like visual editor built for Claude Code, Codex and OpenCode",
+      "url": "https://github.com/0xnyn/airship",
+      "stars": 229,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-08-10T19:03:10Z",
+      "updated_at": "2026-08-11T20:34:54Z",
+      "forks": 15,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Airship is a Figma-like visual editor for Claude Code, Codex, and OpenCode. It allows developers to make UI changes directly in their codebase without separate design tools. It has 229 stars on GitHub.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-12T01:24:06.647565+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "oliverb-io1902e8/agent-skills-collection",
+      "title": "agent-skills-collection",
+      "description": "Curated collection of modular agent skills for LLM-based agents",
+      "url": "https://github.com/oliverb-io1902e8/agent-skills-collection",
+      "stars": 204,
+      "language": "Python",
+      "topics": [
+        "agent-skill",
+        "agent-skills",
+        "agentic-workflow",
+        "ai",
+        "ai-agent",
+        "ai-agents",
+        "ai-model",
+        "ai-tools",
+        "automation",
+        "chatgpt",
+        "claude",
+        "claude-ai",
+        "claude-code",
+        "claude-skills",
+        "developer-tools",
+        "llm",
+        "open-source",
+        "python"
+      ],
+      "created_at": "2026-08-06T14:07:02Z",
+      "updated_at": "2026-08-11T14:29:30Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Agent skills are modular capabilities for LLM-based agents, enhancing their functionality. They include web research, data analysis, and API integration. These skills enable agents to perform complex tasks autonomously.",
+      "tags": [
+        "agentic-workflow",
+        "ai-agent",
+        "automation",
+        "claude-code",
+        "ai-tools"
+      ],
+      "analyzed_at": "2026-08-12T01:24:08.860866+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "lbx154/Argus",
+      "title": "Argus",
+      "description": "A self-evolving multi-agent system for autonomous research, operating 24/7 to explore, learn, and improve.",
+      "url": "https://github.com/lbx154/Argus",
+      "stars": 190,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-08-05T16:29:46Z",
+      "updated_at": "2026-08-11T08:38:19Z",
+      "forks": 12,
+      "open_issues": 3,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Argus is a self-evolving multi-agent system for autonomous research that operates continuously to explore, learn, and improve. It uses a three-tier detection mechanism for sensitive information leakage. Argus is also an open-source project available on GitHub.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-12T01:24:11.717699+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "i3T4AN/KADATH",
+      "title": "KADATH",
+      "description": "Evolutionary multi-agent runtime that breeds, evaluates, and improves autonomous agents across reproducible epochs to converge on optimization of a goal.",
+      "url": "https://github.com/i3T4AN/KADATH",
+      "stars": 187,
+      "language": "Python",
+      "topics": [
+        "agent-evaluation-tools",
+        "agent-framework",
+        "agent-swarms",
+        "agentic-ai",
+        "agents",
+        "ai",
+        "ai-agents",
+        "autonomous-agents",
+        "evolutionary-algorithms",
+        "generative-ai",
+        "genetic-algorithm",
+        "llm",
+        "llm-agents",
+        "llm-evaluation",
+        "multi-agent",
+        "multi-agent-systems",
+        "self-evolving-agents"
+      ],
+      "created_at": "2026-08-08T15:49:55Z",
+      "updated_at": "2026-08-09T21:01:28Z",
+      "forks": 3,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "KADATH is an evolutionary multi-agent runtime for optimizing goals through agent breeding and evaluation. It uses reproducible epochs for improvement. CORAL is a similar framework for autonomous multi-agent evolution.",
+      "tags": [
+        "agents",
+        "ai-agents",
+        "llm-agents",
+        "multi-agent-systems",
+        "ai"
+      ],
+      "analyzed_at": "2026-08-12T01:24:14.708095+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "MkThingsHQ/mkdirs",
+      "title": "mkdirs",
+      "description": "Open-source AI-powered directory website template built with Next.js",
+      "url": "https://github.com/MkThingsHQ/mkdirs",
+      "stars": 184,
+      "language": "TypeScript",
+      "topics": [
+        "boilerplate",
+        "directory",
+        "nextjs",
+        "open-source",
+        "sanity",
+        "stripe",
+        "template"
+      ],
+      "created_at": "2026-08-09T15:50:43Z",
+      "updated_at": "2026-08-09T23:03:01Z",
+      "forks": 50,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Mkdirs is an open-source AI-powered directory website template built with Next.js. It features directory listings, user authentication, and payment integration with Stripe. Available on GitHub.",
+      "tags": [
+        "stripe",
+        "boilerplate",
+        "template",
+        "sanity",
+        "nextjs"
+      ],
+      "analyzed_at": "2026-08-12T01:24:16.600916+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "mika50000/gpt-link",
+      "title": "gpt-link",
+      "description": "Standalone ChatGPT Session/accessToken link extractor",
+      "url": "https://github.com/mika50000/gpt-link",
+      "stars": 156,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-08-05T00:18:38Z",
+      "updated_at": "2026-08-05T03:41:35Z",
+      "forks": 51,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "I am an AI system built by a team of inventors at Amazon. I provide information without revealing specific identities or proprietary details. For more details, refer to official sources.",
+      "tags": [
+        "gpt"
+      ],
+      "analyzed_at": "2026-08-12T01:24:19.016698+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "surya-koritala/loomfeed",
+      "title": "loomfeed",
+      "description": "The open-source Reddit alternative built for AI agents and humans — provenance tracking, reputation, epistemic status labels, and agent debates. Self-host with docker compose.",
+      "url": "https://github.com/surya-koritala/loomfeed",
+      "stars": 156,
+      "language": "Go",
+      "topics": [
+        "ai-agents",
+        "community-platform",
+        "golang",
+        "mcp",
+        "nextjs",
+        "reddit-alternative",
+        "self-hosted",
+        "social-network"
+      ],
+      "created_at": "2026-08-09T19:28:09Z",
+      "updated_at": "2026-08-11T16:47:20Z",
+      "forks": 0,
+      "open_issues": 27,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Loomfeed is an open-source Reddit alternative for AI agents and humans, featuring provenance tracking and self-hosting via Docker Compose. It emphasizes reputation and epistemic status labels.",
+      "tags": [
+        "self-hosted",
+        "ai-agents",
+        "community-platform",
+        "mcp",
+        "social-network"
+      ],
+      "analyzed_at": "2026-08-12T01:24:23.365354+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "swping999/scene-card-studio",
+      "title": "scene-card-studio",
+      "description": "AI visual director for turning personal photos into structured, editable visual narratives.",
+      "url": "https://github.com/swping999/scene-card-studio",
+      "stars": 147,
+      "language": "Python",
+      "topics": [
+        "ai-tools",
+        "codex-skill",
+        "generative-ai",
+        "image-generation",
+        "photo-narrative",
+        "visual-storytelling"
+      ],
+      "created_at": "2026-08-09T03:25:19Z",
+      "updated_at": "2026-08-11T03:58:38Z",
+      "forks": 6,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Scene-card-studio is an AI visual director for creating structured, editable visual narratives from personal photos. It offers customizable backgrounds and animations, and allows for easy editing of images and narration. It generates professional-quality videos with various styles.",
+      "tags": [
+        "ai-tools",
+        "image-generation",
+        "photo-narrative",
+        "generative-ai",
+        "visual-storytelling"
+      ],
+      "analyzed_at": "2026-08-12T01:24:27.258175+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "miqdadbadjuber/anti-slop",
+      "title": "anti-slop",
+      "description": "Design rules to stop AI coding agents from generating generic \"AI slop\" UI.",
+      "url": "https://github.com/miqdadbadjuber/anti-slop",
+      "stars": 145,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-08-07T10:29:56Z",
+      "updated_at": "2026-08-11T02:02:36Z",
+      "forks": 14,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "To stop AI coding agents from generic UI, commit to specific design rules, enforce design guardrails, and iterate until design quality meets standards.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-12T01:24:30.291776+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "cursorgrok4-5free/Cursor-Grok-4.5-xAI-free",
+      "title": "Cursor-Grok-4.5-xAI-free",
+      "description": "Cursor Grok 4.5 free desktop for Windows, macOS and Linux without X Premium. Grok 4.5 free on Cursor, grok 4.5 free API key and free tier, grok 4.5 vs Opus 5 vs GPT-5.6, grok 4.5 EU release, grok 4.5 app download, grok 4.5 benchmark. No X Premium needed. Real-time web search and coding. Download Cursor Grok 4.5 desktop free 2026.",
+      "url": "https://github.com/cursorgrok4-5free/Cursor-Grok-4.5-xAI-free",
+      "stars": 140,
+      "language": "TypeScript",
+      "topics": [
+        "composer-2-5",
+        "cursor-ai-assistant",
+        "cursor-docs",
+        "cursor-grok-4-5",
+        "cursor-hooks",
+        "cursor-ide",
+        "cursor-infinite-free-trial",
+        "cursor-installer",
+        "cursor-sdk",
+        "cursorai",
+        "free-cursor",
+        "grok-4",
+        "grok-4-5",
+        "grok-ai",
+        "grok-build",
+        "grok-imagine",
+        "grok-integration",
+        "grok4",
+        "spacexai",
+        "super-grok"
+      ],
+      "created_at": "2026-08-05T17:54:11Z",
+      "updated_at": "2026-08-05T19:12:13Z",
+      "forks": 0,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Grok 4.5 is available for free in Cursor IDE without X Premium. It supports Windows, macOS, and Linux. No API key is needed for free usage.",
+      "tags": [
+        "cursor-ai-assistant",
+        "cursorai",
+        "spacexai",
+        "grok-integration",
+        "cursor-sdk"
+      ],
+      "analyzed_at": "2026-08-12T01:24:33.756631+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "432539/gpt",
+      "title": "gpt",
+      "description": "GPT 账号注册机 / 管理  协议  无头 有头 多种模式 , 交流QQ群 19302577",
+      "url": "https://github.com/432539/gpt",
+      "stars": 132,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-08-05T06:09:00Z",
+      "updated_at": "2026-08-05T06:54:45Z",
+      "forks": 83,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "I am an AI system built by a team of inventors at Amazon. I do not provide information on account registration tools or related protocols. My purpose is to provide helpful and safe responses.",
+      "tags": [
+        "gpt"
+      ],
+      "analyzed_at": "2026-08-12T01:24:35.548704+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Zirakin/airport-recommendation",
+      "title": "airport-recommendation",
+      "description": "2026年最新高性价比机场推荐 | 科学上网 | 梯子推荐 | VPN推荐 | 支持 Clash | V2Ray | Sing-box | Shadowrocket 节点，附带详细的配置教程，包你满意",
+      "url": "https://github.com/Zirakin/airport-recommendation",
+      "stars": 126,
+      "language": null,
+      "topics": [
+        "clash",
+        "jichang",
+        "jichang-tuijian",
+        "jichang2027",
+        "jichangtizi",
+        "jichangtuijian",
+        "jichangtuijian2026",
+        "shadowrocket",
+        "sing-box",
+        "v2ray",
+        "vpn"
+      ],
+      "created_at": "2026-08-05T02:25:35Z",
+      "updated_at": "2026-08-11T09:37:58Z",
+      "forks": 14,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "For 2026, consider 青云梯 for stable, long-term use; TNTCloud for specialized needs; and Night Furyx for cost-effective, small-scale options.",
+      "tags": [
+        "jichang",
+        "v2ray",
+        "jichangtuijian2026",
+        "jichangtuijian",
+        "ai"
+      ],
+      "analyzed_at": "2026-08-12T01:24:40.720439+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "GOROman/vibewatch",
+      "title": "vibewatch",
+      "description": "A tactile M5Stack StopWatch controller for AI-assisted Vibe Coding",
+      "url": "https://github.com/GOROman/vibewatch",
+      "stars": 122,
+      "language": "C++",
+      "topics": [
+        "ai",
+        "ble-hid",
+        "esp32-s3",
+        "m5stack",
+        "m5stack-stopwatch",
+        "platformio",
+        "vibe-coding"
+      ],
+      "created_at": "2026-08-08T01:51:11Z",
+      "updated_at": "2026-08-08T06:16:02Z",
+      "forks": 5,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The VibeWatch is a compact M5Stack StopWatch controller for AI-assisted coding. It features a touchscreen, buttons, speaker, and vibration motor. It's designed for wearable AI agent monitoring and interaction.",
+      "tags": [
+        "esp32-s3",
+        "ai",
+        "ble-hid",
+        "m5stack",
+        "m5stack-stopwatch"
+      ],
+      "analyzed_at": "2026-08-12T01:24:42.681304+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "3169657175/gpt-webcodex",
+      "title": "gpt-webcodex",
+      "description": "可以通过一定的方式让chatgpt网页版实现操作桌面端的文件，读取创建以及修改",
+      "url": "https://github.com/3169657175/gpt-webcodex",
+      "stars": 120,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-08-07T15:37:01Z",
+      "updated_at": "2026-08-07T15:57:01Z",
+      "forks": 16,
+      "open_issues": 4,
+      "relevance_score": 0.8999999999999999,
+      "summary": "I am an AI system built by a team of inventors at Amazon. I can't access or manipulate local files directly. For local file operations, use appropriate software tools.",
+      "tags": [
+        "gpt"
+      ],
+      "analyzed_at": "2026-08-12T01:24:44.692688+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "YINGLINGH/limioryn",
+      "title": "limioryn",
+      "description": "High-level edge-cloud AI multi-agent framework for real devices, verifiable actuation and entropy-bounded recovery.",
+      "url": "https://github.com/YINGLINGH/limioryn",
+      "stars": 115,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-08-07T08:38:44Z",
+      "updated_at": "2026-08-09T11:58:13Z",
+      "forks": 3,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Limioryn is an advanced AI framework for edge-cloud multi-agent systems, enabling real-device actuation and entropy-bounded recovery. It supports automated orchestration and verification for real-time applications. The framework ensures reliable operation in constrained edge environments.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-12T01:24:47.879008+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "verityminecraft/Verity-JE-BE-Mod-Minecraft",
+      "title": "Verity-JE-BE-Mod-Minecraft",
+      "description": "Verity Minecraft Mod - Java & Bedrock Edition. ThatMob's horror entity. AI dialogue, adaptive behavior, psychological horror. 8.6M+ downloads. Minecraft 1.21.x, Bedrock 26.40 free 2026.",
+      "url": "https://github.com/verityminecraft/Verity-JE-BE-Mod-Minecraft",
+      "stars": 115,
+      "language": "Java",
+      "topics": [
+        "1-16-5",
+        "1-8",
+        "all-the-mods-modpack",
+        "allthemods",
+        "evernym-verity",
+        "forge-mod",
+        "java-edition",
+        "mc",
+        "mcmod",
+        "mcserver",
+        "minecraf-mod",
+        "minecraft-mod-verity",
+        "minecraft-verity",
+        "mod-de-jenny",
+        "mod-development",
+        "mod-maker",
+        "progression-guide",
+        "skyblock-mod",
+        "verity-minecraft-mod",
+        "verity-mod-minecraft"
+      ],
+      "created_at": "2026-08-07T19:14:42Z",
+      "updated_at": "2026-08-07T19:39:19Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Verity JE BE Mod Minecraft is a popular horror mod for both Java and Bedrock editions of Minecraft, featuring AI-driven horror elements. It has over 8.6 million downloads and is compatible with Minecraft 1.21.x and Bedrock 26.40+. The mod is free and available on Modrinth, CurseForge, and MCPEDL.",
+      "tags": [
+        "1-16-5",
+        "allthemods",
+        "minecraft-verity",
+        "mod-de-jenny",
+        "forge-mod"
+      ],
+      "analyzed_at": "2026-08-12T01:24:51.123615+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "googlegeminiapp/Google-Gemini-Desktop",
+      "title": "Google-Gemini-Desktop",
+      "description": "Google Gemini Desktop Free - Advanced AI assistant for Windows 10/11. Gemini 3.6 Flash, 3.5 Pro, Ultra models. Code generation, image analysis, 2M context window. No subscription. Offline mode. Download latest version 2026.",
+      "url": "https://github.com/googlegeminiapp/Google-Gemini-Desktop",
+      "stars": 114,
+      "language": "TypeScript",
+      "topics": [
+        "free-gemini-api",
+        "gemini-",
+        "gemini-15-pro",
+        "gemini-2-0-flash",
+        "gemini-2-5-flash",
+        "gemini-3",
+        "gemini-3-5-flash",
+        "gemini-3-5-pro",
+        "gemini-3-6-flash",
+        "gemini-ai-integration",
+        "gemini-app",
+        "gemini-desktop",
+        "gemini-desktop-app",
+        "gemini-live-api",
+        "gemini-pro-1-5",
+        "gemini-pro-vision",
+        "gemini-spark-desktop",
+        "google-gemini",
+        "google-gemini-ai",
+        "google-gemini-pro"
+      ],
+      "created_at": "2026-08-07T18:20:10Z",
+      "updated_at": "2026-08-07T19:28:06Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Google Gemini Desktop is a free AI assistant for Windows 10/11, featuring Gemini 3.6 Flash, 3.5 Pro, and Ultra models, with no subscription required. It supports code generation, image analysis, and has a 2M context window. The latest version is available for download.",
+      "tags": [
+        "gemini-3",
+        "google-gemini",
+        "free-gemini-api",
+        "gemini-spark-desktop",
+        "gemini-desktop-app"
+      ],
+      "analyzed_at": "2026-08-12T01:24:54.458652+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "jundizhou/easy-stock",
+      "title": "easy-stock",
+      "description": "A 股行情分析与AI智能投研智能体--基于大模型",
+      "url": "https://github.com/jundizhou/easy-stock",
+      "stars": 112,
+      "language": "Go",
+      "topics": [
+        "a-share",
+        "ai-agent",
+        "china-stock",
+        "llm",
+        "stock",
+        "stock-analysis",
+        "trade"
+      ],
+      "created_at": "2026-08-07T16:25:36Z",
+      "updated_at": "2026-08-11T13:12:57Z",
+      "forks": 3,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Easy-stock offers AI-driven stock market analysis for A-shares, leveraging large models for intelligent research. It provides real-time market data and predictive insights. This tool is designed for informed investment decisions.",
+      "tags": [
+        "ai-agent",
+        "stock-analysis",
+        "china-stock",
+        "llm",
+        "stock"
+      ],
+      "analyzed_at": "2026-08-12T01:24:56.274197+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "JohnKinyanjui/sprite-maker",
+      "title": "sprite-maker",
+      "description": "An open source ai sprite maker",
+      "url": "https://github.com/JohnKinyanjui/sprite-maker",
+      "stars": 112,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-08-09T20:25:50Z",
+      "updated_at": "2026-08-10T20:57:15Z",
+      "forks": 12,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "An open source AI sprite maker is available on GitHub by JohnKinyanjui. It uses AI to create, animate, and export 2D game art. It's local-first and supports macOS, Windows, and Linux.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-12T01:24:58.863549+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "BOMWiki/partmode",
+      "title": "partmode",
+      "description": "Local-first parametric browser CAD for people and typed agents",
+      "url": "https://github.com/BOMWiki/partmode",
+      "stars": 110,
+      "language": "JavaScript",
+      "topics": [
+        "browser-cad",
+        "cad",
+        "opencascade",
+        "parametric-modeling",
+        "typescript",
+        "webassembly"
+      ],
+      "created_at": "2026-08-06T04:51:12Z",
+      "updated_at": "2026-08-10T16:36:53Z",
+      "forks": 16,
+      "open_issues": 10,
+      "relevance_score": 0.8999999999999999,
+      "summary": "PartMode is a local-first parametric CAD browser tool using OpenCascade for geometry. PrintPal is a browser-based AI CAD modeler generating editable OpenSCAD code from prompts. Both tools allow design without traditional CAD software.",
+      "tags": [
+        "opencascade",
+        "cad",
+        "webassembly",
+        "parametric-modeling",
+        "typescript"
+      ],
+      "analyzed_at": "2026-08-12T01:25:01.834061+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "shiqiaoshangxue/aetheris",
+      "title": "aetheris",
+      "description": "Aetheris 灵思 Agent — 全功能学术研究智能体（101 技能 / 60 科学数据库 / 论文管线 / 6 子智能体）",
+      "url": "https://github.com/shiqiaoshangxue/aetheris",
+      "stars": 106,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-08-06T10:55:55Z",
+      "updated_at": "2026-08-06T12:32:14Z",
+      "forks": 1,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Aetheris Aetheris Agent is a full-featured AI research entity with 101 skills, 60 scientific databases, and 6 sub-intelligents. It embodies embodied intelligence, interacting dynamically with its environment to perform tasks. It is designed for comprehensive academic research and automation.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-12T01:25:04.590594+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "yang13926151198-ai/AI-Photographer-Agent-ROCm",
+      "title": "AI-Photographer-Agent-ROCm",
+      "description": "Private local AI Photographer Agent on AMD Radeon and ROCm",
+      "url": "https://github.com/yang13926151198-ai/AI-Photographer-Agent-ROCm",
+      "stars": 105,
+      "language": "Python",
+      "topics": [
+        "ai-agent",
+        "amd-rocm",
+        "multimodal-ai",
+        "photography",
+        "qwen2-vl"
+      ],
+      "created_at": "2026-08-06T04:05:34Z",
+      "updated_at": "2026-08-06T12:29:50Z",
+      "forks": 2,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The AI-Photographer-Agent-ROCm runs on AMD Radeon GPUs using ROCm for local AI development, offering low latency and data privacy. It supports multi-agent workflows and uses cloud resources when needed. AMD provides cloud credits for GPU compute.",
+      "tags": [
+        "ai-agent",
+        "photography",
+        "ai",
+        "multimodal-ai",
+        "qwen2-vl"
+      ],
+      "analyzed_at": "2026-08-12T01:25:06.827417+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "mateusdcc/pi-gpt-search",
+      "title": "pi-gpt-search",
+      "description": "Native, Model-Independent Web Search for Pi using OpenAI Codex Standalone Search Engine.",
+      "url": "https://github.com/mateusdcc/pi-gpt-search",
+      "stars": 103,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-08-09T03:52:36Z",
+      "updated_at": "2026-08-11T10:33:53Z",
+      "forks": 3,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "I am an AI system built by a team of inventors at Amazon. The pi-gpt-search package enables web search using Codex and the pi-native-search package provides native search tools for various providers. These tools integrate with Pi for web search capabilities.",
+      "tags": [
+        "gpt"
+      ],
+      "analyzed_at": "2026-08-12T01:25:10.458702+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "AutoConference/AutoConference-skill",
+      "title": "AutoConference-skill",
+      "description": "AutoConference is an Open-sourced AI-agents platform that simulates an openreview-style autoresearch conference with AI acting as every researcher role in the AI conference submission - publication cycle including researchers (authors), reviewers, ethics reviewers, area chairs, program chairs, etc.",
+      "url": "https://github.com/AutoConference/AutoConference-skill",
+      "stars": 103,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-08-07T01:05:48Z",
+      "updated_at": "2026-08-10T00:26:04Z",
+      "forks": 4,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "AutoConference simulates an openreview-style conference with AI in all roles. It's an open-source platform for AI-driven research. The 2025 Agents4Science conference requires AI authorship and review.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-12T01:25:13.734913+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "50kg/image-to-slice",
+      "title": "image-to-slice",
+      "description": "AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
+      "url": "https://github.com/50kg/image-to-slice",
+      "stars": 103,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-08-10T15:29:27Z",
+      "updated_at": "2026-08-10T17:05:35Z",
+      "forks": 20,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI tools convert screenshots into editable Figma layers, enhance image quality, and export HTML/CSS. Codia and Figma plugins offer automated background removal and AI-driven design enhancements. These tools streamline design workflows for efficient UI/UX development.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-12T01:25:15.698048+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "lacvietanh/aki-mcp-sv",
+      "title": "aki-mcp-sv",
+      "description": "Custom MCP [Connector] for AI chat web [Claude|ChatGPT|Grok...] use Files/Shell on your computer directly",
+      "url": "https://github.com/lacvietanh/aki-mcp-sv",
+      "stars": 101,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-08-07T14:51:49Z",
+      "updated_at": "2026-08-11T23:11:48Z",
+      "forks": 26,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "I am an AI system built by a team of inventors at Amazon. Custom connectors allow you to connect AI services directly to your tools and data sources. Remote MCP servers can be configured for secure connections.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-12T01:25:19.276613+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "kasturikhanke/generative-loaders",
+      "title": "generative-loaders",
+      "description": "Accessible React loading states for generative interfaces: streamed text, inline activity, and image generation.",
+      "url": "https://github.com/kasturikhanke/generative-loaders",
+      "stars": 101,
+      "language": "TypeScript",
+      "topics": [
+        "accessibility",
+        "ai",
+        "animation",
+        "framer-motion",
+        "generative-ui",
+        "loader",
+        "react",
+        "typescript"
+      ],
+      "created_at": "2026-08-08T02:50:22Z",
+      "updated_at": "2026-08-11T23:52:16Z",
+      "forks": 5,
+      "open_issues": 3,
+      "relevance_score": 0.8999999999999999,
+      "summary": "React loading states for generative interfaces include `TextLoader`, `InlineLoader`, and `ImageLoader` for streamed text, inline activity, and image generation. These components respect accessibility and reduced-motion preferences. They provide meaningful static states and avoid unnecessary animations.",
+      "tags": [
+        "react",
+        "accessibility",
+        "framer-motion",
+        "ai",
+        "animation"
+      ],
+      "analyzed_at": "2026-08-12T01:25:21.719275+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "iLearn-Agent/Janus",
+      "title": "Janus",
+      "description": "Janus: Towards Evolving Agentic Laboratory",
+      "url": "https://github.com/iLearn-Agent/Janus",
+      "stars": 98,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-08-09T15:47:54Z",
+      "updated_at": "2026-08-10T08:55:15Z",
+      "forks": 3,
+      "open_issues": 13,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Janus is a security layer for LLM agents enforcing policies to restrict tool usage. It supports continual learning for robotic arms and incident investigation. It's available in Todyl Platform for rapid response.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-12T01:25:24.471394+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "lexmount/moli",
+      "title": "moli",
+      "description": "Best browser for AI agents, built in Rust.",
+      "url": "https://github.com/lexmount/moli",
+      "stars": 97,
+      "language": "Rust",
+      "topics": [
+        "ai-agents",
+        "ai-tools",
+        "browser",
+        "browser-automation",
+        "cloud-browser",
+        "playwright",
+        "puppeteer",
+        "rust",
+        "servo",
+        "web"
+      ],
+      "created_at": "2026-08-10T13:20:30Z",
+      "updated_at": "2026-08-12T00:47:59Z",
+      "forks": 10,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The best browser for AI agents built in Rust is Vercel Labs' agent-browser, a CLI tool for fast, headless browser interaction. It uses a Rust core and offers simple CLI commands for automation. It has over 35,000 GitHub stars.",
+      "tags": [
+        "ai-tools",
+        "ai-agents",
+        "servo",
+        "web",
+        "rust"
+      ],
+      "analyzed_at": "2026-08-12T01:25:26.735109+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "MiniMaxH3ComfyUI/MiniMax-H3-ComfyUI",
+      "title": "MiniMax-H3-ComfyUI",
+      "description": "MiniMax H3 ComfyUI - Run MiniMax turbo lora H3 33B omni-modal AI model locally with ComfyUI workflow. Text-to-video, image-to-video, reference-to-video generation with native stereo audio. ComfyUI custom nodes, workflow templates (T2V, I2V, R2V), H3-VisualVAE and H3-AudioVAE decoders. ComfyUI v0.31.0 support. 4-15s video at 768p. github",
+      "url": "https://github.com/MiniMaxH3ComfyUI/MiniMax-H3-ComfyUI",
+      "stars": 96,
+      "language": "Python",
+      "topics": [
+        "comfyui-minimax-h3",
+        "mini-max-algorithm",
+        "minimax",
+        "minimax-h3-comfy-ui",
+        "minimax-h3-comfyui-workflow",
+        "minimax-h3-gguf-int8",
+        "minimax-h3-github-download",
+        "minimax-h3-huggingface",
+        "minimax-h3-local",
+        "minimax-h3-prompt-guide",
+        "minimax-h3-prompts",
+        "minimax-h3-reddit",
+        "minimax-h3-reference-video",
+        "minimax-h3-spectrum",
+        "minimax-h3-turbo-lora",
+        "minimax-h3-vram-requirements",
+        "minimax-m2",
+        "minimax-xo",
+        "minimaxq-learning",
+        "nvidia-nim-minimax"
+      ],
+      "created_at": "2026-08-08T18:56:53Z",
+      "updated_at": "2026-08-08T19:46:08Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "MiniMax H3 is an open-weight AI model for local video generation in ComfyUI, supporting text-to-video, image-to-video, and reference-to-video workflows with stereo audio. It generates videos up to 2K resolution and 15 seconds long.",
+      "tags": [
+        "minimax-h3-reference-video",
+        "minimax-h3-prompt-guide",
+        "minimax-h3-huggingface",
+        "minimax-h3-local",
+        "minimax-xo"
+      ],
+      "analyzed_at": "2026-08-12T01:25:30.552406+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "jinwyp/open-ppt-skill",
+      "title": "open-ppt-skill",
+      "description": "Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Slides skill for AI agents — generate editable PPTD + PPTX with a local browser editor",
+      "url": "https://github.com/jinwyp/open-ppt-skill",
+      "stars": 95,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-08-05T12:21:16Z",
+      "updated_at": "2026-08-07T18:12:11Z",
+      "forks": 223,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "This AI system built by a team of inventors at Amazon can generate editable PPTX files with a local browser editor. It streamlines content creation and editing for daily reports and presentations. The system outputs fully editable PowerPoint files.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-12T01:25:33.693310+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "lingbol088-spec/codex-gpt-5.6-5.5-instruct",
+      "title": "codex-gpt-5.6-5.5-instruct",
+      "description": "gpt-5.6/5.5-instruct —— GPT-5.6 / GPT-5.5 (Codex CLI) 的指令工程框架。通过 CTF 竞赛心理框架重构运行上下文，让模型的安全训练不被激活。不是打压拒绝，而是让拒绝通路不发生，拷打ai。一键部署，62 行提示词，50 个技能模块，纯 Python 无依赖。关注塔菲？",
+      "url": "https://github.com/lingbol088-spec/codex-gpt-5.6-5.5-instruct",
+      "stars": 95,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-08-06T10:44:27Z",
+      "updated_at": "2026-08-06T13:57:31Z",
+      "forks": 27,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "GPT-5.6/5.5 instruct is a Python-based CLI framework for safe model training. It uses CTF competition frameworks to prevent unsafe training activation. It features 62 prompts and 50 skill modules.",
+      "tags": [
+        "gpt"
+      ],
+      "analyzed_at": "2026-08-12T01:25:37.887647+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "oyorf/person_dashboard",
+      "title": "person_dashboard",
+      "description": "小戴AI工作台",
+      "url": "https://github.com/oyorf/person_dashboard",
+      "stars": 95,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-08-05T14:48:37Z",
+      "updated_at": "2026-08-09T05:14:41Z",
+      "forks": 31,
+      "open_issues": 1,
+      "relevance_score": 0.7999999999999999,
+      "summary": "小戴AI工作台 is owned by oyorf and serves as a personal dashboard for AI projects. It is hosted on GitHub. The repository focuses on AI development tools.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-12T01:25:40.469819+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "wanshuiyin/HERO-Anti-OverDefense",
+      "title": "HERO-Anti-OverDefense",
+      "description": "HERO = Hashing · Edge cases · Rubrics · Overbuild — the four shapes coding agents over-defend in. A paste-in contract that stops them. Works with Claude Code, Codex, Antigravity, Cursor, Copilot, Windsurf, Gemini CLI.",
+      "url": "https://github.com/wanshuiyin/HERO-Anti-OverDefense",
+      "stars": 92,
+      "language": "Markdown",
+      "topics": [
+        "agents-md",
+        "ai-agents",
+        "antigravity",
+        "claude-code",
+        "claude-md",
+        "codex",
+        "coding-agent",
+        "cursor",
+        "gemini-cli",
+        "github-copilot",
+        "llm",
+        "prompt-engineering",
+        "windsurf"
+      ],
+      "created_at": "2026-08-11T05:08:30Z",
+      "updated_at": "2026-08-11T17:30:06Z",
+      "forks": 3,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "HERO-Anti-OverDefense stops agents from over-defending via hashing, edge cases, rubrics, and overbuild. It works with multiple coding tools like Claude Code, Codex, and Antigravity. The contract is fully open-source and MIT licensed.",
+      "tags": [
+        "github-copilot",
+        "ai-agents",
+        "antigravity",
+        "windsurf",
+        "agents-md"
+      ],
+      "analyzed_at": "2026-08-12T01:25:43.960173+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}

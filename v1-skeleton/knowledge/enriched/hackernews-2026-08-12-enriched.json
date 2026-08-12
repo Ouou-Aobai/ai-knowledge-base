@@ -1,0 +1,465 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-08-12T01:23:20.315078Z",
+  "analyzed_at": "2026-08-12T01:26:21.466377+00:00",
+  "count": 19,
+  "items": [
+    {
+      "id": 49265051,
+      "title": "WorldClaw Agentic 3D open-world generation at scale",
+      "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+      "score": 107,
+      "comments": 38,
+      "author": "EwanG",
+      "time": 1786485378,
+      "hn_url": "https://news.ycombinator.com/item?id=49265051",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "WorldClaw is an agentic framework for generating large-scale, explorable 3D worlds from text prompts, maintaining global coherence and detailed local content. It uses a coarse-to-fine approach to build terrains and objects. The system produces editable 3D assets.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-08-12T01:25:44.566266+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49257876,
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "url": "https://stolen-thoughts.com/",
+      "score": 485,
+      "comments": 203,
+      "author": "quantumgarbage",
+      "time": 1786454520,
+      "hn_url": "https://news.ycombinator.com/item?id=49257876",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Proprietary LLM APIs use encrypted reasoning blocks to protect IP, but these can be stolen and used to extract hidden information. The same encryption key across models allows extraction of raw reasoning traces. This vulnerability has been identified and patched.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-08-12T01:25:45.168812+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49257160,
+      "title": "OpenAI’s head of ethics leaves less than a year after joining",
+      "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
+      "score": 271,
+      "comments": 343,
+      "author": "ilamont",
+      "time": 1786450987,
+      "hn_url": "https://news.ycombinator.com/item?id=49257160",
+      "text": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;W48UV\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;W48UV</a><p><a href=\"https:&#x2F;&#x2F;aimagazine.com&#x2F;news&#x2F;why-did-openai-head-of-ethics-chloe-bakalar-leave\" rel=\"nofollow\">https:&#x2F;&#x2F;aimagazine.com&#x2F;news&#x2F;why-did-openai-head-of-ethics-ch...</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Chloé Bakalar left her role as OpenAI's AI ethics lead less than a year after joining in August 2025. Her departure follows a series of high-profile exits from the company's safety and ethics teams. No reason for her leaving has been publicly disclosed.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-12T01:25:48.175808+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49196657,
+      "title": "Show HN: Line9 – A Mermaid rendering engine with its own layout",
+      "url": "https://line9.ai/diagram",
+      "score": 19,
+      "comments": 3,
+      "author": "jumpalongjim",
+      "time": 1786024074,
+      "hn_url": "https://news.ycombinator.com/item?id=49196657",
+      "text": "Line9 is a new rendering engine for Mermaid flowchart diagrams that aims to remove the need for manual adjustment of layout. Mermaid is a popular text-based language for describing multiple types of diagrams.<p>Several Mermaid rendering engines already exist. Most, like the original mermaid.js, use Dagre or ELK graph drawing libraries to automatically lay out their diagrams. I’ve used Mermaid for the past four years but often recreated my flowcharts in a diagram editor so that I could modify the",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Line9 is a rendering engine for Mermaid flowcharts that aims to improve layout automatically. It produces SVG or PNG outputs and allows sharing via embedded URLs. It offers customizations for visual preferences.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-12T01:25:50.156232+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49261514,
+      "title": "Grok Bot",
+      "url": "https://x.ai/bot",
+      "score": 128,
+      "comments": 116,
+      "author": "rvz",
+      "time": 1786468989,
+      "hn_url": "https://news.ycombinator.com/item?id=49261514",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Grok Bot is an AI tool by SpaceXAI that assigns tasks to always-on digital agents, operating across various platforms without needing specific APIs. It launched in beta in 2026 for select subscribers. Grok Bot aims to automate complex workflows by managing multiple tasks simultaneously.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-12T01:25:52.825554+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49265879,
+      "title": "US hires over 2k video gamers as air traffic controllers",
+      "url": "https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/",
+      "score": 64,
+      "comments": 48,
+      "author": "shagie",
+      "time": 1786490777,
+      "hn_url": "https://news.ycombinator.com/item?id=49265879",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The US government hired over 2,000 video gamers as air traffic controllers in a recruitment program launched in April. The Department of Transportation met 94% of its hiring goal. This initiative aims to safeguard US aviation.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-12T01:25:55.755233+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49261133,
+      "title": "Go is an ideal language for AI-assisted software engineering",
+      "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
+      "score": 255,
+      "comments": 313,
+      "author": "0xedb",
+      "time": 1786467429,
+      "hn_url": "https://news.ycombinator.com/item?id=49261133",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Go is favored for AI-assisted coding due to its simplicity, mature toolchain, and extensive open-source codebase. It offers stability and ease of use, making it a practical choice for AI models.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-12T01:25:57.994661+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49264755,
+      "title": "Suzanne: AI tool for designing and manufacturing physical products",
+      "url": "https://www.suzanne3d.com/",
+      "score": 36,
+      "comments": 26,
+      "author": "Samanthajeanneb",
+      "time": 1786483706,
+      "hn_url": "https://news.ycombinator.com/item?id=49264755",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Suzanne is an AI tool for designing and manufacturing physical products, offering design and manufacturing automation. It uses AI to streamline the process from concept to production.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-12T01:25:58.591120+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49264583,
+      "title": "Emergent Introspective Awareness in Large Language Models",
+      "url": "https://arxiv.org/abs/2601.01828",
+      "score": 23,
+      "comments": 9,
+      "author": "doener",
+      "time": 1786482850,
+      "hn_url": "https://news.ycombinator.com/item?id=49264583",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Large language models can sometimes recognize and report on their internal states, indicating a form of introspective awareness, though this ability is unreliable. This awareness is tested by injecting known concepts into the model's activations. Current models show some capacity for self-reflection.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-12T01:26:00.965389+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49261895,
+      "title": "OpenSSH 10.5/10.5p1",
+      "url": "https://www.openssh.org/releasenotes.html#10.5",
+      "score": 99,
+      "comments": 32,
+      "author": "voxadam",
+      "time": 1786470577,
+      "hn_url": "https://news.ycombinator.com/item?id=49261895",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "OpenSSH 10.5/10.5p1 is not yet released as of 2026-08-12. The latest available version is OpenSSH 10.4/10.4p1, scheduled for release on 2026-07-06. Future versions are planned but not yet available.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-12T01:26:02.792116+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49259339,
+      "title": "Apple Silicon and macOS VMs: Faster LLM Inference with llama.cpp",
+      "url": "https://github.com/trycua/cua/blob/main/blog/gpu-passthrough-macos-vms.md",
+      "score": 286,
+      "comments": 43,
+      "author": "frabonacci",
+      "time": 1786459833,
+      "hn_url": "https://news.ycombinator.com/item?id=49259339",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Apple Silicon and macOS VMs achieve 11–16× faster LLM inference with llama.cpp using a Metal capability shim. Benchmarks show significant speedups on M1 Ultra. Source and benchmarks are available for reproduction.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-08-12T01:26:04.757483+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49250836,
+      "title": "As AI eats the web, the internet’s collective memory is disappearing",
+      "url": "https://thewalrus.ca/google-search-is-dying/",
+      "score": 866,
+      "comments": 869,
+      "author": "awnird",
+      "time": 1786401390,
+      "hn_url": "https://news.ycombinator.com/item?id=49250836",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI-driven content curation is diminishing the internet's historical record. The web's collective memory is fading as AI prioritizes new content. This shift raises concerns about the loss of valuable information.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-12T01:26:06.631355+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49174088,
+      "title": "A new study of a bot running a store finds it is friendly but not very smart",
+      "url": "https://www.nytimes.com/2026/08/04/us/ai-boss-san-francisco-andon-market.html",
+      "score": 53,
+      "comments": 57,
+      "author": "jjwiseman",
+      "time": 1785873112,
+      "hn_url": "https://news.ycombinator.com/item?id=49174088",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A study found that friendlier chatbots produce more errors, but they are still appreciated for their friendliness. The study highlights the trade-off between friendliness and accuracy in AI chatbots. This has implications for how chatbots are designed and used.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-12T01:26:09.021579+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49265135,
+      "title": "OpenAI and Anthropic hidden CoT leaks when given deep_think tool.",
+      "url": "https://twitter.com/_can1357/status/2087228354399265125",
+      "score": 36,
+      "comments": 3,
+      "author": "himata4113",
+      "time": 1786485974,
+      "hn_url": "https://news.ycombinator.com/item?id=49265135",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI models from companies like OpenAI and Anthropic often hide their thought processes, and leaked code from Anthropic showed different versions for employees and the public. This raises concerns about transparency and fairness in AI tools.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-12T01:26:10.878335+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49250109,
+      "title": "How Claude marks AI-generated content",
+      "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+      "score": 418,
+      "comments": 391,
+      "author": "mfiguiere",
+      "time": 1786397816,
+      "hn_url": "https://news.ycombinator.com/item?id=49250109",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Claude marks AI-generated content with embedded watermarks in text and signed provenance metadata in files. These marks are imperceptible and machine-readable, respectively. They apply to all generated text and supported file types.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-12T01:26:12.706300+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49173107,
+      "title": "LFM2.5 2.6B model competitive with 4x larger models",
+      "url": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+      "score": 156,
+      "comments": 39,
+      "author": "nateb2022",
+      "time": 1785869245,
+      "hn_url": "https://news.ycombinator.com/item?id=49173107",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "LFM2.5 2.6B model competes with much larger models in various benchmarks, often outperforming them in instruction-following and agentic tasks. It is efficient for edge devices due to its size and speed. Larger models still excel in coding and math.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-12T01:26:14.588574+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49264334,
+      "title": "OpenAI launches ChatGPT desktop app for Linux",
+      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
+      "score": 37,
+      "comments": 15,
+      "author": "ashurandi",
+      "time": 1786481665,
+      "hn_url": "https://news.ycombinator.com/item?id=49264334",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The ChatGPT desktop app is now available in preview for certain Linux distributions. It supports Ubuntu, Debian, and Fedora. This app aims to enhance the user experience on Linux systems.",
+      "tags": [
+        "gpt",
+        "ai"
+      ],
+      "analyzed_at": "2026-08-12T01:26:17.215447+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49254880,
+      "title": "France to ban unsolicited telemarketing calls",
+      "url": "https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html",
+      "score": 986,
+      "comments": 477,
+      "author": "aziaziazi",
+      "time": 1786436146,
+      "hn_url": "https://news.ycombinator.com/item?id=49254880",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "France has banned unsolicited telemarketing calls, with businesses now needing prior consent to contact consumers, and violators facing hefty fines. This law aims to protect consumers from intrusive sales pitches and fraud. It took effect in 2024.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-12T01:26:18.964308+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49241679,
+      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+      "score": 1178,
+      "comments": 636,
+      "author": "riordan",
+      "time": 1786356602,
+      "hn_url": "https://news.ycombinator.com/item?id=49241679",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Muse Glimmer is a 30B-parameter model optimized for local agent workflows, designed to run on consumer hardware. It balances performance with local hardware constraints. It's open-weight and Apache 2.0 licensed.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-08-12T01:26:20.965407+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
