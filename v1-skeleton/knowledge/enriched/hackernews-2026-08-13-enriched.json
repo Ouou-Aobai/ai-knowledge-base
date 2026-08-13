@@ -1,0 +1,587 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-08-13T01:25:14.212610Z",
+  "analyzed_at": "2026-08-13T01:28:44.809293+00:00",
+  "count": 24,
+  "items": [
+    {
+      "id": 49274600,
+      "title": "DeepSeek V4 Pro 0813",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+      "score": 730,
+      "comments": 278,
+      "author": "explosion-s",
+      "time": 1786550690,
+      "hn_url": "https://news.ycombinator.com/item?id=49274600",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "DeepSeek V4 Pro 0813 is DeepSeek's flagship model, released on August 12, 2026, with a 1M-token context window and a maximum output of 384K tokens. It costs $0.46 per million input tokens and $0.93 per million output tokens. It generates tokens slower than DeepSeek V4 Flash 0731.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-13T01:27:48.682199+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49272832,
+      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "score": 789,
+      "comments": 141,
+      "author": "ropbear",
+      "time": 1786544550,
+      "hn_url": "https://news.ycombinator.com/item?id=49272832",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Tailscale experienced repeated database corruption due to a 16-year-old bug in SQLite's WAL reset logic, which caused committed transactions to vanish. The issue was fixed after collaboration with SQLite developers. The problem was traced back to a specific sequence of operations that caused silent data corruption.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-13T01:27:50.660596+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49279928,
+      "title": "Principia Mathematica is modern and insightful",
+      "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
+      "score": 30,
+      "comments": 7,
+      "author": "matt_d",
+      "time": 1786577181,
+      "hn_url": "https://news.ycombinator.com/item?id=49279928",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Principia Mathematica is a foundational work in logic and mathematics by Bertrand Russell and Alfred North Whitehead, published in the early 20th century, considered modern and influential. It laid the groundwork for modern mathematical logic and set theory.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-13T01:27:53.238758+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49280184,
+      "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
+      "url": "https://www.ballet.dev/",
+      "score": 12,
+      "comments": 1,
+      "author": "danielkimber",
+      "time": 1786579303,
+      "hn_url": "https://news.ycombinator.com/item?id=49280184",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Ballet automates workflows by generating code for any API, ensuring deterministic execution where needed. It differs from tools like Zapier by providing inspectable, version-controlled code. It's used for complex integrations across proprietary systems.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-13T01:27:55.890764+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49269429,
+      "title": "Why Target Common Lisp for Code Generation?",
+      "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
+      "score": 27,
+      "comments": 24,
+      "author": "oumua_don17",
+      "time": 1786524053,
+      "hn_url": "https://news.ycombinator.com/item?id=49269429",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Target Common Lisp for code generation due to its sophisticated compilers and ability to optimize for speed, space, and safety. It also supports incremental and interactive development, making it suitable for complex projects.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-13T01:27:58.957401+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49272655,
+      "title": "Tim King, AmigaDOS developer, has died",
+      "url": "https://amiga-news.de/en/news/AN-2026-08-00070-EN.html",
+      "score": 234,
+      "comments": 29,
+      "author": "doener",
+      "time": 1786543751,
+      "hn_url": "https://news.ycombinator.com/item?id=49272655",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Dr. Tim King, the developer of AmigaDOS, passed away in July 2026. His work laid the foundation for the Amiga computer's operating system. His contributions are considered significant in computer history.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-13T01:28:01.081343+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49275335,
+      "title": "HTML over WebSockets: real-time SPAs with barely any JavaScript",
+      "url": "https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/",
+      "score": 144,
+      "comments": 108,
+      "author": "redbell",
+      "time": 1786553485,
+      "hn_url": "https://news.ycombinator.com/item?id=49275335",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "HTML over WebSockets enables real-time SPAs with minimal JavaScript, using persistent connections for faster, lower-latency interactions. It reduces traffic and HTTP overhead, relying on backend-rendered HTML. This approach is resource-intensive but offers significant speed benefits.",
+      "tags": [
+        "ml"
+      ],
+      "analyzed_at": "2026-08-13T01:28:03.362586+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49272569,
+      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+      "url": "https://knownagents.com/insights",
+      "score": 229,
+      "comments": 165,
+      "author": "gavinhking",
+      "time": 1786543366,
+      "hn_url": "https://news.ycombinator.com/item?id=49272569",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": " - The generated text has been blocked by our content filters.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-13T01:28:05.588599+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49269090,
+      "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+      "url": "https://discoveredmaterials.com/research/",
+      "score": 113,
+      "comments": 21,
+      "author": "advaith08",
+      "time": 1786521080,
+      "hn_url": "https://news.ycombinator.com/item?id=49269090",
+      "text": "Hey HN, we&#x27;re Advaith and Akash from Discovered Materials ( <a href=\"https:&#x2F;&#x2F;discoveredmaterials.com&#x2F;\">https:&#x2F;&#x2F;discoveredmaterials.com&#x2F;</a> ).  We build AI agents that discover new materials for the semiconductor industry.<p>GPUs today have a heat problem. Nvidia &amp; AMD are almost doubling the TDP (Thermal Design Power) in every chip they release - the H100 (released 2022) has a TDP of 700W, Blackwell (2024) gives out 1.2 kW and Rubin (2026) gives out at 2.3",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Discovered Materials uses AI agents to find new materials for the semiconductor industry, addressing GPU heat issues. The company was launched on Hacker News and has received 58 points. The launch was also mentioned on X.",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "analyzed_at": "2026-08-13T01:28:08.207193+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49274027,
+      "title": "Grok 4.6",
+      "url": "https://x.ai/news/grok-4-6",
+      "score": 396,
+      "comments": 395,
+      "author": "iLuddite",
+      "time": 1786548770,
+      "hn_url": "https://news.ycombinator.com/item?id=49274027",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Grok 4.6 is a 1.5-trillion-parameter language model from xAI, released on August 7, 2026, with improved fine-tuning and reinforcement learning. It aims to challenge larger models while maintaining efficiency. It is available at a lower cost.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-13T01:28:10.386179+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49270726,
+      "title": "uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook",
+      "url": "https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html",
+      "score": 292,
+      "comments": 422,
+      "author": "Markoff",
+      "time": 1786534107,
+      "hn_url": "https://news.ycombinator.com/item?id=49270726",
+      "text": "<a href=\"https:&#x2F;&#x2F;reddit.com&#x2F;r&#x2F;uBlockOrigin&#x2F;comments&#x2F;1vgcjg5&#x2F;about_disgusting_facebook_devs&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;reddit.com&#x2F;r&#x2F;uBlockOrigin&#x2F;comments&#x2F;1vgcjg5&#x2F;about_dis...</a><p><a href=\"https:&#x2F;&#x2F;www.neowin.net&#x2F;news&#x2F;facebook-ads-are-so-hard-to-block-that-ublock-origin-stopped-filtering-them&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.neowin.net&#x2F;news&#x2F;facebook-ads-are-so-hard-to-bloc...</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "uBlock Origin has stopped supporting Facebook ad blocking due to an endless arms race with Facebook's ad strategies. The maintainers no longer promise to keep updating filters against Facebook's ad evasions. Users should consider alternatives like uBlock Origin Lite.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-13T01:28:13.101376+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49221990,
+      "title": "Program images and portable Scheme back ends for Jolt",
+      "url": "https://yogthos.net/posts/2026-08-07-portable-jolt.html",
+      "score": 4,
+      "comments": 0,
+      "author": "yogthos",
+      "time": 1786198391,
+      "hn_url": "https://news.ycombinator.com/item?id=49221990",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Jolt features program images and portable Scheme backends, decoupling it from specific runtimes. Two main backends exist: Chez and Gambit. Jolt's portable Scheme layer allows it to run on different environments.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-13T01:28:15.312532+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49275385,
+      "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
+      "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
+      "score": 316,
+      "comments": 320,
+      "author": "wertyk",
+      "time": 1786553665,
+      "hn_url": "https://news.ycombinator.com/item?id=49275385",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index, placing it among the top models. It surpasses Kimi K3 and matches GPT-5.6 Sol. Anthropic's models lead.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-13T01:28:18.408873+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49274858,
+      "title": "Lovable raises $400M Series C",
+      "url": "https://lovable.dev/blog/series-c",
+      "score": 92,
+      "comments": 88,
+      "author": "thoughtpeddler",
+      "time": 1786551634,
+      "hn_url": "https://news.ycombinator.com/item?id=49274858",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Lovable raised $400 million in Series C funding, achieving a $13.3 billion valuation. Menlo Ventures and Scaleup Europe Fund led the round. The company aims to become the leading platform for business creation and transformation.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-13T01:28:19.695523+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49271994,
+      "title": "AI is removing the middle class of software engineering?",
+      "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+      "score": 712,
+      "comments": 642,
+      "author": "florianherrengt",
+      "time": 1786540805,
+      "hn_url": "https://news.ycombinator.com/item?id=49271994",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI is making high-quality software engineering more valuable while diminishing the role of less skilled engineers, widening the salary gap.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-13T01:28:22.208032+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49270022,
+      "title": "What sort of maths are LLMs good at?",
+      "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+      "score": 236,
+      "comments": 132,
+      "author": "ColinWright",
+      "time": 1786529065,
+      "hn_url": "https://news.ycombinator.com/item?id=49270022",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Large Language Models (LLMs) are generally good at high-school level math but struggle with more complex problems. They rely on pattern recognition rather than true understanding. Some improvements can be made through tool integration.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-08-13T01:28:24.521607+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49194856,
+      "title": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons",
+      "url": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
+      "score": 155,
+      "comments": 16,
+      "author": "bookofjoe",
+      "time": 1786012190,
+      "hn_url": "https://news.ycombinator.com/item?id=49194856",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "NASA's Curiosity Rover captured a high-res photo of a sand-capped butte named \"Miraflores\" rising from a Martian plain of polygons. The butte is about 20 feet tall. The polygons suggest an ancient seabed.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-13T01:28:27.242519+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49215117,
+      "title": "'The Cheese and the Worms' by Carlo Ginzburg Review",
+      "url": "https://www.historytoday.com/archive/review/cheese-and-worms-carlo-ginzburg-review",
+      "score": 14,
+      "comments": 5,
+      "author": "Petiver",
+      "time": 1786130520,
+      "hn_url": "https://news.ycombinator.com/item?id=49215117",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "\"The Cheese and the Worms\" by Carlo Ginzburg explores sixteenth-century Italian miller Menocchio's unique religious views, using his trial records to examine popular culture and intellectual thought of the era. Highly recommended for its insightful historical analysis.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-13T01:28:30.110479+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49270621,
+      "title": "Delphi 13 Community Edition Is Now Available",
+      "url": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
+      "score": 165,
+      "comments": 121,
+      "author": "layer8",
+      "time": 1786533216,
+      "hn_url": "https://news.ycombinator.com/item?id=49270621",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Delphi 13 Community Edition is now available for free, based on Delphi 13 Florence, offering development tools for Windows, macOS, iOS, and Android. It includes an IDE, debugger, visual designers, and data access components. It is not intended for trial purposes.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-13T01:28:32.306074+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49279500,
+      "title": "DLLM: Minimal, clean coding agent built directly on llama.cpp without overhead",
+      "url": "https://github.com/DannyArends/DLLM",
+      "score": 5,
+      "comments": 2,
+      "author": "teleforce",
+      "time": 1786574055,
+      "hn_url": "https://news.ycombinator.com/item?id=49279500",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "DLLM is a minimal D language agent built on llama.cpp, offering no Python or bindings, with a focus on clean, efficient coding. It supports GPU acceleration and includes a tool system for various functions.",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "analyzed_at": "2026-08-13T01:28:34.932955+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49275132,
+      "title": "Glaciers on the Climate Dashboard",
+      "url": "https://climate.metoffice.cloud/glaciers.html",
+      "score": 99,
+      "comments": 19,
+      "author": "mooreds",
+      "time": 1786552705,
+      "hn_url": "https://news.ycombinator.com/item?id=49275132",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Glaciers are sensitive to temperature changes and melting accelerates due to global warming. The loss of glacier mass is accelerating, contributing to sea-level rise. This trend is evident in the Climate Dashboard data.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-13T01:28:37.113070+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49273175,
+      "title": "Hax – a minimalist, terminal-native coding agent written in C",
+      "url": "https://usehax.dev/",
+      "score": 86,
+      "comments": 28,
+      "author": "OleksandrC",
+      "time": 1786545825,
+      "hn_url": "https://news.ycombinator.com/item?id=49273175",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Hax is a minimalist, lightweight coding agent written in C that runs directly in the terminal. It supports multiple AI models and operates with minimal memory usage. It is free and open-source.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-08-13T01:28:39.626445+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49272484,
+      "title": "My Agent Setup",
+      "url": "https://chad.cm/posts/2026-8-11-my-agent-setup",
+      "score": 95,
+      "comments": 45,
+      "author": "carimura",
+      "time": 1786542965,
+      "hn_url": "https://news.ycombinator.com/item?id=49272484",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "To set up an agent, connect it to Cloudflare or the Claude platform, then configure its environment and capabilities. Use the provided guides for detailed setup instructions.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-08-13T01:28:41.997861+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49279207,
+      "title": "Show HN: Posts grew 6x since ChatGPT, but success rate remained relatively flat",
+      "url": "https://www.orangecrumbs.com/stories/show-hn",
+      "score": 4,
+      "comments": 1,
+      "author": "oyster143",
+      "time": 1786572132,
+      "hn_url": "https://news.ycombinator.com/item?id=49279207",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Show HN posts have increased sixfold, but success rates have stayed the same. AI topics are more common. Success varies by year.",
+      "tags": [
+        "ai",
+        "gpt"
+      ],
+      "analyzed_at": "2026-08-13T01:28:44.308335+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
