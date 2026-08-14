@@ -1,0 +1,465 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-08-14T01:24:23.549876Z",
+  "analyzed_at": "2026-08-14T01:28:02.543171+00:00",
+  "count": 19,
+  "items": [
+    {
+      "id": 49289112,
+      "title": "Gemini 3.7 Flash",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "score": 610,
+      "comments": 340,
+      "author": "thisisauserid",
+      "time": 1786641802,
+      "hn_url": "https://news.ycombinator.com/item?id=49289112",
+      "text": "<a href=\"https:&#x2F;&#x2F;ai.google.dev&#x2F;gemini-api&#x2F;docs&#x2F;models&#x2F;gemini-3.7-flash\" rel=\"nofollow\">https:&#x2F;&#x2F;ai.google.dev&#x2F;gemini-api&#x2F;docs&#x2F;models&#x2F;gemini-3.7-flas...</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Gemini 3.7 Flash is Google's latest AI model for coding and automated tasks, offering improved performance and lower costs. It's available at $0.75 per million input tokens and $3.75 per million output tokens through the end of the year. It's also integrated into Google's AI agent service.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-14T01:27:16.098550+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49289844,
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "score": 414,
+      "comments": 172,
+      "author": "pr337h4m",
+      "time": 1786644602,
+      "hn_url": "https://news.ycombinator.com/item?id=49289844",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "GPT-5.6 Sol's Ultrafast mode boosts speed 14x to 750 tokens/s, significantly enhancing performance without quality loss. It's available via the OpenAI API for select users. Ultrafast mode accelerates tasks like incident response and financial analysis.",
+      "tags": [
+        "gpt"
+      ],
+      "analyzed_at": "2026-08-14T01:27:18.011503+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49292932,
+      "title": "How AI text watermarking works",
+      "url": "https://declaude.org/watermarking/",
+      "score": 68,
+      "comments": 40,
+      "author": "padolsey",
+      "time": 1786663015,
+      "hn_url": "https://news.ycombinator.com/item?id=49292932",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI text watermarking embeds traceable signals in AI-generated content to protect intellectual property and detect manipulation. It involves embedding patterns or statistical anomalies that can be detected without compromising content quality. The main methods include statistical and embedding techniques.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-14T01:27:21.616602+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49288889,
+      "title": "Mistral OCR 4.1",
+      "url": "https://docs.mistral.ai/models/ocr-4-1",
+      "score": 248,
+      "comments": 97,
+      "author": "spelk",
+      "time": 1786640712,
+      "hn_url": "https://news.ycombinator.com/item?id=49288889",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Mistral OCR 4.1 enhances document parsing with paragraph-level bounding boxes and structural block labels. It supports dense, marked-up pages and offers improved accuracy. Released in 2026, it's available via API for enterprise search.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-14T01:27:23.555371+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49223964,
+      "title": "Finite State Machines in Forth (1994)",
+      "url": "https://www.forth.org/literature/noble.html",
+      "score": 42,
+      "comments": 0,
+      "author": "ofalkaed",
+      "time": 1786210695,
+      "hn_url": "https://news.ycombinator.com/item?id=49223964",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Finite state machines in Forth use state tables to define transitions and actions based on inputs. They replace traditional semaphores with a single state variable. The FSM approach is implemented using words like +mant, +exp, and conditional checks.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-14T01:27:25.532761+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49290768,
+      "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+      "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+      "score": 65,
+      "comments": 35,
+      "author": "malshe",
+      "time": 1786649138,
+      "hn_url": "https://news.ycombinator.com/item?id=49290768",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Organizations use AI to optimize communications, enhance customer interactions, and streamline processes. AI helps improve cybersecurity and detect fraud. The adoption of AI in business is growing.",
+      "tags": [
+        "gpt",
+        "ai"
+      ],
+      "analyzed_at": "2026-08-14T01:27:27.542916+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49240615,
+      "title": "An ambiguity in c89 which will never be fixed",
+      "url": "https://sebsite.pw/w/20260810-c89ambiguity.html",
+      "score": 29,
+      "comments": 5,
+      "author": "runningmike",
+      "time": 1786348149,
+      "hn_url": "https://news.ycombinator.com/item?id=49240615",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "An ambiguity in C89 concerns implicit function declarations, which were removed in C99 but never clarified. This ambiguity involves the undefined meaning of \"innermost block\" in function calls. It will never be fixed.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-14T01:27:30.670599+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49285418,
+      "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
+      "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
+      "score": 241,
+      "comments": 134,
+      "author": "vinayakborkar",
+      "time": 1786626852,
+      "hn_url": "https://news.ycombinator.com/item?id=49285418",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Nine PBS sued Iron Mountain over blocked access to its 50TB archive of 70 years of TV history. Iron Mountain refused to release the data due to ownership issues with the previous storage provider. The lawsuit seeks to prevent data deletion during the ownership dispute.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-14T01:27:33.634619+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49236811,
+      "title": "Idol Mahjong Final Romance: A Slideshow Disguised as a Video Game",
+      "url": "https://nicole.express/2026/more-like-idle-mahjong.html",
+      "score": 40,
+      "comments": 9,
+      "author": "nicole_express",
+      "time": 1786314412,
+      "hn_url": "https://news.ycombinator.com/item?id=49236811",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Idol Mahjong Final Romance is a strip mahjong game from 1991, featuring dates with eight women and a simplified mahjong engine. The series was Video System's major moneymaker, with the first game never released outside its arcade launch. The second installment, released in 1995, switched to an anime style.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-14T01:27:36.543817+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49288293,
+      "title": "AI At Home Part 1: A Box Of Scraps",
+      "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+      "score": 89,
+      "comments": 46,
+      "author": "timmmmmmay",
+      "time": 1786638125,
+      "hn_url": "https://news.ycombinator.com/item?id=49288293",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Tony Stark's ability to build the Iron Man suit in a cave with scraps inspired a character in Spider-Man: Far From Home. The line is memorable due to a significant pause. The character is from \"A Christmas Story.\"",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-14T01:27:38.557658+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49289372,
+      "title": "Compute-optimal is not cluster-optimal",
+      "url": "https://szha.ai/blog/compute-optimal-is-not-cluster-optimal/",
+      "score": 5,
+      "comments": 0,
+      "author": "yuxin_tang",
+      "time": 1786642809,
+      "hn_url": "https://news.ycombinator.com/item?id=49289372",
+      "text": "<a href=\"https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;2608.10605\" rel=\"nofollow\">https:&#x2F;&#x2F;arxiv.org&#x2F;pdf&#x2F;2608.10605</a>: Our new paper folds the systems stage into the scaling-law stage. Price every candidate architecture on what the cluster actually delivers, and the answer changes: the sparsity an MoE &#x27;should&#x27; have depends on the cluster you train it on.",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Compute-optimal does not equate to cluster-optimal; compute-optimal focuses on maximizing performance within a fixed budget, while cluster-optimal considers system constraints like resource allocation and efficiency. This distinction is crucial for effective scaling in machine learning systems.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-14T01:27:41.008235+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49283063,
+      "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
+      "url": "https://www.codewithbullet.com",
+      "score": 83,
+      "comments": 53,
+      "author": "adi1",
+      "time": 1786608870,
+      "hn_url": "https://news.ycombinator.com/item?id=49283063",
+      "text": "Hi HN! We’re Adi and Alex, founders of Bullet, a faster coding agent.<p>Bullet started in a senior year dorm. We were fresh out of working at AppLovin and Citadel, and naturally thought we were on a sure path to startup success. We were going to use our skills optimizing stock pricing calculation speeds and agent document context to take over the world. So, Bullet started as an AI hedge fund, a browser-use agent, synthetic financial data (oof), a mobile IDE, and a bunch of other things. We wante",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Bullet is a faster coding agent developed by a team at Amazon. It aims to reduce latency in AI-assisted development. It's currently in private beta.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-08-14T01:27:43.148245+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49287153,
+      "title": "Text AI watermarks will always be trivial to remove",
+      "url": "https://www.seangoedecke.com/text-ai-watermarks/",
+      "score": 96,
+      "comments": 92,
+      "author": "pseudolus",
+      "time": 1786633630,
+      "hn_url": "https://news.ycombinator.com/item?id=49287153",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Text AI watermarks are generally easy to remove due to their inherent nature and the flexibility of digital text. Paraphrasing and character substitution can effectively strip them. Advanced techniques also exist to fully regenerate text.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-14T01:27:45.175564+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49285327,
+      "title": "Choosing an AI model: one prompt, 11 models, different results",
+      "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+      "score": 177,
+      "comments": 73,
+      "author": "toddmorey",
+      "time": 1786626329,
+      "hn_url": "https://news.ycombinator.com/item?id=49285327",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Different AI models produce varied results for the same prompt, impacting cost and quality. Choosing the right model depends on specific task needs and budget. Some models are more cost-effective while others offer richer outputs.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-14T01:27:49.211992+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49286270,
+      "title": "Heart aerospace completes first flight of largest electric aircraft",
+      "url": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
+      "score": 118,
+      "comments": 120,
+      "author": "chha",
+      "time": 1786630311,
+      "hn_url": "https://news.ycombinator.com/item?id=49286270",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Heart Aerospace's X1 completed its first flight, becoming the largest electric aircraft ever flown. The aircraft has a 106-foot wingspan and weighs over 25,000 pounds. The test flight used only about $5 worth of electricity.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-14T01:27:51.804036+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49289101,
+      "title": "JDK 27 G1/Parallel/Serial GC Changes",
+      "url": "https://tschatzl.github.io/2026/08/10/jdk27-g1-serial-parallel-gc-changes.html",
+      "score": 44,
+      "comments": 18,
+      "author": "0x54MUR41",
+      "time": 1786641759,
+      "hn_url": "https://news.ycombinator.com/item?id=49289101",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "JDK 27 makes G1 the default garbage collector, replacing Parallel and Serial GCs unless specified otherwise. G1 no longer resizes the heap based on `-XX:MinHeapFreeRatio` and `-XX:MaxHeapFreeRatio`. Parallel GC now adjusts Java heap size for large allocations.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-14T01:27:53.886814+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49293292,
+      "title": "How Obama's BlackBerry got secured (2023)",
+      "url": "https://www.electrospaces.net/2013/04/how-obamas-blackberry-got-secured.html",
+      "score": 10,
+      "comments": 2,
+      "author": "downbad_",
+      "time": 1786666202,
+      "hn_url": "https://news.ycombinator.com/item?id=49293292",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Barack Obama's BlackBerry was secured with heavy encryption and restricted functions to prevent security breaches. The NSA modified it to limit phone calls, texts, photos, music, and internet use. A special, highly encrypted phone was provided to meet security demands.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-14T01:27:58.148850+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49218040,
+      "title": "Mushroom behind 'tiny people' hallucinations identified",
+      "url": "https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html",
+      "score": 259,
+      "comments": 257,
+      "author": "wglb",
+      "time": 1786152020,
+      "hn_url": "https://news.ycombinator.com/item?id=49218040",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Lanmaoa asiatica is identified as the mushroom causing \"tiny people\" hallucinations. Researchers found it contains a new hallucinogenic compound. This discovery offers insights into brain perception.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-14T01:28:00.271452+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49291782,
+      "title": "Terabytes of credentials leaked in supply-chain attack",
+      "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+      "score": 37,
+      "comments": 0,
+      "author": "RattlesnakeJake",
+      "time": 1786654755,
+      "hn_url": "https://news.ycombinator.com/item?id=49291782",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "In a supply-chain attack, terabytes of credentials from major organizations were leaked. The attack targeted LiteLLM, compromising 434,000 CI/CD pipelines. The source of the leaked credentials remains unidentified.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-14T01:28:02.042304+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
