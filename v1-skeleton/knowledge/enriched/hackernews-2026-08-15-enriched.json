@@ -1,0 +1,395 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-08-15T00:54:58.689308Z",
+  "analyzed_at": "2026-08-15T00:55:36.367997+00:00",
+  "count": 16,
+  "items": [
+    {
+      "id": 49300314,
+      "title": "Google is making private AI practical with homomorphic encryption",
+      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+      "score": 270,
+      "comments": 162,
+      "author": "u1hcw9nx",
+      "time": 1786722190,
+      "hn_url": "https://news.ycombinator.com/item?id=49300314",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Google introduced HEIR, an open-source compiler for homomorphic encryption, to make private AI practical. It allows AI models to process encrypted data without decryption. This tool lowers the complexity of homomorphic encryption.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-15T00:55:00.647992+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49300568,
+      "title": "AI by Hand",
+      "url": "https://www.byhand.ai/",
+      "score": 192,
+      "comments": 16,
+      "author": "sans_souse",
+      "time": 1786723139,
+      "hn_url": "https://news.ycombinator.com/item?id=49300568",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI by Hand is a project by Prof. Tom Yeh focusing on teaching AI concepts through hands-on exercises and interactive content. It includes machine learning frameworks like GANs and RNNs, and autoencoders for unsupervised learning. The project also offers seminars and interactive diagrams.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-15T00:55:03.469598+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49303202,
+      "title": "Firefox is now the last major browser that still supports uBlock Origin",
+      "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+      "score": 356,
+      "comments": 133,
+      "author": "DemiGuru",
+      "time": 1786734200,
+      "hn_url": "https://news.ycombinator.com/item?id=49303202",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Firefox remains the last major browser supporting uBlock Origin as other browsers phase it out. Brave and Firefox continue to support uBlock Origin's full features. This support is due to their non-Chromium bases.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-15T00:55:07.044213+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49303046,
+      "title": "Show HN: Mole – Deep research agent for your terminal",
+      "url": "https://github.com/lajosdeme/mole",
+      "score": 46,
+      "comments": 7,
+      "author": "lajosdeme",
+      "time": 1786733568,
+      "hn_url": "https://news.ycombinator.com/item?id=49303046",
+      "text": "Doing research with agents is fun until they blow way past budget, jumble the sources, and don&#x27;t even give you the best possible answer, just sound confident.<p>And if you want to run some research task on local data - you have no idea where your data ends up after the prompt consumes it.<p>So I built this tool: a deep-research agent with an enforced budget, verified quotes, and a privacy boundary for local data.<p>1. Never spend more than you budgeted (measured overshoot is 0%).\n2. Every c",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Mole is a terminal-based deep research agent with budget enforcement, verified quotes, and privacy for local data. It installs static binaries and uses SQLite for its database. It verifies checksums and runs as a single binary.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-08-15T00:55:09.270392+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49300800,
+      "title": "Maximizing the value of your Claude Code sessions",
+      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "score": 129,
+      "comments": 86,
+      "author": "twapi",
+      "time": 1786724121,
+      "hn_url": "https://news.ycombinator.com/item?id=49300800",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "To maximize value in Claude Code sessions, leverage caching to reduce costs and optimize context management. Use shorter contexts and compact early to avoid hitting limits. Utilize sub-agents for tasks to extend session time.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-15T00:55:10.411153+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49294997,
+      "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+      "url": "https://z.ai/blog/glm-5.3",
+      "score": 1025,
+      "comments": 514,
+      "author": "pella",
+      "time": 1786684799,
+      "hn_url": "https://news.ycombinator.com/item?id=49294997",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "GLM-5.3 significantly improves coding and cybersecurity capabilities over its predecessor, achieving top scores on coding and exploitation benchmarks. It is expected to release weights after safety evaluation. It shows emergent cyber capabilities and outperforms closed models in some areas.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-15T00:55:12.438895+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49241735,
+      "title": "Ant teams beat gravity-based puzzle solvers",
+      "url": "https://phys.org/news/2026-08-ant-teams-gravity-based-puzzle.html",
+      "score": 4,
+      "comments": 0,
+      "author": "wjSgoWPm5bWAhXB",
+      "time": 1786356999,
+      "hn_url": "https://news.ycombinator.com/item?id=49241735",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Larger ant teams outperform gravity-based puzzle solvers in complex tasks. Ants solve harder puzzles more efficiently than simpler simulations. Ant teamwork surpasses gravity-based methods in complexity.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-15T00:55:14.563920+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49269240,
+      "title": "A humble cabbage became one of the Forbidden City’s treasures (2025)",
+      "url": "https://www.cnn.com/2025/11/10/style/jadeite-cabbage-taiwan-forbidden-city-curio-hnk-intl",
+      "score": 54,
+      "comments": 7,
+      "author": "dude250711",
+      "time": 1786522335,
+      "hn_url": "https://news.ycombinator.com/item?id=49269240",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Jadeite Cabbage, a jade sculpture, became a treasured artifact in the National Palace Museum in Taipei. It was originally part of the Qing dynasty's collection. In 2025, it was highlighted in an exhibition in Prague.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-15T00:55:17.489676+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49253831,
+      "title": "Moving integer division to floating-point is trivial",
+      "url": "http://marc-b-reynolds.github.io/math/2026/08/10/IntDivByFP.html",
+      "score": 37,
+      "comments": 14,
+      "author": "matt_d",
+      "time": 1786427336,
+      "hn_url": "https://news.ycombinator.com/item?id=49253831",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Moving integer division to floating-point can be faster due to lower latency and higher throughput of floating-point operations. This approach works when divisors are constant, using reciprocal multiplication or lookup tables. Testing is recommended to confirm performance gains.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-15T00:55:19.554318+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49301417,
+      "title": "A Contract-Grade Verifier for LLM-Generated GPU Kernels",
+      "url": "https://arxiv.org/abs/2608.12700",
+      "score": 33,
+      "comments": 0,
+      "author": "Jimmc414",
+      "time": 1786726634,
+      "hn_url": "https://news.ycombinator.com/item?id=49301417",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A contract-grade verifier found that 39.5% of LLM-generated GPU kernels are broken, and 62.1% have at least one violation. ProofWright verifies 74% of LLM-generated kernels for memory safety and correctness. Formal verification of LLM-generated GPU code is scalable and automated.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-08-15T00:55:22.584665+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49303237,
+      "title": "Open WireGuard Endpoints",
+      "url": "https://proxylity.com/articles/now-available-open-wireguard-endpoints-and-async-lambda.html",
+      "score": 27,
+      "comments": 4,
+      "author": "mlhpdx",
+      "time": 1786734346,
+      "hn_url": "https://news.ycombinator.com/item?id=49303237",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "WireGuard endpoints use TCP port 51820 by default and UDP port 51820 for communication. Persistent keepalive can be enabled to maintain connections behind NAT. WireGuard interfaces are configured via `wg` utility.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-15T00:55:24.624757+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49299102,
+      "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
+      "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
+      "score": 51,
+      "comments": 8,
+      "author": "bj-rn",
+      "time": 1786717359,
+      "hn_url": "https://news.ycombinator.com/item?id=49299102",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI Model Atlas visualizes machine-learning models as an interconnected 3D graph, showing their evolution and relationships. It uses Cosmograph for visualization. Explore at horwitz.ai/model-atlas.",
+      "tags": [
+        "ai",
+        "ml"
+      ],
+      "analyzed_at": "2026-08-15T00:55:26.454885+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49302562,
+      "title": "Racket v9.3",
+      "url": "https://blog.racket-lang.org/2026/08/racket-v9-3.html",
+      "score": 19,
+      "comments": 0,
+      "author": "privong",
+      "time": 1786731288,
+      "hn_url": "https://news.ycombinator.com/item?id=49302562",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Wilson Blade V9 is a strung performance tennis racket known for its solid play, stability at the net, and effective return of serve. It features braided graphite and basalt material, and has a heavier head for more snap and pop on serves. Released in 2023, it's favored for its solid, sturdy feel.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-15T00:55:29.470321+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49298088,
+      "title": "HashAgent – Share an AI agent as a URL, runs locally via WebGPU",
+      "url": "https://hashagent.pages.dev/",
+      "score": 46,
+      "comments": 5,
+      "author": "masonhsu",
+      "time": 1786712222,
+      "hn_url": "https://news.ycombinator.com/item?id=49298088",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "HashAgent is a tool that shares AI agents via URLs, running locally using WebGPU for privacy. It supports models up to 8B parameters and local input. It ensures execution on the user's device.",
+      "tags": [
+        "ai",
+        "agent"
+      ],
+      "analyzed_at": "2026-08-15T00:55:31.700816+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49303035,
+      "title": "Being Against LLMs Is Against the Spirit of Floss",
+      "url": "https://joarvarndt.se/free-vibes-2",
+      "score": 13,
+      "comments": 9,
+      "author": "joarxpablo",
+      "time": 1786733532,
+      "hn_url": "https://news.ycombinator.com/item?id=49303035",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Opposing LLMs contradicts the FLOSS ethos of openness and adaptability. FLOSS aims for users to freely modify and customize software. Rejecting LLM-generated code for ideological reasons goes against this spirit.",
+      "tags": [
+        "ai",
+        "llm"
+      ],
+      "analyzed_at": "2026-08-15T00:55:33.569015+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49300671,
+      "title": "France's top court blocks social media ban for under-15s",
+      "url": "https://www.reuters.com/world/frances-top-court-rules-social-media-ban-curtails-freedom-expression-2026-08-14/",
+      "score": 201,
+      "comments": 152,
+      "author": "BlueBerry2001",
+      "time": 1786723609,
+      "hn_url": "https://news.ycombinator.com/item?id=49300671",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "France's top court blocked a social media ban for under-15s, citing infringement on freedom of expression. The Constitutional Council deemed the law disproportionate and lacking legal safeguards. President Macron ordered a rewrite of the legislation.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-15T00:55:35.867010+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
