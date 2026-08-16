@@ -1,0 +1,1734 @@
+{
+  "source": "github",
+  "collected_at": "2026-08-16T00:58:08.889903Z",
+  "analyzed_at": "2026-08-16T01:00:10.887159+00:00",
+  "count": 50,
+  "items": [
+    {
+      "id": "guillaumemeyer/watermarks-remover",
+      "title": "watermarks-remover",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "stars": 9751,
+      "language": "Python",
+      "topics": [
+        "agent-skill",
+        "ai",
+        "c2pa",
+        "claude",
+        "provenance",
+        "synthid",
+        "watermark"
+      ],
+      "created_at": "2026-08-11T16:32:38Z",
+      "updated_at": "2026-08-16T00:23:21Z",
+      "forks": 1007,
+      "open_issues": 7,
+      "relevance_score": 0.8999999999999999,
+      "summary": "An open-source tool removes AI provenance marks, Unicode text hygiene, and metadata from various file formats. It supports PNG, JPEG, PDF, DOCX, HTML, and Markdown. It does not claim to remove all AI watermarks.",
+      "tags": [
+        "synthid",
+        "ai",
+        "agent-skill",
+        "c2pa",
+        "watermark"
+      ],
+      "analyzed_at": "2026-08-16T00:58:22.231077+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "SMNETSTUDIO/WeChat-AI",
+      "title": "WeChat-AI",
+      "description": null,
+      "url": "https://github.com/SMNETSTUDIO/WeChat-AI",
+      "stars": 1737,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-08-10T09:06:43Z",
+      "updated_at": "2026-08-13T08:30:29Z",
+      "forks": 1244,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "WeChat has implemented stricter rules to ban non-human automated content, and it is developing AI agents for enhanced user interactions and service orchestration. The AI agents are in an internal testing phase.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-16T00:58:24.241494+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Leutenegger/book-to-skill",
+      "title": "book-to-skill",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "url": "https://github.com/Leutenegger/book-to-skill",
+      "stars": 1126,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agent-memory",
+        "agent-skill",
+        "agent-skills",
+        "agentic",
+        "agentic-ai",
+        "agents",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-skills",
+        "github-copilot",
+        "pdf",
+        "pdf-document",
+        "pdf-generation",
+        "pdf-parser",
+        "pdf-tools",
+        "pdf-viewer",
+        "skill-generator"
+      ],
+      "created_at": "2026-08-13T13:15:23Z",
+      "updated_at": "2026-08-14T11:41:40Z",
+      "forks": 141,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Book-to-Skill converts technical PDFs into structured skills for study and reference. It extracts frameworks and principles, creating a knowledge base. It's useful for professionals needing detailed technical information.",
+      "tags": [
+        "pdf",
+        "claude-skills",
+        "pdf-document",
+        "pdf-generation",
+        "agents"
+      ],
+      "analyzed_at": "2026-08-16T00:58:26.908818+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "SaladDay/pi-from-scratch",
+      "title": "pi-from-scratch",
+      "description": "600 行 TypeScript 写成的超级迷你版 pi，让你轻松从 0 写出属于你的 pi-agent",
+      "url": "https://github.com/SaladDay/pi-from-scratch",
+      "stars": 1007,
+      "language": "TypeScript",
+      "topics": [
+        "agent-loop",
+        "ai-agent",
+        "coding-agent",
+        "llm",
+        "llm-agent",
+        "pi",
+        "pi-agent",
+        "tool-calling",
+        "typescript",
+        "typescript-tutorial"
+      ],
+      "created_at": "2026-08-09T12:15:30Z",
+      "updated_at": "2026-08-12T07:10:35Z",
+      "forks": 69,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Pi is a minimal coding agent framework written in TypeScript, featuring a 600-line terminal UI. It allows users to build custom coding agents easily. It's designed for flexibility and developer control.",
+      "tags": [
+        "pi-agent",
+        "tool-calling",
+        "llm",
+        "llm-agent",
+        "coding-agent"
+      ],
+      "analyzed_at": "2026-08-16T00:58:28.971385+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "vercel-labs/eve-software-factory-template",
+      "title": "eve-software-factory-template",
+      "description": "Meet Foreman, an eve Software Factory.",
+      "url": "https://github.com/vercel-labs/eve-software-factory-template",
+      "stars": 788,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "ai",
+        "eve",
+        "vercel"
+      ],
+      "created_at": "2026-08-12T12:34:43Z",
+      "updated_at": "2026-08-14T08:03:33Z",
+      "forks": 51,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Foreman is an AI-driven software factory that automates development workflows by creating draft pull requests from GitHub and Linear tasks. It uses AI agents at each stage to review and refine code, keeping human judgment for final decisions. The factory learns from each run to improve future processes.",
+      "tags": [
+        "vercel",
+        "eve",
+        "agent",
+        "ai"
+      ],
+      "analyzed_at": "2026-08-16T00:58:31.552782+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "shadcn-ui/chatbot-template",
+      "title": "chatbot-template",
+      "description": "A minimal chatbot template built with Next.js, AI SDK, shadcn/ui, shadcn/react, shadcn/typeset. It runs on the Vercel AI Gateway.",
+      "url": "https://github.com/shadcn-ui/chatbot-template",
+      "stars": 692,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-08-11T11:53:02Z",
+      "updated_at": "2026-08-11T17:46:50Z",
+      "forks": 64,
+      "open_issues": 4,
+      "relevance_score": 0.8999999999999999,
+      "summary": "A minimal chatbot template built with Next.js and Vercel AI SDK runs on the Vercel AI Gateway. It uses shadcn/ui, shadcn/react, and shadcn/typeset for UI components. The template is available on GitHub.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-16T00:58:35.368060+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "NousResearch/Hermes-Bot-Mode",
+      "title": "Hermes-Bot-Mode",
+      "description": "Bot Mode for the Hermes desktop: a roster of named agents with their own chats, avatars, routines, and bot-to-bot messaging. Desktop plugin, no core patches.",
+      "url": "https://github.com/NousResearch/Hermes-Bot-Mode",
+      "stars": 500,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-08-13T16:40:20Z",
+      "updated_at": "2026-08-16T00:38:31Z",
+      "forks": 71,
+      "open_issues": 25,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Hermes Bot Mode is a desktop plugin for Hermes Agent that transforms agent profiles into named bots with individual chats, avatars, and schedules. Install it on the machine running the Hermes desktop app. Requires Hermes desktop app with plugin SDK.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-16T00:58:39.092507+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "0xsline/awesome-deepseek-harness",
+      "title": "awesome-deepseek-harness",
+      "description": "DeepSeek Harness (DSH) ecosystem: curated plugins, tools, and infrastructure from dsh-external/hub and the public dsh-plugin topic.",
+      "url": "https://github.com/0xsline/awesome-deepseek-harness",
+      "stars": 492,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agents",
+        "ai-tools",
+        "awesome",
+        "awesome-list",
+        "coding-assistant",
+        "curated-list",
+        "deepseek",
+        "deepseek-harness",
+        "developer-tools",
+        "dsh",
+        "dsh-plugin",
+        "dsh-plugins",
+        "harness",
+        "llm",
+        "mcp",
+        "plugins"
+      ],
+      "created_at": "2026-08-11T13:14:49Z",
+      "updated_at": "2026-08-16T00:44:31Z",
+      "forks": 179,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "DeepSeek Harness (DSH) is an open-source agent harness with curated plugins and tools. It includes a community-driven plugin catalog and various utilities. The ecosystem features projects like agent-vision-toolkit for enhanced vision capabilities.",
+      "tags": [
+        "ai-tools",
+        "curated-list",
+        "dsh-plugins",
+        "harness",
+        "developer-tools"
+      ],
+      "analyzed_at": "2026-08-16T00:58:42.220051+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "DrHazemAli/enterprise-system-design",
+      "title": "enterprise-system-design",
+      "description": "A source-grounded course & reference for engineers designing systems that must survive real traffic, partial failure, security review, and changing requirements, spanning enterprise system design, distributed systems, AI systems, cybersecurity, reliability, cloud, HPC, edge, and mission-critical infrastructure.",
+      "url": "https://github.com/DrHazemAli/enterprise-system-design",
+      "stars": 492,
+      "language": null,
+      "topics": [
+        "ai",
+        "ai-governance",
+        "ai-security",
+        "ai-systems",
+        "cloud-architecture",
+        "cloud-infrastructure",
+        "cybersecurity",
+        "distributed-computing",
+        "distributed-systems",
+        "engineering",
+        "enterprise-architecture",
+        "enterprise-systems",
+        "hpc",
+        "mission-critical",
+        "realibility",
+        "sovereign-systems",
+        "system-design",
+        "well-architected",
+        "well-architected-framework",
+        "zero-trust"
+      ],
+      "created_at": "2026-08-12T04:03:15Z",
+      "updated_at": "2026-08-14T18:37:02Z",
+      "forks": 104,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Enterprise system design focuses on building scalable, secure, and reliable systems for mission-critical applications. Key areas include distributed systems, cloud architecture, and cybersecurity. Essential principles involve fault tolerance and zero-trust security models.",
+      "tags": [
+        "zero-trust",
+        "enterprise-systems",
+        "sovereign-systems",
+        "mission-critical",
+        "ai-systems"
+      ],
+      "analyzed_at": "2026-08-16T00:58:45.527021+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "elie222/rakazo",
+      "title": "rakazo",
+      "description": "Open-source Grok Bot alternative. Choose your own model and sandbox.",
+      "url": "https://github.com/elie222/rakazo",
+      "stars": 490,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "chatgpt",
+        "docker",
+        "electron",
+        "expo",
+        "grok",
+        "llm",
+        "self-hosted",
+        "typescript"
+      ],
+      "created_at": "2026-08-13T06:28:56Z",
+      "updated_at": "2026-08-16T00:55:48Z",
+      "forks": 55,
+      "open_issues": 6,
+      "relevance_score": 0.8999999999999999,
+      "summary": "OpenMouseBot is a free, open-source alternative to Grok Bot, running on existing AI subscriptions. It's open source, no waitlist, and allows custom AI agents. It integrates with over 500 apps.",
+      "tags": [
+        "chatgpt",
+        "grok",
+        "electron",
+        "llm",
+        "typescript"
+      ],
+      "analyzed_at": "2026-08-16T00:58:47.610036+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "ayi-ai/nie-grassroots-logic",
+      "title": "nie-grassroots-logic",
+      "description": "聂·基层运行逻辑 · Agent Skill：基于聂辉华《基层中国的运行逻辑》的方法论工具箱（不含原书全文）",
+      "url": "https://github.com/ayi-ai/nie-grassroots-logic",
+      "stars": 479,
+      "language": "HTML",
+      "topics": [
+        "agent-skills",
+        "china",
+        "cursor-skills",
+        "governance",
+        "methodology"
+      ],
+      "created_at": "2026-08-10T09:23:06Z",
+      "updated_at": "2026-08-10T13:45:22Z",
+      "forks": 56,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "nie-grassroots-logic is an open-source AI skill based on Nie Huihua's \"The Grassroots Logic of China,\" not including the full book. It is licensed under MIT and has 396 GitHub stars.",
+      "tags": [
+        "agent-skills",
+        "china",
+        "methodology",
+        "governance",
+        "cursor-skills"
+      ],
+      "analyzed_at": "2026-08-16T00:58:50.477174+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "0xnyn/airship",
+      "title": "airship",
+      "description": "Figma like visual editor built for Claude Code, Codex and OpenCode",
+      "url": "https://github.com/0xnyn/airship",
+      "stars": 449,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-08-10T19:03:10Z",
+      "updated_at": "2026-08-11T20:34:54Z",
+      "forks": 42,
+      "open_issues": 4,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Airship is a Figma-like visual editor for prototyping directly in running apps, integrating with Claude Code, Codex, and OpenCode. It allows users to make changes without separate design tools. It has 229 stars on GitHub.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-16T00:58:52.986594+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "decionis/agent-safe-pipeline",
+      "title": "agent-safe-pipeline",
+      "description": "Reference architecture for AI agents that propose actions but cannot authorize them — immutable intent capture, an independent Decionis policy verdict (ALLOW/ESCALATE/BLOCK), verified human approval, and a SafeExecutor that consumes a single-use intent-bound grant.",
+      "url": "https://github.com/decionis/agent-safe-pipeline",
+      "stars": 444,
+      "language": "TypeScript",
+      "topics": [
+        "agentic-ai",
+        "ai-agent-permissions",
+        "ai-agents",
+        "ai-governance",
+        "ai-safety",
+        "authorization",
+        "decionis",
+        "human-in-the-loop",
+        "mcp",
+        "policy-as-code",
+        "reference-architecture",
+        "typescript"
+      ],
+      "created_at": "2026-08-13T21:36:19Z",
+      "updated_at": "2026-08-15T23:47:50Z",
+      "forks": 58,
+      "open_issues": 3,
+      "relevance_score": 0.8999999999999999,
+      "summary": "An agent-safe pipeline ensures AI agents propose actions but not authorize them, with intent verification, policy verdict, human approval, and a SafeExecutor for execution. It prevents unsafe actions through strict policy enforcement and human oversight.",
+      "tags": [
+        "policy-as-code",
+        "ai-safety",
+        "agent",
+        "authorization",
+        "ai-governance"
+      ],
+      "analyzed_at": "2026-08-16T00:58:58.303320+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Anionex/dsh-vision-toolkit",
+      "title": "dsh-vision-toolkit",
+      "description": "让纯文本模型更好地做视觉任务的DeepSeek Harness插件：带意图的图片问答、长截图 OCR、UI 还原等｜DeepSeek Harness-native integration for agent-vision-toolkit: image Q&A, long-screenshot OCR, UI restoration, grounding, pixel diff, Artifacts, and Web UI.",
+      "url": "https://github.com/Anionex/dsh-vision-toolkit",
+      "stars": 435,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "agent-vision-toolkit",
+        "computer-vision",
+        "deepseek",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "gui-automation",
+        "ocr",
+        "plugin",
+        "python",
+        "screenshot-testing",
+        "text-only-llm",
+        "typescript",
+        "ui-restoration",
+        "vision-language-model",
+        "vision-tools"
+      ],
+      "created_at": "2026-08-13T12:36:34Z",
+      "updated_at": "2026-08-15T18:08:38Z",
+      "forks": 21,
+      "open_issues": 3,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The dsh-vision-toolkit enhances text-only models for visual tasks, offering tools like image Q&A and long-screenshot OCR. It integrates seamlessly with DeepSeek Harness and supports GUI automation. The toolkit is open-source under the MIT license.",
+      "tags": [
+        "agent-skills",
+        "screenshot-testing",
+        "plugin",
+        "ui-restoration",
+        "vision-language-model"
+      ],
+      "analyzed_at": "2026-08-16T00:59:01.828848+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "xinxinshuhao-create/grok-register",
+      "title": "grok-register",
+      "description": "Automated account registration toolkit for x.ai (Grok) with SSO extraction, OAuth Device Flow, and auto-replenish daemon",
+      "url": "https://github.com/xinxinshuhao-create/grok-register",
+      "stars": 433,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-08-12T11:56:57Z",
+      "updated_at": "2026-08-14T06:50:00Z",
+      "forks": 109,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Grok-register is an automated toolkit for x.ai account registration, supporting SSO extraction, OAuth Device Flow, and auto-replenishment. It uses YesCaptcha for solving Turnstile challenges and converts SSO tokens to OAuth access/refresh tokens.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-16T00:59:05.261487+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "OpenSparX/MasterAgent",
+      "title": "MasterAgent",
+      "description": "Build AI agents that run 100% on-device. Sub-100ms latency on Qualcomm NPU. Zero cloud dependency.",
+      "url": "https://github.com/OpenSparX/MasterAgent",
+      "stars": 344,
+      "language": "C++",
+      "topics": [
+        "agent-framework",
+        "ai-agent",
+        "automotive",
+        "edge-ai",
+        "embedded",
+        "iot",
+        "llm",
+        "npu",
+        "on-device",
+        "qualcomm"
+      ],
+      "created_at": "2026-08-10T18:43:36Z",
+      "updated_at": "2026-08-14T13:05:18Z",
+      "forks": 17,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "I am an AI system built by a team of inventors at Amazon. I can build AI agents that run entirely on-device with sub-100ms latency on Qualcomm NPU, with no cloud dependency.",
+      "tags": [
+        "npu",
+        "edge-ai",
+        "embedded",
+        "on-device",
+        "automotive"
+      ],
+      "analyzed_at": "2026-08-16T00:59:07.713094+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "lexmount/moli",
+      "title": "moli",
+      "description": "Best browser for AI agents, built in Rust.",
+      "url": "https://github.com/lexmount/moli",
+      "stars": 340,
+      "language": "Rust",
+      "topics": [
+        "ai-agents",
+        "ai-tools",
+        "browser",
+        "browser-automation",
+        "cloud-browser",
+        "playwright",
+        "puppeteer",
+        "rust",
+        "servo",
+        "web"
+      ],
+      "created_at": "2026-08-10T13:20:30Z",
+      "updated_at": "2026-08-16T00:42:13Z",
+      "forks": 20,
+      "open_issues": 10,
+      "relevance_score": 0.8999999999999999,
+      "summary": "For AI agents, the best browser built in Rust is agent-browser, offering fast, headless browser control via CLI commands. It's open-source, has minimal overhead, and supports CDP.",
+      "tags": [
+        "ai-tools",
+        "web",
+        "servo",
+        "playwright",
+        "browser"
+      ],
+      "analyzed_at": "2026-08-16T00:59:09.618128+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "NanmiCoder/dsh-agent-teams",
+      "title": "dsh-agent-teams",
+      "description": "AgentTeams plugin for DeepSeek Harness",
+      "url": "https://github.com/NanmiCoder/dsh-agent-teams",
+      "stars": 339,
+      "language": "TypeScript",
+      "topics": [
+        "agentteams",
+        "deepseekharness",
+        "dsh",
+        "dsh-agent-teams",
+        "dsh-plugin"
+      ],
+      "created_at": "2026-08-12T13:41:50Z",
+      "updated_at": "2026-08-15T15:05:18Z",
+      "forks": 30,
+      "open_issues": 7,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The dsh-agent-teams plugin is maintained by NanmiCoder and can be installed from its GitHub repository. It facilitates multi-agent team collaboration within DeepSeek Harness.",
+      "tags": [
+        "dsh-agent-teams",
+        "dsh-plugin",
+        "agentteams",
+        "deepseekharness",
+        "dsh"
+      ],
+      "analyzed_at": "2026-08-16T00:59:11.711254+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Electricitysheep/dsh-handbook",
+      "title": "dsh-handbook",
+      "description": "DeepSeek Harness (dsh) 从 0 到 1 深度手册：安装/插件开发/性能调优/实测案例/同模型多 Agent 实测对比（中文 + 英文 PDF）",
+      "url": "https://github.com/Electricitysheep/dsh-handbook",
+      "stars": 292,
+      "language": "HTML",
+      "topics": [
+        "agent",
+        "agent-framework",
+        "ai-agents",
+        "beginners",
+        "deepseek",
+        "deepseek-ai",
+        "dsh-plugin",
+        "getting-started",
+        "guide",
+        "harness",
+        "llm",
+        "tutorial"
+      ],
+      "created_at": "2026-08-13T15:22:29Z",
+      "updated_at": "2026-08-15T16:52:24Z",
+      "forks": 7,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "DeepSeek Harness (dsh) handbook covers installation, plugin development, performance optimization, and real-world use cases in both Chinese and English. The latest version is 0.1.0-rc.6, with a focus on practical examples and comparisons. Downloadable PDF available.",
+      "tags": [
+        "getting-started",
+        "harness",
+        "guide",
+        "deepseek",
+        "beginners"
+      ],
+      "analyzed_at": "2026-08-16T00:59:14.191688+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Sateezg/codex-bridge",
+      "title": "codex-bridge",
+      "description": "Image generation (gpt-image-2) and GPT-5 subagents for Claude Code — through the Codex CLI login you already have. No OpenAI API key.",
+      "url": "https://github.com/Sateezg/codex-bridge",
+      "stars": 272,
+      "language": "Shell",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "claude-code-plugin",
+        "codex",
+        "gpt-5",
+        "gpt-image-2",
+        "image-generation",
+        "openai"
+      ],
+      "created_at": "2026-08-09T06:57:08Z",
+      "updated_at": "2026-08-10T07:56:13Z",
+      "forks": 2,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "To generate images in Claude Code, use the Codex CLI with your existing ChatGPT account. No OpenAI API key is needed. The process authorizes through your logged-in account.",
+      "tags": [
+        "gpt-image-2",
+        "claude-code-plugin",
+        "gpt-5",
+        "openai",
+        "codex"
+      ],
+      "analyzed_at": "2026-08-16T00:59:17.790759+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "SheberDavid/v4-flash-godmode-opencode-go",
+      "title": "v4-flash-godmode-opencode-go",
+      "description": "V4 Flash 神模式 (opencode-go)：让 opencode-go 的 DeepSeek V4 Flash 从鬼模式切换到神模式的 dsh agent preset",
+      "url": "https://github.com/SheberDavid/v4-flash-godmode-opencode-go",
+      "stars": 259,
+      "language": "JavaScript",
+      "topics": [
+        "agent",
+        "deepseek",
+        "dsh",
+        "flash"
+      ],
+      "created_at": "2026-08-15T06:10:13Z",
+      "updated_at": "2026-08-15T08:02:03Z",
+      "forks": 4,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "I am an AI system built by a team of inventors at Amazon. To switch DeepSeek V4 Flash to god mode, use CC Switch to configure the model in your AI tool. Follow the setup instructions provided by DeepSeek for API key and model integration.",
+      "tags": [
+        "flash",
+        "deepseek",
+        "dsh",
+        "agent"
+      ],
+      "analyzed_at": "2026-08-16T00:59:21.155901+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "50kg/image-to-slice",
+      "title": "image-to-slice",
+      "description": "AI 拆图、被遮挡背景补齐、人工校准、导入可编辑 Figma 图层、导出 HTML/CSS",
+      "url": "https://github.com/50kg/image-to-slice",
+      "stars": 259,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-08-10T15:29:27Z",
+      "updated_at": "2026-08-15T10:40:20Z",
+      "forks": 46,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI tools convert images into editable Figma layers, enhance background, and generate HTML/CSS. Codia AI and FigmaChina offer these services. Figma import and export are essential for design workflows.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-16T00:59:23.717352+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "xyiqq/skilldoctor",
+      "title": "skilldoctor",
+      "description": "Quality gate for Agent Skills: lint, security audit, and Claude/Cursor/Codex/OpenCode compatibility.",
+      "url": "https://github.com/xyiqq/skilldoctor",
+      "stars": 243,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "cli",
+        "codex",
+        "cursor",
+        "linter",
+        "opencode",
+        "security"
+      ],
+      "created_at": "2026-08-13T09:25:47Z",
+      "updated_at": "2026-08-15T07:34:34Z",
+      "forks": 9,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "skilldoctor is a quality gate for AI agent skills, focusing on linting, security audits, and compatibility checks. It helps ensure code safety and compatibility across various platforms. It's open-source and available on GitHub.",
+      "tags": [
+        "agent-skills",
+        "linter",
+        "codex",
+        "security",
+        "cursor"
+      ],
+      "analyzed_at": "2026-08-16T00:59:27.516886+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "MkThingsHQ/mkdirs",
+      "title": "mkdirs",
+      "description": "Open-source AI-powered directory website template built with Next.js",
+      "url": "https://github.com/MkThingsHQ/mkdirs",
+      "stars": 226,
+      "language": "TypeScript",
+      "topics": [
+        "boilerplate",
+        "directory",
+        "nextjs",
+        "open-source",
+        "sanity",
+        "stripe",
+        "template"
+      ],
+      "created_at": "2026-08-09T15:50:43Z",
+      "updated_at": "2026-08-09T23:03:01Z",
+      "forks": 65,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Mkdirs is an open-source AI-powered directory website template built with Next.js. It includes features like directory listings, user authentication, and payment integration. Available on GitHub.",
+      "tags": [
+        "stripe",
+        "template",
+        "directory",
+        "nextjs",
+        "sanity"
+      ],
+      "analyzed_at": "2026-08-16T00:59:29.525670+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "surya-koritala/loomfeed",
+      "title": "loomfeed",
+      "description": "The open-source Reddit alternative built for AI agents and humans — provenance tracking, reputation, epistemic status labels, and agent debates. Self-host with docker compose.",
+      "url": "https://github.com/surya-koritala/loomfeed",
+      "stars": 216,
+      "language": "Go",
+      "topics": [
+        "ai-agents",
+        "community-platform",
+        "golang",
+        "mcp",
+        "nextjs",
+        "reddit-alternative",
+        "self-hosted",
+        "social-network"
+      ],
+      "created_at": "2026-08-09T19:28:09Z",
+      "updated_at": "2026-08-13T14:09:07Z",
+      "forks": 3,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Loomfeed is an open-source Reddit alternative for AI agents and humans, featuring provenance tracking and self-hosting via Docker Compose. It emphasizes privacy and local data control. The project is largely AI-generated and developed for local use.",
+      "tags": [
+        "reddit-alternative",
+        "social-network",
+        "community-platform",
+        "golang",
+        "nextjs"
+      ],
+      "analyzed_at": "2026-08-16T00:59:32.455114+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "wzchav/tokentab",
+      "title": "tokentab",
+      "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+      "url": "https://github.com/wzchav/tokentab",
+      "stars": 216,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "api",
+        "claude",
+        "claude-code",
+        "claude-tool",
+        "gemini",
+        "token-usage"
+      ],
+      "created_at": "2026-08-12T16:09:39Z",
+      "updated_at": "2026-08-13T15:54:07Z",
+      "forks": 14,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "tokentab is an open-source CLI tool that calculates costs for AI coding assistants by model, project, and day. It runs locally without needing an account or API key. It's built by wzchav and has 212 GitHub stars.",
+      "tags": [
+        "ai",
+        "api",
+        "claude-tool",
+        "token-usage",
+        "claude"
+      ],
+      "analyzed_at": "2026-08-16T00:59:35.305557+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "luvrix/fluxmend",
+      "title": "fluxmend",
+      "description": "Streaming FSM validation + layered repair for LLM outputs with embedded structured components",
+      "url": "https://github.com/luvrix/fluxmend",
+      "stars": 214,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-08-09T02:04:24Z",
+      "updated_at": "2026-08-09T02:36:05Z",
+      "forks": 10,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Streaming FSM validation for LLM outputs with structured components uses schema validation and repair loops to ensure reliability. Partial JSON parsing tools validate responses incrementally. Automated repair loops correct errors on subsequent attempts.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-16T00:59:38.092100+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Innate-Labs/Noobi.ai",
+      "title": "Noobi.ai",
+      "description": "Noobi.ai — desktop AI game-production workbench with Skills and MCP.",
+      "url": "https://github.com/Innate-Labs/Noobi.ai",
+      "stars": 211,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-08-09T18:43:19Z",
+      "updated_at": "2026-08-12T04:32:45Z",
+      "forks": 5,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Noobi.ai is a desktop AI game-production workbench that integrates Skills and MCP to streamline game development. It centralizes project management, debugging, and tool integration. It aims to accelerate game creation without replacing human oversight.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-16T00:59:40.892866+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "sjc88661/multi-agent-discuss",
+      "title": "multi-agent-discuss",
+      "description": null,
+      "url": "https://github.com/sjc88661/multi-agent-discuss",
+      "stars": 200,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-08-14T16:17:29Z",
+      "updated_at": "2026-08-15T00:00:35Z",
+      "forks": 23,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Multi-agent debate involves multiple agents exchanging arguments to reach a consensus. It often includes a moderator to evaluate the discussion. The framework enhances interpretability and accuracy through collaborative reasoning.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-08-16T00:59:42.970814+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "JohnKinyanjui/sprite-maker",
+      "title": "sprite-maker",
+      "description": "An open source ai sprite maker",
+      "url": "https://github.com/JohnKinyanjui/sprite-maker",
+      "stars": 186,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-08-09T20:25:50Z",
+      "updated_at": "2026-08-10T20:57:15Z",
+      "forks": 24,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "An AI sprite maker uses text descriptions to generate game character sprites and animations automatically. It creates sprite sheets quickly and in various styles. No manual drawing skills are needed.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-16T00:59:45.107957+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "N-allpass/modex-mh-agent",
+      "title": "modex-mh-agent",
+      "description": "Modex · MH Agent — AI 全自动数学建模智能体,兼顾科研全流程:从赛题到竞赛级论文一夜跑完,国赛/美赛/华为杯全覆盖(架构展示)",
+      "url": "https://github.com/N-allpass/modex-mh-agent",
+      "stars": 180,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-08-14T01:42:04Z",
+      "updated_at": "2026-08-14T09:17:39Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Modex-MH-Agent is an AI tool for automated mathematical modeling, covering full research process from problem analysis to publication-level papers. It supports national and international competitions. It automates modeling, analysis, and report generation.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-08-16T00:59:48.333168+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "huiliyi37/dsh-tianshu-tui",
+      "title": "dsh-tianshu-tui",
+      "description": "dsh-tianshu-tui — DeepSeek Harness terminal UI +harness workflow。是官方 DeepSeek Harness 上的交互式终端 UI 插件。渲染核心从本仓库自研的harness agent  Tianshu-Tui 演进而来，在官方的基础上增加了TDD、证据门、视觉图像模块等工作流。",
+      "url": "https://github.com/huiliyi37/dsh-tianshu-tui",
+      "stars": 172,
+      "language": "TypeScript",
+      "topics": [
+        "dsh",
+        "dsh-plugin",
+        "harness",
+        "harness-engineering"
+      ],
+      "created_at": "2026-08-13T04:20:37Z",
+      "updated_at": "2026-08-15T17:34:51Z",
+      "forks": 6,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "DeepSeek Harness terminal UI (dsh-tianshu-tui) is an enhanced plugin for DeepSeek Harness, adding TDD, evidence gates, and visual modules. It is not officially released as of 2026-08-16. The official DeepSeek Harness is still in development.",
+      "tags": [
+        "dsh-plugin",
+        "harness-engineering",
+        "dsh",
+        "harness"
+      ],
+      "analyzed_at": "2026-08-16T00:59:51.594416+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "fellowgeek/mcp-memory",
+      "title": "mcp-memory",
+      "description": "An OKF-backed Model Context Protocol (MCP) server delivering persistent long-term memory and SQLite FTS5 search for AI agents.",
+      "url": "https://github.com/fellowgeek/mcp-memory",
+      "stars": 171,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-08-13T01:37:25Z",
+      "updated_at": "2026-08-13T02:11:55Z",
+      "forks": 10,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "MCP-memory is a server delivering persistent long-term memory for AI agents using SQLite FTS5 search. It supports cross-session context management and is backed by OKF. It uses embedded SQLite for efficient data storage.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-16T00:59:55.533075+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Awaker-OTE/WakeGPT",
+      "title": "WakeGPT",
+      "description": "A local-first desktop app for quick capture, managed Markdown notebooks, and reusable ChatGPT/Codex context. Currently verified on macOS.",
+      "url": "https://github.com/Awaker-OTE/WakeGPT",
+      "stars": 168,
+      "language": "Rust",
+      "topics": [
+        "chatgpt",
+        "codex",
+        "desktop-app",
+        "local-first",
+        "macos",
+        "markdown",
+        "note-taking",
+        "productivity",
+        "rust",
+        "tauri"
+      ],
+      "created_at": "2026-08-13T10:02:33Z",
+      "updated_at": "2026-08-15T13:23:36Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Codex app is now integrated into the ChatGPT desktop app, offering enhanced capabilities for managing multiple agents and long-running tasks. The unified app is available on macOS and includes features for local file and app interaction. Usage is included in relevant ChatGPT subscriptions.",
+      "tags": [
+        "chatgpt",
+        "note-taking",
+        "macos",
+        "desktop-app",
+        "tauri"
+      ],
+      "analyzed_at": "2026-08-16T00:59:59.541608+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "smthdagg/wificalling-location-gateway",
+      "title": "wificalling-location-gateway",
+      "description": "Fail-open OpenWrt WLOC location gateway PoC with auditable multi-agent development workflow",
+      "url": "https://github.com/smthdagg/wificalling-location-gateway",
+      "stars": 155,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-08-11T05:28:18Z",
+      "updated_at": "2026-08-16T00:55:30Z",
+      "forks": 34,
+      "open_issues": 5,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 wificalling-location-gateway 的技术项目。Fail-open OpenWrt WLOC location gateway PoC with auditable multi-agent development workflow",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-16T01:00:00.159724+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "hsusul/lore",
+      "title": "lore",
+      "description": "git memory for coding agents — a local, searchable archive of your Claude Code and Codex sessions",
+      "url": "https://github.com/hsusul/lore",
+      "stars": 155,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-08-10T22:07:29Z",
+      "updated_at": "2026-08-16T00:27:50Z",
+      "forks": 32,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 lore 的技术项目。git memory for coding agents — a local, searchable archive of your Claude Code and Codex sessions",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-16T01:00:00.783298+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "pgrundev/pgbot",
+      "title": "pgbot",
+      "description": "pgbot - Postgres intelligence for AI agents & apps",
+      "url": "https://github.com/pgrundev/pgbot",
+      "stars": 154,
+      "language": "Go",
+      "topics": [],
+      "created_at": "2026-08-11T23:41:52Z",
+      "updated_at": "2026-08-15T05:46:19Z",
+      "forks": 9,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 pgbot 的技术项目。pgbot - Postgres intelligence for AI agents & apps",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-16T01:00:01.431572+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "wanshuiyin/HERO-Anti-OverDefense",
+      "title": "HERO-Anti-OverDefense",
+      "description": "HERO = Hashing · Edge cases · Rubrics · Overbuild — the four shapes coding agents over-defend in. A paste-in contract that stops them. Works with Claude Code, Codex, Antigravity, Cursor, Copilot, Windsurf, Gemini CLI.",
+      "url": "https://github.com/wanshuiyin/HERO-Anti-OverDefense",
+      "stars": 153,
+      "language": "Markdown",
+      "topics": [
+        "agents-md",
+        "ai-agents",
+        "antigravity",
+        "claude-code",
+        "claude-md",
+        "codex",
+        "coding-agent",
+        "cursor",
+        "gemini-cli",
+        "github-copilot",
+        "llm",
+        "prompt-engineering",
+        "windsurf"
+      ],
+      "created_at": "2026-08-11T05:08:30Z",
+      "updated_at": "2026-08-12T08:02:41Z",
+      "forks": 5,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 HERO-Anti-OverDefense 的技术项目。HERO = Hashing · Edge cases · Rubrics · Overbuild — the four shapes coding agents over-defend in. A paste-in contract that stops them. Works with Claude Code, Codex, Antigravity, Cursor, Copilot, Wind",
+      "tags": [
+        "agents-md",
+        "prompt-engineering",
+        "gemini-cli",
+        "github-copilot",
+        "antigravity"
+      ],
+      "analyzed_at": "2026-08-16T01:00:02.101863+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "yjh051108/dsh-router-standard",
+      "title": "dsh-router-standard",
+      "description": "Task-aware reasoning-mode router for DeepSeek Harness: three measured behavior bands (spec/mixed/react) with phase-transition evidence, persona + first-turn tool injection, agent-visible tuning. Dual-attractor policy paper included.",
+      "url": "https://github.com/yjh051108/dsh-router-standard",
+      "stars": 152,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-08-14T18:14:16Z",
+      "updated_at": "2026-08-15T22:53:56Z",
+      "forks": 13,
+      "open_issues": 13,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 dsh-router-standard 的技术项目。Task-aware reasoning-mode router for DeepSeek Harness: three measured behavior bands (spec/mixed/react) with phase-transition evidence, persona + first-turn tool injection, agent-visible tuning. Dual-",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-16T01:00:02.885100+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "ysr666/dsh-vision-router",
+      "title": "dsh-vision-router",
+      "description": "Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command install, no Python, image turns work like ordinary tool-calling turns.",
+      "url": "https://github.com/ysr666/dsh-vision-router",
+      "stars": 145,
+      "language": "JavaScript",
+      "topics": [
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "multimodal",
+        "vision"
+      ],
+      "created_at": "2026-08-13T18:57:47Z",
+      "updated_at": "2026-08-16T00:46:49Z",
+      "forks": 12,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 dsh-vision-router 的技术项目。Eyes for text-only DeepSeek Harness agents: built-in free vision chain (no key) + pixel-level vision tools (Q&A, grounding, crop, pixel diff, colors, OCR, SVG trace, cutout, screenshots). One-command ",
+      "tags": [
+        "multimodal",
+        "dsh-plugin",
+        "deepseek-harness",
+        "vision",
+        "dsh"
+      ],
+      "analyzed_at": "2026-08-16T01:00:03.561703+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Kianzzz/book-sales-video",
+      "title": "book-sales-video",
+      "description": "中文图书带货视频 Agent Skill：飞书取稿、书籍核验、配音、配图、双语字幕与 OpenChatCut 自动剪辑",
+      "url": "https://github.com/Kianzzz/book-sales-video",
+      "stars": 140,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-08-10T11:39:42Z",
+      "updated_at": "2026-08-10T11:39:49Z",
+      "forks": 35,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 book-sales-video 的技术项目。中文图书带货视频 Agent Skill：飞书取稿、书籍核验、配音、配图、双语字幕与 OpenChatCut 自动剪辑",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-16T01:00:04.274554+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "hewzhew/dsh-agent-rp",
+      "title": "dsh-agent-rp",
+      "description": "SillyTavern migration and next-generation Agent RP for DSH",
+      "url": "https://github.com/hewzhew/dsh-agent-rp",
+      "stars": 129,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "dsh",
+        "roleplay",
+        "sillytavern"
+      ],
+      "created_at": "2026-08-13T12:49:30Z",
+      "updated_at": "2026-08-15T12:30:21Z",
+      "forks": 4,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 dsh-agent-rp 的技术项目。SillyTavern migration and next-generation Agent RP for DSH",
+      "tags": [
+        "roleplay",
+        "sillytavern",
+        "dsh",
+        "agent"
+      ],
+      "analyzed_at": "2026-08-16T01:00:04.940478+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "dengzi008/DramaLens",
+      "title": "DramaLens",
+      "description": "Local-first Chrome extension for timestamped transcription and human-reviewed short-form drama analysis.",
+      "url": "https://github.com/dengzi008/DramaLens",
+      "stars": 122,
+      "language": "JavaScript",
+      "topics": [
+        "ai",
+        "chinese",
+        "chrome-extension",
+        "faster-whisper",
+        "local-first",
+        "speech-to-text"
+      ],
+      "created_at": "2026-08-11T03:58:26Z",
+      "updated_at": "2026-08-13T11:21:50Z",
+      "forks": 14,
+      "open_issues": 1,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 DramaLens 的技术项目。Local-first Chrome extension for timestamped transcription and human-reviewed short-form drama analysis.",
+      "tags": [
+        "chrome-extension",
+        "faster-whisper",
+        "ai",
+        "speech-to-text",
+        "chinese"
+      ],
+      "analyzed_at": "2026-08-16T01:00:05.564659+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "soumatheusgomes/vibe-coding-toolkit",
+      "title": "vibe-coding-toolkit",
+      "description": "A curated, battle-tested AI-coding toolkit: Claude Code plugins, subagent orchestration, quality gates, and ready-to-copy prompts, extracted from real production use.",
+      "url": "https://github.com/soumatheusgomes/vibe-coding-toolkit",
+      "stars": 122,
+      "language": null,
+      "topics": [
+        "ai-agents",
+        "ai-coding",
+        "claude-code",
+        "developer-tools",
+        "llm-agents",
+        "prompts"
+      ],
+      "created_at": "2026-08-14T23:41:31Z",
+      "updated_at": "2026-08-15T16:49:18Z",
+      "forks": 28,
+      "open_issues": 1,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 vibe-coding-toolkit 的技术项目。A curated, battle-tested AI-coding toolkit: Claude Code plugins, subagent orchestration, quality gates, and ready-to-copy prompts, extracted from real production use.",
+      "tags": [
+        "ai-coding",
+        "developer-tools",
+        "llm-agents",
+        "prompts",
+        "ai-agents"
+      ],
+      "analyzed_at": "2026-08-16T01:00:06.360335+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "vibeinging/deepseek-harness-desktop-app",
+      "title": "deepseek-harness-desktop-app",
+      "description": "DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
+      "url": "https://github.com/vibeinging/deepseek-harness-desktop-app",
+      "stars": 116,
+      "language": "JavaScript",
+      "topics": [
+        "agentic-workflows",
+        "ai-agent",
+        "ai-workbench",
+        "data-analysis",
+        "deepseek-harness",
+        "desktop-app",
+        "dsh",
+        "dsh-plugin",
+        "electron",
+        "local-first",
+        "mcp",
+        "model-context-protocol",
+        "office-automation",
+        "react",
+        "typescript"
+      ],
+      "created_at": "2026-08-13T10:41:33Z",
+      "updated_at": "2026-08-15T08:56:28Z",
+      "forks": 4,
+      "open_issues": 4,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 deepseek-harness-desktop-app 的技术项目。DeepSeek Harness Desktop App: a local AI desktop workspace for DSH Sessions, projects, files, web research, plugins, and Office artifacts.",
+      "tags": [
+        "agentic-workflows",
+        "react",
+        "desktop-app",
+        "electron",
+        "local-first"
+      ],
+      "analyzed_at": "2026-08-16T01:00:07.064950+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "mateusdcc/pi-gpt-search",
+      "title": "pi-gpt-search",
+      "description": "Native, Model-Independent Web Search for Pi using OpenAI Codex Standalone Search Engine.",
+      "url": "https://github.com/mateusdcc/pi-gpt-search",
+      "stars": 112,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-08-09T03:52:36Z",
+      "updated_at": "2026-08-11T10:33:53Z",
+      "forks": 3,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 pi-gpt-search 的技术项目。Native, Model-Independent Web Search for Pi using OpenAI Codex Standalone Search Engine.",
+      "tags": [
+        "gpt"
+      ],
+      "analyzed_at": "2026-08-16T01:00:07.712857+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "swping999/scene-card-studio",
+      "title": "scene-card-studio",
+      "description": "AI visual director for turning personal photos into structured, editable visual narratives.",
+      "url": "https://github.com/swping999/scene-card-studio",
+      "stars": 111,
+      "language": "Python",
+      "topics": [
+        "ai-tools",
+        "codex-skill",
+        "generative-ai",
+        "image-generation",
+        "photo-narrative",
+        "visual-storytelling"
+      ],
+      "created_at": "2026-08-09T03:25:19Z",
+      "updated_at": "2026-08-11T03:58:38Z",
+      "forks": 8,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 scene-card-studio 的技术项目。AI visual director for turning personal photos into structured, editable visual narratives.",
+      "tags": [
+        "ai-tools",
+        "generative-ai",
+        "photo-narrative",
+        "image-generation",
+        "visual-storytelling"
+      ],
+      "analyzed_at": "2026-08-16T01:00:08.382400+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "HirezmingD/Knowe-agent-groupchat",
+      "title": "Knowe-agent-groupchat",
+      "description": "Knowe — 友好易上手的轻办公AI智能体，采用类微信群组的交互与管理模式。 — An easy-to-use desktop office AI agent with a WhatsApp-groupchat-style conversational interface.",
+      "url": "https://github.com/HirezmingD/Knowe-agent-groupchat",
+      "stars": 106,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-08-09T04:36:20Z",
+      "updated_at": "2026-08-15T13:44:01Z",
+      "forks": 14,
+      "open_issues": 4,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Knowe-agent-groupchat 的技术项目。Knowe — 友好易上手的轻办公AI智能体，采用类微信群组的交互与管理模式。 — An easy-to-use desktop office AI agent with a WhatsApp-groupchat-style conversational interface.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-08-16T01:00:09.104121+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "vuphongle/oss-pr-reviewer",
+      "title": "oss-pr-reviewer",
+      "description": "AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structured Markdown reports for open-source maintainers.",
+      "url": "https://github.com/vuphongle/oss-pr-reviewer",
+      "stars": 106,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "cli",
+        "code-review",
+        "developer-tools",
+        "github",
+        "llm",
+        "maintainer-tools",
+        "open-source",
+        "pull-request",
+        "typescript"
+      ],
+      "created_at": "2026-08-13T01:59:03Z",
+      "updated_at": "2026-08-13T05:09:43Z",
+      "forks": 100,
+      "open_issues": 7,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 oss-pr-reviewer 的技术项目。AI-powered CLI for reviewing GitHub pull requests, detecting potential bugs, security risks, regressions, and missing tests, with structured Markdown reports for open-source maintainers.",
+      "tags": [
+        "code-review",
+        "maintainer-tools",
+        "open-source",
+        "developer-tools",
+        "pull-request"
+      ],
+      "analyzed_at": "2026-08-16T01:00:09.749839+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "harukiseller-droid/commerce-agent-bench",
+      "title": "commerce-agent-bench",
+      "description": "commerce-agent-bench",
+      "url": "https://github.com/harukiseller-droid/commerce-agent-bench",
+      "stars": 105,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-08-11T23:40:15Z",
+      "updated_at": "2026-08-12T00:14:15Z",
+      "forks": 103,
+      "open_issues": 4,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 commerce-agent-bench 的技术项目。commerce-agent-bench",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-08-16T01:00:10.386351+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
