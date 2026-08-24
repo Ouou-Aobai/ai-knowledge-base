@@ -1,0 +1,1773 @@
+{
+  "source": "github",
+  "collected_at": "2026-08-24T00:56:48.606839Z",
+  "analyzed_at": "2026-08-24T00:57:49.603211+00:00",
+  "count": 50,
+  "items": [
+    {
+      "id": "s1dashu/ip-as-logo-skill",
+      "title": "ip-as-logo-skill",
+      "description": "A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+      "url": "https://github.com/s1dashu/ip-as-logo-skill",
+      "stars": 3904,
+      "language": null,
+      "topics": [
+        "codex",
+        "codex-skill",
+        "image-generation",
+        "logo-design",
+        "mascot-design"
+      ],
+      "created_at": "2026-08-18T13:59:23Z",
+      "updated_at": "2026-08-22T16:48:59Z",
+      "forks": 190,
+      "open_issues": 7,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 ip-as-logo-skill 的技术项目。A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.",
+      "tags": [
+        "codex-skill",
+        "logo-design",
+        "image-generation",
+        "codex",
+        "mascot-design"
+      ],
+      "analyzed_at": "2026-08-24T00:57:13.841508+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "yetone/cumora",
+      "title": "cumora",
+      "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "url": "https://github.com/yetone/cumora",
+      "stars": 2954,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-08-17T09:13:52Z",
+      "updated_at": "2026-08-23T17:47:48Z",
+      "forks": 354,
+      "open_issues": 7,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 cumora 的技术项目。Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-24T00:57:14.558832+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "CopilotKit/OpenBot",
+      "title": "OpenBot",
+      "description": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "stars": 2501,
+      "language": "TypeScript",
+      "topics": [
+        "ag-ui",
+        "agent-governance",
+        "ai-agents",
+        "browser-automation",
+        "copilotkit",
+        "generative-ui",
+        "mcp"
+      ],
+      "created_at": "2026-08-17T00:44:59Z",
+      "updated_at": "2026-08-23T22:40:19Z",
+      "forks": 286,
+      "open_issues": 27,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 OpenBot 的技术项目。Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "tags": [
+        "generative-ui",
+        "ai-agents",
+        "ag-ui",
+        "copilotkit",
+        "browser-automation"
+      ],
+      "analyzed_at": "2026-08-24T00:57:15.262692+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "wang2122/sprix-sage-router",
+      "title": "sprix-sage-router",
+      "description": "Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+      "url": "https://github.com/wang2122/sprix-sage-router",
+      "stars": 1412,
+      "language": "Python",
+      "topics": [
+        "a2a",
+        "agent-orchestration",
+        "agent-routing",
+        "ai-agents",
+        "multi-agent-systems",
+        "python",
+        "sprix-ai",
+        "task-scheduling"
+      ],
+      "created_at": "2026-08-18T04:08:11Z",
+      "updated_at": "2026-08-21T08:45:27Z",
+      "forks": 23,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 sprix-sage-router 的技术项目。Sprix AI at 屿智同行 — state-aware SELF/COLLABORATE/HANDOFF routing for A2A agent networks.",
+      "tags": [
+        "task-scheduling",
+        "ai-agents",
+        "python",
+        "a2a",
+        "multi-agent-systems"
+      ],
+      "analyzed_at": "2026-08-24T00:57:15.986488+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "duty1g/x64dbg-mcp-server",
+      "title": "x64dbg-mcp-server",
+      "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
+      "url": "https://github.com/duty1g/x64dbg-mcp-server",
+      "stars": 873,
+      "language": "Zig",
+      "topics": [
+        "ai-agents",
+        "ai-debugging",
+        "binary-analysis",
+        "claude",
+        "claude-code",
+        "malware-analysis",
+        "malware-research",
+        "malware-scanner",
+        "mcp",
+        "mcp-server",
+        "mcp-servers",
+        "x64dbg",
+        "x64dbg-mcp",
+        "x64dbg-plugin",
+        "x64dbg-tools",
+        "xdbg",
+        "zig",
+        "zig-lang",
+        "ziglang"
+      ],
+      "created_at": "2026-08-22T14:28:41Z",
+      "updated_at": "2026-08-23T21:15:39Z",
+      "forks": 87,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 x64dbg-mcp-server 的技术项目。x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg progra",
+      "tags": [
+        "ai-debugging",
+        "claude",
+        "malware-analysis",
+        "mcp-servers",
+        "claude-code"
+      ],
+      "analyzed_at": "2026-08-24T00:57:16.707095+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Spielewoy/autoprompt-skill",
+      "title": "autoprompt-skill",
+      "description": "Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
+      "url": "https://github.com/Spielewoy/autoprompt-skill",
+      "stars": 769,
+      "language": "JavaScript",
+      "topics": [
+        "agent-orchestration",
+        "agent-skills",
+        "agentic-workflows",
+        "ai-agents",
+        "ai-coding",
+        "automated-testing",
+        "autonomous-agents",
+        "claude-code",
+        "cli",
+        "code-review",
+        "codex",
+        "coding-agent",
+        "developer-tools",
+        "github-copilot",
+        "multi-agent-systems",
+        "opencode",
+        "prompt-engineering",
+        "subagents",
+        "test-driven-development",
+        "workflow-automation"
+      ],
+      "created_at": "2026-08-17T22:40:47Z",
+      "updated_at": "2026-08-21T16:35:53Z",
+      "forks": 50,
+      "open_issues": 4,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 autoprompt-skill 的技术项目。Autoprompt is a coding-agent skill that cuts failures by 45% on agentic coding tasks.",
+      "tags": [
+        "ai-coding",
+        "developer-tools",
+        "autonomous-agents",
+        "test-driven-development",
+        "opencode"
+      ],
+      "analyzed_at": "2026-08-24T00:57:17.394578+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "ShadowAqueduct/watermark-remover",
+      "title": "watermark-remover",
+      "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "url": "https://github.com/ShadowAqueduct/watermark-remover",
+      "stars": 760,
+      "language": "Python",
+      "topics": [
+        "claude-ai",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-skills",
+        "codex",
+        "codex-cli",
+        "codex-skill",
+        "codex-skills",
+        "watermark"
+      ],
+      "created_at": "2026-08-23T21:14:28Z",
+      "updated_at": "2026-08-23T22:07:11Z",
+      "forks": 72,
+      "open_issues": 6,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 watermark-remover 的技术项目。Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "tags": [
+        "claude-ai",
+        "codex-skill",
+        "watermark",
+        "codex-cli",
+        "claude-code"
+      ],
+      "analyzed_at": "2026-08-24T00:57:18.160083+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "browser-use/macos-harness",
+      "title": "macos-harness",
+      "description": "The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "url": "https://github.com/browser-use/macos-harness",
+      "stars": 728,
+      "language": "Python",
+      "topics": [
+        "accessibility",
+        "agent",
+        "automation",
+        "cdp",
+        "computer-use",
+        "macos",
+        "python"
+      ],
+      "created_at": "2026-08-17T00:22:20Z",
+      "updated_at": "2026-08-17T16:48:19Z",
+      "forks": 50,
+      "open_issues": 7,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 macos-harness 的技术项目。The simplest, thinnest harness that gives an LLM complete freedom to control a Mac.",
+      "tags": [
+        "cdp",
+        "python",
+        "automation",
+        "macos",
+        "accessibility"
+      ],
+      "analyzed_at": "2026-08-24T00:57:18.880695+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "SigmanticAI/apex-inference-chip",
+      "title": "apex-inference-chip",
+      "description": "An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, full evidence trail.",
+      "url": "https://github.com/SigmanticAI/apex-inference-chip",
+      "stars": 683,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-08-17T04:25:26Z",
+      "updated_at": "2026-08-18T17:10:33Z",
+      "forks": 1,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 apex-inference-chip 的技术项目。An inference chip design that runs a real LLM (Qwen2.5-0.5B) on FPGA — one transformer decoder layer in RTL, every silicon value bit-exact against a golden model. 0.56 tok/s measured, a 140× climb, fu",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-24T00:57:19.563436+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "cclank/lanshu-create-ai-presenter-video",
+      "title": "lanshu-create-ai-presenter-video",
+      "description": "Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+      "url": "https://github.com/cclank/lanshu-create-ai-presenter-video",
+      "stars": 656,
+      "language": "Python",
+      "topics": [
+        "ai-video",
+        "codex",
+        "codex-skill",
+        "digital-human",
+        "video-generation"
+      ],
+      "created_at": "2026-08-20T13:40:06Z",
+      "updated_at": "2026-08-20T13:40:14Z",
+      "forks": 105,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 lanshu-create-ai-presenter-video 的技术项目。Provider-neutral Codex Skill for producing verified AI presenter videos from a script and an authorized presenter image.",
+      "tags": [
+        "codex-skill",
+        "video-generation",
+        "digital-human",
+        "ai-video",
+        "ai"
+      ],
+      "analyzed_at": "2026-08-24T00:57:20.258198+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "missuo/herdrm",
+      "title": "herdrm",
+      "description": "Native macOS console for herdr — all your coding agents and their live terminals, across devices",
+      "url": "https://github.com/missuo/herdrm",
+      "stars": 611,
+      "language": "Swift",
+      "topics": [],
+      "created_at": "2026-08-19T06:55:39Z",
+      "updated_at": "2026-08-22T15:15:53Z",
+      "forks": 37,
+      "open_issues": 2,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 herdrm 的技术项目。Native macOS console for herdr — all your coding agents and their live terminals, across devices",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-24T00:57:20.952999+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "iAmCorey/Wake",
+      "title": "Wake",
+      "description": "Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI.",
+      "url": "https://github.com/iAmCorey/Wake",
+      "stars": 543,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-08-18T09:46:23Z",
+      "updated_at": "2026-08-22T06:17:13Z",
+      "forks": 30,
+      "open_issues": 4,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Wake 的技术项目。Every coding-agent session on your Mac in one place — browse, search, resume. Rust + GPUI.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-24T00:57:21.799152+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Forsy-AI/biosecurity-agent",
+      "title": "biosecurity-agent",
+      "description": "AI agent that builds a live biosecurity world around any target.",
+      "url": "https://github.com/Forsy-AI/biosecurity-agent",
+      "stars": 363,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-08-22T23:06:26Z",
+      "updated_at": "2026-08-23T20:21:23Z",
+      "forks": 12,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 biosecurity-agent 的技术项目。AI agent that builds a live biosecurity world around any target.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-08-24T00:57:22.519385+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "jaredrhod/fullstack-agent",
+      "title": "fullstack-agent",
+      "description": "Give your AI a full stack: memory, voice, face, and hands. This is the \"I want an AI agent\" shortcut. It sets up the entire jaredrhod stack for you with an installation wizard. Select which pieces you want or do it all!",
+      "url": "https://github.com/jaredrhod/fullstack-agent",
+      "stars": 313,
+      "language": "Batchfile",
+      "topics": [],
+      "created_at": "2026-08-17T04:00:03Z",
+      "updated_at": "2026-08-23T23:13:29Z",
+      "forks": 94,
+      "open_issues": 2,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 fullstack-agent 的技术项目。Give your AI a full stack: memory, voice, face, and hands. This is the \"I want an AI agent\" shortcut. It sets up the entire jaredrhod stack for you with an installation wizard. Select which pieces you",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-08-24T00:57:23.263653+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Zyrexnn/Cybermes",
+      "title": "Cybermes",
+      "description": "Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+      "url": "https://github.com/Zyrexnn/Cybermes",
+      "stars": 263,
+      "language": "Python",
+      "topics": [
+        "ai-agent",
+        "appsec",
+        "bug-bounty",
+        "cvss-v3",
+        "cybersecurity",
+        "devsecops",
+        "exploit-validation",
+        "hermes-agent",
+        "infosec",
+        "llm-security",
+        "nuclei",
+        "offensive-security",
+        "penetration-testing",
+        "playwright",
+        "reconnaissance",
+        "red-teaming",
+        "security-tools",
+        "sqlmap",
+        "threat-research",
+        "vulnerability-scanner"
+      ],
+      "created_at": "2026-08-19T13:25:08Z",
+      "updated_at": "2026-08-24T00:31:55Z",
+      "forks": 47,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Cybermes 的技术项目。Autonomous Offensive Security, Bug Bounty & Red Teaming Agent Framework powered by Hermes Agent, specialized reasoning skills, and multi-model LLM orchestration.",
+      "tags": [
+        "appsec",
+        "offensive-security",
+        "cvss-v3",
+        "threat-research",
+        "hermes-agent"
+      ],
+      "analyzed_at": "2026-08-24T00:57:24.002253+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "MirroS-Lab/HarnessEval-W",
+      "title": "HarnessEval-W",
+      "description": "HarnessEval-W: Agentifying the Evaluation of Visual Worlds",
+      "url": "https://github.com/MirroS-Lab/HarnessEval-W",
+      "stars": 251,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "benchmark",
+        "evaluation",
+        "harness",
+        "harness-engineering",
+        "kling",
+        "minimax-h3",
+        "seedance",
+        "video-generation",
+        "wan",
+        "world-model"
+      ],
+      "created_at": "2026-08-17T09:50:26Z",
+      "updated_at": "2026-08-18T03:30:35Z",
+      "forks": 7,
+      "open_issues": 1,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 HarnessEval-W 的技术项目。HarnessEval-W: Agentifying the Evaluation of Visual Worlds",
+      "tags": [
+        "kling",
+        "minimax-h3",
+        "video-generation",
+        "wan",
+        "world-model"
+      ],
+      "analyzed_at": "2026-08-24T00:57:24.759684+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "JetBrains/benjamin-plus-skill",
+      "title": "benjamin-plus-skill",
+      "description": "Benjamin-Plus: a measured token-efficiency skill for coding agents (−17.9% cost median, quality unchanged). Inject it, don't install it.",
+      "url": "https://github.com/JetBrains/benjamin-plus-skill",
+      "stars": 244,
+      "language": "Shell",
+      "topics": [],
+      "created_at": "2026-08-17T11:00:29Z",
+      "updated_at": "2026-08-18T22:52:36Z",
+      "forks": 11,
+      "open_issues": 1,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 benjamin-plus-skill 的技术项目。Benjamin-Plus: a measured token-efficiency skill for coding agents (−17.9% cost median, quality unchanged). Inject it, don't install it.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-24T00:57:25.471150+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "sam70361/emotion-ball",
+      "title": "emotion-ball",
+      "description": "Emotion Ball 是一套面向 AI 助手的表情引擎:32 种状态表情全部由纯 SVG 与原生 JavaScript 实时驱动,零框架、零图片资源。AI 侧只需输出一个 emotionId,小球即可切换到对应表情,可直接用作聊天机器人、桌面宠物、悬浮助手的情绪表达层。",
+      "url": "https://github.com/sam70361/emotion-ball",
+      "stars": 244,
+      "language": "JavaScript",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "animation",
+        "bot",
+        "chatbot",
+        "desktop-pet",
+        "emotion",
+        "grok",
+        "grok-bot",
+        "javascript",
+        "svg",
+        "svg-animation",
+        "vanilla-javascript"
+      ],
+      "created_at": "2026-08-18T09:28:02Z",
+      "updated_at": "2026-08-21T07:33:36Z",
+      "forks": 26,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 emotion-ball 的技术项目。Emotion Ball 是一套面向 AI 助手的表情引擎:32 种状态表情全部由纯 SVG 与原生 JavaScript 实时驱动,零框架、零图片资源。AI 侧只需输出一个 emotionId,小球即可切换到对应表情,可直接用作聊天机器人、桌面宠物、悬浮助手的情绪表达层。",
+      "tags": [
+        "emotion",
+        "grok",
+        "svg",
+        "vanilla-javascript",
+        "svg-animation"
+      ],
+      "analyzed_at": "2026-08-24T00:57:26.170632+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "BigPengSays/bigpeng-hot-gzh",
+      "title": "bigpeng-hot-gzh",
+      "description": "从100 多篇爆款 AI 公众号文章中蒸馏出的 7 个爆款选题公式和 Skill。",
+      "url": "https://github.com/BigPengSays/bigpeng-hot-gzh",
+      "stars": 231,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-08-17T03:26:10Z",
+      "updated_at": "2026-08-19T02:25:37Z",
+      "forks": 21,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 bigpeng-hot-gzh 的技术项目。从100 多篇爆款 AI 公众号文章中蒸馏出的 7 个爆款选题公式和 Skill。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-24T00:57:26.871747+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "only-cli/oc",
+      "title": "oc",
+      "description": "Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
+      "url": "https://github.com/only-cli/oc",
+      "stars": 223,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "browser-automation",
+        "claude-code",
+        "cli",
+        "cli-app",
+        "cli-tool",
+        "llm",
+        "markdown",
+        "web-scraping"
+      ],
+      "created_at": "2026-08-18T13:00:30Z",
+      "updated_at": "2026-08-24T00:55:43Z",
+      "forks": 9,
+      "open_issues": 5,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 oc 的技术项目。Turn any website into a compact CLI tailored for AI agents. Browse the web in hundreds of tokens, not tens of thousands.",
+      "tags": [
+        "ai-agents",
+        "llm",
+        "web-scraping",
+        "markdown",
+        "claude-code"
+      ],
+      "analyzed_at": "2026-08-24T00:57:27.567440+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "ZSeven-W/dsh-ios",
+      "title": "dsh-ios",
+      "description": "DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or list rows, plus a streaming sidebar panel you can tap and drag on.",
+      "url": "https://github.com/ZSeven-W/dsh-ios",
+      "stars": 219,
+      "language": "TypeScript",
+      "topics": [
+        "accessibility",
+        "ai-agents",
+        "coding-agent",
+        "deepseek-harness",
+        "dsh",
+        "dsh-plugin",
+        "ios",
+        "ios-simulator",
+        "iphone",
+        "mcp",
+        "mobile-automation",
+        "plugin",
+        "typescript",
+        "ui-automation",
+        "webdriveragent",
+        "xcode"
+      ],
+      "created_at": "2026-08-19T18:02:50Z",
+      "updated_at": "2026-08-23T17:17:32Z",
+      "forks": 22,
+      "open_issues": 1,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 dsh-ios 的技术项目。DeepSeek Harness (DSH) plugin: a live iOS Simulator — and a USB-connected iPhone — inside the conversation. 22 agent tools for booting, building, driving the UI by accessibility identity, OCR text or ",
+      "tags": [
+        "dsh-plugin",
+        "ai-agents",
+        "ios-simulator",
+        "dsh",
+        "deepseek-harness"
+      ],
+      "analyzed_at": "2026-08-24T00:57:28.254272+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "amitshekhariitbhu/llm-inference-engineering",
+      "title": "llm-inference-engineering",
+      "description": "Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
+      "url": "https://github.com/amitshekhariitbhu/llm-inference-engineering",
+      "stars": 216,
+      "language": "Markdown",
+      "topics": [
+        "inference-engineering",
+        "inference-optimization",
+        "large-language-models",
+        "llm",
+        "llm-engineering",
+        "llm-inference",
+        "llms"
+      ],
+      "created_at": "2026-08-18T03:10:26Z",
+      "updated_at": "2026-08-18T03:29:29Z",
+      "forks": 26,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 llm-inference-engineering 的技术项目。Learn LLM Inference Engineering step by step - from KV cache, PagedAttention, and continuous batching to vLLM, SGLang, and GPUs.",
+      "tags": [
+        "llm",
+        "llm-engineering",
+        "inference-engineering",
+        "llms",
+        "large-language-models"
+      ],
+      "analyzed_at": "2026-08-24T00:57:28.972096+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "furkankly/zoetrope",
+      "title": "zoetrope",
+      "description": "Watch a Claude Code session as a live flow graph, in your terminal or your browser.",
+      "url": "https://github.com/furkankly/zoetrope",
+      "stars": 189,
+      "language": "Rust",
+      "topics": [
+        "agent",
+        "agent-visualization",
+        "claude-code",
+        "flow"
+      ],
+      "created_at": "2026-08-18T10:48:39Z",
+      "updated_at": "2026-08-22T01:26:24Z",
+      "forks": 10,
+      "open_issues": 1,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 zoetrope 的技术项目。Watch a Claude Code session as a live flow graph, in your terminal or your browser.",
+      "tags": [
+        "claude-code",
+        "agent",
+        "agent-visualization",
+        "flow"
+      ],
+      "analyzed_at": "2026-08-24T00:57:29.662212+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "bam-bam-2/solo-skills",
+      "title": "solo-skills",
+      "description": "1인 사업가 생산성 키트 — 직원 없이 49개를 자동화했고, 그중 바로 쓸 수 있는 AI 에이전트 스킬 26개(+실행 스크립트)를 공개합니다",
+      "url": "https://github.com/bam-bam-2/solo-skills",
+      "stars": 187,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "automation",
+        "claude-code",
+        "korean",
+        "productivity",
+        "skills",
+        "solopreneur"
+      ],
+      "created_at": "2026-08-22T13:42:32Z",
+      "updated_at": "2026-08-23T11:53:32Z",
+      "forks": 46,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 solo-skills 的技术项目。1인 사업가 생산성 키트 — 직원 없이 49개를 자동화했고, 그중 바로 쓸 수 있는 AI 에이전트 스킬 26개(+실행 스크립트)를 공개합니다",
+      "tags": [
+        "agent-skills",
+        "korean",
+        "solopreneur",
+        "claude-code",
+        "skills"
+      ],
+      "analyzed_at": "2026-08-24T00:57:30.377273+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "ChenShuo2004/cs-board",
+      "title": "cs-board",
+      "description": "将参考声音和中文文案自动生成白板动画视频的本地 AI 工具。",
+      "url": "https://github.com/ChenShuo2004/cs-board",
+      "stars": 185,
+      "language": "Python",
+      "topics": [
+        "ai-video",
+        "chinese",
+        "fastapi",
+        "index-tts",
+        "react",
+        "tts",
+        "whiteboard-animation"
+      ],
+      "created_at": "2026-08-21T00:50:30Z",
+      "updated_at": "2026-08-23T08:50:42Z",
+      "forks": 39,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 cs-board 的技术项目。将参考声音和中文文案自动生成白板动画视频的本地 AI 工具。",
+      "tags": [
+        "tts",
+        "chinese",
+        "fastapi",
+        "ai-video",
+        "whiteboard-animation"
+      ],
+      "analyzed_at": "2026-08-24T00:57:31.281706+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "iamlukethedev/Hermes3D",
+      "title": "Hermes3D",
+      "description": "Hermes3D is an open source 3D engine built on Hermes Agents for creating games, simulations, and high-performance 3D applications.",
+      "url": "https://github.com/iamlukethedev/Hermes3D",
+      "stars": 179,
+      "language": "TypeScript",
+      "topics": [
+        "3d-engine",
+        "game-engine",
+        "gamedev",
+        "graphics",
+        "hermes",
+        "hermes3d",
+        "javascript",
+        "open-source",
+        "rendering",
+        "threejs",
+        "webgl"
+      ],
+      "created_at": "2026-08-17T10:46:44Z",
+      "updated_at": "2026-08-20T11:48:51Z",
+      "forks": 28,
+      "open_issues": 2,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Hermes3D 的技术项目。Hermes3D is an open source 3D engine built on Hermes Agents for creating games, simulations, and high-performance 3D applications.",
+      "tags": [
+        "3d-engine",
+        "rendering",
+        "threejs",
+        "hermes",
+        "open-source"
+      ],
+      "analyzed_at": "2026-08-24T00:57:31.976277+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Yevanchen/reclaim-code-entropy",
+      "title": "reclaim-code-entropy",
+      "description": "An evidence-first Agent Skill for safely simplifying any codebase.",
+      "url": "https://github.com/Yevanchen/reclaim-code-entropy",
+      "stars": 174,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-08-17T08:19:11Z",
+      "updated_at": "2026-08-21T06:20:59Z",
+      "forks": 8,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 reclaim-code-entropy 的技术项目。An evidence-first Agent Skill for safely simplifying any codebase.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-24T00:57:32.704924+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "asen-goat-mine/boujoy-harness",
+      "title": "boujoy-harness",
+      "description": "A knowledge-linked local AI harness with macOS support and a Windows Beta launcher.",
+      "url": "https://github.com/asen-goat-mine/boujoy-harness",
+      "stars": 173,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-08-18T16:08:19Z",
+      "updated_at": "2026-08-21T21:57:45Z",
+      "forks": 33,
+      "open_issues": 1,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 boujoy-harness 的技术项目。A knowledge-linked local AI harness with macOS support and a Windows Beta launcher.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-24T00:57:33.404672+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "squall01337/mixamo-llm-mocap",
+      "title": "mixamo-llm-mocap",
+      "description": "Turn any video into a Mixamo-rig animation - GVHMR estimator, spec-driven retarget, FK apply in Blender via MCP. Works with any Mixamo character; built to be operated end-to-end by an AI agent.",
+      "url": "https://github.com/squall01337/mixamo-llm-mocap",
+      "stars": 170,
+      "language": "Python",
+      "topics": [
+        "ai-agent",
+        "animation",
+        "blender",
+        "gvhmr",
+        "llm",
+        "mixamo",
+        "mocap",
+        "motion-capture",
+        "retargeting",
+        "smpl-x"
+      ],
+      "created_at": "2026-08-17T21:05:02Z",
+      "updated_at": "2026-08-18T13:23:01Z",
+      "forks": 41,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 mixamo-llm-mocap 的技术项目。Turn any video into a Mixamo-rig animation - GVHMR estimator, spec-driven retarget, FK apply in Blender via MCP. Works with any Mixamo character; built to be operated end-to-end by an AI agent.",
+      "tags": [
+        "smpl-x",
+        "llm",
+        "gvhmr",
+        "mocap",
+        "blender"
+      ],
+      "analyzed_at": "2026-08-24T00:57:34.174382+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro",
+      "title": "gpt5.6-claude-grok4.6-deepseekv4pro",
+      "description": "冷咖啡 ColdBrew 四合一破甲正式版 — GPT-5.6 / Claude / Grok 4.6 / DeepSeek v4 Pro 一键部署 · 启动 · 恢复 · 打包发布 | QQ 群 1057540028 / 1077074552",
+      "url": "https://github.com/3641397194-wq/gpt5.6-claude-grok4.6-deepseekv4pro",
+      "stars": 168,
+      "language": "Python",
+      "topics": [
+        "claude",
+        "coldbrew",
+        "deepseek",
+        "gpt-5-6",
+        "grok",
+        "jailbreak",
+        "prompt-engineering",
+        "security-research"
+      ],
+      "created_at": "2026-08-17T19:36:40Z",
+      "updated_at": "2026-08-22T21:04:55Z",
+      "forks": 32,
+      "open_issues": 1,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 gpt5.6-claude-grok4.6-deepseekv4pro 的技术项目。冷咖啡 ColdBrew 四合一破甲正式版 — GPT-5.6 / Claude / Grok 4.6 / DeepSeek v4 Pro 一键部署 · 启动 · 恢复 · 打包发布 | QQ 群 1057540028 / 1077074552",
+      "tags": [
+        "gpt",
+        "deepseek",
+        "security-research",
+        "grok",
+        "prompt-engineering"
+      ],
+      "analyzed_at": "2026-08-24T00:57:34.889837+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "kgoedecke/doop",
+      "title": "doop",
+      "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+      "url": "https://github.com/kgoedecke/doop",
+      "stars": 157,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "canvas",
+        "claude",
+        "claude-code",
+        "claude-design",
+        "design",
+        "design-tool",
+        "mcp",
+        "multiplayer"
+      ],
+      "created_at": "2026-08-22T15:40:51Z",
+      "updated_at": "2026-08-23T18:51:47Z",
+      "forks": 13,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 doop 的技术项目。The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+      "tags": [
+        "ai-agents",
+        "canvas",
+        "claude-code",
+        "claude-design",
+        "design-tool"
+      ],
+      "analyzed_at": "2026-08-24T00:57:35.606080+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "zhaoxuya520/MeshLAN",
+      "title": "MeshLAN",
+      "description": "Self-hosted P2P-first virtual LAN, service sharing, multi-relay and AI automation built on Nebula.",
+      "url": "https://github.com/zhaoxuya520/MeshLAN",
+      "stars": 151,
+      "language": "Go",
+      "topics": [
+        "golang",
+        "mesh-network",
+        "nat-traversal",
+        "nebula",
+        "p2p",
+        "relay",
+        "self-hosted",
+        "virtual-lan",
+        "vpn",
+        "windows"
+      ],
+      "created_at": "2026-08-22T10:30:10Z",
+      "updated_at": "2026-08-22T13:36:53Z",
+      "forks": 15,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 MeshLAN 的技术项目。Self-hosted P2P-first virtual LAN, service sharing, multi-relay and AI automation built on Nebula.",
+      "tags": [
+        "golang",
+        "vpn",
+        "nebula",
+        "mesh-network",
+        "self-hosted"
+      ],
+      "analyzed_at": "2026-08-24T00:57:36.293350+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "danielvaughn/hz",
+      "title": "hz",
+      "description": "An experimental editor that offers a novel way to write software with AI.",
+      "url": "https://github.com/danielvaughn/hz",
+      "stars": 151,
+      "language": "Svelte",
+      "topics": [],
+      "created_at": "2026-08-17T01:29:54Z",
+      "updated_at": "2026-08-23T14:51:51Z",
+      "forks": 7,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 hz 的技术项目。An experimental editor that offers a novel way to write software with AI.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-24T00:57:36.984859+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "GamePhanes/GamePhanes",
+      "title": "GamePhanes",
+      "description": "An open-source game coding agent environment and benchmark for Godot.",
+      "url": "https://github.com/GamePhanes/GamePhanes",
+      "stars": 151,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-08-21T02:57:42Z",
+      "updated_at": "2026-08-23T14:02:24Z",
+      "forks": 2,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 GamePhanes 的技术项目。An open-source game coding agent environment and benchmark for Godot.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-24T00:57:37.716860+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "xianxie6/stamp-edge-skill",
+      "title": "stamp-edge-skill",
+      "description": "Agent skill: turn any image into a postage-stamp style card with perforated edges and true transparent background",
+      "url": "https://github.com/xianxie6/stamp-edge-skill",
+      "stars": 148,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-08-18T01:31:52Z",
+      "updated_at": "2026-08-18T07:34:27Z",
+      "forks": 8,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 stamp-edge-skill 的技术项目。Agent skill: turn any image into a postage-stamp style card with perforated edges and true transparent background",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-24T00:57:38.419582+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "oil-oil/dsh-oil-creator",
+      "title": "dsh-oil-creator",
+      "description": "AI-assisted local creator workbench for DeepSeek Harness",
+      "url": "https://github.com/oil-oil/dsh-oil-creator",
+      "stars": 129,
+      "language": "TypeScript",
+      "topics": [
+        "creator",
+        "deepseek-harness",
+        "dsh-plugin"
+      ],
+      "created_at": "2026-08-19T05:02:00Z",
+      "updated_at": "2026-08-20T00:40:08Z",
+      "forks": 25,
+      "open_issues": 2,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 dsh-oil-creator 的技术项目。AI-assisted local creator workbench for DeepSeek Harness",
+      "tags": [
+        "dsh-plugin",
+        "creator",
+        "deepseek-harness"
+      ],
+      "analyzed_at": "2026-08-24T00:57:39.115282+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Hebbian-Robotics/hflow",
+      "title": "hflow",
+      "description": "Open source SDK for building data-quality, processing, enrichment, and curation pipelines for robotics and Physical AI.",
+      "url": "https://github.com/Hebbian-Robotics/hflow",
+      "stars": 121,
+      "language": "Python",
+      "topics": [
+        "airflow",
+        "data-engineering",
+        "data-pipeline",
+        "data-quality",
+        "dataset-curation",
+        "duckdb",
+        "foxglove",
+        "mcap",
+        "parquet",
+        "physical-ai",
+        "python",
+        "robot-learning",
+        "robotics",
+        "robotics-data",
+        "ros2"
+      ],
+      "created_at": "2026-08-18T17:41:42Z",
+      "updated_at": "2026-08-23T23:58:10Z",
+      "forks": 70,
+      "open_issues": 14,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 hflow 的技术项目。Open source SDK for building data-quality, processing, enrichment, and curation pipelines for robotics and Physical AI.",
+      "tags": [
+        "python",
+        "parquet",
+        "data-quality",
+        "robot-learning",
+        "ros2"
+      ],
+      "analyzed_at": "2026-08-24T00:57:39.810768+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "turkiyeyapayzekaakademisi/llm-rag-memory-ai-agents",
+      "title": "llm-rag-memory-ai-agents",
+      "description": null,
+      "url": "https://github.com/turkiyeyapayzekaakademisi/llm-rag-memory-ai-agents",
+      "stars": 117,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-08-19T15:26:07Z",
+      "updated_at": "2026-08-20T11:51:56Z",
+      "forks": 1,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "这是一个关于 llm-rag-memory-ai-agents 的技术内容。",
+      "tags": [
+        "agent",
+        "llm",
+        "ai"
+      ],
+      "analyzed_at": "2026-08-24T00:57:40.530925+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Italian-Builders-Org/DoveVannoINostriSoldi",
+      "title": "DoveVannoINostriSoldi",
+      "description": "Raccogliamo e analizziamo i dati sulla spesa pubblica italiana per individuare, grazie all’AI, dove è possibile migliorare l’efficienza e l’utilizzo delle risorse pubbliche.",
+      "url": "https://github.com/Italian-Builders-Org/DoveVannoINostriSoldi",
+      "stars": 117,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-08-19T19:03:40Z",
+      "updated_at": "2026-08-23T18:59:59Z",
+      "forks": 11,
+      "open_issues": 23,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 DoveVannoINostriSoldi 的技术项目。Raccogliamo e analizziamo i dati sulla spesa pubblica italiana per individuare, grazie all’AI, dove è possibile migliorare l’efficienza e l’utilizzo delle risorse pubbliche.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-24T00:57:41.267340+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "d4ncboz/github-farm",
+      "title": "github-farm",
+      "description": "Production-grade, AI-Agent-friendly multi-platform OAuth harvesting and session management framework for AI Gateways.",
+      "url": "https://github.com/d4ncboz/github-farm",
+      "stars": 115,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-08-20T03:30:55Z",
+      "updated_at": "2026-08-20T03:30:59Z",
+      "forks": 8,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 github-farm 的技术项目。Production-grade, AI-Agent-friendly multi-platform OAuth harvesting and session management framework for AI Gateways.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-24T00:57:41.989114+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "OpenLabs-so/oa-design",
+      "title": "oa-design",
+      "description": "The Open Analytics design language as an agent skill: component recipes with type-checked source, token CSS, and a CLI. Works with Claude Code, Cursor, or any agent.",
+      "url": "https://github.com/OpenLabs-so/oa-design",
+      "stars": 113,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skill",
+        "ai-agents",
+        "analytics",
+        "claude-code",
+        "design-system",
+        "motion",
+        "react",
+        "tailwindcss",
+        "ui"
+      ],
+      "created_at": "2026-08-20T18:28:10Z",
+      "updated_at": "2026-08-20T19:25:29Z",
+      "forks": 5,
+      "open_issues": 3,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 oa-design 的技术项目。The Open Analytics design language as an agent skill: component recipes with type-checked source, token CSS, and a CLI. Works with Claude Code, Cursor, or any agent.",
+      "tags": [
+        "ai-agents",
+        "analytics",
+        "claude-code",
+        "design-system",
+        "tailwindcss"
+      ],
+      "analyzed_at": "2026-08-24T00:57:42.688677+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "joe960913/Jixu",
+      "title": "Jixu",
+      "description": "A durable single-Agent Harness for TypeScript with recoverable Threads, explicit side-effect boundaries, and a native terminal UI.",
+      "url": "https://github.com/joe960913/Jixu",
+      "stars": 113,
+      "language": "TypeScript",
+      "topics": [
+        "agent-framework",
+        "agent-runtime",
+        "agent-skills",
+        "durable-execution",
+        "event-sourcing",
+        "mcp",
+        "single-agent",
+        "terminal-ui",
+        "typescript"
+      ],
+      "created_at": "2026-08-18T11:43:25Z",
+      "updated_at": "2026-08-23T21:09:05Z",
+      "forks": 7,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Jixu 的技术项目。A durable single-Agent Harness for TypeScript with recoverable Threads, explicit side-effect boundaries, and a native terminal UI.",
+      "tags": [
+        "agent-skills",
+        "single-agent",
+        "event-sourcing",
+        "terminal-ui",
+        "agent-runtime"
+      ],
+      "analyzed_at": "2026-08-24T00:57:43.398767+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "elie222/botdirectory.ai",
+      "title": "botdirectory.ai",
+      "description": "Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent — botdirectory.ai",
+      "url": "https://github.com/elie222/botdirectory.ai",
+      "stars": 111,
+      "language": "Astro",
+      "topics": [
+        "agents",
+        "ai-agents",
+        "astro",
+        "automation",
+        "bots",
+        "directory",
+        "grok",
+        "grokbot",
+        "llm",
+        "prompt-engineering",
+        "prompts",
+        "rakazo"
+      ],
+      "created_at": "2026-08-17T18:23:44Z",
+      "updated_at": "2026-08-23T23:38:25Z",
+      "forks": 47,
+      "open_issues": 6,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 botdirectory.ai 的技术项目。Open-source directory of agent-bot prompts for Grok Bot, Rakazo, and any agent — botdirectory.ai",
+      "tags": [
+        "prompts",
+        "astro",
+        "ai-agents",
+        "grokbot",
+        "llm"
+      ],
+      "analyzed_at": "2026-08-24T00:57:44.106857+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "tabtin-ai/TabTin",
+      "title": "TabTin",
+      "description": "A workspace where people and multiple AI agents work together.",
+      "url": "https://github.com/tabtin-ai/TabTin",
+      "stars": 110,
+      "language": "TypeScript",
+      "topics": [
+        "agents",
+        "ai",
+        "collaboration",
+        "desktop",
+        "workspace"
+      ],
+      "created_at": "2026-08-19T02:36:25Z",
+      "updated_at": "2026-08-23T08:41:13Z",
+      "forks": 27,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 TabTin 的技术项目。A workspace where people and multiple AI agents work together.",
+      "tags": [
+        "workspace",
+        "collaboration",
+        "desktop",
+        "ai",
+        "agents"
+      ],
+      "analyzed_at": "2026-08-24T00:57:44.827683+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "zorost/AI-Engineering-Lab",
+      "title": "AI-Engineering-Lab",
+      "description": "A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous case study. MIT licensed, no signup. By Zorost Intelligence AI Lab.",
+      "url": "https://github.com/zorost/AI-Engineering-Lab",
+      "stars": 108,
+      "language": "Jupyter Notebook",
+      "topics": [
+        "ai-agents",
+        "ai-engineering",
+        "course",
+        "curriculum",
+        "databricks",
+        "deep-learning",
+        "fine-tuning",
+        "generative-ai",
+        "learning-resources",
+        "llm",
+        "machine-learning",
+        "mcp",
+        "mlops",
+        "prompt-engineering",
+        "pyspark",
+        "python",
+        "rag",
+        "roadmap",
+        "vector-search",
+        "zorost"
+      ],
+      "created_at": "2026-08-17T16:34:05Z",
+      "updated_at": "2026-08-17T19:36:07Z",
+      "forks": 102,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 AI-Engineering-Lab 的技术项目。A free, self-paced 24-week AI engineering course: Python, machine learning, LLMs, RAG, fine-tuning, agents and MCP, Azure and Vertex and Bedrock, and Databricks. 43 runnable notebooks, one continuous ",
+      "tags": [
+        "learning-resources",
+        "zorost",
+        "mlops",
+        "python",
+        "curriculum"
+      ],
+      "analyzed_at": "2026-08-24T00:57:45.525062+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Apeireth/apeireth-rust",
+      "title": "apeireth-rust",
+      "description": "Apeireth — An AGI Operating System / LLM Base (Rust). 85 crates: companion organ, world model, curiosity, hypothesis testing, double-onion security.",
+      "url": "https://github.com/Apeireth/apeireth-rust",
+      "stars": 105,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-08-17T18:03:38Z",
+      "updated_at": "2026-08-23T18:03:01Z",
+      "forks": 1,
+      "open_issues": 1,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 apeireth-rust 的技术项目。Apeireth — An AGI Operating System / LLM Base (Rust). 85 crates: companion organ, world model, curiosity, hypothesis testing, double-onion security.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-24T00:57:46.234484+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Jordanwei1/jiaojie-skill",
+      "title": "jiaojie-skill",
+      "description": "交接 Skill（Jiaojie）：跨窗口、跨模型、跨设备、跨语言的 AI 上下文交接工具。换窗口，不失忆；换模型，不重来。Open-source AI context handoff.",
+      "url": "https://github.com/Jordanwei1/jiaojie-skill",
+      "stars": 103,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "ai-agents",
+        "ai-memory",
+        "claude-code",
+        "claude-code-skill",
+        "codex",
+        "codex-skill",
+        "context-engineering",
+        "context-handoff",
+        "cross-model",
+        "cursor",
+        "cursor-skills",
+        "gemini-cli",
+        "gemini-cli-skills",
+        "handoff",
+        "llm",
+        "open-source",
+        "openclaw",
+        "openclaw-skill"
+      ],
+      "created_at": "2026-08-20T08:57:52Z",
+      "updated_at": "2026-08-20T13:47:18Z",
+      "forks": 5,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 jiaojie-skill 的技术项目。交接 Skill（Jiaojie）：跨窗口、跨模型、跨设备、跨语言的 AI 上下文交接工具。换窗口，不失忆；换模型，不重来。Open-source AI context handoff.",
+      "tags": [
+        "codex-skill",
+        "context-engineering",
+        "gemini-cli",
+        "handoff",
+        "ai-agent"
+      ],
+      "analyzed_at": "2026-08-24T00:57:46.940763+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "CattleZ/dance-video-to-prompt",
+      "title": "dance-video-to-prompt",
+      "description": "本地短视频反推 AI 视频生成提示词：抽帧、清晰度、节奏卡点、Agent Skill",
+      "url": "https://github.com/CattleZ/dance-video-to-prompt",
+      "stars": 103,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-08-17T06:32:34Z",
+      "updated_at": "2026-08-22T07:45:38Z",
+      "forks": 1,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 dance-video-to-prompt 的技术项目。本地短视频反推 AI 视频生成提示词：抽帧、清晰度、节奏卡点、Agent Skill",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-24T00:57:47.675230+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "xuanyuanzhifeng/dsh-plugin-agent-workflow",
+      "title": "dsh-plugin-agent-workflow",
+      "description": "DeepSeek Harness Agent Workflow",
+      "url": "https://github.com/xuanyuanzhifeng/dsh-plugin-agent-workflow",
+      "stars": 102,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-08-18T02:04:05Z",
+      "updated_at": "2026-08-18T03:06:39Z",
+      "forks": 16,
+      "open_issues": 2,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 dsh-plugin-agent-workflow 的技术项目。DeepSeek Harness Agent Workflow",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-08-24T00:57:48.364629+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "JouJouoo/agent-campus",
+      "title": "agent-campus",
+      "description": "A multi-agent campus social simulation built with LangGraph, featuring memory, RAG, personality evolution, and durable execution.",
+      "url": "https://github.com/JouJouoo/agent-campus",
+      "stars": 102,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-08-18T10:50:17Z",
+      "updated_at": "2026-08-21T04:02:43Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 agent-campus 的技术项目。A multi-agent campus social simulation built with LangGraph, featuring memory, RAG, personality evolution, and durable execution.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-08-24T00:57:49.102171+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
