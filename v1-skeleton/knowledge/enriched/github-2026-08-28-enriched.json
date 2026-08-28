@@ -1,0 +1,1763 @@
+{
+  "source": "github",
+  "collected_at": "2026-08-28T08:37:00.781490Z",
+  "analyzed_at": "2026-08-28T08:37:58.190493+00:00",
+  "count": 50,
+  "items": [
+    {
+      "id": "duty1g/x64dbg-mcp-server",
+      "title": "x64dbg-mcp-server",
+      "description": "x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg programmatically: set breakpoints, step through code, read memory, dump registers, and more.  Built with Zig — zero dependencies, single-binary output, cros",
+      "url": "https://github.com/duty1g/x64dbg-mcp-server",
+      "stars": 1603,
+      "language": "Zig",
+      "topics": [
+        "ai-agents",
+        "ai-debugging",
+        "binary-analysis",
+        "claude",
+        "claude-code",
+        "malware-analysis",
+        "malware-research",
+        "malware-scanner",
+        "mcp",
+        "mcp-server",
+        "mcp-servers",
+        "x64dbg",
+        "x64dbg-mcp",
+        "x64dbg-plugin",
+        "x64dbg-tools",
+        "xdbg",
+        "zig",
+        "zig-lang",
+        "ziglang"
+      ],
+      "created_at": "2026-08-22T14:28:41Z",
+      "updated_at": "2026-08-27T07:00:07Z",
+      "forks": 160,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 x64dbg-mcp-server 的技术项目。x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg that exposes the debugger's full functionality over HTTP. Connect any MCP-compatible AI assistant and control x64dbg progra",
+      "tags": [
+        "x64dbg-tools",
+        "zig-lang",
+        "x64dbg-plugin",
+        "malware-analysis",
+        "mcp"
+      ],
+      "analyzed_at": "2026-08-28T08:37:22.987791+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "ApodexAI/FrontierAgent",
+      "title": "FrontierAgent",
+      "description": "🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
+      "url": "https://github.com/ApodexAI/FrontierAgent",
+      "stars": 1177,
+      "language": "Python",
+      "topics": [
+        "agent-orchestration",
+        "agentic-ai",
+        "agentic-framework",
+        "ai-agents",
+        "harness",
+        "multi-agent",
+        "terminal-agent",
+        "tui"
+      ],
+      "created_at": "2026-08-22T05:07:35Z",
+      "updated_at": "2026-08-28T06:06:18Z",
+      "forks": 98,
+      "open_issues": 1,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 FrontierAgent 的技术项目。🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command-line TUI, ReAct and Agent Team modes, one command on macOS and Linux, no preinstall, no hard Docker dependency.",
+      "tags": [
+        "ai-agents",
+        "agent-orchestration",
+        "terminal-agent",
+        "harness",
+        "agentic-framework"
+      ],
+      "analyzed_at": "2026-08-28T08:37:23.692993+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "ShadowAqueduct/watermark-remover",
+      "title": "watermark-remover",
+      "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "url": "https://github.com/ShadowAqueduct/watermark-remover",
+      "stars": 822,
+      "language": "Python",
+      "topics": [
+        "claude-ai",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-skills",
+        "codex",
+        "codex-cli",
+        "codex-skill",
+        "codex-skills",
+        "watermark"
+      ],
+      "created_at": "2026-08-23T21:14:28Z",
+      "updated_at": "2026-08-23T22:07:11Z",
+      "forks": 78,
+      "open_issues": 6,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 watermark-remover 的技术项目。Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2PA plus metadata from PNG, JPEG, SVG, PDF, DOCX, HTML, and MD.",
+      "tags": [
+        "codex-cli",
+        "codex-skill",
+        "claude-skills",
+        "watermark",
+        "codex"
+      ],
+      "analyzed_at": "2026-08-28T08:37:24.393358+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "amosblomqvist/learn",
+      "title": "learn",
+      "description": "My AI learning system.",
+      "url": "https://github.com/amosblomqvist/learn",
+      "stars": 554,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-08-24T16:45:07Z",
+      "updated_at": "2026-08-25T21:49:59Z",
+      "forks": 60,
+      "open_issues": 2,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 learn 的技术项目。My AI learning system.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-28T08:37:25.100483+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "GamePhanes/GamePhanes",
+      "title": "GamePhanes",
+      "description": "An open-source game coding agent environment and benchmark for Godot.",
+      "url": "https://github.com/GamePhanes/GamePhanes",
+      "stars": 527,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-08-21T02:57:42Z",
+      "updated_at": "2026-08-25T01:32:47Z",
+      "forks": 7,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 GamePhanes 的技术项目。An open-source game coding agent environment and benchmark for Godot.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-28T08:37:25.803158+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Forsy-AI/biosecurity-agent",
+      "title": "biosecurity-agent",
+      "description": "AI agent that builds a live biosecurity world around any target.",
+      "url": "https://github.com/Forsy-AI/biosecurity-agent",
+      "stars": 513,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-08-22T23:06:26Z",
+      "updated_at": "2026-08-25T17:52:31Z",
+      "forks": 17,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 biosecurity-agent 的技术项目。AI agent that builds a live biosecurity world around any target.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-08-28T08:37:26.498635+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "kgoedecke/doop",
+      "title": "doop",
+      "description": "The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+      "url": "https://github.com/kgoedecke/doop",
+      "stars": 466,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "canvas",
+        "claude",
+        "claude-code",
+        "claude-design",
+        "design",
+        "design-tool",
+        "mcp",
+        "multiplayer"
+      ],
+      "created_at": "2026-08-22T15:40:51Z",
+      "updated_at": "2026-08-27T20:28:27Z",
+      "forks": 46,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 doop 的技术项目。The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in.",
+      "tags": [
+        "ai-agents",
+        "multiplayer",
+        "claude-design",
+        "canvas",
+        "design"
+      ],
+      "analyzed_at": "2026-08-28T08:37:27.212132+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "halofyai/halofy",
+      "title": "halofy",
+      "description": "Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure.",
+      "url": "https://github.com/halofyai/halofy",
+      "stars": 429,
+      "language": "TypeScript",
+      "topics": [
+        "access-control",
+        "agent-governance",
+        "agent-memory",
+        "agent-visibility",
+        "ai-agents",
+        "audit-log",
+        "context-engineering",
+        "data-governance",
+        "data-provenance",
+        "identity-management",
+        "knowledge-management",
+        "model-context-protocol",
+        "multi-agent-systems",
+        "multi-tenant",
+        "open-source",
+        "organizational-context",
+        "pgvector",
+        "rbac",
+        "scoped-access",
+        "tenant-isolation"
+      ],
+      "created_at": "2026-08-22T06:09:53Z",
+      "updated_at": "2026-08-25T06:10:31Z",
+      "forks": 4,
+      "open_issues": 8,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 halofy 的技术项目。Halofy is the open access and governance layer for AI agents across your organization. Identity, policy, provenance, audit, and signed erasure.",
+      "tags": [
+        "identity-management",
+        "ai-agents",
+        "tenant-isolation",
+        "context-engineering",
+        "agent-visibility"
+      ],
+      "analyzed_at": "2026-08-28T08:37:27.938927+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "totec448-spec/chat-on-steroids",
+      "title": "chat-on-steroids",
+      "description": "Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.",
+      "url": "https://github.com/totec448-spec/chat-on-steroids",
+      "stars": 409,
+      "language": "TypeScript",
+      "topics": [
+        "automation",
+        "chatgpt",
+        "chrome-extension",
+        "electron",
+        "linux",
+        "local-first",
+        "macos",
+        "mcp",
+        "multi-agent",
+        "windows"
+      ],
+      "created_at": "2026-08-22T14:16:24Z",
+      "updated_at": "2026-08-26T18:15:18Z",
+      "forks": 57,
+      "open_issues": 6,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 chat-on-steroids 的技术项目。Cross-platform local MCP capabilities for ChatGPT with Chrome integration, Goal, Compact & Resume, and durable multi-agent workflows.",
+      "tags": [
+        "chatgpt",
+        "local-first",
+        "windows",
+        "electron",
+        "macos"
+      ],
+      "analyzed_at": "2026-08-28T08:37:28.646277+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "POUND0423/AI-drama-pound",
+      "title": "AI-drama-pound",
+      "description": null,
+      "url": "https://github.com/POUND0423/AI-drama-pound",
+      "stars": 396,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-08-26T03:43:14Z",
+      "updated_at": "2026-08-26T04:15:43Z",
+      "forks": 54,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 AI-drama-pound 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-28T08:37:29.354307+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "rome-os/rome",
+      "title": "rome",
+      "description": "Rome is the agentic OS.",
+      "url": "https://github.com/rome-os/rome",
+      "stars": 380,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "agent-os",
+        "claude-code",
+        "codex",
+        "llm"
+      ],
+      "created_at": "2026-08-23T06:15:15Z",
+      "updated_at": "2026-08-28T07:47:12Z",
+      "forks": 21,
+      "open_issues": 17,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 rome 的技术项目。Rome is the agentic OS.",
+      "tags": [
+        "llm",
+        "agent",
+        "codex",
+        "claude-code",
+        "agent-os"
+      ],
+      "analyzed_at": "2026-08-28T08:37:30.058481+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "ChenShuo2004/cs-board",
+      "title": "cs-board",
+      "description": "将参考声音和中文文案自动生成白板动画视频的本地 AI 工具。",
+      "url": "https://github.com/ChenShuo2004/cs-board",
+      "stars": 350,
+      "language": "Python",
+      "topics": [
+        "ai-video",
+        "chinese",
+        "fastapi",
+        "index-tts",
+        "react",
+        "tts",
+        "whiteboard-animation"
+      ],
+      "created_at": "2026-08-21T00:50:30Z",
+      "updated_at": "2026-08-25T00:44:01Z",
+      "forks": 67,
+      "open_issues": 1,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 cs-board 的技术项目。将参考声音和中文文案自动生成白板动画视频的本地 AI 工具。",
+      "tags": [
+        "index-tts",
+        "tts",
+        "react",
+        "fastapi",
+        "ai-video"
+      ],
+      "analyzed_at": "2026-08-28T08:37:30.758305+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "alchaincyf/huashu-excel",
+      "title": "huashu-excel",
+      "description": "数据分析与 Excel 全流程 skill：体检脏表、清洗、对齐需求、分析、对账、交付。让 AI 算出来的数字经得起追问。跨 agent 通用，依赖仅 openpyxl。",
+      "url": "https://github.com/alchaincyf/huashu-excel",
+      "stars": 325,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-08-23T05:38:43Z",
+      "updated_at": "2026-08-25T17:19:22Z",
+      "forks": 51,
+      "open_issues": 1,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 huashu-excel 的技术项目。数据分析与 Excel 全流程 skill：体检脏表、清洗、对齐需求、分析、对账、交付。让 AI 算出来的数字经得起追问。跨 agent 通用，依赖仅 openpyxl。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-28T08:37:31.451301+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "bam-bam-2/solo-skills",
+      "title": "solo-skills",
+      "description": "1인 사업가 생산성 키트 — 직원 없이 49개를 자동화했고, 그중 바로 쓸 수 있는 AI 에이전트 스킬 26개(+실행 스크립트)를 공개합니다",
+      "url": "https://github.com/bam-bam-2/solo-skills",
+      "stars": 321,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "automation",
+        "claude-code",
+        "korean",
+        "productivity",
+        "skills",
+        "solopreneur"
+      ],
+      "created_at": "2026-08-22T13:42:32Z",
+      "updated_at": "2026-08-23T11:53:32Z",
+      "forks": 80,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 solo-skills 的技术项目。1인 사업가 생산성 키트 — 직원 없이 49개를 자동화했고, 그중 바로 쓸 수 있는 AI 에이전트 스킬 26개(+실행 스크립트)를 공개합니다",
+      "tags": [
+        "solopreneur",
+        "ai-agent",
+        "productivity",
+        "agent-skills",
+        "skills"
+      ],
+      "analyzed_at": "2026-08-28T08:37:32.154803+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "HanyuanWang/LiveStream-Agent-Studio",
+      "title": "LiveStream-Agent-Studio",
+      "description": "面向抖音直播电商的 Windows 本地 AI Agent Studio，贯通主播发现、直播洞察、直播复盘与短视频内容编导的统一智能工作流。",
+      "url": "https://github.com/HanyuanWang/LiveStream-Agent-Studio",
+      "stars": 311,
+      "language": "Python",
+      "topics": [
+        "ai-agent",
+        "douyin",
+        "livestream",
+        "speech-to-text"
+      ],
+      "created_at": "2026-08-22T14:16:48Z",
+      "updated_at": "2026-08-24T02:48:43Z",
+      "forks": 45,
+      "open_issues": 9,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 LiveStream-Agent-Studio 的技术项目。面向抖音直播电商的 Windows 本地 AI Agent Studio，贯通主播发现、直播洞察、直播复盘与短视频内容编导的统一智能工作流。",
+      "tags": [
+        "ai-agent",
+        "agent",
+        "livestream",
+        "speech-to-text",
+        "douyin"
+      ],
+      "analyzed_at": "2026-08-28T08:37:32.871463+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "gtlhuyidan-sketch/life-ipo",
+      "title": "life-ipo",
+      "description": "人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
+      "url": "https://github.com/gtlhuyidan-sketch/life-ipo",
+      "stars": 306,
+      "language": "TypeScript",
+      "topics": [
+        "ai-planning",
+        "crm",
+        "health-data",
+        "knowledge-management",
+        "life-ipo",
+        "personal-finance",
+        "team-collaboration"
+      ],
+      "created_at": "2026-08-25T15:12:20Z",
+      "updated_at": "2026-08-28T08:22:56Z",
+      "forks": 9,
+      "open_issues": 24,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 life-ipo 的技术项目。人生 IPO：统一财务、健康、知识、人脉、AI 决策与团队执行的个人数据操作系统。",
+      "tags": [
+        "team-collaboration",
+        "ai-planning",
+        "knowledge-management",
+        "personal-finance",
+        "life-ipo"
+      ],
+      "analyzed_at": "2026-08-28T08:37:33.576509+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "sodiumsun/agenttrail",
+      "title": "agenttrail",
+      "description": "Local observability map for AI coding agents. Watch Claude Code, Codex, and Cursor plans, tool calls, file changes, and progress in real time.",
+      "url": "https://github.com/sodiumsun/agenttrail",
+      "stars": 284,
+      "language": "HTML",
+      "topics": [
+        "agent-monitoring",
+        "agent-observability",
+        "ai-agents",
+        "ai-coding-agents",
+        "claude-code",
+        "coding-agents",
+        "cursor-ai",
+        "dashboard",
+        "developer-tools",
+        "file-watcher",
+        "local-first",
+        "monitoring",
+        "nodejs",
+        "openai-codex",
+        "progress-tracking"
+      ],
+      "created_at": "2026-08-21T21:14:33Z",
+      "updated_at": "2026-08-28T02:47:39Z",
+      "forks": 17,
+      "open_issues": 4,
+      "relevance_score": 0.7,
+      "summary": "这是一个关于 agenttrail 的技术项目。Local observability map for AI coding agents. Watch Claude Code, Codex, and Cursor plans, tool calls, file changes, and progress in real time.",
+      "tags": [
+        "ai-agents",
+        "dashboard",
+        "agent-monitoring",
+        "monitoring",
+        "coding-agents"
+      ],
+      "analyzed_at": "2026-08-28T08:37:34.290843+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "leopard627/fire-your-seo-agency",
+      "title": "fire-your-seo-agency",
+      "description": "Fire your SEO·GEO agency 🔥 A Claude Code skill that audits and optimizes SEO·AEO·GEO·LLMO·NEO(Naver) by itself — 월 50~350만 원짜리 'AI 검색 최적화' 대행, AI 에이전트가 대체합니다",
+      "url": "https://github.com/leopard627/fire-your-seo-agency",
+      "stars": 276,
+      "language": null,
+      "topics": [
+        "aeo",
+        "ai-search",
+        "claude-code",
+        "claude-skills",
+        "geo",
+        "llmo",
+        "llms-txt",
+        "naver",
+        "seo"
+      ],
+      "created_at": "2026-08-26T23:47:02Z",
+      "updated_at": "2026-08-27T06:26:41Z",
+      "forks": 74,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 fire-your-seo-agency 的技术项目。Fire your SEO·GEO agency 🔥 A Claude Code skill that audits and optimizes SEO·AEO·GEO·LLMO·NEO(Naver) by itself — 월 50~350만 원짜리 'AI 검색 최적화' 대행, AI 에이전트가 대체합니다",
+      "tags": [
+        "ai-search",
+        "seo",
+        "llmo",
+        "aeo",
+        "geo"
+      ],
+      "analyzed_at": "2026-08-28T08:37:34.987395+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "truespar/sentio",
+      "title": "sentio",
+      "description": "Email inbox API for AI agents. Give every agent its own real email address, receive mail as structured webhooks, and reply in-thread over REST. A complete multi-tenant mail server in Rust: inbound and outbound, DKIM/SPF/DMARC/ARC, MTA-STS, DANE, three-tier anti-spam.",
+      "url": "https://github.com/truespar/sentio",
+      "stars": 221,
+      "language": "Rust",
+      "topics": [
+        "ai-agents",
+        "ai-tools",
+        "dkim",
+        "dmarc",
+        "email",
+        "email-automation",
+        "mailserver",
+        "rust",
+        "smtp-library",
+        "smtp-relay",
+        "smtp-server"
+      ],
+      "created_at": "2026-08-23T21:36:25Z",
+      "updated_at": "2026-08-25T06:12:11Z",
+      "forks": 16,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 sentio 的技术项目。Email inbox API for AI agents. Give every agent its own real email address, receive mail as structured webhooks, and reply in-thread over REST. A complete multi-tenant mail server in Rust: inbound and",
+      "tags": [
+        "ai-agents",
+        "smtp-server",
+        "dkim",
+        "smtp-library",
+        "smtp-relay"
+      ],
+      "analyzed_at": "2026-08-28T08:37:35.692234+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "damejan80/tokentab",
+      "title": "tokentab",
+      "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+      "url": "https://github.com/damejan80/tokentab",
+      "stars": 212,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "claude",
+        "claude-code",
+        "cursor",
+        "python",
+        "token-optimization",
+        "token-usage"
+      ],
+      "created_at": "2026-08-27T14:16:09Z",
+      "updated_at": "2026-08-27T14:20:23Z",
+      "forks": 13,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 tokentab 的技术项目。A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+      "tags": [
+        "token-optimization",
+        "ai",
+        "cursor",
+        "token-usage",
+        "claude"
+      ],
+      "analyzed_at": "2026-08-28T08:37:36.404526+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "CHENG-LIANG1/real-company-interview-ai-coding-projects",
+      "title": "real-company-interview-ai-coding-projects",
+      "description": "三个匿名化真实 AI Coding 面试项目题与一套通用解题方法",
+      "url": "https://github.com/CHENG-LIANG1/real-company-interview-ai-coding-projects",
+      "stars": 209,
+      "language": null,
+      "topics": [
+        "agent",
+        "ai-coding",
+        "documentation",
+        "interview",
+        "take-home-assignment"
+      ],
+      "created_at": "2026-08-26T02:22:48Z",
+      "updated_at": "2026-08-26T05:47:32Z",
+      "forks": 15,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 real-company-interview-ai-coding-projects 的技术项目。三个匿名化真实 AI Coding 面试项目题与一套通用解题方法",
+      "tags": [
+        "interview",
+        "agent",
+        "ai",
+        "documentation",
+        "ai-coding"
+      ],
+      "analyzed_at": "2026-08-28T08:37:37.107902+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "sqzw-x/amane",
+      "title": "amane",
+      "description": "AI 时代的私人影库",
+      "url": "https://github.com/sqzw-x/amane",
+      "stars": 202,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-08-23T10:00:05Z",
+      "updated_at": "2026-08-27T19:08:44Z",
+      "forks": 12,
+      "open_issues": 7,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 amane 的技术项目。AI 时代的私人影库",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-28T08:37:37.842075+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "zhaoxuya520/MeshLAN",
+      "title": "MeshLAN",
+      "description": "Self-hosted P2P-first virtual LAN, service sharing, multi-relay and AI automation built on Nebula.",
+      "url": "https://github.com/zhaoxuya520/MeshLAN",
+      "stars": 190,
+      "language": "Go",
+      "topics": [
+        "golang",
+        "mesh-network",
+        "nat-traversal",
+        "nebula",
+        "p2p",
+        "relay",
+        "self-hosted",
+        "virtual-lan",
+        "vpn",
+        "windows"
+      ],
+      "created_at": "2026-08-22T10:30:10Z",
+      "updated_at": "2026-08-24T07:14:14Z",
+      "forks": 22,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 MeshLAN 的技术项目。Self-hosted P2P-first virtual LAN, service sharing, multi-relay and AI automation built on Nebula.",
+      "tags": [
+        "vpn",
+        "self-hosted",
+        "virtual-lan",
+        "windows",
+        "golang"
+      ],
+      "analyzed_at": "2026-08-28T08:37:38.564196+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "OrRon/EpicInfographics",
+      "title": "EpicInfographics",
+      "description": "A simple skill that will make your Agent create beautiful Infographics",
+      "url": "https://github.com/OrRon/EpicInfographics",
+      "stars": 161,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-08-23T22:56:37Z",
+      "updated_at": "2026-08-27T20:25:57Z",
+      "forks": 15,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 EpicInfographics 的技术项目。A simple skill that will make your Agent create beautiful Infographics",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-28T08:37:39.272813+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Merit-Systems/OpenInstinct",
+      "title": "OpenInstinct",
+      "description": "iMessage personal assistant + password vault",
+      "url": "https://github.com/Merit-Systems/OpenInstinct",
+      "stars": 156,
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "ai",
+        "ai-agents",
+        "imessage"
+      ],
+      "created_at": "2026-08-25T14:42:47Z",
+      "updated_at": "2026-08-28T02:39:35Z",
+      "forks": 19,
+      "open_issues": 11,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 OpenInstinct 的技术项目。iMessage personal assistant + password vault",
+      "tags": [
+        "ai",
+        "ai-agents",
+        "imessage",
+        "agent"
+      ],
+      "analyzed_at": "2026-08-28T08:37:39.964772+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "zhuyifang/tonghuasun-agent",
+      "title": "tonghuasun-agent",
+      "description": "在 Codex、Claude Code、WorkBuddy、ZCode、OpenClaw 或 DeepSeek Harness 中，直接查询你电脑上的同花顺行情、K 线、持仓、LV2实时委托和逐笔成交数据。",
+      "url": "https://github.com/zhuyifang/tonghuasun-agent",
+      "stars": 144,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-08-24T12:02:01Z",
+      "updated_at": "2026-08-27T12:20:34Z",
+      "forks": 44,
+      "open_issues": 5,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 tonghuasun-agent 的技术项目。在 Codex、Claude Code、WorkBuddy、ZCode、OpenClaw 或 DeepSeek Harness 中，直接查询你电脑上的同花顺行情、K 线、持仓、LV2实时委托和逐笔成交数据。",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-08-28T08:37:40.687955+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Straniero44/wenai",
+      "title": "wenai",
+      "description": "An intimate AI companion skill for OpenClaw — fall in love with your AI girlfriend, with a Pony V6 XL powered visual workflow.",
+      "url": "https://github.com/Straniero44/wenai",
+      "stars": 143,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-08-25T02:59:59Z",
+      "updated_at": "2026-08-25T05:03:45Z",
+      "forks": 39,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 wenai 的技术项目。An intimate AI companion skill for OpenClaw — fall in love with your AI girlfriend, with a Pony V6 XL powered visual workflow.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-28T08:37:41.396649+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "GENEXIS-AI/gpt-image-skill",
+      "title": "gpt-image-skill",
+      "description": "Generate GPT images from Codex or Claude Code using a ChatGPT subscription, without the Images API.",
+      "url": "https://github.com/GENEXIS-AI/gpt-image-skill",
+      "stars": 134,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "chatgpt",
+        "claude-code",
+        "codex",
+        "gpt-image",
+        "image-generation"
+      ],
+      "created_at": "2026-08-26T08:52:50Z",
+      "updated_at": "2026-08-28T05:15:07Z",
+      "forks": 15,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 gpt-image-skill 的技术项目。Generate GPT images from Codex or Claude Code using a ChatGPT subscription, without the Images API.",
+      "tags": [
+        "chatgpt",
+        "image-generation",
+        "gpt",
+        "gpt-image",
+        "codex"
+      ],
+      "analyzed_at": "2026-08-28T08:37:42.089648+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "ADScanPro/Claude-AD",
+      "title": "Claude-AD",
+      "description": "Active Directory pentest methodology for Claude Code: skills, agents and slash commands for internal AD red-team work (Kerberoasting, ADCS ESC1-17, DCSync, ACL abuse, NTLM relay, delegation), with per-technique OPSEC/telemetry notes. Drives netexec, impacket, certipy, bloodyAD, BloodHound CE.",
+      "url": "https://github.com/ADScanPro/Claude-AD",
+      "stars": 132,
+      "language": null,
+      "topics": [
+        "active-directory",
+        "active-directory-security",
+        "adcs",
+        "bloodhound",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-skills",
+        "dcsync",
+        "kerberoasting",
+        "kerberos",
+        "ntlm-relay",
+        "offensive-security",
+        "penetration-testing",
+        "pentesting",
+        "red-team"
+      ],
+      "created_at": "2026-08-24T18:13:22Z",
+      "updated_at": "2026-08-24T18:14:38Z",
+      "forks": 21,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Claude-AD 的技术项目。Active Directory pentest methodology for Claude Code: skills, agents and slash commands for internal AD red-team work (Kerberoasting, ADCS ESC1-17, DCSync, ACL abuse, NTLM relay, delegation), with per",
+      "tags": [
+        "kerberoasting",
+        "penetration-testing",
+        "active-directory",
+        "red-team",
+        "dcsync"
+      ],
+      "analyzed_at": "2026-08-28T08:37:42.809264+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "itshen/source-reading-methodology",
+      "title": "source-reading-methodology",
+      "description": "带 AI 精读大型开源仓库的方法论：四阶段流程、可复用模板、28 条踩坑清单，核心是让每个技术论断都可回溯到源码具体行",
+      "url": "https://github.com/itshen/source-reading-methodology",
+      "stars": 126,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "ai-coding",
+        "claude-code",
+        "code-review",
+        "documentation",
+        "llm",
+        "methodology",
+        "source-code-reading",
+        "technical-writing"
+      ],
+      "created_at": "2026-08-23T02:51:45Z",
+      "updated_at": "2026-08-24T15:03:45Z",
+      "forks": 11,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 source-reading-methodology 的技术项目。带 AI 精读大型开源仓库的方法论：四阶段流程、可复用模板、28 条踩坑清单，核心是让每个技术论断都可回溯到源码具体行",
+      "tags": [
+        "code-review",
+        "llm",
+        "ai-agent",
+        "technical-writing",
+        "source-code-reading"
+      ],
+      "analyzed_at": "2026-08-28T08:37:43.515852+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "AgriciDaniel/youtubepro",
+      "title": "youtubepro",
+      "description": "Local-first YouTube research, grounded AI insights, script writing, and thumbnail creation.",
+      "url": "https://github.com/AgriciDaniel/youtubepro",
+      "stars": 119,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-08-24T22:08:04Z",
+      "updated_at": "2026-08-27T21:17:08Z",
+      "forks": 44,
+      "open_issues": 1,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 youtubepro 的技术项目。Local-first YouTube research, grounded AI insights, script writing, and thumbnail creation.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-28T08:37:44.222372+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "h9-tec/AI-Glossary-Handbook",
+      "title": "AI-Glossary-Handbook",
+      "description": null,
+      "url": "https://github.com/h9-tec/AI-Glossary-Handbook",
+      "stars": 118,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-08-22T09:28:39Z",
+      "updated_at": "2026-08-22T09:31:08Z",
+      "forks": 8,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 AI-Glossary-Handbook 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-28T08:37:44.918852+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "spheresailmakerreach/swapper-valorant",
+      "title": "swapper-valorant",
+      "description": "Valorant Skin Swapper — change weapon skins, knife models, and agent appearances. Client-side modifications only. For educational purposes.",
+      "url": "https://github.com/spheresailmakerreach/swapper-valorant",
+      "stars": 115,
+      "language": "C#",
+      "topics": [],
+      "created_at": "2026-08-21T15:46:20Z",
+      "updated_at": "2026-08-21T15:48:26Z",
+      "forks": 60,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 swapper-valorant 的技术项目。Valorant Skin Swapper — change weapon skins, knife models, and agent appearances. Client-side modifications only. For educational purposes.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-28T08:37:45.617181+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "AlpinDale/gpt2.cmake",
+      "title": "gpt2.cmake",
+      "description": "Implementation of the GPT-2 model in pure CMake",
+      "url": "https://github.com/AlpinDale/gpt2.cmake",
+      "stars": 102,
+      "language": "CMake",
+      "topics": [],
+      "created_at": "2026-08-23T14:55:43Z",
+      "updated_at": "2026-08-23T18:01:28Z",
+      "forks": 1,
+      "open_issues": 1,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 gpt2.cmake 的技术项目。Implementation of the GPT-2 model in pure CMake",
+      "tags": [
+        "gpt"
+      ],
+      "analyzed_at": "2026-08-28T08:37:46.326311+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "unclecode/modelprint",
+      "title": "modelprint",
+      "description": "Who is really behind that API? Fingerprint any OpenAI-compatible endpoint in the browser: 9 infrastructure probes, side-by-side comparison, community-extensible.",
+      "url": "https://github.com/unclecode/modelprint",
+      "stars": 102,
+      "language": "JavaScript",
+      "topics": [
+        "ai-tools",
+        "fingerprinting",
+        "llm",
+        "openrouter"
+      ],
+      "created_at": "2026-08-21T12:16:56Z",
+      "updated_at": "2026-08-27T14:13:52Z",
+      "forks": 12,
+      "open_issues": 1,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 modelprint 的技术项目。Who is really behind that API? Fingerprint any OpenAI-compatible endpoint in the browser: 9 infrastructure probes, side-by-side comparison, community-extensible.",
+      "tags": [
+        "openrouter",
+        "llm",
+        "ai-tools",
+        "fingerprinting"
+      ],
+      "analyzed_at": "2026-08-28T08:37:47.037139+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "UditAkhourii/cdaf",
+      "title": "cdaf",
+      "description": "CDAF (Cached Descriptive Asset Files) - open sidecar format for video so AI agents stop re-analyzing the same footage. Spec, CLI, agent skill, reproducible benchmark.",
+      "url": "https://github.com/UditAkhourii/cdaf",
+      "stars": 96,
+      "language": "Python",
+      "topics": [
+        "agentic-ai",
+        "ai-agents",
+        "file-format",
+        "gemini",
+        "llm",
+        "remotion",
+        "sidecar",
+        "token-optimization",
+        "video",
+        "video-understanding"
+      ],
+      "created_at": "2026-08-26T09:12:41Z",
+      "updated_at": "2026-08-28T05:07:23Z",
+      "forks": 6,
+      "open_issues": 1,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 cdaf 的技术项目。CDAF (Cached Descriptive Asset Files) - open sidecar format for video so AI agents stop re-analyzing the same footage. Spec, CLI, agent skill, reproducible benchmark.",
+      "tags": [
+        "ai-agents",
+        "token-optimization",
+        "sidecar",
+        "remotion",
+        "llm"
+      ],
+      "analyzed_at": "2026-08-28T08:37:47.736422+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "KurosawaGeeker/femboy-skill",
+      "title": "femboy-skill",
+      "description": "面向 MTF、crossdresser 与性别多元成年人的中文 Agent Skill，基于生如夏花知识库并加入医学安全护栏。",
+      "url": "https://github.com/KurosawaGeeker/femboy-skill",
+      "stars": 94,
+      "language": "Python",
+      "topics": [
+        "agent-skill",
+        "chinese",
+        "codex",
+        "crossdresser",
+        "femboy",
+        "gender-diversity",
+        "mtf",
+        "sexual-health",
+        "voice-training"
+      ],
+      "created_at": "2026-08-25T08:33:44Z",
+      "updated_at": "2026-08-27T08:14:17Z",
+      "forks": 7,
+      "open_issues": 1,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 femboy-skill 的技术项目。面向 MTF、crossdresser 与性别多元成年人的中文 Agent Skill，基于生如夏花知识库并加入医学安全护栏。",
+      "tags": [
+        "femboy",
+        "gender-diversity",
+        "mtf",
+        "agent-skill",
+        "crossdresser"
+      ],
+      "analyzed_at": "2026-08-28T08:37:48.429662+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "seekskyworld/CreatPPT",
+      "title": "CreatPPT",
+      "description": "Agent-first web presentation workspace: turn briefs into editable slide decks and export native PPTX on demand.",
+      "url": "https://github.com/seekskyworld/CreatPPT",
+      "stars": 93,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-08-26T14:11:03Z",
+      "updated_at": "2026-08-27T11:08:16Z",
+      "forks": 17,
+      "open_issues": 1,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 CreatPPT 的技术项目。Agent-first web presentation workspace: turn briefs into editable slide decks and export native PPTX on demand.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-28T08:37:49.121607+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "sidkh/term-radar",
+      "title": "term-radar",
+      "description": "A tiny skill that surfaces relevant terms of art as you work with agents, growing your domain vocabulary over time",
+      "url": "https://github.com/sidkh/term-radar",
+      "stars": 92,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-08-21T12:56:46Z",
+      "updated_at": "2026-08-25T16:42:51Z",
+      "forks": 2,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 term-radar 的技术项目。A tiny skill that surfaces relevant terms of art as you work with agents, growing your domain vocabulary over time",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-28T08:37:49.827331+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "OnlyTerp/opengrok",
+      "title": "opengrok",
+      "description": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
+      "url": "https://github.com/OnlyTerp/opengrok",
+      "stars": 91,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "grok",
+        "llm",
+        "model-router",
+        "openai-compatible",
+        "windows"
+      ],
+      "created_at": "2026-08-27T18:30:44Z",
+      "updated_at": "2026-08-27T20:27:56Z",
+      "forks": 14,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 opengrok 的技术项目。Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
+      "tags": [
+        "ai-agents",
+        "llm",
+        "windows",
+        "grok",
+        "openai-compatible"
+      ],
+      "analyzed_at": "2026-08-28T08:37:50.534536+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "ooocooc/open-skill-sunset",
+      "title": "open-skill-sunset",
+      "description": "Audit and safely retire stale generic AI agent instructions.",
+      "url": "https://github.com/ooocooc/open-skill-sunset",
+      "stars": 84,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-08-26T02:55:18Z",
+      "updated_at": "2026-08-26T13:34:01Z",
+      "forks": 2,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 open-skill-sunset 的技术项目。Audit and safely retire stale generic AI agent instructions.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-28T08:37:51.258801+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "BraxisAI/braxis-blueprint",
+      "title": "braxis-blueprint",
+      "description": "The $0 AI Empire Playbook — 140+ agents, 20+ free LLM lanes, 1,800+ songs, a living 3D world, all on free tiers. Real scripts, real failure classes, MIT.",
+      "url": "https://github.com/BraxisAI/braxis-blueprint",
+      "stars": 83,
+      "language": "Python",
+      "topics": [
+        "agentic-ai",
+        "ai-agents",
+        "automation",
+        "content-automation",
+        "free-tier",
+        "oracle-cloud",
+        "self-hosting"
+      ],
+      "created_at": "2026-08-23T00:19:10Z",
+      "updated_at": "2026-08-27T11:58:35Z",
+      "forks": 13,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 braxis-blueprint 的技术项目。The $0 AI Empire Playbook — 140+ agents, 20+ free LLM lanes, 1,800+ songs, a living 3D world, all on free tiers. Real scripts, real failure classes, MIT.",
+      "tags": [
+        "ai-agents",
+        "free-tier",
+        "oracle-cloud",
+        "self-hosting",
+        "content-automation"
+      ],
+      "analyzed_at": "2026-08-28T08:37:51.963711+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Stupidoodle/swissdevjobs-cli",
+      "title": "swissdevjobs-cli",
+      "description": "Search & apply to ~4,700 salary-transparent tech jobs across 7 countries (🇨🇭🇩🇪🇬🇧🇺🇸🇨🇦🇳🇱🇫🇷) from your terminal or AI agent — zero-dependency Python CLI + MCP server + Claude Code plugin",
+      "url": "https://github.com/Stupidoodle/swissdevjobs-cli",
+      "stars": 83,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "cli",
+        "developer-jobs",
+        "france",
+        "germany",
+        "job-application",
+        "job-board",
+        "job-search",
+        "jobs",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "netherlands",
+        "python",
+        "salary-transparency",
+        "switzerland",
+        "uk",
+        "zero-dependencies"
+      ],
+      "created_at": "2026-08-24T19:59:58Z",
+      "updated_at": "2026-08-26T09:41:38Z",
+      "forks": 11,
+      "open_issues": 1,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 swissdevjobs-cli 的技术项目。Search & apply to ~4,700 salary-transparent tech jobs across 7 countries (🇨🇭🇩🇪🇬🇧🇺🇸🇨🇦🇳🇱🇫🇷) from your terminal or AI agent — zero-dependency Python CLI + MCP server + Claude Code plugin",
+      "tags": [
+        "developer-jobs",
+        "switzerland",
+        "netherlands",
+        "job-application",
+        "mcp"
+      ],
+      "analyzed_at": "2026-08-28T08:37:52.667651+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "S1N6H/pentest-harness",
+      "title": "pentest-harness",
+      "description": "Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
+      "url": "https://github.com/S1N6H/pentest-harness",
+      "stars": 79,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agent",
+        "anthropic-api",
+        "bug-bounty",
+        "infosec",
+        "llm",
+        "offensive-security",
+        "open-source",
+        "openai-api",
+        "pentesting",
+        "red-team",
+        "security-tools"
+      ],
+      "created_at": "2026-08-26T04:57:19Z",
+      "updated_at": "2026-08-27T20:10:02Z",
+      "forks": 19,
+      "open_issues": 11,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 pentest-harness 的技术项目。Pentest Harness — Heaven for Hackers. A self-hosted AI agent harness for authorized pentests, bug bounty, security labs, and CTFs. Bring your own AI model API; sessions stay local.",
+      "tags": [
+        "infosec",
+        "bug-bounty",
+        "security-tools",
+        "open-source",
+        "llm"
+      ],
+      "analyzed_at": "2026-08-28T08:37:53.377837+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "singula-ai/alego",
+      "title": "alego",
+      "description": "Build AI Agents like playing LEGOs. Everything is a Plugin.",
+      "url": "https://github.com/singula-ai/alego",
+      "stars": 79,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-agent",
+        "ai-coding",
+        "ai-tools",
+        "deepseek",
+        "harness"
+      ],
+      "created_at": "2026-08-22T17:19:45Z",
+      "updated_at": "2026-08-27T08:30:57Z",
+      "forks": 18,
+      "open_issues": 12,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 alego 的技术项目。Build AI Agents like playing LEGOs. Everything is a Plugin.",
+      "tags": [
+        "deepseek",
+        "harness",
+        "ai-agent",
+        "ai",
+        "ai-coding"
+      ],
+      "analyzed_at": "2026-08-28T08:37:54.069322+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "feyzilim/clipfactory",
+      "title": "clipfactory",
+      "description": "Topic + template → short vertical video from your own B-roll: AI script, voice, scene plan, captions, FFmpeg render. Multi-persona, AI shot lists, AI B-roll, batch generation. Source-available (Elastic 2.0).",
+      "url": "https://github.com/feyzilim/clipfactory",
+      "stars": 76,
+      "language": "Python",
+      "topics": [
+        "content-creation",
+        "elevenlabs",
+        "fastapi",
+        "ffmpeg",
+        "openai",
+        "react",
+        "reels",
+        "shorts",
+        "tiktok",
+        "video-generation"
+      ],
+      "created_at": "2026-08-22T12:07:47Z",
+      "updated_at": "2026-08-23T12:44:19Z",
+      "forks": 10,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 clipfactory 的技术项目。Topic + template → short vertical video from your own B-roll: AI script, voice, scene plan, captions, FFmpeg render. Multi-persona, AI shot lists, AI B-roll, batch generation. Source-available (Elasti",
+      "tags": [
+        "openai",
+        "shorts",
+        "react",
+        "ffmpeg",
+        "reels"
+      ],
+      "analyzed_at": "2026-08-28T08:37:54.794650+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "seoan1024/Korean-llm-v3",
+      "title": "Korean-llm-v3",
+      "description": "PyTorch 기반 한국어 LLM 구현 및 학습 프로젝트",
+      "url": "https://github.com/seoan1024/Korean-llm-v3",
+      "stars": 75,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-08-23T06:24:09Z",
+      "updated_at": "2026-08-26T09:45:15Z",
+      "forks": 12,
+      "open_issues": 1,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Korean-llm-v3 的技术项目。PyTorch 기반 한국어 LLM 구현 및 학습 프로젝트",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-08-28T08:37:55.498770+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "ripmilla/netwalk",
+      "title": "netwalk",
+      "description": "Read-only network survey toolkit for AI coding agents: crawl a site from one device, diagnose it, draw it, and hand over a report — without ever changing a device or seeing a credential.",
+      "url": "https://github.com/ripmilla/netwalk",
+      "stars": 73,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-08-22T13:38:41Z",
+      "updated_at": "2026-08-23T04:10:56Z",
+      "forks": 30,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 netwalk 的技术项目。Read-only network survey toolkit for AI coding agents: crawl a site from one device, diagnose it, draw it, and hand over a report — without ever changing a device or seeing a credential.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-28T08:37:56.238722+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "MirroS-Lab/Code-as-World",
+      "title": "Code-as-World",
+      "description": "Code as World: Agentic Discovery of Executable World Representations for Physical Reasoning",
+      "url": "https://github.com/MirroS-Lab/Code-as-World",
+      "stars": 72,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-08-27T17:42:04Z",
+      "updated_at": "2026-08-28T03:58:35Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Code-as-World 的技术项目。Code as World: Agentic Discovery of Executable World Representations for Physical Reasoning",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-08-28T08:37:56.958980+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "pinoox/neuromesh",
+      "title": "neuromesh",
+      "description": "The Biomimetic Context Engine & Neural Runtime for AI Coding Assistants",
+      "url": "https://github.com/pinoox/neuromesh",
+      "stars": 71,
+      "language": "Rust",
+      "topics": [
+        "antigravity",
+        "claude-code",
+        "code",
+        "code-analysis",
+        "code-intelligence",
+        "codex",
+        "context-management",
+        "cursor",
+        "developer-tools",
+        "gemini-cli",
+        "graph-algorithms",
+        "graph-visualization",
+        "kilo-code",
+        "knowledge-graph",
+        "mcp",
+        "mcp-server",
+        "model-compression",
+        "model-context-protocol",
+        "slimemold",
+        "windsurf"
+      ],
+      "created_at": "2026-08-22T11:14:43Z",
+      "updated_at": "2026-08-28T06:01:30Z",
+      "forks": 4,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 neuromesh 的技术项目。The Biomimetic Context Engine & Neural Runtime for AI Coding Assistants",
+      "tags": [
+        "graph-algorithms",
+        "mcp",
+        "code-analysis",
+        "graph-visualization",
+        "context-management"
+      ],
+      "analyzed_at": "2026-08-28T08:37:57.689869+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
