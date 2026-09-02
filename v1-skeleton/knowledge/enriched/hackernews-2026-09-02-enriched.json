@@ -1,0 +1,419 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-09-02T02:28:30.822135Z",
+  "analyzed_at": "2026-09-02T02:29:08.816406+00:00",
+  "count": 17,
+  "items": [
+    {
+      "id": 49525378,
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "score": 962,
+      "comments": 896,
+      "author": "denysvitali",
+      "time": 1788285233,
+      "hn_url": "https://news.ycombinator.com/item?id=49525378",
+      "text": "What&#x27;s new in Claude Fable 5.1\n – <a href=\"https:&#x2F;&#x2F;platform.claude.com&#x2F;docs&#x2F;en&#x2F;models&#x2F;fable-5-1&#x2F;whats-new-fable-5-1\" rel=\"nofollow\">https:&#x2F;&#x2F;platform.claude.com&#x2F;docs&#x2F;en&#x2F;models&#x2F;fable-5-1&#x2F;whats-n...</a><p>System Card: <a href=\"https:&#x2F;&#x2F;www-cdn.anthropic.com&#x2F;0339e6a7c5c7b87f5c07798616dc32c215d14235&#x2F;Claude%20Fable%205.1%20&amp;%20Claude%20Mythos%205.1%20System%20Card.pdf\" rel=\"nofollow\">https:&#x2F;&#x2F;www",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Anthropic's Fable 5.1 and Mythos 5.1 are advanced language models, with Fable 5.1 available to the public and Mythos 5.1 restricted to vetted organizations. Both models share the same underlying technology but differ in accessibility and safeguards.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-02T02:28:32.466903+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49526069,
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "url": "https://danluu.com/zitron/",
+      "score": 446,
+      "comments": 522,
+      "author": "jatins",
+      "time": 1788287715,
+      "hn_url": "https://news.ycombinator.com/item?id=49526069",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Ed Zitron's predictions about AI have often been criticized for being inaccurate and overly skeptical. His claims about AI's future have frequently contradicted actual developments. His skepticism has been met with skepticism from others.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-02T02:28:35.454418+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49529898,
+      "title": "The efficient frontier of LLM inference",
+      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+      "score": 47,
+      "comments": 7,
+      "author": "philipkiely",
+      "time": 1788306485,
+      "hn_url": "https://news.ycombinator.com/item?id=49529898",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The efficient frontier of LLM inference represents the optimal balance between latency and throughput. Key techniques include semantic routing, prefill/decode disaggregation, and quantization. Achieving this frontier maximizes hardware utilization and minimizes costs.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-09-02T02:28:37.350806+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49528895,
+      "title": "Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos",
+      "url": "https://masteranza.github.io/weedout/",
+      "score": 63,
+      "comments": 21,
+      "author": "masteranza",
+      "time": 1788300417,
+      "hn_url": "https://news.ycombinator.com/item?id=49528895",
+      "text": "I&#x27;m the developer. I built this because AI-generated conspiracy videos were getting out of control in my own YouTube feed. Weedout is a $1.99 Safari extension for macOS that removes videos YouTube labels “Made with AI” from feed, search, related videos, playlists and Shorts. It uses YouTube&#x27;s label rather than AI detection, runs locally, and does not catch unlabeled videos.<p>Source for developers who want to fork or build: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;masteranza&#x2F;wee",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Weedout is a Safari extension for macOS that hides YouTube videos labeled as AI-generated. It operates without user accounts or data tracking. Available for $1.99 on the Mac App Store.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-02T02:28:40.549269+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49527396,
+      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+      "score": 253,
+      "comments": 118,
+      "author": "timpera",
+      "time": 1788293277,
+      "hn_url": "https://news.ycombinator.com/item?id=49527396",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The app bundles a full copy of LibreOffice, but it may have compatibility issues on certain systems.",
+      "tags": [
+        "gpt"
+      ],
+      "analyzed_at": "2026-09-02T02:28:42.696660+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49527595,
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "url": "https://openai.com/index/path-to-astra/",
+      "score": 97,
+      "comments": 41,
+      "author": "jithinraj",
+      "time": 1788294041,
+      "hn_url": "https://news.ycombinator.com/item?id=49527595",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Astra's development includes strict cybersecurity safeguards and risk evaluations. It has reached a critical cyber capability threshold, prompting enhanced monitoring and government collaboration. Deployment is on hold pending further safety assessments.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-02T02:28:44.828620+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49527232,
+      "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
+      "url": "https://tomverbeure.github.io/2026/08/23/Tektronix-TDS7104-Refurbishing.html",
+      "score": 90,
+      "comments": 44,
+      "author": "jwise0",
+      "time": 1788292547,
+      "hn_url": "https://news.ycombinator.com/item?id=49527232",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "To refurbish a Tektronix TDS7104, remove the bottom panel and loosen the front connector trim. Dismantle the scope by putting it on its back feet. Replace internal components and ensure proper calibration.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-02T02:28:46.998413+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49524447,
+      "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
+      "url": "https://github.com/carloslfu/slotstream",
+      "score": 147,
+      "comments": 90,
+      "author": "carloslfu",
+      "time": 1788280966,
+      "hn_url": "https://news.ycombinator.com/item?id=49524447",
+      "text": "I built slotstream, a way to run Qwen3.8-Flash-Next 4-bit on a low-memory mac starting from 16GB, a 125B parameter model that would need 100GB+ memory&#x2F;RAM, thanks to expert-offloading&#x2F;ssd-streaming. Easy to install&#x2F;update, and mac-native using MLX and Swift.<p>It ships with auto-mode, which makes a good tradeoff between memory usage and speed. I&#x27;ll be implementing and porting the MTP module for speculative decoding next",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Slotstream enables running the 104GB Qwen3.8-Flash-Next model on a 48GB Mac at ~12 tokens per second. It uses SSD streaming and Swift. The model requires 110GB free disk space.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-02T02:28:49.006108+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49525160,
+      "title": "Atlas: A World Model for Spatial Intelligence",
+      "url": "https://www.worldlabs.ai/blog/atlas",
+      "score": 155,
+      "comments": 40,
+      "author": "johnsutor",
+      "time": 1788284162,
+      "hn_url": "https://news.ycombinator.com/item?id=49525160",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Atlas is a multimodal world model for spatial intelligence, capable of processing text, images, video, and 3D data. It was introduced by World Labs in 2026, and claims superior spatial reconstruction capabilities. Early access is available.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-02T02:28:51.277597+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49519939,
+      "title": "I trained a small transformer in 1.5hrs and it beats many LLMs",
+      "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+      "score": 585,
+      "comments": 151,
+      "author": "porridgeraisin",
+      "time": 1788256365,
+      "hn_url": "https://news.ycombinator.com/item?id=49519939",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A small transformer trained in 1.5 hours outperformed many large language models. This model achieved high scores on benchmarks like ARC-AGI-1. It demonstrates the potential of efficient training methods.",
+      "tags": [
+        "llm",
+        "transformer",
+        "ai"
+      ],
+      "analyzed_at": "2026-09-02T02:28:53.670995+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49528663,
+      "title": "AI is making back-office work extinct",
+      "url": "https://www.whitecollardream.com/",
+      "score": 19,
+      "comments": 1,
+      "author": "edest28build",
+      "time": 1788299011,
+      "hn_url": "https://news.ycombinator.com/item?id=49528663",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI is automating specific back-office tasks but not eliminating jobs outright; remaining roles shift towards more strategic, judgment-heavy work. AI enhances efficiency and effectiveness in back-office operations. The future relies on skilled workers who combine process knowledge with AI fluency.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-02T02:28:55.789691+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49529329,
+      "title": "AI Coding Agent Skills for Real Engineers",
+      "url": "https://github.com/mattpocock/skills",
+      "score": 11,
+      "comments": 4,
+      "author": "gurjeet",
+      "time": 1788302927,
+      "hn_url": "https://news.ycombinator.com/item?id=49529329",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI Coding Agent Skills for real engineers include coding-agent skills from Matt Pocock for tools like Codex and TDD refactoring. These skills are open-source and adaptable. They focus on codebase design, domain modeling, and test-driven development.",
+      "tags": [
+        "ai",
+        "agent"
+      ],
+      "analyzed_at": "2026-09-02T02:28:58.014931+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49488224,
+      "title": "How bicycle coaster brakes work (2018)",
+      "url": "https://www.dougbarnesauthor.com/2018/06/how-bicycle-coaster-brakes-work.html",
+      "score": 51,
+      "comments": 43,
+      "author": "Vedor",
+      "time": 1787994353,
+      "hn_url": "https://news.ycombinator.com/item?id=49488224",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Coaster brakes work by engaging when you pedal backward, squeezing brake shoes against the wheel rim to slow the bike. They require no external cables and are simple to use. Coaster brakes are often found on children's bikes due to federal regulations.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-02T02:29:00.022302+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49497741,
+      "title": "Physically Immutable Optical Archive Libraries",
+      "url": "https://savartus.com/solutions/enterprise-laser-storage/",
+      "score": 36,
+      "comments": 13,
+      "author": "thunderbong",
+      "time": 1788089236,
+      "hn_url": "https://news.ycombinator.com/item?id=49497741",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Physically immutable optical archive libraries use write-once media, ensuring data cannot be altered, and offer long-term durability and resistance to environmental damage. These systems are ideal for secure, tamper-proof data preservation.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-02T02:29:02.000585+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49493468,
+      "title": "American Airlines mechanic Azriel “Al” Blackman has died",
+      "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
+      "score": 373,
+      "comments": 150,
+      "author": "NaOH",
+      "time": 1788038717,
+      "hn_url": "https://news.ycombinator.com/item?id=49493468",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Azriel \"Al\" Blackman, a legendary American Airlines mechanic, passed away at 100 after an 80-year career. He was recognized for his record-breaking service and dedication to aviation maintenance. His contributions shaped modern commercial aviation.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-02T02:29:04.217391+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49527573,
+      "title": "Apple reveals 'shocking evidence' from ex-employee's MacBook in OpenAI suit",
+      "url": "https://9to5mac.com/2026/08/31/apple-openai-forensic-macbook-evidence/",
+      "score": 178,
+      "comments": 132,
+      "author": "colinprince",
+      "time": 1788293951,
+      "hn_url": "https://news.ycombinator.com/item?id=49527573",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Apple found confidential schematics on a former employee's MacBook used at OpenAI. The employee tried to destroy evidence upon learning of the investigation. Apple seeks expedited discovery in its lawsuit.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-02T02:29:06.116044+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49518316,
+      "title": "AI Can Make You Suck Faster Too",
+      "url": "https://www.hermit-tech.com/blog/ai-can-make-you-suck-faster-too",
+      "score": 149,
+      "comments": 149,
+      "author": "degamad",
+      "time": 1788240776,
+      "hn_url": "https://news.ycombinator.com/item?id=49518316",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI can lead to mistakes if not used properly; careful management is key. It's not the tool but the developer's approach that determines success. Always review AI-generated code for accuracy.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-02T02:29:08.315320+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
