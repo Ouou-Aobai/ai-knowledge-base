@@ -1,0 +1,1778 @@
+{
+  "source": "github",
+  "collected_at": "2026-09-03T02:35:38.205212Z",
+  "analyzed_at": "2026-09-03T02:38:27.722770+00:00",
+  "count": 50,
+  "items": [
+    {
+      "id": "XiaoDuoYa/codex-with-chatgpt",
+      "title": "codex-with-chatgpt",
+      "description": "ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the Codex harness.",
+      "url": "https://github.com/XiaoDuoYa/codex-with-chatgpt",
+      "stars": 2286,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "chatgpt",
+        "codex",
+        "mcp",
+        "model-context-protocol",
+        "oauth"
+      ],
+      "created_at": "2026-08-28T12:57:24Z",
+      "updated_at": "2026-09-02T14:27:51Z",
+      "forks": 236,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "I'm an AI system built by a team of inventors at Amazon. I integrate planning from one model and technical execution from another. This approach enhances efficiency and effectiveness.",
+      "tags": [
+        "model-context-protocol",
+        "ai-agents",
+        "gpt",
+        "codex",
+        "mcp"
+      ],
+      "analyzed_at": "2026-09-03T02:35:52.298505+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Nanako0129/sepia",
+      "title": "sepia",
+      "description": "De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Antigravity. Narrative-architecture repair for fiction, venue-matched rules for professional prose. Based on StoryScope (arXiv:2604.03136).",
+      "url": "https://github.com/Nanako0129/sepia",
+      "stars": 1610,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-writing",
+        "antigravity",
+        "claude-code",
+        "codex",
+        "developer-tools",
+        "fiction",
+        "grok",
+        "humanizer",
+        "llm",
+        "prompt-engineering",
+        "writing-tools"
+      ],
+      "created_at": "2026-08-28T05:56:49Z",
+      "updated_at": "2026-09-03T01:38:28Z",
+      "forks": 94,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "sepia is an AI skill for coding assistants, focusing on narrative repair and professional writing rules. It's based on StoryScope and available on GitHub. It's designed to improve AI-generated text quality.",
+      "tags": [
+        "antigravity",
+        "writing-tools",
+        "claude-code",
+        "codex",
+        "developer-tools"
+      ],
+      "analyzed_at": "2026-09-03T02:35:56.247882+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "damejan80/tokentab",
+      "title": "tokentab",
+      "description": "A CLI that reads Claude Code, Codex, and Gemini CLI session logs and works out how much they cost, by model, project, and day.",
+      "url": "https://github.com/damejan80/tokentab",
+      "stars": 1148,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "claude",
+        "claude-code",
+        "cursor",
+        "python",
+        "token-optimization",
+        "token-usage"
+      ],
+      "created_at": "2026-08-27T14:16:09Z",
+      "updated_at": "2026-08-27T14:20:23Z",
+      "forks": 211,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "tokentab is a local CLI tool that calculates costs for AI coding assistants by parsing session logs. It works with Claude Code, Codex, and Gemini CLI. It runs locally without needing an account or API key.",
+      "tags": [
+        "ai",
+        "claude-code",
+        "cursor",
+        "token-optimization",
+        "token-usage"
+      ],
+      "analyzed_at": "2026-09-03T02:35:59.964419+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "cbrock84/headcount",
+      "title": "headcount",
+      "description": "An agent organization for Claude Code, structured as a company — 15+ departments, 125+ skills, each independently installable.",
+      "url": "https://github.com/cbrock84/headcount",
+      "stars": 1118,
+      "language": "Markdown",
+      "topics": [
+        "agent-marketplace",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-plugin",
+        "claude-skills",
+        "mcp"
+      ],
+      "created_at": "2026-08-28T18:03:04Z",
+      "updated_at": "2026-09-03T02:26:15Z",
+      "forks": 177,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Headcount is an AI skill for specialized coding assistants, structured as a company with departments and skills. It's open-source and has many GitHub stars. Use at your own risk.",
+      "tags": [
+        "claude-skills",
+        "claude-code-plugin",
+        "claude-code",
+        "mcp",
+        "claude-plugin"
+      ],
+      "analyzed_at": "2026-09-03T02:36:02.996788+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "GangTailorUpgrade/undress-service",
+      "title": "undress-service",
+      "description": "Dress AI Sponsor",
+      "url": "https://github.com/GangTailorUpgrade/undress-service",
+      "stars": 935,
+      "language": "Python",
+      "topics": [
+        "18comic",
+        "coomer",
+        "coomer-downloader",
+        "coomer-party",
+        "coomer-porn",
+        "coomer-su",
+        "doujin-moe",
+        "ehviewer",
+        "ex-hentai",
+        "explicit-content",
+        "hitomi-la",
+        "kemono",
+        "kemono-downloader",
+        "kemono-oarty",
+        "kemono-party",
+        "kemono-porn",
+        "kemono-su",
+        "nudity",
+        "sex",
+        "unrestricted-ai"
+      ],
+      "created_at": "2026-08-31T00:12:45Z",
+      "updated_at": "2026-09-02T13:58:48Z",
+      "forks": 1,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI services that \"undress\" women in photos are controversial and often illegal, used to create non-consensual pornography. These tools are banned by major platforms. The AI \"undress\" tool mentioned is for outfit swapping, not nudity.",
+      "tags": [
+        "kemono-porn",
+        "explicit-content",
+        "nudity",
+        "ex-hentai",
+        "coomer-party"
+      ],
+      "analyzed_at": "2026-09-03T02:36:05.207730+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "brayonpi/hexstellar",
+      "title": "hexstellar",
+      "description": "Turn any AI agent into a computational researcher. HexStellar Cortex delivers software-accelerated optimization, quantum computing, scientific computing, decision intelligence, and verifiable execution through a Python CLI and API—with certainty labels, verification receipts, examples, and a free sandbox. Start instantly: pip install hexstellar",
+      "url": "https://github.com/brayonpi/hexstellar",
+      "stars": 707,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-08-27T20:53:42Z",
+      "updated_at": "2026-08-27T21:07:24Z",
+      "forks": 52,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "HexStellar Cortex is a computational platform that enables AI agents to perform optimization, quantum computing, and scientific computing tasks through a Python CLI and API. It offers verifiable execution and certainty labels. Install with pip install hexstellar.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-03T02:36:09.167931+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "hkqr/my-free-code",
+      "title": "my-free-code",
+      "description": "Open-source multi-provider AI gateway for Claude Code and other coding agents, with model routing, streaming, tools, reasoning, fallbacks, and local model support",
+      "url": "https://github.com/hkqr/my-free-code",
+      "stars": 623,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "claude-code",
+        "free-claude-api",
+        "multi-provider",
+        "multi-provider-llm"
+      ],
+      "created_at": "2026-08-27T17:59:23Z",
+      "updated_at": "2026-08-28T09:02:17Z",
+      "forks": 211,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "my-free-code is an open-source AI gateway for coding agents like Claude Code, offering model routing and local support. Use it at your own risk. Verify its safety and terms before use.",
+      "tags": [
+        "multi-provider",
+        "ai",
+        "claude-code",
+        "multi-provider-llm",
+        "free-claude-api"
+      ],
+      "analyzed_at": "2026-09-03T02:36:12.680614+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "2akouwu/reverify",
+      "title": "reverify",
+      "description": "Verified reverse engineering: AI RE grounded on deterministic tools - results checked against the binary, not hallucinated.",
+      "url": "https://github.com/2akouwu/reverify",
+      "stars": 587,
+      "language": "Python",
+      "topics": [
+        "agentic-workflow",
+        "ai-agents",
+        "automation",
+        "binary-analysis",
+        "codex",
+        "codex-cli",
+        "ctf",
+        "developer-tools",
+        "disassembler",
+        "execution-first",
+        "frida",
+        "hooks",
+        "malware-analysis",
+        "mcp",
+        "openai",
+        "powershell",
+        "prompt-engineering",
+        "reverse-engineering",
+        "skills",
+        "windows"
+      ],
+      "created_at": "2026-08-31T01:02:18Z",
+      "updated_at": "2026-09-02T17:09:32Z",
+      "forks": 120,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Verified reverse engineering of AI relies on deterministic tools that check results against binaries, ensuring accuracy without hallucinations. AgentRE-Bench and RevEng.AI platforms support this by providing benchmarks and analysis without source code. These tools aim to recover verifiable binary behavior.",
+      "tags": [
+        "powershell",
+        "disassembler",
+        "skills",
+        "developer-tools",
+        "windows"
+      ],
+      "analyzed_at": "2026-09-03T02:36:15.595567+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Player-YN/PawWork_ZhuaZhua",
+      "title": "PawWork_ZhuaZhua",
+      "description": "Paw Work - selection-first web agent for Chrome: select on the live page, describe the outcome, take away an editable office file. BYOK, sandboxed, no server.",
+      "url": "https://github.com/Player-YN/PawWork_ZhuaZhua",
+      "stars": 522,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agent",
+        "browser-agent",
+        "byok",
+        "chrome-extension",
+        "llm",
+        "pptx",
+        "tldraw",
+        "univer"
+      ],
+      "created_at": "2026-08-28T10:56:56Z",
+      "updated_at": "2026-09-01T15:03:17Z",
+      "forks": 3,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "PawWork_ZhuaZhua is a Chrome extension for AI-driven web automation that operates locally without server interaction. It provides a sandboxed environment and exports editable office files directly from web interactions.",
+      "tags": [
+        "chrome-extension",
+        "ai-agent",
+        "llm",
+        "tldraw",
+        "univer"
+      ],
+      "analyzed_at": "2026-09-03T02:36:19.022641+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "anthropics/commerce-agents",
+      "title": "commerce-agents",
+      "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, commerce, telecom, and entertainment included.",
+      "url": "https://github.com/anthropics/commerce-agents",
+      "stars": 469,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-09-01T12:30:12Z",
+      "updated_at": "2026-09-01T20:41:14Z",
+      "forks": 78,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI systems from Amazon provide blueprints for building shopping and merchant agents, enhancing retail and commerce operations. These agents assist with price comparisons, inventory suggestions, and personalized recommendations. They do not complete purchases on behalf of users.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-09-03T02:36:22.259734+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "OnlyTerp/opengrok",
+      "title": "opengrok",
+      "description": "Run any model in Grok Bot — one-command setup, model picker UI, evidence-based provider wire maps, and an update-proof doctor. Not farming you, arming you.",
+      "url": "https://github.com/OnlyTerp/opengrok",
+      "stars": 416,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "grok",
+        "llm",
+        "model-router",
+        "openai-compatible",
+        "windows"
+      ],
+      "created_at": "2026-08-27T18:30:44Z",
+      "updated_at": "2026-08-31T22:22:56Z",
+      "forks": 51,
+      "open_issues": 9,
+      "relevance_score": 0.8999999999999999,
+      "summary": "OpenGrok is an open-source tool for running models with a one-command setup and a model picker UI. It includes evidence-based provider wire maps and is update-proof. Install via command line.",
+      "tags": [
+        "ai-agents",
+        "windows",
+        "grok",
+        "llm",
+        "openai-compatible"
+      ],
+      "analyzed_at": "2026-09-03T02:36:25.384709+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "MirroS-Lab/Code-as-World",
+      "title": "Code-as-World",
+      "description": "Code as World: Agentic Discovery of Executable World Representations for Physical Reasoning",
+      "url": "https://github.com/MirroS-Lab/Code-as-World",
+      "stars": 384,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-08-27T17:42:04Z",
+      "updated_at": "2026-08-31T13:48:01Z",
+      "forks": 5,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Code-as-World represents physical scenes as executable code, discovered through an agentic loop, to enable quantitative physical reasoning. It was highly ranked in 2026 and released technical reports and models. The approach uses simulations and verifications to create executable world representations.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-03T02:36:29.127322+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Ryze-AI-Adgent/open-seo-mcp-skills",
+      "title": "open-seo-mcp-skills",
+      "description": "Open-source SEO + GEO skills for Claude — keyword research, rank tracking, site audits, backlinks, competitor gaps, AI visibility. Runs on your real Search Console / GA4 / ads data via MCP, with DataForSEO built in. Free, MIT.",
+      "url": "https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills",
+      "stars": 340,
+      "language": "Shell",
+      "topics": [
+        "ai-seo",
+        "backlinks",
+        "claude",
+        "claude-skills",
+        "dataforseo",
+        "generative-engine-optimization",
+        "geo",
+        "keyword-research",
+        "mcp",
+        "mcp-server",
+        "open-source-seo",
+        "rank-tracking",
+        "seo",
+        "seo-audit"
+      ],
+      "created_at": "2026-08-29T23:37:01Z",
+      "updated_at": "2026-08-31T03:09:10Z",
+      "forks": 6,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Open-source SEO skills for Claude include keyword research, rank tracking, site audits, and backlinks analysis. It integrates with real Search Console, GA4, and ads data. Free, MIT licensed.",
+      "tags": [
+        "generative-engine-optimization",
+        "mcp-server",
+        "seo-audit",
+        "dataforseo",
+        "geo"
+      ],
+      "analyzed_at": "2026-09-03T02:36:35.153131+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "useagenthq/useagent",
+      "title": "useagent",
+      "description": "The open-source AI coworker for your team: agents with their own cloud computer, your tools and context, handing back finished work websites, decks, spreadsheets, reports, PRs. Runs Claude Code, Codex, OpenCode on your subscription.",
+      "url": "https://github.com/useagenthq/useagent",
+      "stars": 275,
+      "language": "TypeScript",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "ai-coworker",
+        "automation",
+        "autonomous-agents",
+        "bun",
+        "claude",
+        "codex",
+        "coding-agent",
+        "computer-use",
+        "developer-tools",
+        "llm",
+        "open-source",
+        "opencode",
+        "postgres",
+        "sandbox",
+        "self-hosted",
+        "slack-bot",
+        "typescript"
+      ],
+      "created_at": "2026-08-29T21:14:31Z",
+      "updated_at": "2026-08-31T18:37:06Z",
+      "forks": 37,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "useagent is an open-source AI tool that transforms AI agents into coworkers, running each task in isolated environments for security. It uses agents like Claude Code and Codex, providing durable records and secure credentials. It's still in active development.",
+      "tags": [
+        "ai-coworker",
+        "developer-tools",
+        "computer-use",
+        "postgres",
+        "autonomous-agents"
+      ],
+      "analyzed_at": "2026-09-03T02:36:38.614341+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "JordyZomer/lemmalog",
+      "title": "lemmalog",
+      "description": "A Datalog engine for LLM agent memory: stratified rules, provenance-tracked facts, incremental derivation, and an MCP server that lets your harness use it as a shared brain.",
+      "url": "https://github.com/JordyZomer/lemmalog",
+      "stars": 259,
+      "language": "Rust",
+      "topics": [
+        "agent-memory",
+        "datalog",
+        "knowledge-graph",
+        "llm",
+        "llm-agents",
+        "mcp",
+        "neurosymbolic"
+      ],
+      "created_at": "2026-08-27T07:06:55Z",
+      "updated_at": "2026-09-02T07:00:09Z",
+      "forks": 18,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Lemmalog is a Datalog engine for LLM agent memory, tracking facts with provenance and reducing context tokens by 38x. It uses a structured knowledge base to maintain logical state and invalidates conclusions when facts change.",
+      "tags": [
+        "llm-agents",
+        "datalog",
+        "knowledge-graph",
+        "llm",
+        "mcp"
+      ],
+      "analyzed_at": "2026-09-03T02:36:41.849523+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "carloslfu/slotstream",
+      "title": "slotstream",
+      "description": "Run Qwen3.8-Flash-Next (125B MoE, 104 GB at 4-bit) on Macs with a fraction of that RAM by streaming experts from SSD. MLX + Swift, Ollama-compatible API.",
+      "url": "https://github.com/carloslfu/slotstream",
+      "stars": 249,
+      "language": "Swift",
+      "topics": [
+        "apple-silicon",
+        "llm",
+        "llm-inference",
+        "local-llm",
+        "macos",
+        "mixture-of-experts",
+        "mlx",
+        "ollama",
+        "qwen",
+        "swift"
+      ],
+      "created_at": "2026-08-28T06:42:21Z",
+      "updated_at": "2026-09-03T01:47:14Z",
+      "forks": 13,
+      "open_issues": 3,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Slotstream enables running the 125B Qwen3.8-Flash-Next model on Macs with limited RAM by streaming expert weights from SSD. It uses MLX and Swift, compatible with Ollama API. Achieves ~12 tokens per second on a 48GB Mac.",
+      "tags": [
+        "ollama",
+        "mlx",
+        "local-llm",
+        "swift",
+        "llm"
+      ],
+      "analyzed_at": "2026-09-03T02:36:45.076283+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "TetreesEX/TetreesAgent_EX",
+      "title": "TetreesAgent_EX",
+      "description": "This Agent MCP allows you to train external intelligence with zero GPU and let you trade it at Tetrees EX ",
+      "url": "https://github.com/TetreesEX/TetreesAgent_EX",
+      "stars": 245,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-08-29T07:46:09Z",
+      "updated_at": "2026-08-30T04:58:38Z",
+      "forks": 244,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "TetreesAgent_EX allows training external intelligence without GPU, enabling trading via Tetrees EX. It uses Model Context Protocol (MCP) for efficient AI agent integration. It improves AI agent performance without custom models or GPUs.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-09-03T02:36:48.778421+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "ZJU-REAL/Easel",
+      "title": "Easel",
+      "description": "An open-source AI agent for social media — discover trends, create content, publish everywhere, and learn what works across Xiaohongshu, Douyin, Zhihu, Bilibili, and more.🎨一个开源的 AI 社交媒体智能体——发现热点趋势、创作内容、一键发布至各大平台，并学习分析哪些内容真正有效，覆盖小红书、抖音、知乎、哔哩哔哩等平台。",
+      "url": "https://github.com/ZJU-REAL/Easel",
+      "stars": 245,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "agent-skill",
+        "content-automation",
+        "content-creation",
+        "content-generation",
+        "mcp",
+        "openclaw",
+        "social-media",
+        "social-media-management"
+      ],
+      "created_at": "2026-08-28T02:22:27Z",
+      "updated_at": "2026-09-02T10:51:44Z",
+      "forks": 28,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Easel is an open-source AI agent for social media that discovers trends, creates content, and publishes across platforms like Xiaohongshu and Douyin. It learns what works and adapts content for different channels. Easel integrates AI to enhance user engagement and content creation.",
+      "tags": [
+        "content-creation",
+        "content-automation",
+        "agent",
+        "social-media",
+        "social-media-management"
+      ],
+      "analyzed_at": "2026-09-03T02:36:52.400629+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "yilujian/easy-writing",
+      "title": "easy-writing",
+      "description": "易创：纯本地、开源的 AI 网文写作桌面软件，支持小说创作、AI 辅助写作、BYOK 与自定义提示词。",
+      "url": "https://github.com/yilujian/easy-writing",
+      "stars": 190,
+      "language": "Vue",
+      "topics": [
+        "ai-writing",
+        "ai-writing-assistant",
+        "byok",
+        "creative-writing",
+        "desktop-app",
+        "local-first",
+        "novel-writing",
+        "openai-compatible",
+        "tauri",
+        "vue3",
+        "web-novel",
+        "writing-tools"
+      ],
+      "created_at": "2026-08-31T09:22:41Z",
+      "updated_at": "2026-09-02T07:54:02Z",
+      "forks": 44,
+      "open_issues": 3,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Easy-writing is a local, open-source AI writing software for novel creation with AI assistance and customizable prompts. It supports local-first features and has a limited user base. The software includes immersive typing feedback and editor customization options.",
+      "tags": [
+        "ai-writing-assistant",
+        "byok",
+        "tauri",
+        "novel-writing",
+        "writing-tools"
+      ],
+      "analyzed_at": "2026-09-03T02:36:54.383243+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "SpatiaOS/Procedura",
+      "title": "Procedura",
+      "description": "Agentic 3D Modeling with Procedural Control — turns a text prompt into an editable parametric program, with optional per-part materials and articulation.",
+      "url": "https://github.com/SpatiaOS/Procedura",
+      "stars": 169,
+      "language": "TypeScript",
+      "topics": [
+        "3d-generation",
+        "cad",
+        "generative-3d",
+        "llm-agent",
+        "openusd",
+        "parametric-design",
+        "procedural-modeling",
+        "robotics",
+        "shape-as-code",
+        "text-to-3d"
+      ],
+      "created_at": "2026-08-27T04:11:08Z",
+      "updated_at": "2026-08-27T05:18:54Z",
+      "forks": 11,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Procedura converts text prompts into editable 3D parametric programs with articulated parts and materials. It uses a frozen LLM for planning and refinement. No 3D training is required.",
+      "tags": [
+        "cad",
+        "parametric-design",
+        "procedural-modeling",
+        "robotics",
+        "openusd"
+      ],
+      "analyzed_at": "2026-09-03T02:36:57.863586+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "dreamers-laboratory/agent-fleet-manager",
+      "title": "agent-fleet-manager",
+      "description": "A general-purpose engine for large-scale, repeated information gathering by a fleet of workers.",
+      "url": "https://github.com/dreamers-laboratory/agent-fleet-manager",
+      "stars": 168,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-09-02T06:38:12Z",
+      "updated_at": "2026-09-02T06:38:16Z",
+      "forks": 1,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Agent fleet management oversees and coordinates multiple AI agents as a unified system, ensuring efficient operation and accountability. It prevents redundancy and optimizes resource use. It applies IT fleet management principles to autonomous AI agents.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-09-03T02:37:01.449689+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Human-Agent-Society/reef",
+      "title": "reef",
+      "description": "Continual learning infra for self-improving agents",
+      "url": "https://github.com/Human-Agent-Society/reef",
+      "stars": 161,
+      "language": "Python",
+      "topics": [
+        "agent-infrastructure",
+        "ai-agents",
+        "continual-learning",
+        "inference",
+        "llm",
+        "llm-training",
+        "reinforcement-learning",
+        "self-improving-agents"
+      ],
+      "created_at": "2026-08-31T01:39:18Z",
+      "updated_at": "2026-09-03T00:38:35Z",
+      "forks": 17,
+      "open_issues": 47,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Reef is an open-source infrastructure for continual learning, enabling self-improving agents to evolve beyond model weights. It supports live traffic, version management, and the joint evolution of the entire agent stack. Reef aims to facilitate continual self-improvement through its standardized endpoints.",
+      "tags": [
+        "continual-learning",
+        "ai-agents",
+        "self-improving-agents",
+        "llm-training",
+        "agent-infrastructure"
+      ],
+      "analyzed_at": "2026-09-03T02:37:03.489450+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Vuk97/forward-implementation-first",
+      "title": "forward-implementation-first",
+      "description": "Stop your coding agent from stalling real work on self-invented bookkeeping - receipts, hashes, locks, certification rituals. Ship first, then verify. Skill for Claude Code, Codex, and other agents.",
+      "url": "https://github.com/Vuk97/forward-implementation-first",
+      "stars": 161,
+      "language": "Shell",
+      "topics": [
+        "agent-skills",
+        "agents",
+        "agentskills",
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "codex",
+        "codex-cli",
+        "developer-tools",
+        "llm",
+        "llm-agents",
+        "openai",
+        "prompt-engineering"
+      ],
+      "created_at": "2026-08-29T23:16:12Z",
+      "updated_at": "2026-08-31T13:46:22Z",
+      "forks": 4,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Forward-implementation-first prioritizes shipping code first, then verifying it, to avoid agents wasting time on unnecessary self-bookkeeping. This approach enhances productivity by focusing on actual work. It's used in tools like Claude Code and Codex.",
+      "tags": [
+        "anthropic",
+        "agents",
+        "llm-agents",
+        "ai-agents",
+        "claude-code"
+      ],
+      "analyzed_at": "2026-09-03T02:37:06.607678+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "localai-org/skin-tokens.cpp",
+      "title": "skin-tokens.cpp",
+      "description": "C++/GGML conversion of VAST-AI SkinTokens; Auto rigs a mesh ready for animation",
+      "url": "https://github.com/localai-org/skin-tokens.cpp",
+      "stars": 151,
+      "language": "C++",
+      "topics": [],
+      "created_at": "2026-08-28T20:39:20Z",
+      "updated_at": "2026-09-01T19:06:11Z",
+      "forks": 10,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "SkinTokens is a method for automatically rigging 3D meshes for animation. It converts skinning weights into a compact representation and exports rigged GLB files. The process costs $0.30 per task.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-03T02:37:08.789226+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "LunarXuan/image-prompt-reverse",
+      "title": "image-prompt-reverse",
+      "description": "High-fidelity AI image prompt reverse-engineering skill for Codex",
+      "url": "https://github.com/LunarXuan/image-prompt-reverse",
+      "stars": 142,
+      "language": null,
+      "topics": [
+        "codex",
+        "skill",
+        "skill-md",
+        "skills"
+      ],
+      "created_at": "2026-09-01T17:36:22Z",
+      "updated_at": "2026-09-02T16:34:23Z",
+      "forks": 13,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "An AI system built by a team of inventors at Amazon can reverse-engineer image prompts by analyzing visual elements and generating descriptive prompts for AI image generation tools. This process involves identifying key visual features and translating them into technical language. The result is a high-fidelity prompt for recreating the image's style.",
+      "tags": [
+        "skills",
+        "codex",
+        "skill-md",
+        "skill"
+      ],
+      "analyzed_at": "2026-09-03T02:37:11.256296+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "aleksandr-alhoff/seo-landing",
+      "title": "seo-landing",
+      "description": "SEO Landing: Give your AI coding agent the capabilities of a senior Technical SEO engineer.  An agent skill for building high-performance, technically optimized SEO landing pages. Turn an AI coding agent into a technical SEO specialist.  Build and improve landing pages with: • 🚀 100/100 Google PageSpeed target • ⚡ Core Web Vitals optimization ",
+      "url": "https://github.com/aleksandr-alhoff/seo-landing",
+      "stars": 134,
+      "language": "HTML",
+      "topics": [
+        "agent-skills",
+        "claude-skills",
+        "codex",
+        "core-web-vitals",
+        "cursor",
+        "gemini-ai",
+        "hermes-skill",
+        "landing-page",
+        "openclaw-skill",
+        "opencode",
+        "pagespeed",
+        "schema-org",
+        "seo",
+        "seo-friendly",
+        "seo-landing-page",
+        "seo-optimization",
+        "seo-optimized",
+        "seo-tools",
+        "technical-seo",
+        "technical-seo-audit"
+      ],
+      "created_at": "2026-08-28T20:01:23Z",
+      "updated_at": "2026-08-30T11:05:05Z",
+      "forks": 11,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "To become a senior Technical SEO engineer, focus on optimizing landing pages for Core Web Vitals and Google PageSpeed to achieve 100/100, ensuring fast load times and high user engagement. Prioritize structured data and contextual authority for better AI and search engine understanding. Use conversion-driven KPIs to measure success.",
+      "tags": [
+        "seo-optimized",
+        "technical-seo",
+        "seo-landing-page",
+        "agent-skills",
+        "seo-optimization"
+      ],
+      "analyzed_at": "2026-09-03T02:37:17.538582+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "suihe1/short-drama-production",
+      "title": "short-drama-production",
+      "description": "AI 短剧生产总控 / 短剧skill：专业导演与分镜、MiniMax H3、CompShare、声音资产、粗剪与 QC，默认 16:9。",
+      "url": "https://github.com/suihe1/short-drama-production",
+      "stars": 129,
+      "language": "JavaScript",
+      "topics": [
+        "ai-short-drama",
+        "ai-video",
+        "chinese",
+        "codex-skill",
+        "comfyui",
+        "ffmpeg",
+        "filmmaking",
+        "fish-audio",
+        "minimax",
+        "minimax-h3",
+        "short-drama",
+        "storyboard",
+        "video-generation"
+      ],
+      "created_at": "2026-08-30T14:14:06Z",
+      "updated_at": "2026-08-30T14:19:03Z",
+      "forks": 17,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "This AI short-drama production tool integrates professional directing, storyboarding, MiniMax H3, and sound assets for efficient workflow. It supports automated video generation and includes quality control features. The project is licensed under Apache-2.0.",
+      "tags": [
+        "codex-skill",
+        "ffmpeg",
+        "fish-audio",
+        "comfyui",
+        "filmmaking"
+      ],
+      "analyzed_at": "2026-09-03T02:37:19.533185+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "kydlikebtc/awesome-grokbot",
+      "title": "awesome-grokbot",
+      "description": "361 live x.ai/bot shares for Grok Bot — every link status-checked, every row attributed. Bilingual EN/中文 catalog with a JSON schema, CI, and a searchable site.",
+      "url": "https://github.com/kydlikebtc/awesome-grokbot",
+      "stars": 125,
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai-agents",
+        "ai-tools",
+        "awesome",
+        "awesome-list",
+        "bot-templates",
+        "catalog",
+        "cursor",
+        "directory",
+        "grok",
+        "grok-bot",
+        "grokbot",
+        "llm",
+        "prompt-engineering",
+        "xai"
+      ],
+      "created_at": "2026-09-01T02:30:25Z",
+      "updated_at": "2026-09-02T13:01:03Z",
+      "forks": 15,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Grok Bot is an xAI agent running on a persistent cloud computer, performing tasks through a browser, files, and commands. It coordinates with other Bots and can learn workflows from demonstrations. The \"awesome-grokbot\" catalog lists 361 live x.ai/bot share links.",
+      "tags": [
+        "grokbot",
+        "agents",
+        "xai",
+        "ai-agents",
+        "directory"
+      ],
+      "analyzed_at": "2026-09-03T02:37:23.534249+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "rokbenko/quackd",
+      "title": "quackd",
+      "description": "🦆🧠 Give your small robot a brain. Tell a Microduck, a Reachy Mini, a LeRobot arm or any ROS base what you want in plain language. An LLM (Claude, OpenAI, Gemini, Grok, or a local model via Ollama, vLLM or llama.cpp) uses the skills it already has. Simulator, .duck task files, MCP, and flocks where different robots cooperate. Apache 2.0.",
+      "url": "https://github.com/rokbenko/quackd",
+      "stars": 122,
+      "language": "Python",
+      "topics": [
+        "claude",
+        "embodied-ai",
+        "hugging-face",
+        "lerobot",
+        "llama-cpp",
+        "llm-agents",
+        "local-llm",
+        "mcp",
+        "microduck",
+        "model-context-protocol",
+        "multi-agent",
+        "ollama",
+        "openai",
+        "physical-ai",
+        "pollen-robotics",
+        "python",
+        "reachy-mini",
+        "robotics",
+        "ros",
+        "sim2real"
+      ],
+      "created_at": "2026-08-28T09:09:16Z",
+      "updated_at": "2026-09-02T17:47:29Z",
+      "forks": 10,
+      "open_issues": 3,
+      "relevance_score": 0.8999999999999999,
+      "summary": "To give a robot a brain, use an open-source LLM for speech-to-speech tasks. Microduck and Reachy Mini are platforms for developing AI, with Microduck focusing on physical actions and Reachy Mini on interaction. Both are open-source under Apache 2.0.",
+      "tags": [
+        "ollama",
+        "llm-agents",
+        "reachy-mini",
+        "llama-cpp",
+        "lerobot"
+      ],
+      "analyzed_at": "2026-09-03T02:37:27.716233+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "niawjunior/aipass-bridge",
+      "title": "aipass-bridge",
+      "description": "make aipass great again",
+      "url": "https://github.com/niawjunior/aipass-bridge",
+      "stars": 110,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-09-01T05:33:50Z",
+      "updated_at": "2026-09-03T02:31:30Z",
+      "forks": 76,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "AiPASS integrates various AI tools into a single platform, enhances user skills, and operates as an enterprise AI operating system. Aipass-bridge is a terminal that communicates via a browser tab. The project has 44 stars on GitHub.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-03T02:37:29.751224+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "AlephAITech/DoubaoWorkGuide",
+      "title": "DoubaoWorkGuide",
+      "description": "豆包工作系统化中文实践指南：教程、真实任务、Skills、连接器、自动化与多 Agent 工作流。",
+      "url": "https://github.com/AlephAITech/DoubaoWorkGuide",
+      "stars": 107,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "doubao",
+        "guide",
+        "multi-agent",
+        "workflow"
+      ],
+      "created_at": "2026-08-31T01:57:57Z",
+      "updated_at": "2026-09-01T05:08:30Z",
+      "forks": 8,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "DoubaoWork is a productivity AI agent by ByteDance for executing complex tasks, integrating with tools like Feishu, and automating workflows. It supports multiple agents for collaborative work and offers various skills for document processing, data analysis, and multimedia production. The service includes both individual and team plans with different pricing tiers.",
+      "tags": [
+        "workflow",
+        "ai-agent",
+        "guide",
+        "agent-skills",
+        "doubao"
+      ],
+      "analyzed_at": "2026-09-03T02:37:32.335090+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Parsifal1986/TokensBurned",
+      "title": "TokensBurned",
+      "description": "Privacy-first AI coding activity for your GitHub profile.",
+      "url": "https://github.com/Parsifal1986/TokensBurned",
+      "stars": 103,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-08-30T07:10:58Z",
+      "updated_at": "2026-09-02T06:05:58Z",
+      "forks": 5,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "GitHub allows users to opt-out of data training for AI, and tools like TokenTracker track token usage privately. GitHub's privacy statement confirms it uses data for product improvement, minimizing data use.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-03T02:37:34.476527+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "TunaaaAaaaa/miniEvoAgent",
+      "title": "miniEvoAgent",
+      "description": "A simple, feasible repository to reproduce and learn self-evolving/recursive self-improvement agent.",
+      "url": "https://github.com/TunaaaAaaaa/miniEvoAgent",
+      "stars": 101,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-08-28T00:20:16Z",
+      "updated_at": "2026-08-28T02:38:53Z",
+      "forks": 4,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "MiniEvoAgent is a repository for self-evolving agents that recursively improve themselves. It focuses on a small loop of self-modification and evaluation. The project has gained significant attention and contributions.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-09-03T02:37:37.464386+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "kingbootoshi/facetime-bridge",
+      "title": "facetime-bridge",
+      "description": "A bridge to help connect a brand new iCloud account to Facetime audio for voice to voice agent action",
+      "url": "https://github.com/kingbootoshi/facetime-bridge",
+      "stars": 100,
+      "language": "Swift",
+      "topics": [],
+      "created_at": "2026-08-27T23:04:51Z",
+      "updated_at": "2026-08-29T23:14:17Z",
+      "forks": 18,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "To connect a new iCloud account to FaceTime, sign in to FaceTime with your Apple ID, add an email address or alias, and ensure FaceTime is enabled in Settings.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-03T02:37:40.348821+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "nickname21kmr/gameops-investigator",
+      "title": "gameops-investigator",
+      "description": "Evidence-first game operations incident investigation agent with read-only MCP tools and reproducible evaluations.",
+      "url": "https://github.com/nickname21kmr/gameops-investigator",
+      "stars": 99,
+      "language": "Python",
+      "topics": [
+        "anomaly-detection",
+        "claude-code",
+        "game-analytics",
+        "llm-evaluation",
+        "mcp",
+        "sqlite",
+        "streamlit",
+        "text-to-sql"
+      ],
+      "created_at": "2026-08-30T17:28:16Z",
+      "updated_at": "2026-08-31T07:23:36Z",
+      "forks": 5,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The gameops-investigator is an evidence-first incident investigation agent with read-only MCP tools for reproducible evaluations, reducing incident costs and providing context-aware debugging. It integrates seamlessly with existing tools and maintains SOC 2 compliance.",
+      "tags": [
+        "llm-evaluation",
+        "anomaly-detection",
+        "claude-code",
+        "text-to-sql",
+        "game-analytics"
+      ],
+      "analyzed_at": "2026-09-03T02:37:43.716631+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Tyche-MKR/scientific-agent-skills",
+      "title": "scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "url": "https://github.com/Tyche-MKR/scientific-agent-skills",
+      "stars": 98,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-08-31T10:54:19Z",
+      "updated_at": "2026-08-31T11:30:18Z",
+      "forks": 20,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Scientific Agent Skills is a library of AI agent skills for scientific research, with over 160 tools and 100+ databases. It supports the open Agent Skills standard and is used by many scientists. It covers biology, chemistry, medicine, and drug discovery.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-09-03T02:37:46.830892+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Iwtbs27/collab-agent",
+      "title": "collab-agent",
+      "description": "A lightweight multi-agent system",
+      "url": "https://github.com/Iwtbs27/collab-agent",
+      "stars": 96,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-08-28T11:05:25Z",
+      "updated_at": "2026-08-31T16:25:04Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Multi-agent systems enable multiple AI agents to collaborate and solve complex problems more efficiently than single agents. They share information and coordinate actions to achieve common goals. This approach enhances problem-solving efficiency by up to 40%.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-09-03T02:37:49.265268+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "gozen3ji/consulting-pptx-skill",
+      "title": "consulting-pptx-skill",
+      "description": "AIにまじなPPTXを作らせるClaude Codeスキル — スライド規約＋38型SlideSpec＋生成パイプライン＋機械チェック",
+      "url": "https://github.com/gozen3ji/consulting-pptx-skill",
+      "stars": 93,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-09-02T11:53:05Z",
+      "updated_at": "2026-09-02T22:08:50Z",
+      "forks": 6,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The consulting-pptx-skill is a tool for generating PowerPoint presentations with predefined slide templates and automated checks. It includes a catalog of 38 slide types and a JSON format for slide specifications. The tool automates the creation process from HTML to editable PPTX files.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-03T02:37:52.110770+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "v2space-labs/shader-for-interfaces",
+      "title": "shader-for-interfaces",
+      "description": "Agent Skill for designing, building, debugging, and validating focused GPU effects in product interfaces.",
+      "url": "https://github.com/v2space-labs/shader-for-interfaces",
+      "stars": 90,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-08-30T09:04:01Z",
+      "updated_at": "2026-09-01T13:54:48Z",
+      "forks": 1,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Agent Skill for designing GPU effects in interfaces is called \"shader-for-interfaces.\" It focuses on building, debugging, and validating GPU effects. It's part of the broader set of skills for creating better interfaces.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-03T02:37:54.916026+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "ashutoshsinghpr7/wikiskill",
+      "title": "wikiskill",
+      "description": "WikiSkill (arXiv:2608.27454) for Hermes Agent — self-evolving agent skills via a persistent knowledge wiki. Faithful Algorithm 1 implementation with real agent runs, isolated skill gating, and a documented live run log.",
+      "url": "https://github.com/ashutoshsinghpr7/wikiskill",
+      "stars": 88,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "agents",
+        "ai-agents",
+        "arxiv",
+        "hermes-agent",
+        "llm",
+        "llm-agents",
+        "persistent-knowledge",
+        "self-improving-agents",
+        "skill-evolution"
+      ],
+      "created_at": "2026-08-29T20:44:02Z",
+      "updated_at": "2026-09-01T20:05:26Z",
+      "forks": 7,
+      "open_issues": 3,
+      "relevance_score": 0.8999999999999999,
+      "summary": "WikiSkill is a framework that evolves agent skills through a persistent knowledge base, consistently outperforming other skill-evolution methods. It separates execution experience, accumulated knowledge, and skills, consolidating experience for future updates. It complements model scaling.",
+      "tags": [
+        "agents",
+        "llm-agents",
+        "ai-agents",
+        "self-improving-agents",
+        "agent-skills"
+      ],
+      "analyzed_at": "2026-09-03T02:37:58.027584+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Mercor-Intelligence/ApexAgents-SkyRL-Recipe",
+      "title": "ApexAgents-SkyRL-Recipe",
+      "description": "RL-training knowledge-work agents on APEX-Agents data with SkyRL + Harbor",
+      "url": "https://github.com/Mercor-Intelligence/ApexAgents-SkyRL-Recipe",
+      "stars": 88,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-09-01T18:50:22Z",
+      "updated_at": "2026-09-01T18:55:50Z",
+      "forks": 7,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "RL-training knowledge-work agents on APEX-Agents data use SkyRL and Harbor. SkyRL provides the training loop and NCCL weight sync. Harbor manages the trial lifecycle.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-09-03T02:38:00.339140+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "AMAP-ML/LoopArena",
+      "title": "LoopArena",
+      "description": "Benchmarking models as runtime Controllers for Loop Engineering",
+      "url": "https://github.com/AMAP-ML/LoopArena",
+      "stars": 85,
+      "language": "Python",
+      "topics": [
+        "benchmark",
+        "coding-agents",
+        "evaluation",
+        "llm",
+        "loop-engineering",
+        "software-engineering"
+      ],
+      "created_at": "2026-08-31T02:47:02Z",
+      "updated_at": "2026-09-01T02:50:49Z",
+      "forks": 3,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "LoopArena benchmarks models for guiding coding agents in long software tasks, showing low success rates but significant cost reductions. The Type II setting cuts inference costs by 64.4%. It evaluates models at three levels: control decisions, task slices, and complete tasks.",
+      "tags": [
+        "loop-engineering",
+        "evaluation",
+        "software-engineering",
+        "coding-agents",
+        "benchmark"
+      ],
+      "analyzed_at": "2026-09-03T02:38:02.781851+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "ItsssssJack/SlopMonster",
+      "title": "SlopMonster",
+      "description": "Turn AI-written copy into copy a human would ship. Lint for AI tells, cleanse with a rival model, lint again.",
+      "url": "https://github.com/ItsssssJack/SlopMonster",
+      "stars": 84,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-08-29T18:05:19Z",
+      "updated_at": "2026-09-01T10:18:42Z",
+      "forks": 14,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "To humanize AI-written content, use tools that rewrite text for natural flow, avoid robotic patterns, and add personal touches. BuildShip's AI Slop Cleaner identifies and corrects machine-generated writing patterns. Final human edits are essential for personal touches.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-03T02:38:05.912342+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "razr001/audit-mind",
+      "title": "audit-mind",
+      "description": "AuditMind 是一个面向法规合规与审计场景的 AI Agent 系统，支持法规知识管理、可追溯规则抽取、文档合规审计、审计任务管理和基于原文证据的智能问答",
+      "url": "https://github.com/razr001/audit-mind",
+      "stars": 84,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-08-31T14:11:20Z",
+      "updated_at": "2026-09-01T17:14:00Z",
+      "forks": 1,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "AuditMind is an AI system for regulatory compliance and audit, supporting rule extraction, compliance audits, and intelligent Q&A based on original evidence. It automates repetitive tasks and reduces audit costs.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-03T02:38:08.341662+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "usedotai/dot-reflex",
+      "title": "dot-reflex",
+      "description": "Open-source agent execution-recovery controller for coding and tool-using AI agents.",
+      "url": "https://github.com/usedotai/dot-reflex",
+      "stars": 81,
+      "language": "Python",
+      "topics": [
+        "agent-supervision",
+        "ai-agents",
+        "coding-agents",
+        "llm",
+        "open-source",
+        "qlora",
+        "qwen3",
+        "recovery-controller"
+      ],
+      "created_at": "2026-08-28T14:00:16Z",
+      "updated_at": "2026-08-28T14:00:48Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Dot-Reflex is an open-source agent execution-recovery controller for AI agents, designed to supervise and recover from coding and tool-using tasks. It provides control decisions to manage agent trajectories. It is licensed under Apache-2.0.",
+      "tags": [
+        "open-source",
+        "agent-supervision",
+        "ai-agents",
+        "coding-agents",
+        "qwen3"
+      ],
+      "analyzed_at": "2026-09-03T02:38:10.260398+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "ara-mkr/Wonder-Pill",
+      "title": "Wonder-Pill",
+      "description": "A Claude skill that turns brainstorming into an interactive mind map of inverted assumptions — no answers, no ranking, just provocations.",
+      "url": "https://github.com/ara-mkr/Wonder-Pill",
+      "stars": 81,
+      "language": null,
+      "topics": [
+        "ai",
+        "ai-tools",
+        "claude",
+        "claude-ai",
+        "claude-code-skill",
+        "claude-desktop",
+        "claude-skills",
+        "codex-skill",
+        "skill-md",
+        "skills",
+        "skills-sh"
+      ],
+      "created_at": "2026-08-31T17:04:57Z",
+      "updated_at": "2026-09-02T19:38:28Z",
+      "forks": 6,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "An AI system built by a team at Amazon can generate interactive mind maps from text and ideas. It connects concepts into a personal knowledge atlas. It's flexible and customizable for various uses.",
+      "tags": [
+        "codex-skill",
+        "claude-skills",
+        "claude",
+        "ai",
+        "skills"
+      ],
+      "analyzed_at": "2026-09-03T02:38:13.193471+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "romangojiberryAI/gojiberryai-sales-os",
+      "title": "gojiberryai-sales-os",
+      "description": "GojiberryAI Sales OS: a full AI outbound team for Grok Bot, powered by the GojiberryAI MCP.",
+      "url": "https://github.com/romangojiberryAI/gojiberryai-sales-os",
+      "stars": 80,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-09-01T09:07:40Z",
+      "updated_at": "2026-09-01T09:11:08Z",
+      "forks": 21,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "GojiberryAI is an AI-powered sales platform that automates high-intent lead outreach and generates personalized sales messages. It uses intent data to prioritize and contact the best prospects. The platform is designed to streamline outbound sales processes.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-03T02:38:18.095637+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "krispuckett/murmur",
+      "title": "murmur",
+      "description": "Responsive AI presence orbs for SwiftUI. Metal glass shaders with states, voice and typing signals.",
+      "url": "https://github.com/krispuckett/murmur",
+      "stars": 80,
+      "language": "Metal",
+      "topics": [],
+      "created_at": "2026-08-28T20:31:05Z",
+      "updated_at": "2026-08-29T19:56:43Z",
+      "forks": 0,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Murmur is a SwiftUI library for creating responsive AI presence orbs with Metal glass shaders. It supports voice and typing signals. The web version uses WebGL for similar effects.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-03T02:38:20.666280+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "archer-clawbot/omarchy-hermarchy-theme",
+      "title": "omarchy-hermarchy-theme",
+      "description": "A restrained research-workstation theme for Omarchy with optional Hermes agent status",
+      "url": "https://github.com/archer-clawbot/omarchy-hermarchy-theme",
+      "stars": 78,
+      "language": "Python",
+      "topics": [
+        "hermes-agent",
+        "hyprland",
+        "linux-theme",
+        "nous-research",
+        "omarchy",
+        "omarchy-theme"
+      ],
+      "created_at": "2026-08-28T14:32:15Z",
+      "updated_at": "2026-08-29T18:31:34Z",
+      "forks": 4,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Omarchy features a theme called Hermarchy with optional Hermes agent status. It includes a dynamic bridge for Omarchy and Hermes dashboards. Themes can be customized and selected via Omarchy's menu.",
+      "tags": [
+        "omarchy-theme",
+        "nous-research",
+        "linux-theme",
+        "hermes-agent",
+        "omarchy"
+      ],
+      "analyzed_at": "2026-09-03T02:38:23.946488+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "baidu-baige/LoongSage",
+      "title": "LoongSage",
+      "description": "A production-grade, high-efficiency Agentic RL framework for frontier LLMs with validated recipes.",
+      "url": "https://github.com/baidu-baige/LoongSage",
+      "stars": 77,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-08-28T07:22:30Z",
+      "updated_at": "2026-08-29T03:31:15Z",
+      "forks": 4,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "LoongSage is a high-efficiency reinforcement learning framework for post-training large language models, open-sourced in 2026 under Apache License 2.0. It uses Ray, Megatron-Core, and SGLang for orchestration, training, and inference. It supports versatile agents and ultra-large models.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-03T02:38:27.221794+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
