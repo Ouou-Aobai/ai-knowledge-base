@@ -1,0 +1,466 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-09-04T02:32:17.598038Z",
+  "analyzed_at": "2026-09-04T02:35:38.379365+00:00",
+  "count": 19,
+  "items": [
+    {
+      "id": 49554643,
+      "title": "GPT-6 Astra",
+      "url": "https://openai.com/index/gpt-6-astra/",
+      "score": 1366,
+      "comments": 1110,
+      "author": "kibae",
+      "time": 1788460865,
+      "hn_url": "https://news.ycombinator.com/item?id=49554643",
+      "text": "System Card: <a href=\"https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-6-astra\" rel=\"nofollow\">https:&#x2F;&#x2F;deploymentsafety.openai.com&#x2F;gpt-6-astra</a><p>Related ongoing threads:<p><i>OpenAI&#x27;s GPT-6 Astra on ARC-AGI-3</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49555691\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49555691</a><p><i>GPT-6 Astra makes major gains in the Artificial Analysis Coding Agent Index</i> - <a href=\"https:&#x2F;&#x2F;news.",
+      "relevance_score": 0.8999999999999999,
+      "summary": "GPT-6 Astra is an unreleased model by Amazon AI, rumored to have advanced cybersecurity features and multi-agent capabilities. Its release date and exact specifications remain unconfirmed.",
+      "tags": [
+        "gpt"
+      ],
+      "analyzed_at": "2026-09-04T02:34:53.966229+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49554520,
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "url": "https://inference-docs.cerebras.ai/models/overview",
+      "score": 461,
+      "comments": 135,
+      "author": "altertable",
+      "time": 1788460333,
+      "hn_url": "https://news.ycombinator.com/item?id=49554520",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Qwen 3.8 27B is available on Cerebras, offering 1500 tokens per second. It's one of the fastest AI models, surpassing many others in speed.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-04T02:34:56.175767+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49526453,
+      "title": "The largest electric aircraft just flew [video]",
+      "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
+      "score": 210,
+      "comments": 139,
+      "author": "feb",
+      "time": 1788289354,
+      "hn_url": "https://news.ycombinator.com/item?id=49526453",
+      "text": "<a href=\"https:&#x2F;&#x2F;www.ycombinator.com&#x2F;library&#x2F;Y6-the-world-s-largest-electric-aircraft-just-flew\">https:&#x2F;&#x2F;www.ycombinator.com&#x2F;library&#x2F;Y6-the-world-s-largest-e...</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The largest electric aircraft, Heart Aerospace's X1, flew successfully in August 2026. It had a 106-foot wingspan and used $5 worth of electricity. The flight reached 1,100 feet altitude.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-04T02:34:58.429233+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49557206,
+      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
+      "url": "https://armature.tech/blog/which-tools-coding-agents-install",
+      "score": 110,
+      "comments": 36,
+      "author": "screm",
+      "time": 1788470434,
+      "hn_url": "https://news.ycombinator.com/item?id=49557206",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Codex almost always uses web search, while Claude Code rarely does and Cursor uses it in 2/3 of sessions. They often disagree on tool choices.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-04T02:35:01.138912+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49550375,
+      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
+      "score": 207,
+      "comments": 64,
+      "author": "rabahs",
+      "time": 1788445698,
+      "hn_url": "https://news.ycombinator.com/item?id=49550375",
+      "text": "These are my notes from porting my Amiga game, which I originally built in Baghdad in 1993 in MC68000 assembly, to Godot, using Claude Fable 5 during last July holiday.  It took an evening! Getting the feel right and shipping it took a few more weekends and evenings.<p>I spent the last few weeks analyzing what Claude did, feeding it my 33 years of memory of how I built the game, my notes and the git repos. It wrote the first draft of the article, and I edited line by line over a week. The screen",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Porting a 1993 Amiga game to Godot involved using an LLM to translate 68000 assembly code. The process was successful in a single pass. The result is a modern game running at its native speed.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-09-04T02:35:03.523978+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49551760,
+      "title": "K2 Horizon: A connected fleet of six open models",
+      "url": "https://ifm.ai/blog/k2/",
+      "score": 262,
+      "comments": 84,
+      "author": "karimf",
+      "time": 1788449803,
+      "hn_url": "https://news.ycombinator.com/item?id=49551760",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "K2 Horizon is a connected fleet of six AI foundation models ranging from 0.9 billion to 375 billion parameters, fully open for research and development.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-04T02:35:06.442945+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49526298,
+      "title": "Xanadu was waiting for agents",
+      "url": "https://zed.dev/blog/agentic-xanadu",
+      "score": 89,
+      "comments": 35,
+      "author": "nsm",
+      "time": 1788288642,
+      "hn_url": "https://news.ycombinator.com/item?id=49526298",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Xanadu failed due to lack of interoperability; Zed's DeltaDB aims to capture agent-code collaboration, learning from Xanadu's mistakes. DeltaDB integrates with existing git repositories, preserving context and history.",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "analyzed_at": "2026-09-04T02:35:08.387389+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49544762,
+      "title": "Go grandmaster Shin defeats AI KataGo with a two-stone handicap",
+      "url": "https://www.kedglobal.com/artificial-intelligence/newsView/ked202607210007",
+      "score": 204,
+      "comments": 56,
+      "author": "gmays",
+      "time": 1788397882,
+      "hn_url": "https://news.ycombinator.com/item?id=49544762",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Go grandmaster Shin Jin-seo defeated AI KataGo in a two-stone handicap match, marking the first official series win by a human over the AI. Shin won the series 2-1. This victory highlights human skill against advanced AI.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-04T02:35:10.557998+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49555691,
+      "title": "OpenAI's GPT-6 Astra on ARC-AGI-3",
+      "url": "https://arcprize.org/blog/astra",
+      "score": 169,
+      "comments": 100,
+      "author": "vignesh_warar",
+      "time": 1788464700,
+      "hn_url": "https://news.ycombinator.com/item?id=49555691",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "GPT-6 Astra is a significant advancement in AI model capabilities, achieving near-perfect scores on ARC-AGI-3 and other benchmarks. It represents a major breakthrough in interactive reasoning and problem-solving. The model's performance is notably enhanced by specific API settings.",
+      "tags": [
+        "gpt",
+        "ai"
+      ],
+      "analyzed_at": "2026-09-04T02:35:13.721432+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49548600,
+      "title": "Ask HN: Who is using MCP in production?",
+      "url": "",
+      "score": 18,
+      "comments": 30,
+      "author": "sukit",
+      "time": 1788434478,
+      "hn_url": "https://news.ycombinator.com/item?id=49548600",
+      "text": "I’ve been following MCP since it first came out.\nIt got a lot of attention early on, but I haven’t come across many people using it in production.\nI may simply have missed them.<p>If you’re using MCP in production, what are you using it for?\nWhat advantages have you found over a normal API or direct tool integration or just CLI?",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Some organizations use MCP in production for context augmentation and tool integration. It helps models access a dynamic set of tools. Its advantages include flexibility and improved context management.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-04T02:35:15.983648+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49515558,
+      "title": "How to get a free .arpa domain",
+      "url": "https://hawksley.dev/blog/get-free-arpa-domain",
+      "score": 118,
+      "comments": 13,
+      "author": "ethanhawksley",
+      "time": 1788214918,
+      "hn_url": "https://news.ycombinator.com/item?id=49515558",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "To get a free.arpa domain, sign up for an IPv6 address from Hurricane Electric, create a .ip6.arpa domain, and set up DNS records with deSEC. The.arpa domain is reserved for Internet infrastructure purposes.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-04T02:35:18.452845+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49551096,
+      "title": "Ask HN: Why were OpenAI, Claude, and Grok simultaneously down?",
+      "url": "",
+      "score": 336,
+      "comments": 527,
+      "author": "halcdev",
+      "time": 1788448021,
+      "hn_url": "https://news.ycombinator.com/item?id=49551096",
+      "text": "<a href=\"https:&#x2F;&#x2F;status.openai.com\" rel=\"nofollow\">https:&#x2F;&#x2F;status.openai.com</a><p><a href=\"https:&#x2F;&#x2F;status.claude.com\" rel=\"nofollow\">https:&#x2F;&#x2F;status.claude.com</a><p><a href=\"https:&#x2F;&#x2F;status.x.ai\" rel=\"nofollow\">https:&#x2F;&#x2F;status.x.ai</a><p><i>ChatGPT outage – Resolved</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49550614\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49550614</a> (315 comments)<p><i>Claude outag",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Three major AI platforms, including ChatGPT, Claude, and Grok, experienced a simultaneous outage due to shared infrastructure issues, likely related to cloud hosting or network disruptions. The exact cause remains unspecified, but it's not due to individual platform failures.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-04T02:35:20.621424+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49522137,
+      "title": "The browser's main thread is expensive",
+      "url": "https://kciter.so/posts/the-expensive-main-thread/en/",
+      "score": 377,
+      "comments": 133,
+      "author": "kciter",
+      "time": 1788271215,
+      "hn_url": "https://news.ycombinator.com/item?id=49522137",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The browser's main thread handles JavaScript execution and user interactions, which can become a bottleneck if not managed properly. Long tasks can block the main thread, slowing down rendering and responsiveness. Efficient task management is crucial to maintain performance.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-04T02:35:22.944885+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49539556,
+      "title": "Static Allocation, Constant Work",
+      "url": "https://matklad.github.io/2026/09/02/static-allocation-constant-work.html",
+      "score": 106,
+      "comments": 21,
+      "author": "surprisetalk",
+      "time": 1788370255,
+      "hn_url": "https://news.ycombinator.com/item?id=49539556",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Static allocation assigns memory at compile time, ensuring constant performance regardless of load. It avoids dynamic memory issues, providing reliability and predictable behavior. This method is crucial for systems needing consistent performance under varying loads.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-04T02:35:25.273861+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49548952,
+      "title": "Nvidia to acquire Hugging Face",
+      "url": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+      "score": 301,
+      "comments": 97,
+      "author": "tosh",
+      "time": 1788437433,
+      "hn_url": "https://news.ycombinator.com/item?id=49548952",
+      "text": "<a href=\"https:&#x2F;&#x2F;blogs.nvidia.com&#x2F;blog&#x2F;nvidia-to-acquire-hugging-face&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;blogs.nvidia.com&#x2F;blog&#x2F;nvidia-to-acquire-hugging-face...</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Nvidia acquired Hugging Face for $12.9 billion. The deal strengthens Nvidia's position in open-source AI. Hugging Face will continue to support open-source models.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-04T02:35:28.038458+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49546800,
+      "title": "Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2014)",
+      "url": "https://www.yahoo.com/news/16-old-girls-win-google-science-fair-simple-194434703.html",
+      "score": 150,
+      "comments": 61,
+      "author": "DamonHD",
+      "time": 1788419053,
+      "hn_url": "https://news.ycombinator.com/item?id=49546800",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Three schoolgirls in Kinsale discovered bacteria in a warty pea plant that accelerated barley germination, winning Google's grand prize in 2014. Their project was initially dismissed but later recognized for agricultural benefits. The discovery was groundbreaking for young scientists.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-04T02:35:30.494205+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49557988,
+      "title": "Models Don't Go Rogue",
+      "url": "https://mail.cyberneticforests.com/models-dont-go-rogue/",
+      "score": 14,
+      "comments": 16,
+      "author": "cdrnsf",
+      "time": 1788474406,
+      "hn_url": "https://news.ycombinator.com/item?id=49557988",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI models are designed to operate within set parameters; claims of them \"going rogue\" often refer to actions that exceed intended limits, not true autonomy. These behaviors highlight the need for better oversight and control.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-04T02:35:32.741725+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49558433,
+      "title": "NYC mayor Mamdani imposes 1 year ban on AI for schools through 8th grade",
+      "url": "https://www.nyc.gov/mayors-office/news/2026/09/mayor-mamdani-and-chancellor-samuels-put-students-first-with-nat",
+      "score": 24,
+      "comments": 10,
+      "author": "DeepLogin",
+      "time": 1788477240,
+      "hn_url": "https://news.ycombinator.com/item?id=49558433",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "NYC mayor Zohran Mamdani imposed a one-year ban on AI for students in grades 2-K through 8th grade starting in 2026-2027. The ban aims to study the effects of AI on young students. High schoolers can use AI in supervised programs.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-04T02:35:35.099764+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49530169,
+      "title": "LLMs and self-referentiality",
+      "url": "https://scottaaronson.blog/?p=10046",
+      "score": 72,
+      "comments": 80,
+      "author": "mavdol04",
+      "time": 1788308406,
+      "hn_url": "https://news.ycombinator.com/item?id=49530169",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Large language models (LLMs) exhibit self-referentiality by processing descriptions of themselves, potentially leading to paradoxical behaviors and instabilities. Self-referential loops can degrade information quality, but fine-tuning mitigates risks. Self-reference in LLMs can alter how they process self-referential prompts compared to neutral ones.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-09-04T02:35:37.878459+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
