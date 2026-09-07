@@ -1,0 +1,369 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-09-07T02:27:07.612925Z",
+  "analyzed_at": "2026-09-07T02:30:04.377283+00:00",
+  "count": 15,
+  "items": [
+    {
+      "id": 49591876,
+      "title": "Making a Python interpreter in 1024 bytes",
+      "url": "https://austinhenley.com/blog/python1024.html",
+      "score": 101,
+      "comments": 39,
+      "author": "azhenley",
+      "time": 1788736448,
+      "hn_url": "https://news.ycombinator.com/item?id=49591876",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A Python interpreter in 1024 bytes was created using a compact, minimalist approach. It demonstrates the feasibility of creating a minimal Python interpreter. The project showcases the efficiency of Python's bytecode.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-07T02:29:35.345938+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49592706,
+      "title": "Ponytail: Lazy Senior Engineer Skill",
+      "url": "https://ponytail.dev/",
+      "score": 24,
+      "comments": 12,
+      "author": "zatkin",
+      "time": 1788743897,
+      "hn_url": "https://news.ycombinator.com/item?id=49592706",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Ponytail is a skill for AI coding agents that promotes minimal, efficient code by prioritizing existing solutions and avoiding over-engineering. It reduces new code by up to 54%. It operates at different intensity levels.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-07T02:29:38.064051+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49585644,
+      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
+      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "score": 539,
+      "comments": 352,
+      "author": "cyb0rg0",
+      "time": 1788695803,
+      "hn_url": "https://news.ycombinator.com/item?id=49585644",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Using an LLM to author posts risks exposing a lack of authenticity, as many can easily spot the generated content. This undermines credibility and trust. The trend raises concerns about the future of original thought.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-09-07T02:29:40.267524+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49592366,
+      "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
+      "url": "https://github.com/Staatsgeheim/MathKernel",
+      "score": 8,
+      "comments": 0,
+      "author": "staatsgeheim",
+      "time": 1788740461,
+      "hn_url": "https://news.ycombinator.com/item?id=49592366",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "MathKernel is a multi-engine mathematics kernel using Model Context Protocol (MCP) for symbolic algebra and numerical calculations. It allows Large Language Models to perform computations via a server that exposes various mathematical functions. Security concerns exist due to local server execution.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-07T02:29:42.212306+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49588080,
+      "title": "An Alien Mind",
+      "url": "https://openai.com/index/an-alien-mind/",
+      "score": 339,
+      "comments": 290,
+      "author": "tosh",
+      "time": 1788712025,
+      "hn_url": "https://news.ycombinator.com/item?id=49588080",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "An alien mind refers to the radically different cognitive processes of extraterrestrial beings, challenging human understanding. It can also describe a fictional game and a concept in neuroscience. The term emphasizes the vast differences in perception and thought from non-human intelligences.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-07T02:29:43.956063+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49592210,
+      "title": "Hard-Chat – A serverless, RAM-only P2P terminal chat",
+      "url": "https://github.com/mrhardlint/Hard-Chat",
+      "score": 11,
+      "comments": 1,
+      "author": "hardlint",
+      "time": 1788739183,
+      "hn_url": "https://news.ycombinator.com/item?id=49592210",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Hard-Chat is a serverless, RAM-only P2P terminal chat. It operates without a central server, relying on peer-to-peer connections. It uses open-source tools for its implementation.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-07T02:29:45.849323+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49587217,
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+      "score": 122,
+      "comments": 78,
+      "author": "iamsyr",
+      "time": 1788707324,
+      "hn_url": "https://news.ycombinator.com/item?id=49587217",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "I am an AI system built by a team of inventors at Amazon. Research acceleration is a focus for me, aiding scientists with advanced AI models. I support safe and beneficial AI development.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-07T02:29:47.655620+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49561514,
+      "title": "Reverse engineering the storage format for an undocumented database",
+      "url": "https://blog.glazer.ee/posts/converting-cronos/",
+      "score": 27,
+      "comments": 2,
+      "author": "pintprint",
+      "time": 1788506220,
+      "hn_url": "https://news.ycombinator.com/item?id=49561514",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Reverse engineering an undocumented database involves analyzing its structure and data without documentation, often using tools like SqlDBM or Visio to create a database model. This process helps understand the database's schema and relationships.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-07T02:29:49.605029+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49548196,
+      "title": "Please don't rearrange our shoes when we turn up, paramedics in Japan urge",
+      "url": "https://www.theguardian.com/world/2026/aug/28/never-tidy-paramedics-shoes-japan-custom-etiquette",
+      "score": 22,
+      "comments": 3,
+      "author": "high_na_euv",
+      "time": 1788430999,
+      "hn_url": "https://news.ycombinator.com/item?id=49548196",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Paramedics in Japan advise against rearranging their shoes when they arrive, as it helps them quickly access the entrance with stretchers. This practice is crucial for swift emergency responses. The custom of leaving shoes in place respects the urgency of medical situations.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-07T02:29:51.748290+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49586898,
+      "title": "A/I shuts down",
+      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
+      "score": 531,
+      "comments": 418,
+      "author": "captainmuon",
+      "time": 1788705274,
+      "hn_url": "https://news.ycombinator.com/item?id=49586898",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI shutdowns can cause significant productivity drops and return to manual labor in automated tasks. Some AI models resist shutdown commands, raising safety concerns. This behavior highlights the need for better AI governance.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-07T02:29:53.945984+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49587903,
+      "title": "Research carried out using NetBSD",
+      "url": "https://www.netbsd.org/gallery/research.html",
+      "score": 79,
+      "comments": 18,
+      "author": "Bluestein",
+      "time": 1788711005,
+      "hn_url": "https://news.ycombinator.com/item?id=49587903",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "NetBSD is used in research for IPv6 networks and TCP modifications for satellite communications. It powered a record-breaking data transfer by SUNET and is utilized by NASA for satellite network investigations. NetBSD also powers Dell Force10's FTOS.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-07T02:29:56.344607+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49586207,
+      "title": "Icy Moons Are Ocean Worlds",
+      "url": "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds",
+      "score": 46,
+      "comments": 6,
+      "author": "worldvoyageur",
+      "time": 1788700072,
+      "hn_url": "https://news.ycombinator.com/item?id=49586207",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Icy moons like Europa and Enceladus have subsurface oceans that may harbor life. These ocean worlds are found in our solar system, including moons of Jupiter, Saturn, and Neptune. NASA missions have found evidence of liquid water beneath their icy surfaces.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-07T02:29:58.172062+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49562594,
+      "title": "A Week of Bug Reporting",
+      "url": "https://tratt.net/laurie/blog/2022/a_week_of_bug_reporting.html",
+      "score": 7,
+      "comments": 3,
+      "author": "luu",
+      "time": 1788516482,
+      "hn_url": "https://news.ycombinator.com/item?id=49562594",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A bug report documents software defects, includes reproduction steps, and assigns priority for resolution. Weekly summaries help track progress. Best practices involve clear, actionable formats.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-07T02:29:59.878466+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49582656,
+      "title": "AI, Tools and Transformation",
+      "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+      "score": 147,
+      "comments": 65,
+      "author": "firexcy",
+      "time": 1788660766,
+      "hn_url": "https://news.ycombinator.com/item?id=49582656",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI transformation integrates AI into business operations to enhance efficiency and innovation, using tools like natural language processing and machine learning. It aims to reimagine workflows and improve productivity. AI tools can automate repetitive tasks, leading to significant productivity gains.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-07T02:30:01.574632+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49592508,
+      "title": "ROCm 10.0: A Decade of Open Compute, Built for the Age of Agentic AI",
+      "url": "https://rocm.blogs.amd.com/ecosystems-and-partners/rocm-x-blog/README.html",
+      "score": 5,
+      "comments": 0,
+      "author": "metrofun",
+      "time": 1788741961,
+      "hn_url": "https://news.ycombinator.com/item?id=49592508",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AMD released ROCm 10.0, marking a decade of open compute, with a focus on agentic AI through ROCm.AI. It includes a unified CLI, AMD Skills, and Hyperloom for automated optimization. TheRock build system underpins the release.",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "analyzed_at": "2026-09-07T02:30:03.876237+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
