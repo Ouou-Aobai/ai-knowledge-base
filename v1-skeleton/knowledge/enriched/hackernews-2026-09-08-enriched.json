@@ -1,0 +1,512 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-09-08T02:40:08.543413Z",
+  "analyzed_at": "2026-09-08T02:43:39.049810+00:00",
+  "count": 21,
+  "items": [
+    {
+      "id": 49604637,
+      "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
+      "score": 98,
+      "comments": 20,
+      "author": "ahlCVA",
+      "time": 1788830219,
+      "hn_url": "https://news.ycombinator.com/item?id=49604637",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Factoring RSA keys from the 90s is feasible due to advancements in computational power and algorithms. RSA-512 keys are particularly vulnerable. Modern hardware can factor these keys efficiently.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-08T02:42:52.575778+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49603546,
+      "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
+      "url": "https://github.com/Sadpainy/Stuxnet",
+      "score": 107,
+      "comments": 34,
+      "author": "CMDDestory",
+      "time": 1788819158,
+      "hn_url": "https://news.ycombinator.com/item?id=49603546",
+      "text": "Stuxnet! Here reproduced by me. Only researchs educations purposes.",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Stuxnet is a reconstructed source code for a cyber-weapon targeting Siemens PLCs, released for educational purposes. It is not intended for real-world deployment. The original source code remains undisclosed.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-08T02:42:54.554434+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49575515,
+      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+      "url": "https://arxiv.org/abs/2607.24888",
+      "score": 162,
+      "comments": 35,
+      "author": "signa11",
+      "time": 1788607518,
+      "hn_url": "https://news.ycombinator.com/item?id=49575515",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The trusting-trust attack extends beyond compilers to compromise entire Linux distributions by manipulating the GNU strip utility, affecting all binaries and ensuring persistent compromise. The attack leverages the utility's role in processing finished binaries.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-08T02:42:56.833085+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49569838,
+      "title": "Scientists observe Einstein's gravity in the quantum world",
+      "url": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
+      "score": 153,
+      "comments": 39,
+      "author": "mudil",
+      "time": 1788553732,
+      "hn_url": "https://news.ycombinator.com/item?id=49569838",
+      "text": "<a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=CfjnTJos_no\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=CfjnTJos_no</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Scientists confirmed Einstein's gravity in quantum objects, showing consistency with his theory. This was first observed in a direct experiment. The study was published in Science Advances.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-08T02:42:59.554983+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49560682,
+      "title": "John Margolies' Photographs of Roadside America",
+      "url": "https://publicdomainreview.org/collection/john-margolies-photographs-of-roadside-america/",
+      "score": 20,
+      "comments": 6,
+      "author": "duck",
+      "time": 1788497842,
+      "hn_url": "https://news.ycombinator.com/item?id=49560682",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "John Margolies was an American photographer known for capturing vernacular roadside architecture in the U.S. from the 1970s to 2008. His work is preserved in the John Margolies Roadside America Photograph Archive at the Library of Congress. Margolies' photographs document unique roadside attractions and commercial structures.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-08T02:43:02.483226+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49568162,
+      "title": "Show HN: I built an aesthetically pleasing puzzle",
+      "url": "https://jigsawhaiku.com/",
+      "score": 62,
+      "comments": 21,
+      "author": "windowshopping",
+      "time": 1788545684,
+      "hn_url": "https://news.ycombinator.com/item?id=49568162",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "An aesthetically pleasing puzzle was showcased on Hacker News. The project aims to provide an engaging and visually appealing experience. This puzzle is available at jigsawhaiku.com.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-08T02:43:04.891222+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49569748,
+      "title": "Finding a bug in Dummit and Foote's Abstract Algebra",
+      "url": "https://kallus.org/blog/dummit_and_foote.html",
+      "score": 68,
+      "comments": 32,
+      "author": "evakhoury",
+      "time": 1788553207,
+      "hn_url": "https://news.ycombinator.com/item?id=49569748",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A bug was found in Dummit and Foote's Abstract Algebra regarding the first proof exercise. The function described is injective but lacks a left inverse. The book's claim was incorrect.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-08T02:43:07.878726+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49564064,
+      "title": "Colorlight 5A-75B: A dive into a popular low-cost ECP5 (FPGA) development board",
+      "url": "https://blog.yosyshq.com/p/colorlight-part-1/",
+      "score": 9,
+      "comments": 2,
+      "author": "gregsadetsky",
+      "time": 1788527131,
+      "hn_url": "https://news.ycombinator.com/item?id=49564064",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Colorlight 5A-75B is a low-cost FPGA development board based on Lattice ECP5, supported by open-source tools, and priced around $20-$25. It's ideal for beginners and features on-board peripherals, Ethernet, and SDRAM.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-08T02:43:10.938026+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49596055,
+      "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
+      "url": "https://mathathonchallenge.com/index.html",
+      "score": 232,
+      "comments": 83,
+      "author": "astroanax",
+      "time": 1788773213,
+      "hn_url": "https://news.ycombinator.com/item?id=49596055",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Caltech Mathathon is the first research-level mathematics hackathon, held October 9-11, 2026, at Caltech. Teams will solve open problems using AI. Prizes will be awarded for promising results.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-08T02:43:12.915988+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49586207,
+      "title": "Icy Moons Are Ocean Worlds",
+      "url": "https://mceglowski.substack.com/p/icy-moons-are-ocean-worlds",
+      "score": 137,
+      "comments": 13,
+      "author": "worldvoyageur",
+      "time": 1788700072,
+      "hn_url": "https://news.ycombinator.com/item?id=49586207",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Icy moons like Europa, Enceladus, and Titan have vast underground oceans of liquid water, potentially harboring life. Discoveries were made by missions like Voyager, Galileo, and Cassini. These moons could hold more ocean volume than Earth's oceans combined.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-08T02:43:15.159071+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49561002,
+      "title": "Decoding the NEC V20 Microcode",
+      "url": "https://martypc.blogspot.com/2026/09/decoding-nec-v20-microcode.html",
+      "score": 125,
+      "comments": 8,
+      "author": "mariuz",
+      "time": 1788501218,
+      "hn_url": "https://news.ycombinator.com/item?id=49561002",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The NEC V20 is a microprocessor compatible with the Intel 8088. Its microcode was legally disputed, but found to be sufficiently different from Intel's. MartyPC decoded its microcode using die photography and machine learning.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-08T02:43:17.028645+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49602716,
+      "title": "Macbeth and His Problems",
+      "url": "https://porticoquarterly.com/essay/macbeth-and-his-problems/",
+      "score": 41,
+      "comments": 17,
+      "author": "apophatic",
+      "time": 1788813272,
+      "hn_url": "https://news.ycombinator.com/item?id=49602716",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Macbeth's problems stem from his moral decline and lack of motivation, with his ambition driven more by Lady Macbeth than himself. The play's supernatural elements and moral complexity make it challenging to stage. Macbeth's tragic flaw is his unchecked ambition leading to tyranny.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-08T02:43:19.142298+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49604312,
+      "title": "Europe's largest carbon capture facility opens in the Netherlands",
+      "url": "https://www.yara.com/corporate-releases/europes-largest-carbon-capture-facility-officially-inaugurated-at-yara-sluiskil-in-the-netherlands/",
+      "score": 6,
+      "comments": 0,
+      "author": "negura",
+      "time": 1788825985,
+      "hn_url": "https://news.ycombinator.com/item?id=49604312",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Europe's largest carbon capture facility opened in the Netherlands in 2023, capturing up to 800,000 tons of CO2 annually, and transporting it to Norway for permanent storage. This project aims to decarbonize large-scale industrial processes.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-08T02:43:20.965971+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49596054,
+      "title": "Speculative Decoding in vLLM on AMD GPUs",
+      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+      "score": 134,
+      "comments": 49,
+      "author": "ankitg12",
+      "time": 1788773201,
+      "hn_url": "https://news.ycombinator.com/item?id=49596054",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Speculative decoding in vLLM on AMD GPUs can achieve up to 2.3x speedup. It uses draft models to predict tokens ahead of time. This improves inference throughput significantly.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-09-08T02:43:22.998637+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49596610,
+      "title": "Initial effects of AI technology on employment look positive",
+      "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+      "score": 70,
+      "comments": 108,
+      "author": "MrBuddyCasino",
+      "time": 1788777512,
+      "hn_url": "https://news.ycombinator.com/item?id=49596610",
+      "text": "<a href=\"https:&#x2F;&#x2F;archive.md&#x2F;5hi5i\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.md&#x2F;5hi5i</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Initial effects of AI technology on employment are positive, with job creation exceeding job destruction. AI is creating new roles while reshaping skill requirements. Overall, AI has led to increased employment and innovation.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-08T02:43:25.783734+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49596274,
+      "title": "Impedance Matching (2017)",
+      "url": "https://www.edge.org/response-detail/27238",
+      "score": 77,
+      "comments": 22,
+      "author": "muti",
+      "time": 1788774746,
+      "hn_url": "https://news.ycombinator.com/item?id=49596274",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Impedance matching is the practice of adjusting electrical device impedances to maximize power transfer or minimize signal reflection. It is crucial in RF systems to prevent signal reflections and ensure maximum power transfer. The goal is often to match the antenna impedance to 50 Ω for optimal performance.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-08T02:43:27.778133+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49597189,
+      "title": "Smartphone makers don't bother to comply with EU repairability requirements",
+      "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+      "score": 271,
+      "comments": 169,
+      "author": "mdp2021",
+      "time": 1788781597,
+      "hn_url": "https://news.ycombinator.com/item?id=49597189",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Despite EU repairability requirements starting in June 2025, over 80% of smartphones still lack necessary repair information. Manufacturers have not complied with rules for repair manuals and spare parts prices. Enforcement and compliance reporting need improvement.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-08T02:43:30.090344+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49599481,
+      "title": "Bill Gates tries to install MovieMaker (2003)",
+      "url": "https://www.techemails.com/p/bill-gates-tries-to-install-movie-maker",
+      "score": 355,
+      "comments": 241,
+      "author": "highfrequency",
+      "time": 1788794823,
+      "hn_url": "https://news.ycombinator.com/item?id=49599481",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "In 2003, Bill Gates struggled to install Windows Movie Maker, criticizing its poor performance and usability. His feedback highlighted significant issues that needed addressing. This incident underscored the importance of user experience in software development.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-08T02:43:32.027589+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49597907,
+      "title": "De-Brainrot Vacations",
+      "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
+      "score": 469,
+      "comments": 189,
+      "author": "DanielVZ",
+      "time": 1788786048,
+      "hn_url": "https://news.ycombinator.com/item?id=49597907",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "De-brainrot vacations involve taking time off to engage in activities that reduce mental fog, like reading, nature, and socializing. Some people use this time to relearn subjects like math and physics. This trend emphasizes mental rejuvenation through breaks and new habits.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-08T02:43:34.168517+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49577422,
+      "title": "Rebuilding a 1995 GPS Time Server so I don't get Telstra'd",
+      "url": "https://www.jeffgeerling.com/blog/2026/truetime-xl-gps-time-server-restomod/",
+      "score": 34,
+      "comments": 14,
+      "author": "Brajeshwar",
+      "time": 1788621722,
+      "hn_url": "https://news.ycombinator.com/item?id=49577422",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Rebuilding a 1995 GPS time server involves using a Raspberry Pi and GNSS HAT for modern NTP timekeeping. The project stabilizes the onboard oscillator and revives LCD/LED indicators. Chrony and PPS support are configured for precise time synchronization.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-08T02:43:36.557017+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49593842,
+      "title": "Coop – Isolated VM Environments for Running Claude Code and Codex",
+      "url": "https://github.com/trailofbits/coop",
+      "score": 56,
+      "comments": 12,
+      "author": "aggrrrh",
+      "time": 1788754708,
+      "hn_url": "https://news.ycombinator.com/item?id=49593842",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Coop is an open-source tool for running AI coding agents in isolated virtual machines. It prevents risks to the host system and supports both local and cloud VMs. It is developed by Trail of Bits.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-08T02:43:38.548831+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
