@@ -1,0 +1,585 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-09-09T02:40:14.496393Z",
+  "analyzed_at": "2026-09-09T02:41:11.689781+00:00",
+  "count": 24,
+  "items": [
+    {
+      "id": 49615537,
+      "title": "Muse – Meta’s personal AI agent",
+      "url": "https://ai.meta.com/muse/",
+      "score": 344,
+      "comments": 344,
+      "author": "yks",
+      "time": 1788895500,
+      "hn_url": "https://news.ycombinator.com/item?id=49615537",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Muse is Meta's personal AI agent designed to automate tasks and operate securely. It can take actions on behalf of users and works in the background. It differentiates from chatbots by handling multi-step tasks independently.",
+      "tags": [
+        "ai",
+        "agent"
+      ],
+      "analyzed_at": "2026-09-09T02:40:17.030061+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49617581,
+      "title": "Large language models develop novel social biases through adaptive exploration",
+      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+      "score": 104,
+      "comments": 52,
+      "author": "paimapi",
+      "time": 1788904058,
+      "hn_url": "https://news.ycombinator.com/item?id=49617581",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Large language models can develop new social biases through adaptive exploration, even without inherent differences in demographic groups. This bias development occurs through interactions where models make decisions. Current bias removal methods are insufficient to prevent this.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-09T02:40:19.749005+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49611251,
+      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+      "score": 501,
+      "comments": 115,
+      "author": "utiiiD",
+      "time": 1788879345,
+      "hn_url": "https://news.ycombinator.com/item?id=49611251",
+      "text": "<a href=\"https:&#x2F;&#x2F;deepmind.google&#x2F;blog&#x2F;alphagenome-atlas-a-predictive-map-of-every-possible-dna-letter-change-in-the-human-genome&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;deepmind.google&#x2F;blog&#x2F;alphagenome-atlas-a-predictive-...</a><p><a href=\"https:&#x2F;&#x2F;deepmind.google.com&#x2F;science&#x2F;alphagenome&#x2F;atlas\" rel=\"nofollow\">https:&#x2F;&#x2F;deepmind.google.com&#x2F;science&#x2F;alphagenome&#x2F;atlas</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AlphaGenome Atlas is a comprehensive database mapping the effects of all 9 billion possible single-letter DNA changes in the human genome, available for free to researchers. It uses the AlphaGenome Variant Impact score to rank mutations by impact. It's a 1-petabyte dataset.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-09T02:40:21.752367+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49579482,
+      "title": "An Accidental Blackboard",
+      "url": "https://martinfowler.com/articles/exploring-gen-ai/an-accidental-blackboard.html",
+      "score": 9,
+      "comments": 1,
+      "author": "saikatsg",
+      "time": 1788634225,
+      "hn_url": "https://news.ycombinator.com/item?id=49579482",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "An Accidental Blackboard describes the rediscovery of the blackboard pattern in software engineering through an experiment. It was discussed by Chris Ford and Giles Edwards-Alexander on LinkedIn and featured on Martin Fowler's site. The concept focuses on software architecture and refactoring.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-09T02:40:23.726865+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49613262,
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "url": "https://openai.com/index/navier-stokes-solution/",
+      "score": 1145,
+      "comments": 985,
+      "author": "tedsanders",
+      "time": 1788887601,
+      "hn_url": "https://news.ycombinator.com/item?id=49613262",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Navier–Stokes existence and smoothness problem is one of the seven Millennium Prize Problems, offering a US$1,000,000 prize for proving the existence and smoothness of solutions to the Navier–Stokes equations in three-dimensional space. The problem remains unsolved and is considered highly challenging due to the equations' nonlinearity.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-09T02:40:26.633398+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49616968,
+      "title": "Tao: Open math problems being non-renewably mined by AI",
+      "url": "https://mathstodon.xyz/@tao/117237320796901560",
+      "score": 173,
+      "comments": 113,
+      "author": "_alternator_",
+      "time": 1788901252,
+      "hn_url": "https://news.ycombinator.com/item?id=49616968",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Terence Tao expresses concern over AI \"mining\" open math problems irresponsibly, likening it to a non-renewable resource. He worries this could diminish the value of insights gained from solving problems. He advocates for careful analysis over raw solutions.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-09T02:40:29.250150+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49591112,
+      "title": "The Microeconomics of Artificial Intelligence (2025)",
+      "url": "https://direct.mit.edu/books/oa-monograph/6067/The-Microeconomics-of-Artificial-Intelligence",
+      "score": 35,
+      "comments": 12,
+      "author": "neehao",
+      "time": 1788729863,
+      "hn_url": "https://news.ycombinator.com/item?id=49591112",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Microeconomics of Artificial Intelligence by Joshua Gans, published in 2025, focuses on AI's impact on decision-making and market dynamics. It is available from MIT Press and is licensed under Creative Commons. The book analyzes AI's supply, demand, and economic implications.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-09T02:40:31.603921+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49610631,
+      "title": "I-have-ADHD: A skill to stop coding agents from burying the answer",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "score": 327,
+      "comments": 257,
+      "author": "domhudson",
+      "time": 1788876806,
+      "hn_url": "https://news.ycombinator.com/item?id=49610631",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The \"i-have-ADHD\" skill simplifies AI coding agent responses by prioritizing direct answers, numbered steps, and clear next actions. It's popular for tools like Claude Code and Codex. It has over 7,300 stars.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-09-09T02:40:33.759056+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49616257,
+      "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
+      "url": "https://github.com/argonautlabsai/deltafin",
+      "score": 215,
+      "comments": 114,
+      "author": "Argonautlabs",
+      "time": 1788898075,
+      "hn_url": "https://news.ycombinator.com/item?id=49616257",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Kimi K3 model runs at 1 token/s on a MacBook Pro using four SSDs. It streams data locally without a GPU. The project is open-source.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-09T02:40:35.951979+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49598921,
+      "title": "Getting phpBB 1.4.4 working in Docker",
+      "url": "https://www.thran.uk/writ/devlog/2026/09/phpbb-144-in-docker.html",
+      "score": 26,
+      "comments": 13,
+      "author": "HeckFeck",
+      "time": 1788791712,
+      "hn_url": "https://news.ycombinator.com/item?id=49598921",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "To run phpBB 1.4.4 in Docker, use a Dockerfile and docker-compose.yml, and set database settings to `db` for server, `phpbb` for name, username, and password. After installation, secure `config.php` and remove installer scripts.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-09T02:40:37.935055+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49613068,
+      "title": "Show HN: LLM Attention Visualization",
+      "url": "https://ishamf.dev/p/llm-attention-visualizer/",
+      "score": 133,
+      "comments": 22,
+      "author": "ifz",
+      "time": 1788886781,
+      "hn_url": "https://news.ycombinator.com/item?id=49613068",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "LLM attention visualization tools help analyze how language models process text inputs through interactive visualizations. Inspectus and llm-attention-visualizer are notable open-source libraries for this purpose. They provide visual insights into attention mechanisms in transformer models.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-09-09T02:40:40.125589+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49616354,
+      "title": "Mercury 2.5",
+      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
+      "score": 127,
+      "comments": 16,
+      "author": "Topfi",
+      "time": 1788898492,
+      "hn_url": "https://news.ycombinator.com/item?id=49616354",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Mercury 2.5 FourStroke outboard is a compact, lightweight, and easy-to-operate engine known for its reliability and impressive speed. It features battery-free EFI technology and is designed for easy portability. It's suitable for small boats and offers quick acceleration.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-09T02:40:42.087118+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49562430,
+      "title": "Tracing np.add, all the way down",
+      "url": "https://blog.veitheller.de/numpy.html",
+      "score": 41,
+      "comments": 2,
+      "author": "luu",
+      "time": 1788514949,
+      "hn_url": "https://news.ycombinator.com/item?id=49562430",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "`np.add` in NumPy adds arrays element-wise, utilizing optimized C functions for performance. It parses inputs, selects an iteration strategy, and executes a CPU-specific loop. The function is highly efficient due to internal optimizations.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-09T02:40:44.203562+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49575766,
+      "title": "Implementation of GCC's Nested Functions (vs. C++ Lambdas)",
+      "url": "https://uecker.codeberg.page/2026-09-05.html",
+      "score": 60,
+      "comments": 9,
+      "author": "uecker",
+      "time": 1788610169,
+      "hn_url": "https://news.ycombinator.com/item?id=49575766",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "GCC's nested functions and C++ lambdas are similar in implementation; both are translated into callable objects. Nested functions are regular functions within a function, while lambdas are anonymous functions. Both can capture variables from their surrounding scope.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-09T02:40:46.424156+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49619639,
+      "title": "AI Responsibility – OpenAI and Anthropic",
+      "url": "https://twitter.com/hilbertspaess/status/2097476196791709843",
+      "score": 14,
+      "comments": 1,
+      "author": "getatme32",
+      "time": 1788917569,
+      "hn_url": "https://news.ycombinator.com/item?id=49619639",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Both companies prioritize AI safety but differ in approach: Anthropic focuses on ethical AI and safety, while OpenAI emphasizes broad deployment and responsible monitoring. They both collaborate with the U.S. AI Safety Institute for rigorous testing.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-09T02:40:48.563508+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49591563,
+      "title": "The 92-Year-Old Mathematician and the Teenage Apprentice",
+      "url": "https://www.nytimes.com/2026/09/06/science/92-year-old-mathematician-apprentice.html",
+      "score": 147,
+      "comments": 11,
+      "author": "robinhouston",
+      "time": 1788733647,
+      "hn_url": "https://news.ycombinator.com/item?id=49591563",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Joan Birman, a 92-year-old mathematician, mentored Vasudha Bharathram, who started as a 15-year-old high school student and is now a graduate student at Princeton. Their collaboration began with an email from Bharathram and led to a published paper. Steven Strogatz praised Birman as an incredible mentor.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-09T02:40:52.458505+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49618633,
+      "title": "Embedding a bitmap font in your HyperCard stack",
+      "url": "https://www.leadedsolder.com/2026/09/08/hypercard-custom-fonts-in-resources.html",
+      "score": 6,
+      "comments": 0,
+      "author": "zdw",
+      "time": 1788910211,
+      "hn_url": "https://news.ycombinator.com/item?id=49618633",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "To embed a bitmap font in a HyperCard stack, create a.fnt file and a corresponding image file, then load them into your project and assign the font to a text object. This method ensures efficient rendering without performance loss.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-09T02:40:54.443395+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49611051,
+      "title": "The two Christian saints who are the Buddha",
+      "url": "https://signoregalilei.com/2026/08/30/the-two-christian-saints-who-are-secretly-the-buddha/",
+      "score": 222,
+      "comments": 164,
+      "author": "surprisetalk",
+      "time": 1788878665,
+      "hn_url": "https://news.ycombinator.com/item?id=49611051",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The two Christian saints who are the Buddha are Barlaam and Josaphat. They are medieval European saints based on the life of Buddha. They were unknown to be Buddhist until 1869.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-09T02:40:56.641083+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49619949,
+      "title": "Iran says it captured US submarine drone in Strait of Hormuz",
+      "url": "https://www.reuters.com/world/middle-east/iran-says-it-captured-us-submarine-drone-strait-hormuz-2026-09-08/",
+      "score": 16,
+      "comments": 2,
+      "author": "harambae",
+      "time": 1788919925,
+      "hn_url": "https://news.ycombinator.com/item?id=49619949",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Iran's Revolutionary Guards claimed to have captured a U.S. underwater drone in the Strait of Hormuz. The Pentagon stated the drone malfunctioned and was an older model. Reuters could not verify Iran's claims.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-09T02:40:58.718922+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49614101,
+      "title": "GrapheneOS on AI Usage",
+      "url": "https://grapheneos.social/@GrapheneOS/117236529351603001",
+      "score": 27,
+      "comments": 0,
+      "author": "garo-pro",
+      "time": 1788890458,
+      "hn_url": "https://news.ycombinator.com/item?id=49614101",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "GrapheneOS avoids using AI features due to privacy concerns and lack of local alternatives. It does not support Google's AI-based services. Users can opt for offline AI tools for privacy.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-09T02:41:00.801934+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49607991,
+      "title": "Antiquated HTML Snippets and Artefacts",
+      "url": "https://vale.rocks/posts/html-relics",
+      "score": 227,
+      "comments": 79,
+      "author": "patadune",
+      "time": 1788860594,
+      "hn_url": "https://news.ycombinator.com/item?id=49607991",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Antiquated HTML snippets include obsolete tags and hacks from browser wars and third-party integrations. They are remnants of outdated practices now forgotten. Simpler HTML doctypes replaced complex old standards.",
+      "tags": [
+        "ml"
+      ],
+      "analyzed_at": "2026-09-09T02:41:02.753033+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49619457,
+      "title": "US to ban Canadian dairy, alcohol, motor vehicle imports on September 29",
+      "url": "https://www.reuters.com/business/us-ban-canadian-dairy-alcohol-motor-vehicle-imports-september-29-2026-09-08/",
+      "score": 39,
+      "comments": 21,
+      "author": "JumpCrisscross",
+      "time": 1788916437,
+      "hn_url": "https://news.ycombinator.com/item?id=49619457",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The US will ban imports of Canadian dairy, alcohol, and motor vehicles starting September 29 in response to Canadian retaliatory tariffs. This decision was made by President Donald Trump. For more details, refer to official announcements.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-09T02:41:05.097186+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49605767,
+      "title": "Mistral raises €3B",
+      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+      "score": 809,
+      "comments": 567,
+      "author": "kuberwastaken",
+      "time": 1788843983,
+      "hn_url": "https://news.ycombinator.com/item?id=49605767",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Mistral, a French AI lab, raised €3 billion in a Series D round led by Samsung Electronics, valuing the company at over €21 billion. The funding will help Mistral scale its infrastructure and expand its international presence.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-09T02:41:07.136599+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49611641,
+      "title": "I Rewrote My Back End in Go in 72 Hours and Cut My AWS Bill by 94%",
+      "url": "https://www.bajura.online/2026/09/i-rewrote-my-backend-in-go-in-72-hours.html",
+      "score": 52,
+      "comments": 21,
+      "author": "odilelof",
+      "time": 1788880829,
+      "hn_url": "https://news.ycombinator.com/item?id=49611641",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Rewrote backend in Go in 72 hours, cut AWS bill by 94%. This involved optimizing resource usage and leveraging Go's efficiency. The result was significant cost savings on cloud services.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-09T02:41:11.188870+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
