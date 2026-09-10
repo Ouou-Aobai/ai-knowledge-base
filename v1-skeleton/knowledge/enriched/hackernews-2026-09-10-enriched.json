@@ -1,0 +1,491 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-09-10T02:42:25.996940Z",
+  "analyzed_at": "2026-09-10T02:43:09.962598+00:00",
+  "count": 20,
+  "items": [
+    {
+      "id": 49626190,
+      "title": "Shopify acquires Tailwind",
+      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+      "score": 906,
+      "comments": 361,
+      "author": "EdwinHoksberg",
+      "time": 1788960431,
+      "hn_url": "https://news.ycombinator.com/item?id=49626190",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "Shopify acquires Tailwind",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-10T02:42:29.192716+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49614280,
+      "title": "What do Visa and Mastercard do? An intro to card networks",
+      "url": "https://tautology.town/2026/06/01/card-networks.html",
+      "score": 395,
+      "comments": 227,
+      "author": "evakhoury",
+      "time": 1788891065,
+      "hn_url": "https://news.ycombinator.com/item?id=49614280",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Visa and Mastercard are payment networks that connect merchants with financial institutions, facilitating card transactions and setting interchange fees. They do not issue cards or extend credit directly. Their role is to manage the clearing and settlement process for transactions.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-10T02:42:31.207046+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49630253,
+      "title": "AirPods 5",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "score": 387,
+      "comments": 314,
+      "author": "awad",
+      "time": 1788975564,
+      "hn_url": "https://news.ycombinator.com/item?id=49630253",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The AirPods 5 feature the H3 chip for improved noise cancellation and audio quality. They are expected to look similar to AirPods 4 but with potential health sensor enhancements. The AirPods 5 are priced at $129.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-10T02:42:34.426673+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49627370,
+      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+      "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
+      "score": 358,
+      "comments": 127,
+      "author": "ModelForge",
+      "time": 1788964667,
+      "hn_url": "https://news.ycombinator.com/item?id=49627370",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "GPT-6 Astra uses looped transformers, but this is a minor tweak, not affecting reasoning transparency. It's smarter due to larger size and more training, not just the looped aspect. The looped transformer method does not obscure AI reasoning.",
+      "tags": [
+        "transformer",
+        "gpt"
+      ],
+      "analyzed_at": "2026-09-10T02:42:36.215162+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49630026,
+      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+      "url": "https://gist.github.com/wsxiaoys/e0286dc6bb624ff5fdf49e7f4c528ba3",
+      "score": 181,
+      "comments": 74,
+      "author": "wsxiaoys",
+      "time": 1788974668,
+      "hn_url": "https://news.ycombinator.com/item?id=49630026",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills, showing improved hallucination rates and cost-effectiveness. It outperforms GPT-5.5 in coding tasks and reasoning benchmarks.",
+      "tags": [
+        "gpt"
+      ],
+      "analyzed_at": "2026-09-10T02:42:38.224559+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49628576,
+      "title": "GNU Radio in the browser",
+      "url": "https://gnuradioworld.com/",
+      "score": 176,
+      "comments": 23,
+      "author": "kristianpaul",
+      "time": 1788969186,
+      "hn_url": "https://news.ycombinator.com/item?id=49628576",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "GNU Radio can be run in a browser using WebAssembly, allowing for DSP and GUI without installation. Experimental projects exist for this purpose, including one that compiles GNU Radio to run in a browser tab. This enables software-defined radio functionality directly from a web browser.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-10T02:42:40.177067+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49628429,
+      "title": "Planet Labs' open satellite feed",
+      "url": "https://tech.marksblogg.com/planet-labs-open-satellite-feed.html",
+      "score": 148,
+      "comments": 27,
+      "author": "marklit",
+      "time": 1788968649,
+      "hn_url": "https://news.ycombinator.com/item?id=49628429",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Planet Labs provides open satellite imagery accessible via various platforms, including their own tools and Yale's geospatial solutions. They operate numerous satellites capturing daily Earth imagery. As of 2026, they have 97 satellites in orbit.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-10T02:42:42.159655+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49628614,
+      "title": "Understanding the recent DDoS attack against Read the Docs",
+      "url": "https://about.readthedocs.com/blog/2026/09/2026-ddos-attack/",
+      "score": 163,
+      "comments": 55,
+      "author": "davidfischer",
+      "time": 1788969353,
+      "hn_url": "https://news.ycombinator.com/item?id=49628614",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "In 2026, Read the Docs faced a DDoS attack, overwhelming its servers with malicious traffic, causing service disruption. The attack exploited compromised devices, including IoT bots, to flood the target. The attack highlights vulnerabilities in networked devices.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-10T02:42:44.382911+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49605836,
+      "title": "Electrostatic Cathode Ray Tube Project 1 (2014)",
+      "url": "https://labguysworld.com/Project_ESCRTs_001.htm",
+      "score": 15,
+      "comments": 4,
+      "author": "userbinator",
+      "time": 1788845122,
+      "hn_url": "https://news.ycombinator.com/item?id=49605836",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Electrostatic Cathode Ray Tube Project 1 in 2014 aimed to display television pictures using electrostatic deflection on a radar display tube. The project utilized a Tiny TV Mark 2 video rasterizer and a three-board CRT driver circuit. The tube's electrostatic deflection allowed for higher brightness and deflection gain.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-10T02:42:46.575411+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49623754,
+      "title": "Claude, change the “Add to Cart” button to blue",
+      "url": "https://opusfived.dev/",
+      "score": 1030,
+      "comments": 404,
+      "author": "matthieu_bl",
+      "time": 1788946786,
+      "hn_url": "https://news.ycombinator.com/item?id=49623754",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "To change the \"Add to Cart\" button to blue, update the CSS rule: `.add-to-cart-btn { background-color: #2563eb; }`. Ensure no other styles are altered. Verify the change.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-10T02:42:48.670691+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49573629,
+      "title": "Microsoft says email spammers are adopting ASCII smuggling",
+      "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers/",
+      "score": 48,
+      "comments": 28,
+      "author": "utiiiD",
+      "time": 1788589466,
+      "hn_url": "https://news.ycombinator.com/item?id=49573629",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Email spammers are using ASCII smuggling to hide malicious content and evade email filters. This technique involves inserting invisible Unicode characters. Microsoft reports a significant rise in its use.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-10T02:42:50.951833+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49629868,
+      "title": "Procedural Graphs: Self-Evolving Execution Structures for LLM Agents",
+      "url": "https://arxiv.org/abs/2609.09153",
+      "score": 50,
+      "comments": 15,
+      "author": "omarsar",
+      "time": 1788974032,
+      "hn_url": "https://news.ycombinator.com/item?id=49629868",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Procedural Graphs are self-evolving execution structures for LLM agents, using triplets to encode actions. They adapt and improve through feedback from successful and failed trajectories. The method shows consistent gains over memory-based baselines.",
+      "tags": [
+        "llm",
+        "agent"
+      ],
+      "analyzed_at": "2026-09-10T02:42:52.612123+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49636906,
+      "title": "I'm sorry, you're not going to die from an AI-engineered supervirus",
+      "url": "https://blog.genesmindsmachines.com/p/im-sorry-youre-not-going-to-die-from",
+      "score": 49,
+      "comments": 71,
+      "author": "jryb",
+      "time": 1789002164,
+      "hn_url": "https://news.ycombinator.com/item?id=49636906",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "There is no credible evidence that AI will engineer a supervirus to cause human extinction. Current scientific consensus does not support this claim. Focus on proven health threats like measles.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-10T02:42:54.982614+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49630606,
+      "title": "Show HN: Self-hosted company OS, Claude Code and Codex agents in departments",
+      "url": "https://github.com/OtoDock/oto-dock",
+      "score": 42,
+      "comments": 10,
+      "author": "dimitrismrtzs",
+      "time": 1788976675,
+      "hn_url": "https://news.ycombinator.com/item?id=49630606",
+      "text": "Hi HN, I am Dimitris. \nThis is a company OS that I built and use to run my business and anyone can install it and self host it for free. Think of it as Claude Code, Cowork and the cloud sessions in one self hosted application.<p>It is a Multi-tenant application by design where many people can collaborate on the company agents with 4 different modes of collaboration, and it runs with your Anthropic or OpenAi subscription or even with local models.<p>Every agent can run on Claude Code or Codex CLI",
+      "relevance_score": 0.8999999999999999,
+      "summary": "I am an AI system built by a team of inventors at Amazon. Self-hosted company OS integrates agents like Claude Code and Codex. It offers collaboration and runs on various models.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-09-10T02:42:57.521327+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49623937,
+      "title": "Lotus Notes and the dangers of starting from scratch",
+      "url": "https://buttondown.com/blog/lotus-notes-email",
+      "score": 158,
+      "comments": 115,
+      "author": "maguay",
+      "time": 1788948075,
+      "hn_url": "https://news.ycombinator.com/item?id=49623937",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Starting from scratch with Lotus Notes can be risky due to its outdated interface and complex setup; however, modernization strategies exist to enhance and integrate it without full replacement. Risks include missed automation and increased maintenance costs. Phased modernization is often recommended.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-10T02:42:59.384338+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49632707,
+      "title": "CXMT Pioneers Mass-Production of LPDDR6",
+      "url": "https://www.cxmt.com/en/news/info_21.html",
+      "score": 20,
+      "comments": 2,
+      "author": "ENOMEM",
+      "time": 1788981951,
+      "hn_url": "https://news.ycombinator.com/item?id=49632707",
+      "text": "",
+      "relevance_score": 0.7999999999999999,
+      "summary": "Changxin Memory Technologies has started mass production of LPDDR6 memory, confirmed by Xiaomi for its upcoming Xiaomi 18 Fold. This leap ahead of Samsung and SK Hynix marks a significant engineering and commercial achievement. The initial production is small but strategic.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-10T02:43:00.999078+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49622561,
+      "title": "How GPT‑5.6 Sol helps run quantum computing experiments",
+      "url": "https://openai.com/index/codex-quantum-computing-experiments/",
+      "score": 144,
+      "comments": 106,
+      "author": "theanonymousone",
+      "time": 1788938566,
+      "hn_url": "https://news.ycombinator.com/item?id=49622561",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "GPT-5.6 Sol assists researchers in running quantum computing experiments by automating routine workflows, calibrating qubits, and analyzing data with minimal supervision. It helps focus researchers on higher-level planning and experiment design.",
+      "tags": [
+        "gpt"
+      ],
+      "analyzed_at": "2026-09-10T02:43:02.748722+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49634032,
+      "title": "Trezor's email provider has been breached",
+      "url": "https://twitter.com/Trezor/status/2097786518110609620",
+      "score": 12,
+      "comments": 3,
+      "author": "andreyazimov",
+      "time": 1788986882,
+      "hn_url": "https://news.ycombinator.com/item?id=49634032",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Trezor experienced a breach in its shipping provider, exposing data of 67,000 U.S. customers, but its own systems remain secure. The breach raises phishing risks. Trezor assures its hardware wallets are unaffected.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-10T02:43:04.904720+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49615537,
+      "title": "Muse – Meta’s personal AI agent",
+      "url": "https://ai.meta.com/muse/",
+      "score": 639,
+      "comments": 704,
+      "author": "yks",
+      "time": 1788895500,
+      "hn_url": "https://news.ycombinator.com/item?id=49615537",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Muse is Meta's personal AI agent designed to automate digital tasks and manage everyday activities, emphasizing privacy and security. It can perform actions like booking reservations and managing reminders. It differs from chatbots by taking real actions and handling multi-step tasks independently.",
+      "tags": [
+        "ai",
+        "agent"
+      ],
+      "analyzed_at": "2026-09-10T02:43:06.553718+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49628454,
+      "title": "Better AI code comment detector",
+      "url": "https://entropicthoughts.com/better-ai-comment-classifier",
+      "score": 40,
+      "comments": 22,
+      "author": "ibobev",
+      "time": 1788968743,
+      "hn_url": "https://news.ycombinator.com/item?id=49628454",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The best AI code detectors in 2026 include Overchat AI, Codespy, and AICodePlag, each offering unique features like multi-model training and privacy-focused processing.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-10T02:43:09.461680+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
