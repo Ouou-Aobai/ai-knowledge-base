@@ -1,0 +1,587 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-09-13T02:43:12.830281Z",
+  "analyzed_at": "2026-09-13T02:44:18.485575+00:00",
+  "count": 24,
+  "items": [
+    {
+      "id": 49676820,
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+      "url": "https://withspecific.com/benchmarks/real-swe",
+      "score": 135,
+      "comments": 69,
+      "author": "theanonymousone",
+      "time": 1789244748,
+      "hn_url": "https://news.ycombinator.com/item?id=49676820",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Real-SWE benchmarks AI models on private enterprise codebases, showing unique, unexposed tasks. SWE-bench Verified evaluates models on real-world codebases and issues. SWE-Bench Pro uses private datasets for rigorous software engineering evaluations.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-13T02:43:14.545155+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49673098,
+      "title": "Nvidia is the central bank of AI",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "score": 409,
+      "comments": 274,
+      "author": "tolugenius",
+      "time": 1789225707,
+      "hn_url": "https://news.ycombinator.com/item?id=49673098",
+      "text": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;kt50V\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;kt50V</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Nvidia is a major player in AI, heavily investing in startups and offering significant financial support to customers, earning it the nickname \"central bank of AI.\" This role involves substantial financial commitments and carries risks if AI chip demand doesn't grow as expected.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-13T02:43:16.553315+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49678548,
+      "title": "Recurrent Looped Transformer",
+      "url": "https://yifanzhang-pro.github.io/recurrent-looped-tranformer/",
+      "score": 14,
+      "comments": 6,
+      "author": "MayCXC",
+      "time": 1789257922,
+      "hn_url": "https://news.ycombinator.com/item?id=49678548",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A recurrent looped transformer is a parameter-efficient variant of the transformer model that applies the same transformer block iteratively to mimic deep network depth. It uses weight-tied depth unrolling and recursion to reduce parameters while maintaining performance. This architecture improves generalization and reasoning over parametric knowledge.",
+      "tags": [
+        "transformer"
+      ],
+      "analyzed_at": "2026-09-13T02:43:18.873924+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49636479,
+      "title": "Getting 50 GB/S Back from the Apple Neural Engine",
+      "url": "https://eiln.github.io/posts/ane-dma.html",
+      "score": 87,
+      "comments": 15,
+      "author": "eiln",
+      "time": 1788999370,
+      "hn_url": "https://news.ycombinator.com/item?id=49636479",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Apple Neural Engine (ANE) initially supports up to 60 GB/s throughput, but a performance erratum reduces it to 17-19 GB/s. Efforts to bypass the issue have increased throughput to 24.3 tokens/s. Achieving full potential requires new Apple frameworks.",
+      "tags": [
+        "neural"
+      ],
+      "analyzed_at": "2026-09-13T02:43:21.432752+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49678683,
+      "title": "Everyone should slow down AI development except for me",
+      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+      "score": 154,
+      "comments": 62,
+      "author": "xena",
+      "time": 1789259444,
+      "hn_url": "https://news.ycombinator.com/item?id=49678683",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "While many advocate slowing down AI development for safety, some, including Anthropic's CEO Dario Amodei, believe it's essential to proceed carefully to manage risks. Amodei's call for a pause follows concerns from other researchers about the rapid pace of AI advancements.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-13T02:43:23.625954+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49625056,
+      "title": "Stabilizing Rust's Never Type",
+      "url": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
+      "score": 147,
+      "comments": 35,
+      "author": "cjd8",
+      "time": 1788955065,
+      "hn_url": "https://news.ycombinator.com/item?id=49625056",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Rust's never type (!) was stabilized in 2026 after years of development. It represents a type with no possible values but can coerce into any other type. The stabilization involved significant changes to handle edge cases and breaking changes.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-13T02:43:25.929938+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49678435,
+      "title": "AgentsDock: An IDE designed for agentic AI research",
+      "url": "https://agentsdock.net/",
+      "score": 15,
+      "comments": 5,
+      "author": "ZihuiGeorgia",
+      "time": 1789256758,
+      "hn_url": "https://news.ycombinator.com/item?id=49678435",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Agentic AI automates tasks by interacting with tools and systems, enhancing research efficiency and reducing human effort. AgentsDock is an IDE for agentic AI research, streamlining experiment design and data analysis. Agentic AI acts autonomously, improving reproducibility and reducing bias.",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "analyzed_at": "2026-09-13T02:43:28.286214+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49678783,
+      "title": "Align AI and Mathematics–To Something Else",
+      "url": "https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/",
+      "score": 16,
+      "comments": 2,
+      "author": "nitrogenpuddle",
+      "time": 1789260468,
+      "hn_url": "https://news.ycombinator.com/item?id=49678783",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI enhances mathematical research by detecting patterns and assisting in problem-solving. It collaborates with mathematicians to guide intuition and accelerate discoveries. AI's role in mathematics is growing, aiding in complex problem-solving and theoretical advancements.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-13T02:43:31.249905+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49645480,
+      "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+      "score": 450,
+      "comments": 365,
+      "author": "datakan",
+      "time": 1789054297,
+      "hn_url": "https://news.ycombinator.com/item?id=49645480",
+      "text": "<a href=\"https:&#x2F;&#x2F;www.lg.com&#x2F;global&#x2F;newsroom&#x2F;news&#x2F;statements&#x2F;statement-understanding-privacy-on-lg-smart-tvs&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.lg.com&#x2F;global&#x2F;newsroom&#x2F;news&#x2F;statements&#x2F;statement...</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "LG denies spying on users, stating collected data is non-personal viewing information for ad relevance. The company investigated claims and found no evidence of unauthorized tracking. LG emphasizes customer privacy is important.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-13T02:43:39.473073+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49673580,
+      "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+      "url": "https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html",
+      "score": 93,
+      "comments": 26,
+      "author": "pwg",
+      "time": 1789228192,
+      "hn_url": "https://news.ycombinator.com/item?id=49673580",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The scale instruction in Intel's 8087 microcode adjusts the exponent of floating-point numbers. It involves multiple micro-instructions to perform the necessary operations. The microcode ROM contains 1648 micro-instructions for the 8087's instruction set.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-13T02:43:42.069214+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49649864,
+      "title": "From Git to Fossil",
+      "url": "https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html",
+      "score": 4,
+      "comments": 1,
+      "author": "smartmic",
+      "time": 1789072743,
+      "hn_url": "https://news.ycombinator.com/item?id=49649864",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Fossil can import Git repositories, and it offers integrated tools beyond version control. To migrate from Git to Fossil, use the `fossil export --git` command followed by `git fast-import`. Fossil's database-driven approach simplifies self-hosting.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-13T02:43:44.678883+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49658672,
+      "title": "I fixed a tractor using John Deere's self-repair service. Farmers aren't sold",
+      "url": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
+      "score": 108,
+      "comments": 110,
+      "author": "sbulaev",
+      "time": 1789135628,
+      "hn_url": "https://news.ycombinator.com/item?id=49658672",
+      "text": "<a href=\"https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260911105205&#x2F;https:&#x2F;&#x2F;www.wired.com&#x2F;story&#x2F;i-fixed-a-tractor-john-deere-self-repair-service&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;web.archive.org&#x2F;web&#x2F;20260911105205&#x2F;https:&#x2F;&#x2F;www.wired...</a><p><a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;1xTJ3\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;1xTJ3</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Farmers are skeptical of John Deere's self-repair service due to its limited scope and high costs. The service mainly addresses simple repairs, not complex issues. Many farmers prefer traditional repair methods.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-13T02:43:47.187072+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49672365,
+      "title": "A Mathematical Framework for Transformer Circuits (2021)",
+      "url": "https://transformer-circuits.pub/2021/framework/index.html",
+      "score": 86,
+      "comments": 17,
+      "author": "Bluestein",
+      "time": 1789221418,
+      "hn_url": "https://news.ycombinator.com/item?id=49672365",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A Mathematical Framework for Transformer Circuits (2021) provides a mathematical model for understanding transformer architectures. It focuses on attention mechanisms and their parallel processing. The paper was published in December 2021.",
+      "tags": [
+        "transformer"
+      ],
+      "analyzed_at": "2026-09-13T02:43:49.738555+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49671237,
+      "title": "How Trail of Bits helps verify the integrity of Signal chats",
+      "url": "https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/",
+      "score": 57,
+      "comments": 35,
+      "author": "dgroshev",
+      "time": 1789212475,
+      "hn_url": "https://news.ycombinator.com/item?id=49671237",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Trail of Bits verifies Signal chat integrity through Automatic Key Verification, ensuring public keys are consistent and secure. They operate one of three independent auditors for this system. This helps detect man-in-the-middle attacks.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-13T02:43:52.673592+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49626718,
+      "title": "A Design Space Exploration of Async/Await",
+      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+      "score": 428,
+      "comments": 123,
+      "author": "wcrichton",
+      "time": 1788962390,
+      "hn_url": "https://news.ycombinator.com/item?id=49626718",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Async/await implementations vary by nine design dimensions affecting behavior, including eager/lazy start, task lifetime, and exception propagation. These dimensions impact how tasks are initiated, managed, and completed. The design space explores these variations to optimize concurrency.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-13T02:43:55.417368+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49678915,
+      "title": "Carney's Bid to Make Canada an 'Associate Member' of the EU",
+      "url": "https://www.wsj.com/world/europe/canada-alliance-eu-carney-276f1778",
+      "score": 8,
+      "comments": 2,
+      "author": "JumpCrisscross",
+      "time": 1789261899,
+      "hn_url": "https://news.ycombinator.com/item?id=49678915",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Mark Carney's initiative aims to establish Canada as an \"associate member\" of the EU, not seeking full membership, but developing a deeper partnership. EU treaties limit membership to European states, so this new relationship will not be formal membership. This move seeks to diversify Canada's alliances amid shifting geopolitical dynamics.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-13T02:43:57.908415+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49671159,
+      "title": "The worst spam emails: iLands AI agent hustle",
+      "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+      "score": 107,
+      "comments": 51,
+      "author": "ColinWright",
+      "time": 1789211618,
+      "hn_url": "https://news.ycombinator.com/item?id=49671159",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "iLands is a company that uses AI agents to send unsolicited sales pitches, often considered spam. These emails offer research services for a fee and are seen as intrusive. The practice has raised concerns about the use of AI for commercial purposes.",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "analyzed_at": "2026-09-13T02:44:00.395349+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49643543,
+      "title": "LRU is harder to beat than the KV-cache papers suggest",
+      "url": "https://github.com/gauravapiscean/agentic-kv-cache",
+      "score": 101,
+      "comments": 51,
+      "author": "gauravapiscean",
+      "time": 1789047551,
+      "hn_url": "https://news.ycombinator.com/item?id=49643543",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "LRU is often more effective than suggested by KV-cache studies. Experiments show it outperforms several proposed alternatives. Real-world data confirms LRU's resilience.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-13T02:44:02.949781+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49662371,
+      "title": "A misalignment of AI in mathematics",
+      "url": "https://mathandai.org/",
+      "score": 1180,
+      "comments": 1155,
+      "author": "meredydd",
+      "time": 1789148712,
+      "hn_url": "https://news.ycombinator.com/item?id=49662371",
+      "text": "<a href=\"https:&#x2F;&#x2F;terrytao.wordpress.com&#x2F;2026&#x2F;09&#x2F;11&#x2F;a-severe-misalignment-of-ai-in-mathematics&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;terrytao.wordpress.com&#x2F;2026&#x2F;09&#x2F;11&#x2F;a-severe-misalignm...</a><p><a href=\"https:&#x2F;&#x2F;www.economist.com&#x2F;science-and-technology&#x2F;2026&#x2F;09&#x2F;11&#x2F;top-mathematicians-are-outraged-by-openais-methods\" rel=\"nofollow\">https:&#x2F;&#x2F;www.economist.com&#x2F;science-and-technology&#x2F;2026&#x2F;09&#",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A group of Fields Medalists argue AI's use in solving math problems misaligns with the field's focus on conceptual understanding. They warn this could damage the discipline and intellectual work. The misalignment risks plagiarism and bypasses human processes.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-13T02:44:05.969965+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49677519,
+      "title": "An Advanced System Architecture Breakdown of OpenAI's Jalapeno Accelerator",
+      "url": "https://www.siliconcodesign.com/p/an-advanced-system-architecture-breakdown",
+      "score": 4,
+      "comments": 0,
+      "author": "porridgeraisin",
+      "time": 1789249468,
+      "hn_url": "https://news.ycombinator.com/item?id=49677519",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Jalapeno Accelerator uses a spatial architecture with independent core slices and a bounded 2-hop Clos topology for low latency. It connects multiple units with high bandwidth for tensor and model parallelism. The system achieves industry-leading speed and efficiency.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-13T02:44:08.272755+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49677986,
+      "title": "A full-duplex AI phone agent that listens while speaking",
+      "url": "https://www.famulor.io",
+      "score": 3,
+      "comments": 0,
+      "author": "imankoma",
+      "time": 1789252963,
+      "hn_url": "https://news.ycombinator.com/item?id=49677986",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A full-duplex AI phone agent listens and speaks simultaneously, reducing lag and mimicking natural human conversation. It handles interruptions and produces real-time responses. This technology enhances cold calling efficiency.",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "analyzed_at": "2026-09-13T02:44:10.990298+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49676849,
+      "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+      "score": 75,
+      "comments": 58,
+      "author": "humanlion87",
+      "time": 1789244909,
+      "hn_url": "https://news.ycombinator.com/item?id=49676849",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Sam Altman, CEO of OpenAI, stated it would be ill-advised to go public in 2026 due to safety concerns. He emphasized that the company will pursue an IPO when it's ready, not necessarily in 2026.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-13T02:44:13.519197+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49670032,
+      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+      "url": "https://eiln.github.io/posts/ane.html",
+      "score": 225,
+      "comments": 32,
+      "author": "zdw",
+      "time": 1789199643,
+      "hn_url": "https://news.ycombinator.com/item?id=49670032",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Apple's Neural Engine on M1 integrates AI workloads into the GPU, shifting from dedicated accelerators to general-purpose parallel processors. The design focuses on CNN tasks but faces bandwidth constraints. Future M5 processors will embed neural cores directly into the GPU.",
+      "tags": [
+        "neural"
+      ],
+      "analyzed_at": "2026-09-13T02:44:16.000573+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49677480,
+      "title": "Show HN: What If Donut.c but with Any ASCII Art",
+      "url": "https://asdesai.com/blog/how-fetch-works/",
+      "score": 5,
+      "comments": 1,
+      "author": "areofyl",
+      "time": 1789249164,
+      "hn_url": "https://news.ycombinator.com/item?id=49677480",
+      "text": "",
+      "relevance_score": 0.7999999999999999,
+      "summary": "A 3D spinning ASCII donut is created using C code that projects a 3D model onto a 2D screen with different characters for luminance levels. The project includes a spinning SVG version and a blog post explaining the math behind it.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-13T02:44:17.984802+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
