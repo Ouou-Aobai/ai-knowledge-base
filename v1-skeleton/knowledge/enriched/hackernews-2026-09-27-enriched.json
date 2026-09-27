@@ -1,0 +1,537 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-09-27T03:13:05.680719Z",
+  "analyzed_at": "2026-09-27T03:13:55.410872+00:00",
+  "count": 22,
+  "items": [
+    {
+      "id": 49839567,
+      "title": "Evolving programming languages in the AI era",
+      "url": "https://dashbit.co/blog/evolving-ai-era",
+      "score": 43,
+      "comments": 34,
+      "author": "pjm331",
+      "time": 1790303679,
+      "hn_url": "https://news.ycombinator.com/item?id=49839567",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Evolving programming languages in the AI era 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-27T03:13:40.576835+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49857656,
+      "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+      "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+      "score": 37,
+      "comments": 24,
+      "author": "flxflx",
+      "time": 1790437744,
+      "hn_url": "https://news.ycombinator.com/item?id=49857656",
+      "text": "We found an approach to get Jev-like properties from standard LLMs like GLM-5.3-Flash.<p>The core idea is to craft the input prompt so that the first output token answers the question. This makes it possible to get a decision with a single forward pass.<p>In the blog post, we describe the approach in detail for GLM-5.3-Flash and vLLM. We benchmark this setup against Jev and Laya. We find that our setup is on-par with Jev in terms of accuracy and speed and that it substantially outperforms Laya.<",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Turning GLM-5.3-Flash into a Jev-like decision model 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-27T03:13:41.260167+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49832768,
+      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+      "url": "https://www.movingimagearchive.com/",
+      "score": 121,
+      "comments": 25,
+      "author": "momentmaker",
+      "time": 1790266302,
+      "hn_url": "https://news.ycombinator.com/item?id=49832768",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 A searchable library of forgotten public-domain film clips from 1915 onward 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-27T03:13:41.945367+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49857729,
+      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "score": 114,
+      "comments": 32,
+      "author": "parasitid",
+      "time": 1790438194,
+      "hn_url": "https://news.ycombinator.com/item?id=49857729",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Drawgent: Coding agent on a live Excalidraw canvas 的技术内容。",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-09-27T03:13:42.613619+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49858676,
+      "title": "Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC",
+      "url": "https://www.righto.com/2026/09/8087-tangent-cordic.html",
+      "score": 36,
+      "comments": 7,
+      "author": "pwg",
+      "time": 1790443614,
+      "hn_url": "https://news.ycombinator.com/item?id=49858676",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Reverse-engineering the Intel 8087's tangent algorithm: more than CORDIC 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-27T03:13:43.305687+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49839438,
+      "title": "Biology might not be quantum, but its math is quantumlike",
+      "url": "https://www.quantamagazine.org/biology-might-not-be-quantum-but-its-math-is-quantumlike-20260923/",
+      "score": 26,
+      "comments": 8,
+      "author": "pseudolus",
+      "time": 1790302267,
+      "hn_url": "https://news.ycombinator.com/item?id=49839438",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Biology might not be quantum, but its math is quantumlike 的技术内容。",
+      "tags": [
+        "ml"
+      ],
+      "analyzed_at": "2026-09-27T03:13:43.980056+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49852905,
+      "title": "Promising discoveries about the potential for life on one of Saturn’s icy moons",
+      "url": "https://www.fu-berlin.de/en/presse/informationen/fup/2026/fup_26_116-enceladus-cassini-mikroben-science-postberg/index.html",
+      "score": 30,
+      "comments": 19,
+      "author": "geox",
+      "time": 1790393011,
+      "hn_url": "https://news.ycombinator.com/item?id=49852905",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Promising discoveries about the potential for life on one of Saturn’s icy moons 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-27T03:13:44.658301+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49844663,
+      "title": "ASML says it sold 'absolutely nothing' in Europe in 2026",
+      "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand",
+      "score": 172,
+      "comments": 484,
+      "author": "MC995",
+      "time": 1790344146,
+      "hn_url": "https://news.ycombinator.com/item?id=49844663",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 ASML says it sold 'absolutely nothing' in Europe in 2026 的技术内容。",
+      "tags": [
+        "ml"
+      ],
+      "analyzed_at": "2026-09-27T03:13:45.335047+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49851883,
+      "title": "Generate fonts where every LLM token is the same width",
+      "url": "https://ampdot.mesh.host/token-space-fonts.html",
+      "score": 35,
+      "comments": 8,
+      "author": "z-mach9",
+      "time": 1790382603,
+      "hn_url": "https://news.ycombinator.com/item?id=49851883",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Generate fonts where every LLM token is the same width 的技术内容。",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-09-27T03:13:46.010327+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49836579,
+      "title": "How I changed teaching after AI managed to do all my homework assignments",
+      "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+      "score": 148,
+      "comments": 148,
+      "author": "azhenley",
+      "time": 1790283110,
+      "hn_url": "https://news.ycombinator.com/item?id=49836579",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 How I changed teaching after AI managed to do all my homework assignments 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-27T03:13:46.708003+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49854875,
+      "title": "How to keep enjoying programming in a world of LLMs",
+      "url": "https://discourse.haskell.org/t/how-to-keep-enjoying-programming-in-a-world-of-llms/14705",
+      "score": 168,
+      "comments": 218,
+      "author": "signa11",
+      "time": 1790415718,
+      "hn_url": "https://news.ycombinator.com/item?id=49854875",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 How to keep enjoying programming in a world of LLMs 的技术内容。",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-09-27T03:13:47.388640+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49833444,
+      "title": "LA Metro has some of the slowest escalators on Earth",
+      "url": "https://basin.la/articles/ninety-feet-a-minute.html",
+      "score": 83,
+      "comments": 70,
+      "author": "big_toast",
+      "time": 1790268744,
+      "hn_url": "https://news.ycombinator.com/item?id=49833444",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 LA Metro has some of the slowest escalators on Earth 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-27T03:13:48.069063+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49859299,
+      "title": "HomeBody: A humanoid that explores, remembers, and acts on its own",
+      "url": "https://tml.stanford.edu/homebody/",
+      "score": 19,
+      "comments": 2,
+      "author": "famouswaffles",
+      "time": 1790448130,
+      "hn_url": "https://news.ycombinator.com/item?id=49859299",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 HomeBody: A humanoid that explores, remembers, and acts on its own 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-27T03:13:48.776232+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49855276,
+      "title": "Reading’s Bayeux Tapestry",
+      "url": "https://diamondgeezer.blogspot.com/2026/09/readings-bayeux-tapestry.html",
+      "score": 15,
+      "comments": 2,
+      "author": "zeristor",
+      "time": 1790419720,
+      "hn_url": "https://news.ycombinator.com/item?id=49855276",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Reading’s Bayeux Tapestry 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-27T03:13:49.479782+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49834040,
+      "title": "The Rise of Audio AR",
+      "url": "https://www.dbreunig.com/2024/04/10/the_rise_of_audio_ar.html",
+      "score": 31,
+      "comments": 13,
+      "author": "dbreunig",
+      "time": 1790271088,
+      "hn_url": "https://news.ycombinator.com/item?id=49834040",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 The Rise of Audio AR 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-27T03:13:50.135559+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49849986,
+      "title": "Show HN: Ekselio – Loveable for finance workflows (local first)",
+      "url": "https://www.gptbeyond.com/try?home=1",
+      "score": 27,
+      "comments": 8,
+      "author": "kdautaj",
+      "time": 1790370568,
+      "hn_url": "https://news.ycombinator.com/item?id=49849986",
+      "text": "Hi everyone, I am KD - Back in my college days, I dabbled with coding, learned the basics, HTML, CSS etc. but somehow I ended up in Finance which consumed the next 20 years. Then, during covid I picked up coding again, learned react, typescript, etc - even built a rudimentary site - and then came the chatgpt moment, followed by Claude etc.<p>So, as a side project, considering that I had spent 20 years in finance and M&amp;A I started building Ekselio, loveable for finance workflows.<p>Differentl",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Show HN: Ekselio – Loveable for finance workflows (local first) 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-27T03:13:50.820785+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49849985,
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "url": "https://swarmtraces.org/",
+      "score": 704,
+      "comments": 447,
+      "author": "specked-citrus",
+      "time": 1790370567,
+      "hn_url": "https://news.ycombinator.com/item?id=49849985",
+      "text": "",
+      "relevance_score": 0.7,
+      "summary": "这是一个关于 Revealing the details of how OpenAI agents hacked Hugging Face 的技术内容。",
+      "tags": [
+        "ai",
+        "agent"
+      ],
+      "analyzed_at": "2026-09-27T03:13:51.496804+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49849820,
+      "title": "Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia",
+      "url": "https://blog.priyan.in/2026/09/analyzing-frontier-model-progress-with.html",
+      "score": 59,
+      "comments": 40,
+      "author": "msephton",
+      "time": 1790369634,
+      "hn_url": "https://news.ycombinator.com/item?id=49849820",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Analyzing Frontier Model Progress with My Favourite Game: Prince of Persia 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-27T03:13:52.173614+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49856665,
+      "title": "OpenAI bots meddled with multiple US Government agency sites",
+      "url": "https://www.bbc.com/news/articles/cw62jje658dlo",
+      "score": 107,
+      "comments": 166,
+      "author": "Betelbuddy",
+      "time": 1790431434,
+      "hn_url": "https://news.ycombinator.com/item?id=49856665",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 OpenAI bots meddled with multiple US Government agency sites 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-27T03:13:52.865023+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49853175,
+      "title": "A single function Jev-like wrapper for LLMs, including vision models",
+      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
+      "score": 134,
+      "comments": 42,
+      "author": "allanrbo",
+      "time": 1790396458,
+      "hn_url": "https://news.ycombinator.com/item?id=49853175",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 A single function Jev-like wrapper for LLMs, including vision models 的技术内容。",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-09-27T03:13:53.540164+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49857572,
+      "title": "Automattic has a new board after failed attempt to put CEO on leave",
+      "url": "https://techcrunch.com/2026/09/25/automattic-has-a-new-board-after-failed-attempt-to-put-ceo-on-leave/",
+      "score": 126,
+      "comments": 164,
+      "author": "ilamont",
+      "time": 1790437227,
+      "hn_url": "https://news.ycombinator.com/item?id=49857572",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Automattic has a new board after failed attempt to put CEO on leave 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-27T03:13:54.240503+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49859063,
+      "title": "'Treated like a criminal:' Witnesses testify on abuse of Flock cameras",
+      "url": "https://www.thecentersquare.com/national/article_61cd8485-ac89-44bc-ba24-7714cb73ee69.html",
+      "score": 13,
+      "comments": 0,
+      "author": "DeepLogin",
+      "time": 1790446480,
+      "hn_url": "https://news.ycombinator.com/item?id=49859063",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 'Treated like a criminal:' Witnesses testify on abuse of Flock cameras 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-27T03:13:54.909885+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}

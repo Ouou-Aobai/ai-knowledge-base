@@ -1,0 +1,1728 @@
+{
+  "source": "github",
+  "collected_at": "2026-09-27T03:12:55.486422Z",
+  "analyzed_at": "2026-09-27T03:13:40.418844+00:00",
+  "count": 50,
+  "items": [
+    {
+      "id": "zai-org/ZCode",
+      "title": "ZCode",
+      "description": "Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+      "url": "https://github.com/zai-org/ZCode",
+      "stars": 6842,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-09-20T12:01:16Z",
+      "updated_at": "2026-09-24T06:49:55Z",
+      "forks": 2061,
+      "open_issues": 11,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 ZCode 的技术项目。Z.ai's coding agent harness. Powerful, intelligent, extensible.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-27T03:13:06.178355+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "jev-chat/jev-chat-jarvis",
+      "title": "jev-chat-jarvis",
+      "description": "装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+      "url": "https://github.com/jev-chat/jev-chat-jarvis",
+      "stars": 6681,
+      "language": "Kotlin",
+      "topics": [
+        "accessibility-service",
+        "android",
+        "chat-assistant",
+        "llm",
+        "qq"
+      ],
+      "created_at": "2026-09-21T11:12:53Z",
+      "updated_at": "2026-09-26T16:16:56Z",
+      "forks": 1154,
+      "open_issues": 27,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 jev-chat-jarvis 的技术项目。装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。",
+      "tags": [
+        "android",
+        "chat-assistant",
+        "llm",
+        "accessibility-service",
+        "qq"
+      ],
+      "analyzed_at": "2026-09-27T03:13:06.889396+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "unreallabsai/unreal-agent",
+      "title": "unreal-agent",
+      "description": "Async-first agent harness",
+      "url": "https://github.com/unreallabsai/unreal-agent",
+      "stars": 1969,
+      "language": "Go",
+      "topics": [],
+      "created_at": "2026-09-21T23:14:02Z",
+      "updated_at": "2026-09-23T19:08:26Z",
+      "forks": 103,
+      "open_issues": 8,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 unreal-agent 的技术项目。Async-first agent harness",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-09-27T03:13:07.608819+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "yetone/magpie",
+      "title": "magpie",
+      "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "url": "https://github.com/yetone/magpie",
+      "stars": 1053,
+      "language": "Go",
+      "topics": [
+        "claude-code",
+        "codex",
+        "deepseek",
+        "gemini-cli",
+        "llm",
+        "macos"
+      ],
+      "created_at": "2026-09-23T16:22:35Z",
+      "updated_at": "2026-09-27T03:06:32Z",
+      "forks": 63,
+      "open_issues": 1,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 magpie 的技术项目。Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "tags": [
+        "llm",
+        "deepseek",
+        "codex",
+        "claude-code",
+        "macos"
+      ],
+      "analyzed_at": "2026-09-27T03:13:08.326804+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "mikehasa/golive-skill",
+      "title": "golive-skill",
+      "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+      "url": "https://github.com/mikehasa/golive-skill",
+      "stars": 981,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skill",
+        "agent-skills",
+        "ai-agents",
+        "claude-code",
+        "cloudflare",
+        "codex",
+        "database",
+        "deployment",
+        "developer-tools",
+        "devops",
+        "dns",
+        "godaddy",
+        "hosting",
+        "infrastructure",
+        "neon",
+        "netlify",
+        "porkbun",
+        "skills",
+        "supabase",
+        "vercel"
+      ],
+      "created_at": "2026-09-23T13:37:26Z",
+      "updated_at": "2026-09-26T13:24:17Z",
+      "forks": 68,
+      "open_issues": 1,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 golive-skill 的技术项目。Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No ",
+      "tags": [
+        "agent-skill",
+        "hosting",
+        "agent-skills",
+        "deployment",
+        "claude-code"
+      ],
+      "analyzed_at": "2026-09-27T03:13:09.001314+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "nokia-applied-research/AnyJev",
+      "title": "AnyJev",
+      "description": "Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating, welcome any issue and PR request)",
+      "url": "https://github.com/nokia-applied-research/AnyJev",
+      "stars": 799,
+      "language": "Python",
+      "topics": [
+        "calibration",
+        "decision-model",
+        "jev",
+        "jev-model",
+        "llm",
+        "system-one",
+        "transformers",
+        "vllm"
+      ],
+      "created_at": "2026-09-21T05:55:40Z",
+      "updated_at": "2026-09-26T20:53:47Z",
+      "forks": 105,
+      "open_issues": 5,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 AnyJev 的技术项目。Turn any LLM into a Jev-style decision model: typed decisions, real probabilities, no training. (continue updating, welcome any issue and PR request)",
+      "tags": [
+        "jev",
+        "system-one",
+        "llm",
+        "transformers",
+        "vllm"
+      ],
+      "analyzed_at": "2026-09-27T03:13:09.690002+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "freestylefly/WeChatBridge",
+      "title": "WeChatBridge",
+      "description": "微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具",
+      "url": "https://github.com/freestylefly/WeChatBridge",
+      "stars": 796,
+      "language": "Swift",
+      "topics": [
+        "ai-agent",
+        "chat-history",
+        "macos",
+        "obsidian",
+        "share-extension",
+        "swift",
+        "wechat"
+      ],
+      "created_at": "2026-09-21T02:54:51Z",
+      "updated_at": "2026-09-23T15:43:39Z",
+      "forks": 301,
+      "open_issues": 2,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 WeChatBridge 的技术项目。微信聊天记录一键转发到 AI Agent 与 Obsidian 的原生 macOS 工具",
+      "tags": [
+        "share-extension",
+        "swift",
+        "wechat",
+        "obsidian",
+        "macos"
+      ],
+      "analyzed_at": "2026-09-27T03:13:10.363752+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "asokurasu/text-humanizer",
+      "title": "text-humanizer",
+      "description": "A completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline. ",
+      "url": "https://github.com/asokurasu/text-humanizer",
+      "stars": 732,
+      "language": "Python",
+      "topics": [
+        "ai-detector",
+        "ai-detector-bypass",
+        "ai-detectors",
+        "text-humanizer",
+        "zerogpt",
+        "zerogpt-bypass"
+      ],
+      "created_at": "2026-09-23T17:32:37Z",
+      "updated_at": "2026-09-26T15:59:20Z",
+      "forks": 83,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 text-humanizer 的技术项目。A completely free open-sourced project designed to humanize AI-generated text through a multilingual LLM-powered rewriting pipeline. ",
+      "tags": [
+        "ai-detector-bypass",
+        "ai-detectors",
+        "zerogpt-bypass",
+        "text-humanizer",
+        "zerogpt"
+      ],
+      "analyzed_at": "2026-09-27T03:13:11.037642+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "yukitorido/short-video-generator-AI",
+      "title": "short-video-generator-AI",
+      "description": "AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
+      "url": "https://github.com/yukitorido/short-video-generator-AI",
+      "stars": 718,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "llm",
+        "llm-tools",
+        "opus-clip",
+        "opus-clip-alternative",
+        "short-video",
+        "short-video-automation",
+        "short-video-generator",
+        "short-video-maker"
+      ],
+      "created_at": "2026-09-23T18:11:57Z",
+      "updated_at": "2026-09-23T18:16:08Z",
+      "forks": 82,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 short-video-generator-AI 的技术项目。AI video processing pipeline for generating vertical shorts using LLMs, Whisper transcription, highlight detection and automated editing",
+      "tags": [
+        "short-video-automation",
+        "short-video-generator",
+        "llm-tools",
+        "ai",
+        "short-video"
+      ],
+      "analyzed_at": "2026-09-27T03:13:11.708802+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Rizzo-AI-Academy/rizzo-flow",
+      "title": "rizzo-flow",
+      "description": "The open, local take on Jev: typed decisions from an LLM, without generating a single token",
+      "url": "https://github.com/Rizzo-AI-Academy/rizzo-flow",
+      "stars": 623,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-09-21T00:00:02Z",
+      "updated_at": "2026-09-25T21:15:27Z",
+      "forks": 37,
+      "open_issues": 10,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 rizzo-flow 的技术项目。The open, local take on Jev: typed decisions from an LLM, without generating a single token",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-27T03:13:12.403969+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "jev-chat/jev-chat-windows",
+      "title": "jev-chat-windows",
+      "description": "JevChat-Windows：聊天窗口旁挂的回复辅助。窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动",
+      "url": "https://github.com/jev-chat/jev-chat-windows",
+      "stars": 596,
+      "language": "Python",
+      "topics": [
+        "chat-assistant",
+        "jev",
+        "llm",
+        "local-first",
+        "ocr",
+        "privacy",
+        "pyqt",
+        "python",
+        "wechat",
+        "windows"
+      ],
+      "created_at": "2026-09-21T14:37:14Z",
+      "updated_at": "2026-09-24T16:30:54Z",
+      "forks": 130,
+      "open_issues": 21,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 jev-chat-windows 的技术项目。JevChat-Windows：聊天窗口旁挂的回复辅助。窗口截图 + 本地离线 OCR 读对方消息 → Jev 判断意图 → 3 条候选一键填入，发送永远手动",
+      "tags": [
+        "pyqt",
+        "local-first",
+        "jev",
+        "python",
+        "llm"
+      ],
+      "analyzed_at": "2026-09-27T03:13:13.079736+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "rmalde/minecraft-agent",
+      "title": "minecraft-agent",
+      "description": "Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
+      "url": "https://github.com/rmalde/minecraft-agent",
+      "stars": 559,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-09-20T05:05:12Z",
+      "updated_at": "2026-09-20T05:05:16Z",
+      "forks": 56,
+      "open_issues": 4,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 minecraft-agent 的技术项目。Astra planner and JEV controller for Minecraft, with native recording, tested routes, and run verification.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-09-27T03:13:13.761864+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "wuyoscar/jev-skill",
+      "title": "jev-skill",
+      "description": "An awesome collection of Jev use cases, workflows, and agent skills.",
+      "url": "https://github.com/wuyoscar/jev-skill",
+      "stars": 502,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-09-20T02:35:26Z",
+      "updated_at": "2026-09-25T00:17:59Z",
+      "forks": 39,
+      "open_issues": 6,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 jev-skill 的技术项目。An awesome collection of Jev use cases, workflows, and agent skills.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-27T03:13:14.484156+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "kydlikebtc/awesome-jev",
+      "title": "awesome-jev",
+      "description": "1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance are not independently tested here. EN/中文, JSON schema and platform compatibility.",
+      "url": "https://github.com/kydlikebtc/awesome-jev",
+      "stars": 495,
+      "language": "Python",
+      "topics": [
+        "agent-tools",
+        "ai-agents",
+        "awesome",
+        "awesome-list",
+        "calibration",
+        "catalog",
+        "classification",
+        "context-compaction",
+        "decision-model",
+        "intent-routing",
+        "jev",
+        "llm",
+        "system-one",
+        "tool-selection",
+        "typesafe-ai"
+      ],
+      "created_at": "2026-09-22T02:22:54Z",
+      "updated_at": "2026-09-25T04:20:32Z",
+      "forks": 11,
+      "open_issues": 6,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 awesome-jev 的技术项目。1207 public resources for Jev, TypeSafe AI's System One decision model, indexed by decision pattern. Source citations, dated link checks and scheduled call-site text checks; runtime and performance ar",
+      "tags": [
+        "decision-model",
+        "ai-agents",
+        "agent-tools",
+        "awesome-list",
+        "classification"
+      ],
+      "analyzed_at": "2026-09-27T03:13:15.174460+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "amitshekhariitbhu/ai-system-design",
+      "title": "ai-system-design",
+      "description": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
+      "url": "https://github.com/amitshekhariitbhu/ai-system-design",
+      "stars": 421,
+      "language": "Markdown",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-engineering",
+        "ai-system",
+        "ai-system-design",
+        "ai-systems",
+        "ai-systems-design",
+        "llm",
+        "system-design",
+        "system-design-interview"
+      ],
+      "created_at": "2026-09-25T04:50:06Z",
+      "updated_at": "2026-09-25T04:53:31Z",
+      "forks": 48,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 ai-system-design 的技术项目。AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
+      "tags": [
+        "ai-agents",
+        "ai",
+        "ai-systems",
+        "ai-systems-design",
+        "llm"
+      ],
+      "analyzed_at": "2026-09-27T03:13:15.833531+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "jev-chat/jev-chat-jarvis-mac",
+      "title": "jev-chat-jarvis-mac",
+      "description": "聊天悬浮窗助手（macOS）：屏幕感知 + 本地小模型判断意图与风险，按话术生成回复候选。纯只读。",
+      "url": "https://github.com/jev-chat/jev-chat-jarvis-mac",
+      "stars": 410,
+      "language": "Python",
+      "topics": [
+        "llm",
+        "local-first",
+        "macos",
+        "ocr",
+        "privacy",
+        "pyobjc",
+        "python"
+      ],
+      "created_at": "2026-09-21T11:39:32Z",
+      "updated_at": "2026-09-26T13:37:19Z",
+      "forks": 120,
+      "open_issues": 25,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 jev-chat-jarvis-mac 的技术项目。聊天悬浮窗助手（macOS）：屏幕感知 + 本地小模型判断意图与风险，按话术生成回复候选。纯只读。",
+      "tags": [
+        "local-first",
+        "python",
+        "llm",
+        "pyobjc",
+        "ocr"
+      ],
+      "analyzed_at": "2026-09-27T03:13:16.534335+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "amitshekhariitbhu/ai-engineering-course",
+      "title": "ai-engineering-course",
+      "description": "AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from Machine Learning, Neural Networks, and Transformers to LLMs, Fine-Tuning, RAG, AI Agents, LLM Inference, Evaluation, AI Safety, and AI System Design.",
+      "url": "https://github.com/amitshekhariitbhu/ai-engineering-course",
+      "stars": 367,
+      "language": "Markdown",
+      "topics": [
+        "ai-course",
+        "ai-engineering",
+        "ai-engineering-course",
+        "ai-engineering-curriculum",
+        "large-language-models"
+      ],
+      "created_at": "2026-09-23T08:04:42Z",
+      "updated_at": "2026-09-23T08:26:56Z",
+      "forks": 64,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 ai-engineering-course 的技术项目。AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from Machine Learning, Neural Networks, and Transformers to LLMs, Fine-Tuning, RAG, AI Agents, ",
+      "tags": [
+        "large-language-models",
+        "ai",
+        "ai-engineering-curriculum",
+        "ai-course",
+        "ai-engineering-course"
+      ],
+      "analyzed_at": "2026-09-27T03:13:17.248645+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Inkloom-art/inkloom",
+      "title": "inkloom",
+      "description": "Specialised AI models for logo design — a brand-analysis model turns a business into constraints, typography and symbol models construct the mark, and a composition engine produces real lockups and clear-space rules. Early access open.",
+      "url": "https://github.com/Inkloom-art/inkloom",
+      "stars": 344,
+      "language": "TypeScript",
+      "topics": [
+        "brand-identity",
+        "cloudflare-workers",
+        "design-systems",
+        "generative-ai",
+        "logo-design",
+        "typography"
+      ],
+      "created_at": "2026-09-20T07:54:30Z",
+      "updated_at": "2026-09-26T13:29:22Z",
+      "forks": 359,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 inkloom 的技术项目。Specialised AI models for logo design — a brand-analysis model turns a business into constraints, typography and symbol models construct the mark, and a composition engine produces real lockups and cl",
+      "tags": [
+        "brand-identity",
+        "cloudflare-workers",
+        "typography",
+        "design-systems",
+        "generative-ai"
+      ],
+      "analyzed_at": "2026-09-27T03:13:17.920570+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "OnlistTeam/ai-manager",
+      "title": "ai-manager",
+      "description": "AI Manager desktop application for AI coding tools",
+      "url": "https://github.com/OnlistTeam/ai-manager",
+      "stars": 333,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-09-21T05:07:53Z",
+      "updated_at": "2026-09-24T02:57:21Z",
+      "forks": 7,
+      "open_issues": 3,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 ai-manager 的技术项目。AI Manager desktop application for AI coding tools",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-27T03:13:18.624576+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "malevrigns/agent-jev",
+      "title": "agent-jev",
+      "description": "AgentJev-0.6B - a fast 'System One' decision model for AI Agents: feed it any unstructured state (diffs, traces, logs) and structured questions, get calibrated probability distributions back in one ~50ms forward pass. Zero output-token decoding.",
+      "url": "https://github.com/malevrigns/agent-jev",
+      "stars": 309,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-09-21T16:24:42Z",
+      "updated_at": "2026-09-23T09:16:37Z",
+      "forks": 27,
+      "open_issues": 4,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 agent-jev 的技术项目。AgentJev-0.6B - a fast 'System One' decision model for AI Agents: feed it any unstructured state (diffs, traces, logs) and structured questions, get calibrated probability distributions back in one ~5",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-09-27T03:13:19.298115+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Alex314618-create/JevRev",
+      "title": "JevRev",
+      "description": "An LLM + Jev workflow that changes EVERYTHING. Boost your vertebrate brain with a spine inside. ",
+      "url": "https://github.com/Alex314618-create/JevRev",
+      "stars": 309,
+      "language": "TypeScript",
+      "topics": [
+        "jev",
+        "llm",
+        "workflow"
+      ],
+      "created_at": "2026-09-21T01:53:13Z",
+      "updated_at": "2026-09-26T21:33:40Z",
+      "forks": 12,
+      "open_issues": 2,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 JevRev 的技术项目。An LLM + Jev workflow that changes EVERYTHING. Boost your vertebrate brain with a spine inside. ",
+      "tags": [
+        "workflow",
+        "jev",
+        "llm"
+      ],
+      "analyzed_at": "2026-09-27T03:13:19.973049+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "lhlGitHub/threejs-architecture-effects",
+      "title": "threejs-architecture-effects",
+      "description": "An Agent Skill for building interactive, self-assembling 3D architecture with Three.js.  一个用 Three.js 生成可交互、可动态建造 3D 建筑的 Agent Skill。",
+      "url": "https://github.com/lhlGitHub/threejs-architecture-effects",
+      "stars": 298,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-09-22T03:01:05Z",
+      "updated_at": "2026-09-22T03:27:27Z",
+      "forks": 46,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 threejs-architecture-effects 的技术项目。An Agent Skill for building interactive, self-assembling 3D architecture with Three.js.  一个用 Three.js 生成可交互、可动态建造 3D 建筑的 Agent Skill。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-27T03:13:20.662385+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "angusdevgo/Seep-Reverse-Lab",
+      "title": "Seep-Reverse-Lab",
+      "description": "Agent-Native multi-platform reverse engineering and CWE-602 client-side authorization audit workbench.",
+      "url": "https://github.com/angusdevgo/Seep-Reverse-Lab",
+      "stars": 290,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-09-23T18:05:31Z",
+      "updated_at": "2026-09-26T19:24:06Z",
+      "forks": 97,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Seep-Reverse-Lab 的技术项目。Agent-Native multi-platform reverse engineering and CWE-602 client-side authorization audit workbench.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-27T03:13:21.349784+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "miuuyy/Astra-Ares",
+      "title": "Astra-Ares",
+      "description": "Adaptive reasoning effort for GPT-6 during Codex tasks, powered by Jev to reduce token usage.",
+      "url": "https://github.com/miuuyy/Astra-Ares",
+      "stars": 285,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-09-22T14:10:07Z",
+      "updated_at": "2026-09-23T11:49:05Z",
+      "forks": 20,
+      "open_issues": 4,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Astra-Ares 的技术项目。Adaptive reasoning effort for GPT-6 during Codex tasks, powered by Jev to reduce token usage.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-27T03:13:22.027450+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "TianyuCodings/JevHarness",
+      "title": "JevHarness",
+      "description": "LLM-authored task-specific Jev harnesses with optional full-trajectory reward reflection and GEPA evolution.",
+      "url": "https://github.com/TianyuCodings/JevHarness",
+      "stars": 283,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-09-21T08:59:46Z",
+      "updated_at": "2026-09-21T10:39:01Z",
+      "forks": 14,
+      "open_issues": 2,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 JevHarness 的技术项目。LLM-authored task-specific Jev harnesses with optional full-trajectory reward reflection and GEPA evolution.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-27T03:13:22.685820+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "leter/zh-tech-writing",
+      "title": "zh-tech-writing",
+      "description": "写中文技术文档的 Agent Skill，基于阮一峰《中文技术文档的写作规范》：短句、平实、没有 AI 腔",
+      "url": "https://github.com/leter/zh-tech-writing",
+      "stars": 281,
+      "language": null,
+      "topics": [
+        "agent-skills",
+        "chinese",
+        "claude-code",
+        "documentation",
+        "style-guide",
+        "technical-writing"
+      ],
+      "created_at": "2026-09-24T17:37:46Z",
+      "updated_at": "2026-09-24T17:49:53Z",
+      "forks": 13,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 zh-tech-writing 的技术项目。写中文技术文档的 Agent Skill，基于阮一峰《中文技术文档的写作规范》：短句、平实、没有 AI 腔",
+      "tags": [
+        "chinese",
+        "style-guide",
+        "agent-skills",
+        "technical-writing",
+        "documentation"
+      ],
+      "analyzed_at": "2026-09-27T03:13:23.378376+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "bridge-mind/bridgeclip",
+      "title": "bridgeclip",
+      "description": "Open-source AI video clipping desktop app by BridgeMind",
+      "url": "https://github.com/bridge-mind/bridgeclip",
+      "stars": 269,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-09-24T17:09:04Z",
+      "updated_at": "2026-09-26T16:39:02Z",
+      "forks": 59,
+      "open_issues": 13,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 bridgeclip 的技术项目。Open-source AI video clipping desktop app by BridgeMind",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-27T03:13:24.074245+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "win4r/MuseAI-Skills",
+      "title": "MuseAI-Skills",
+      "description": "muse.ai (Muse AI) skills and runtime snapshot: 68 skills, workflow guides, connector manifests. muse.ai 技能与运行环境文件；非官方存档 / Unofficial archive.",
+      "url": "https://github.com/win4r/MuseAI-Skills",
+      "stars": 250,
+      "language": "HTML",
+      "topics": [
+        "agent-skills",
+        "meta",
+        "muse",
+        "skills"
+      ],
+      "created_at": "2026-09-25T07:45:43Z",
+      "updated_at": "2026-09-25T08:21:12Z",
+      "forks": 89,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 MuseAI-Skills 的技术项目。muse.ai (Muse AI) skills and runtime snapshot: 68 skills, workflow guides, connector manifests. muse.ai 技能与运行环境文件；非官方存档 / Unofficial archive.",
+      "tags": [
+        "meta",
+        "agent-skills",
+        "ai",
+        "muse",
+        "skills"
+      ],
+      "analyzed_at": "2026-09-27T03:13:24.747669+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "zouyuxuan122/dsh-our-free-model",
+      "title": "dsh-our-free-model",
+      "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
+      "url": "https://github.com/zouyuxuan122/dsh-our-free-model",
+      "stars": 232,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "deepseek",
+        "deepseek-harness",
+        "developer-tools",
+        "dsh",
+        "dsh-plugin",
+        "free-model",
+        "llm",
+        "model-provider",
+        "openai-compatible"
+      ],
+      "created_at": "2026-09-24T16:17:19Z",
+      "updated_at": "2026-09-26T01:44:42Z",
+      "forks": 14,
+      "open_issues": 3,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 dsh-our-free-model 的技术项目。在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Mu",
+      "tags": [
+        "deepseek-harness",
+        "ai-agents",
+        "dsh-plugin",
+        "free-model",
+        "developer-tools"
+      ],
+      "analyzed_at": "2026-09-27T03:13:25.406191+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "feitangyuan/onetake",
+      "title": "onetake",
+      "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
+      "url": "https://github.com/feitangyuan/onetake",
+      "stars": 233,
+      "language": "Python",
+      "topics": [
+        "agent-skill",
+        "animation",
+        "canvas",
+        "claude-skill",
+        "launch-video",
+        "motion-graphics",
+        "video"
+      ],
+      "created_at": "2026-09-26T05:35:17Z",
+      "updated_at": "2026-09-26T07:56:58Z",
+      "forks": 23,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 onetake 的技术项目。Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and featur",
+      "tags": [
+        "video",
+        "agent-skill",
+        "motion-graphics",
+        "canvas",
+        "launch-video"
+      ],
+      "analyzed_at": "2026-09-27T03:13:26.081403+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "qybaihe/mu",
+      "title": "mu",
+      "description": "mu (μ): a coding agent that thinks before it acts. A small, fast judge makes the routine calls, the big model does the work. Built on pi and AionUi.",
+      "url": "https://github.com/qybaihe/mu",
+      "stars": 231,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-09-22T11:56:05Z",
+      "updated_at": "2026-09-25T18:03:52Z",
+      "forks": 15,
+      "open_issues": 2,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 mu 的技术项目。mu (μ): a coding agent that thinks before it acts. A small, fast judge makes the routine calls, the big model does the work. Built on pi and AionUi.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-27T03:13:26.769418+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "penso/herdr-gpui",
+      "title": "herdr-gpui",
+      "description": "Native macOS client for Herdr, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon.",
+      "url": "https://github.com/penso/herdr-gpui",
+      "stars": 227,
+      "language": "Rust",
+      "topics": [
+        "ai-agents",
+        "desktop-app",
+        "developer-tools",
+        "git-worktrees",
+        "gpui",
+        "herdr",
+        "macos",
+        "rust",
+        "terminal"
+      ],
+      "created_at": "2026-09-20T05:22:39Z",
+      "updated_at": "2026-09-27T02:52:38Z",
+      "forks": 19,
+      "open_issues": 9,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 herdr-gpui 的技术项目。Native macOS client for Herdr, built with Rust and GPUI. View terminal sessions, workspaces, Git worktrees, and agent activity through your local Herdr daemon.",
+      "tags": [
+        "ai-agents",
+        "terminal",
+        "developer-tools",
+        "gpui",
+        "rust"
+      ],
+      "analyzed_at": "2026-09-27T03:13:27.461053+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Devin-AXIS/jev-dsh-decision",
+      "title": "jev-dsh-decision",
+      "description": "Jev DSH 决策引擎｜面向 Agent Harness 的结构化决策插件。原生支持 DeepSeek Harness，通过 iPolloWork 支持 OpenCode、Codex Harness。",
+      "url": "https://github.com/Devin-AXIS/jev-dsh-decision",
+      "stars": 209,
+      "language": "JavaScript",
+      "topics": [
+        "agent-harness",
+        "ai-agents",
+        "apollo-plugin",
+        "codex",
+        "codex-harness-plugin",
+        "codex-plugin",
+        "decision-engine",
+        "deepseek-harness",
+        "deepseek-harness-plugin",
+        "deepseek-plugin",
+        "dpc-plugin",
+        "dsh",
+        "dsh-plugin",
+        "ipollowork",
+        "ipollowork-plugin",
+        "jev",
+        "opencode",
+        "opencode-plugin",
+        "plugin",
+        "typesafe-ai"
+      ],
+      "created_at": "2026-09-20T04:39:05Z",
+      "updated_at": "2026-09-20T04:59:32Z",
+      "forks": 69,
+      "open_issues": 1,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 jev-dsh-decision 的技术项目。Jev DSH 决策引擎｜面向 Agent Harness 的结构化决策插件。原生支持 DeepSeek Harness，通过 iPolloWork 支持 OpenCode、Codex Harness。",
+      "tags": [
+        "deepseek-harness",
+        "plugin",
+        "decision-engine",
+        "codex-plugin",
+        "ipollowork"
+      ],
+      "analyzed_at": "2026-09-27T03:13:28.153651+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "amitshekhariitbhu/ai-engineer-roadmap",
+      "title": "ai-engineer-roadmap",
+      "description": "AI Engineer Roadmap - A step-by-step AI Engineering roadmap to become an AI Engineer, with a blog for every topic.",
+      "url": "https://github.com/amitshekhariitbhu/ai-engineer-roadmap",
+      "stars": 208,
+      "language": "Markdown",
+      "topics": [
+        "ai-engineer",
+        "ai-engineer-roadmap",
+        "ai-engineering",
+        "ai-engineering-roadmap"
+      ],
+      "created_at": "2026-09-20T15:02:38Z",
+      "updated_at": "2026-09-20T15:08:42Z",
+      "forks": 19,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 ai-engineer-roadmap 的技术项目。AI Engineer Roadmap - A step-by-step AI Engineering roadmap to become an AI Engineer, with a blog for every topic.",
+      "tags": [
+        "ai-engineer",
+        "ai-engineering",
+        "ai",
+        "ai-engineer-roadmap",
+        "ai-engineering-roadmap"
+      ],
+      "analyzed_at": "2026-09-27T03:13:28.822660+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "timoncool/YuE2-Studio",
+      "title": "YuE2-Studio",
+      "description": "Local AI song generator with an editable score — YuE2 on your GPU: full songs with vocals, sheet music, covers, exact replay. Native Windows app, no Python, installer with auto-update.",
+      "url": "https://github.com/timoncool/YuE2-Studio",
+      "stars": 194,
+      "language": "TypeScript",
+      "topics": [
+        "abc-notation",
+        "ai-music",
+        "covers",
+        "cuda",
+        "ggml",
+        "local-ai",
+        "music-generation",
+        "offline",
+        "rust",
+        "sheet-music",
+        "tauri",
+        "text-to-music",
+        "vocals",
+        "windows",
+        "yue2"
+      ],
+      "created_at": "2026-09-22T23:06:11Z",
+      "updated_at": "2026-09-27T02:44:31Z",
+      "forks": 15,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 YuE2-Studio 的技术项目。Local AI song generator with an editable score — YuE2 on your GPU: full songs with vocals, sheet music, covers, exact replay. Native Windows app, no Python, installer with auto-update.",
+      "tags": [
+        "vocals",
+        "ai-music",
+        "offline",
+        "sheet-music",
+        "yue2"
+      ],
+      "analyzed_at": "2026-09-27T03:13:29.510190+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "trustfuture/simon-skills",
+      "title": "simon-skills",
+      "description": "不露脸做视频账号的 AI skill 合集：调查长片 + 手绘白板讲解视频，一句选题出片、配音字幕、封面与各平台文案",
+      "url": "https://github.com/trustfuture/simon-skills",
+      "stars": 190,
+      "language": "JavaScript",
+      "topics": [
+        "claude-code",
+        "codex",
+        "excalidraw",
+        "remotion",
+        "skills",
+        "video-generation"
+      ],
+      "created_at": "2026-09-20T05:33:22Z",
+      "updated_at": "2026-09-24T08:05:35Z",
+      "forks": 45,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 simon-skills 的技术项目。不露脸做视频账号的 AI skill 合集：调查长片 + 手绘白板讲解视频，一句选题出片、配音字幕、封面与各平台文案",
+      "tags": [
+        "remotion",
+        "excalidraw",
+        "skills",
+        "codex",
+        "claude-code"
+      ],
+      "analyzed_at": "2026-09-27T03:13:30.205006+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Michael-Jiahao-Zhang/game-the-llm-reviewer",
+      "title": "game-the-llm-reviewer",
+      "description": "Defend sound research against LLM reviewer bias through meaning-preserving rewrites.",
+      "url": "https://github.com/Michael-Jiahao-Zhang/game-the-llm-reviewer",
+      "stars": 188,
+      "language": null,
+      "topics": [
+        "academic-writing",
+        "agent-skills",
+        "ai-research",
+        "llm",
+        "llm-reviewer",
+        "paper-writing",
+        "peer-review",
+        "prompt-engineering",
+        "scientific-writing"
+      ],
+      "created_at": "2026-09-21T23:11:47Z",
+      "updated_at": "2026-09-22T18:55:19Z",
+      "forks": 5,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 game-the-llm-reviewer 的技术项目。Defend sound research against LLM reviewer bias through meaning-preserving rewrites.",
+      "tags": [
+        "llm-reviewer",
+        "ai-research",
+        "prompt-engineering",
+        "agent-skills",
+        "academic-writing"
+      ],
+      "analyzed_at": "2026-09-27T03:13:30.916536+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "diggerhq/shipvideo",
+      "title": "shipvideo",
+      "description": "Paste a URL or a prompt, get a launch video. Opus 5.5 writes HTML, an OpenComputer serverless agent renders it.",
+      "url": "https://github.com/diggerhq/shipvideo",
+      "stars": 184,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-09-24T19:17:31Z",
+      "updated_at": "2026-09-24T23:17:03Z",
+      "forks": 24,
+      "open_issues": 1,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 shipvideo 的技术项目。Paste a URL or a prompt, get a launch video. Opus 5.5 writes HTML, an OpenComputer serverless agent renders it.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-27T03:13:31.604677+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "dzhng/jevgrep",
+      "title": "jevgrep",
+      "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+      "url": "https://github.com/dzhng/jevgrep",
+      "stars": 178,
+      "language": "TypeScript",
+      "topics": [
+        "ai-sdk",
+        "claude-code",
+        "cli",
+        "code-search",
+        "codex",
+        "coding-agents",
+        "context-retrieval",
+        "developer-tools",
+        "jev",
+        "semantic-search",
+        "typescript",
+        "vercel-ai-gateway"
+      ],
+      "created_at": "2026-09-26T04:06:56Z",
+      "updated_at": "2026-09-26T21:45:13Z",
+      "forks": 10,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 jevgrep 的技术项目。Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+      "tags": [
+        "coding-agents",
+        "jev",
+        "ai-sdk",
+        "developer-tools",
+        "codex"
+      ],
+      "analyzed_at": "2026-09-27T03:13:32.277833+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "ysh1112/codex-model-watch",
+      "title": "codex-model-watch",
+      "description": "最近被codex的模型降智搞得很痛苦，所以做了这个用来监控，现在分享给大家，可以看看自己模型是否被替换掉（如果需要可以看任何AI的模型是否被替换掉，稍微改改登录凭证即可，包括中转站）。最后，这个还可以看到你是否被灰度到了最新模型上面。",
+      "url": "https://github.com/ysh1112/codex-model-watch",
+      "stars": 165,
+      "language": "HTML",
+      "topics": [],
+      "created_at": "2026-09-20T23:26:32Z",
+      "updated_at": "2026-09-21T07:01:49Z",
+      "forks": 25,
+      "open_issues": 1,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 codex-model-watch 的技术项目。最近被codex的模型降智搞得很痛苦，所以做了这个用来监控，现在分享给大家，可以看看自己模型是否被替换掉（如果需要可以看任何AI的模型是否被替换掉，稍微改改登录凭证即可，包括中转站）。最后，这个还可以看到你是否被灰度到了最新模型上面。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-27T03:13:32.966115+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "wdobry/laya-playground",
+      "title": "laya-playground",
+      "description": "A website, two games, a benchmark and an agent skill for Laya, the open-source decision model. Runs on your machine.",
+      "url": "https://github.com/wdobry/laya-playground",
+      "stars": 164,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skill",
+        "decision-model",
+        "laya",
+        "open-source",
+        "playground"
+      ],
+      "created_at": "2026-09-20T19:06:43Z",
+      "updated_at": "2026-09-20T20:59:37Z",
+      "forks": 39,
+      "open_issues": 3,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 laya-playground 的技术项目。A website, two games, a benchmark and an agent skill for Laya, the open-source decision model. Runs on your machine.",
+      "tags": [
+        "playground",
+        "agent-skill",
+        "laya",
+        "decision-model",
+        "open-source"
+      ],
+      "analyzed_at": "2026-09-27T03:13:33.634864+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "shhivv/arc-cua",
+      "title": "arc-cua",
+      "description": "Superfast action layer for computer-use agents",
+      "url": "https://github.com/shhivv/arc-cua",
+      "stars": 144,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-09-20T08:27:09Z",
+      "updated_at": "2026-09-24T06:00:05Z",
+      "forks": 14,
+      "open_issues": 1,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 arc-cua 的技术项目。Superfast action layer for computer-use agents",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-27T03:13:34.311260+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "dorkitude/webctl",
+      "title": "webctl",
+      "description": "Smart web search CLI for agents, backed by Jev. Saves a lot of tokens.",
+      "url": "https://github.com/dorkitude/webctl",
+      "stars": 144,
+      "language": "Go",
+      "topics": [],
+      "created_at": "2026-09-20T07:27:00Z",
+      "updated_at": "2026-09-23T19:05:22Z",
+      "forks": 16,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 webctl 的技术项目。Smart web search CLI for agents, backed by Jev. Saves a lot of tokens.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-27T03:13:34.986998+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "merijjeyn/jive",
+      "title": "jive",
+      "description": "A terminal coding agent that plans work as executable graphs",
+      "url": "https://github.com/merijjeyn/jive",
+      "stars": 136,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-09-21T15:07:55Z",
+      "updated_at": "2026-09-26T14:14:24Z",
+      "forks": 12,
+      "open_issues": 2,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 jive 的技术项目。A terminal coding agent that plans work as executable graphs",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-27T03:13:35.667155+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "angel291592/Intent-Router",
+      "title": "Intent-Router",
+      "description": "Intent compiler for AI agents — converges vague requests into typed IntentSpec contracts (probe, ask, or halt before routing), the input layer for routers and typed-decision models like Jev & Laya",
+      "url": "https://github.com/angel291592/Intent-Router",
+      "stars": 135,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "agentic",
+        "ai-agents",
+        "clarification",
+        "claude-code",
+        "codex",
+        "context-engineering",
+        "decision-model",
+        "intent",
+        "llm-routing",
+        "prompt-engineering",
+        "skill",
+        "system-one",
+        "typed-decisions"
+      ],
+      "created_at": "2026-09-22T06:00:27Z",
+      "updated_at": "2026-09-24T07:07:03Z",
+      "forks": 16,
+      "open_issues": 2,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Intent-Router 的技术项目。Intent compiler for AI agents — converges vague requests into typed IntentSpec contracts (probe, ask, or halt before routing), the input layer for routers and typed-decision models like Jev & Laya",
+      "tags": [
+        "decision-model",
+        "ai-agents",
+        "clarification",
+        "prompt-engineering",
+        "agent-skills"
+      ],
+      "analyzed_at": "2026-09-27T03:13:36.341220+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "lemomo-ai/lemo-opuscar",
+      "title": "lemo-opuscar",
+      "description": "39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
+      "url": "https://github.com/lemomo-ai/lemo-opuscar",
+      "stars": 132,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "ai-video",
+        "animation",
+        "canvas",
+        "claude",
+        "claude-code",
+        "creative-coding",
+        "ffmpeg",
+        "filmmaking",
+        "motion-graphics",
+        "prompt-library",
+        "text-to-speech",
+        "threejs",
+        "video-production",
+        "webgl"
+      ],
+      "created_at": "2026-09-26T10:10:41Z",
+      "updated_at": "2026-09-27T03:03:44Z",
+      "forks": 13,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 lemo-opuscar 的技术项目。39 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 39 种影片风格：风格提示词 + 纯代码",
+      "tags": [
+        "ai-agents",
+        "creative-coding",
+        "ffmpeg",
+        "text-to-speech",
+        "ai-video"
+      ],
+      "analyzed_at": "2026-09-27T03:13:37.017410+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "XiaoPuOuO/openchatx-mcp",
+      "title": "openchatx-mcp",
+      "description": "Turn ChatGPT into a local agent runtime. Operate your computer, use local tools, discover MCP servers, and delegate work to your own models through one MCP connection.",
+      "url": "https://github.com/XiaoPuOuO/openchatx-mcp",
+      "stars": 131,
+      "language": "TypeScript",
+      "topics": [
+        "agent-runtime",
+        "ai-agents",
+        "chatgpt",
+        "local-agent",
+        "macos",
+        "mcp",
+        "model-context-protocol",
+        "windows"
+      ],
+      "created_at": "2026-09-23T14:25:56Z",
+      "updated_at": "2026-09-26T19:12:39Z",
+      "forks": 10,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 openchatx-mcp 的技术项目。Turn ChatGPT into a local agent runtime. Operate your computer, use local tools, discover MCP servers, and delegate work to your own models through one MCP connection.",
+      "tags": [
+        "ai-agents",
+        "windows",
+        "local-agent",
+        "mcp",
+        "model-context-protocol"
+      ],
+      "analyzed_at": "2026-09-27T03:13:37.710721+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "YUTA-fywoo/jev-gui-delegate",
+      "title": "jev-gui-delegate",
+      "description": "AI-assisted Windows and Chrome GUI delegation for Codex: task contracts, local execution, Jev semantic decisions, recovery and outcome verification.",
+      "url": "https://github.com/YUTA-fywoo/jev-gui-delegate",
+      "stars": 131,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-09-25T13:23:45Z",
+      "updated_at": "2026-09-25T13:54:09Z",
+      "forks": 6,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 jev-gui-delegate 的技术项目。AI-assisted Windows and Chrome GUI delegation for Codex: task contracts, local execution, Jev semantic decisions, recovery and outcome verification.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-27T03:13:38.556746+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "HeyPuter/builder",
+      "title": "builder",
+      "description": "📦✨ AI Builder For Creating Sites and Apps! An open-source alternative to Lovable, Replit, v0, and similar platforms.",
+      "url": "https://github.com/HeyPuter/builder",
+      "stars": 129,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "ai-builder",
+        "app-builder",
+        "base44",
+        "bolt",
+        "claude-code",
+        "codex",
+        "lovable",
+        "opencode",
+        "replit",
+        "v0"
+      ],
+      "created_at": "2026-09-21T03:45:45Z",
+      "updated_at": "2026-09-26T02:15:38Z",
+      "forks": 32,
+      "open_issues": 1,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 builder 的技术项目。📦✨ AI Builder For Creating Sites and Apps! An open-source alternative to Lovable, Replit, v0, and similar platforms.",
+      "tags": [
+        "ai-agents",
+        "opencode",
+        "lovable",
+        "v0",
+        "bolt"
+      ],
+      "analyzed_at": "2026-09-27T03:13:39.233118+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Futureppo/typesafe_register",
+      "title": "typesafe_register",
+      "description": "typesafe.ai注册机，极致优化，无限jev",
+      "url": "https://github.com/Futureppo/typesafe_register",
+      "stars": 127,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-09-21T13:21:38Z",
+      "updated_at": "2026-09-21T20:26:15Z",
+      "forks": 49,
+      "open_issues": 2,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 typesafe_register 的技术项目。typesafe.ai注册机，极致优化，无限jev",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-27T03:13:39.917893+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
