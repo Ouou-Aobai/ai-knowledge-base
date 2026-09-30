@@ -1,0 +1,1837 @@
+{
+  "source": "github",
+  "collected_at": "2026-09-30T03:36:13.394097Z",
+  "analyzed_at": "2026-09-30T03:37:20.233203+00:00",
+  "count": 50,
+  "items": [
+    {
+      "id": "KKKKhazix/AIHOT",
+      "title": "AIHOT",
+      "description": "一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "url": "https://github.com/KKKKhazix/AIHOT",
+      "stars": 3409,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "llm",
+        "mcp",
+        "news-aggregator",
+        "rss",
+        "self-hosted"
+      ],
+      "created_at": "2026-09-28T23:40:05Z",
+      "updated_at": "2026-09-29T18:02:56Z",
+      "forks": 977,
+      "open_issues": 3,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 AIHOT 的技术项目。一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。",
+      "tags": [
+        "news-aggregator",
+        "rss",
+        "ai",
+        "self-hosted",
+        "llm"
+      ],
+      "analyzed_at": "2026-09-30T03:36:42.180068+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "yetone/magpie",
+      "title": "magpie",
+      "description": "Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "url": "https://github.com/yetone/magpie",
+      "stars": 2972,
+      "language": "Go",
+      "topics": [
+        "claude-code",
+        "codex",
+        "deepseek",
+        "gemini-cli",
+        "llm",
+        "macos"
+      ],
+      "created_at": "2026-09-23T16:22:35Z",
+      "updated_at": "2026-09-30T03:31:23Z",
+      "forks": 176,
+      "open_issues": 38,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 magpie 的技术项目。Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",
+      "tags": [
+        "codex",
+        "llm",
+        "gemini-cli",
+        "deepseek",
+        "macos"
+      ],
+      "analyzed_at": "2026-09-30T03:36:42.974311+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "dzhng/jevgrep",
+      "title": "jevgrep",
+      "description": "Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+      "url": "https://github.com/dzhng/jevgrep",
+      "stars": 1791,
+      "language": "TypeScript",
+      "topics": [
+        "ai-sdk",
+        "claude-code",
+        "cli",
+        "code-search",
+        "codex",
+        "coding-agents",
+        "context-retrieval",
+        "developer-tools",
+        "jev",
+        "semantic-search",
+        "typescript",
+        "vercel-ai-gateway"
+      ],
+      "created_at": "2026-09-26T04:06:56Z",
+      "updated_at": "2026-09-29T07:30:22Z",
+      "forks": 114,
+      "open_issues": 25,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 jevgrep 的技术项目。Find code by asking what it does. A CLI for coding agents that uses Jev to discover relevant files and source context.",
+      "tags": [
+        "codex",
+        "ai-sdk",
+        "vercel-ai-gateway",
+        "coding-agents",
+        "typescript"
+      ],
+      "analyzed_at": "2026-09-30T03:36:43.722030+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "mikehasa/golive-skill",
+      "title": "golive-skill",
+      "description": "Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No GoLive account, backend or telemetry.",
+      "url": "https://github.com/mikehasa/golive-skill",
+      "stars": 1119,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skill",
+        "agent-skills",
+        "ai-agents",
+        "claude-code",
+        "cloudflare",
+        "codex",
+        "database",
+        "deployment",
+        "developer-tools",
+        "devops",
+        "dns",
+        "godaddy",
+        "hosting",
+        "infrastructure",
+        "neon",
+        "netlify",
+        "porkbun",
+        "skills",
+        "supabase",
+        "vercel"
+      ],
+      "created_at": "2026-09-23T13:37:26Z",
+      "updated_at": "2026-09-29T12:52:34Z",
+      "forks": 83,
+      "open_issues": 1,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 golive-skill 的技术项目。Take your agent-built product live: hosting, database, domain, email, payments — on your own accounts. Open-source Agent Skill + zero-dependency Node CLI: detect → plan → approve → apply → verify. No ",
+      "tags": [
+        "ai-agents",
+        "godaddy",
+        "developer-tools",
+        "claude-code",
+        "neon"
+      ],
+      "analyzed_at": "2026-09-30T03:36:44.483018+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "feitangyuan/onetake",
+      "title": "onetake",
+      "description": "Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and feature demos.",
+      "url": "https://github.com/feitangyuan/onetake",
+      "stars": 987,
+      "language": "Python",
+      "topics": [
+        "agent-skill",
+        "animation",
+        "canvas",
+        "claude-skill",
+        "launch-video",
+        "motion-graphics",
+        "video"
+      ],
+      "created_at": "2026-09-26T05:35:17Z",
+      "updated_at": "2026-09-29T01:53:46Z",
+      "forks": 64,
+      "open_issues": 3,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 onetake 的技术项目。Motion films that never cut to the next slide: every beat grows out of the one before, one continuous camera, continuity measured by an oracle. A Claude Agent Skill for product launch films and featur",
+      "tags": [
+        "video",
+        "claude-skill",
+        "agent-skill",
+        "launch-video",
+        "animation"
+      ],
+      "analyzed_at": "2026-09-30T03:36:45.235886+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "kaankiziltug/logo-design-skill",
+      "title": "logo-design-skill",
+      "description": "A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
+      "url": "https://github.com/kaankiziltug/logo-design-skill",
+      "stars": 860,
+      "language": "HTML",
+      "topics": [
+        "agent-skills",
+        "branding",
+        "claude",
+        "claude-skills",
+        "codex",
+        "gemini-cli",
+        "logo-design",
+        "svg"
+      ],
+      "created_at": "2026-09-26T08:23:34Z",
+      "updated_at": "2026-09-29T08:27:51Z",
+      "forks": 41,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 logo-design-skill 的技术项目。A comprehensive logo-design skill for Claude, Gemini CLI, Codex and other AI agents: principles, process, SVG craft, testing tools and a 1,400+ logo reference library.",
+      "tags": [
+        "codex",
+        "svg",
+        "gemini-cli",
+        "logo-design",
+        "claude"
+      ],
+      "analyzed_at": "2026-09-30T03:36:45.988289+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "lemomo-ai/lemo-opuscar",
+      "title": "lemo-opuscar",
+      "description": "43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码样片 + 导演与技术指南",
+      "url": "https://github.com/lemomo-ai/lemo-opuscar",
+      "stars": 620,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "ai-video",
+        "animation",
+        "canvas",
+        "claude",
+        "claude-code",
+        "creative-coding",
+        "ffmpeg",
+        "filmmaking",
+        "motion-graphics",
+        "prompt-library",
+        "text-to-speech",
+        "threejs",
+        "video-production",
+        "webgl"
+      ],
+      "created_at": "2026-09-26T10:10:41Z",
+      "updated_at": "2026-09-30T00:32:28Z",
+      "forks": 81,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 lemo-opuscar 的技术项目。43 film styles, each a reusable style prompt plus a short film made entirely in code by Claude Opus 5.5. Pick a style, bring your own story, and let your agent direct. | Opus5.5 x 43 种影片风格：风格提示词 + 纯代码",
+      "tags": [
+        "ai-agents",
+        "threejs",
+        "video-production",
+        "creative-coding",
+        "ffmpeg"
+      ],
+      "analyzed_at": "2026-09-30T03:36:46.761050+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "angusdevgo/Seep-Reverse-Lab",
+      "title": "Seep-Reverse-Lab",
+      "description": "Agent-Native multi-platform reverse engineering and CWE-602 client-side authorization audit workbench.",
+      "url": "https://github.com/angusdevgo/Seep-Reverse-Lab",
+      "stars": 573,
+      "language": "Lua",
+      "topics": [],
+      "created_at": "2026-09-23T18:05:31Z",
+      "updated_at": "2026-09-29T16:11:49Z",
+      "forks": 169,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Seep-Reverse-Lab 的技术项目。Agent-Native multi-platform reverse engineering and CWE-602 client-side authorization audit workbench.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-30T03:36:47.579838+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "glanderness/BeefTV",
+      "title": "BeefTV",
+      "description": "Local-first, lightweight, AI-native video workspace.",
+      "url": "https://github.com/glanderness/BeefTV",
+      "stars": 556,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-09-24T05:20:03Z",
+      "updated_at": "2026-09-29T20:11:41Z",
+      "forks": 107,
+      "open_issues": 15,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 BeefTV 的技术项目。Local-first, lightweight, AI-native video workspace.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-30T03:36:48.352370+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "amitshekhariitbhu/ai-system-design",
+      "title": "ai-system-design",
+      "description": "AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
+      "url": "https://github.com/amitshekhariitbhu/ai-system-design",
+      "stars": 469,
+      "language": "Markdown",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "ai-engineering",
+        "ai-system",
+        "ai-system-design",
+        "ai-systems",
+        "ai-systems-design",
+        "llm",
+        "system-design",
+        "system-design-interview"
+      ],
+      "created_at": "2026-09-25T04:50:06Z",
+      "updated_at": "2026-09-25T04:53:31Z",
+      "forks": 56,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 ai-system-design 的技术项目。AI System Design - Learn how to design AI systems built on LLMs, RAG, and AI Agents step by step.",
+      "tags": [
+        "ai-agents",
+        "system-design-interview",
+        "ai",
+        "ai-system",
+        "ai-systems-design"
+      ],
+      "analyzed_at": "2026-09-30T03:36:49.109414+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "amitshekhariitbhu/ai-engineering-course",
+      "title": "ai-engineering-course",
+      "description": "AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from Machine Learning, Neural Networks, and Transformers to LLMs, Fine-Tuning, RAG, AI Agents, LLM Inference, Evaluation, AI Safety, and AI System Design.",
+      "url": "https://github.com/amitshekhariitbhu/ai-engineering-course",
+      "stars": 448,
+      "language": "Markdown",
+      "topics": [
+        "ai-course",
+        "ai-engineering",
+        "ai-engineering-course",
+        "ai-engineering-curriculum",
+        "large-language-models"
+      ],
+      "created_at": "2026-09-23T08:04:42Z",
+      "updated_at": "2026-09-29T04:39:14Z",
+      "forks": 83,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 ai-engineering-course 的技术项目。AI Engineering Course - A free and complete AI Engineering Course to learn AI Engineering step by step - from Machine Learning, Neural Networks, and Transformers to LLMs, Fine-Tuning, RAG, AI Agents, ",
+      "tags": [
+        "large-language-models",
+        "ai",
+        "ai-course",
+        "ai-engineering-curriculum",
+        "ai-engineering"
+      ],
+      "analyzed_at": "2026-09-30T03:36:49.863199+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "zouyuxuan122/dsh-our-free-model",
+      "title": "dsh-our-free-model",
+      "description": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Muse Spark 1.3 and MiMo V2.6 among them. Completely free, with no usage cap.",
+      "url": "https://github.com/zouyuxuan122/dsh-our-free-model",
+      "stars": 428,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "deepseek",
+        "deepseek-harness",
+        "developer-tools",
+        "dsh",
+        "dsh-plugin",
+        "free-model",
+        "llm",
+        "model-provider",
+        "openai-compatible"
+      ],
+      "created_at": "2026-09-24T16:17:19Z",
+      "updated_at": "2026-09-27T09:32:50Z",
+      "forks": 21,
+      "open_issues": 3,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 dsh-our-free-model 的技术项目。在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 Muse Spark 1.3、MiMo V2.6 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, Mu",
+      "tags": [
+        "ai-agents",
+        "model-provider",
+        "dsh",
+        "free-model",
+        "deepseek-harness"
+      ],
+      "analyzed_at": "2026-09-30T03:36:50.615519+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "JoasASantos/Offensive-Security-AI-Models",
+      "title": "Offensive-Security-AI-Models",
+      "description": "Uncensored AI models or those fine-tuned for cybersecurity tasks.",
+      "url": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
+      "stars": 417,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-09-27T20:36:30Z",
+      "updated_at": "2026-09-28T14:34:47Z",
+      "forks": 38,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Offensive-Security-AI-Models 的技术项目。Uncensored AI models or those fine-tuned for cybersecurity tasks.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-30T03:36:51.377907+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "AgentSystemLabs/agent-office",
+      "title": "agent-office",
+      "description": "A cartoon 3D office where your team hires Claude Code workers at desks, shares live terminals, talks over voice, and tracks GitHub issues and PRs.",
+      "url": "https://github.com/AgentSystemLabs/agent-office",
+      "stars": 396,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-09-26T00:32:48Z",
+      "updated_at": "2026-09-30T03:35:11Z",
+      "forks": 85,
+      "open_issues": 4,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 agent-office 的技术项目。A cartoon 3D office where your team hires Claude Code workers at desks, shares live terminals, talks over voice, and tracks GitHub issues and PRs.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-09-30T03:36:52.138494+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "CaptureGrubEnchant/SolidWorks",
+      "title": "SolidWorks",
+      "description": "SolidWorks MCP Server connects an AI assistant to a running SolidWorks instance. Sketch, extrude, fillet, export STEP/STL, generate macros.",
+      "url": "https://github.com/CaptureGrubEnchant/SolidWorks",
+      "stars": 372,
+      "language": "TypeScript",
+      "topics": [
+        "3d-modelling",
+        "3d-modelling-software",
+        "3d-rendering",
+        "3d-rendering-software",
+        "3d-rendering-tools",
+        "3dexperience",
+        "3dprinting",
+        "cad-tools",
+        "solidworks",
+        "solidworks-addin",
+        "solidworks-ai",
+        "solidworks-automation",
+        "solidworks-free",
+        "solidworks-tutorial",
+        "solidworksapi",
+        "solidworksmacro"
+      ],
+      "created_at": "2026-09-25T10:42:51Z",
+      "updated_at": "2026-09-29T19:04:17Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 SolidWorks 的技术项目。SolidWorks MCP Server connects an AI assistant to a running SolidWorks instance. Sketch, extrude, fillet, export STEP/STL, generate macros.",
+      "tags": [
+        "3d-rendering-software",
+        "solidworks-addin",
+        "cad-tools",
+        "solidworks-tutorial",
+        "solidworks-automation"
+      ],
+      "analyzed_at": "2026-09-30T03:36:52.882869+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "bridge-mind/bridgeclip",
+      "title": "bridgeclip",
+      "description": "Open-source AI video clipping desktop app by BridgeMind",
+      "url": "https://github.com/bridge-mind/bridgeclip",
+      "stars": 341,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-09-24T17:09:04Z",
+      "updated_at": "2026-09-30T01:48:16Z",
+      "forks": 74,
+      "open_issues": 12,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 bridgeclip 的技术项目。Open-source AI video clipping desktop app by BridgeMind",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-30T03:36:53.680835+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "leter/zh-tech-writing",
+      "title": "zh-tech-writing",
+      "description": "写中文技术文档的 Agent Skill，基于阮一峰《中文技术文档的写作规范》：短句、平实、没有 AI 腔",
+      "url": "https://github.com/leter/zh-tech-writing",
+      "stars": 310,
+      "language": null,
+      "topics": [
+        "agent-skills",
+        "chinese",
+        "claude-code",
+        "documentation",
+        "style-guide",
+        "technical-writing"
+      ],
+      "created_at": "2026-09-24T17:37:46Z",
+      "updated_at": "2026-09-24T17:49:53Z",
+      "forks": 14,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 zh-tech-writing 的技术项目。写中文技术文档的 Agent Skill，基于阮一峰《中文技术文档的写作规范》：短句、平实、没有 AI 腔",
+      "tags": [
+        "chinese",
+        "technical-writing",
+        "agent-skills",
+        "style-guide",
+        "claude-code"
+      ],
+      "analyzed_at": "2026-09-30T03:36:54.429981+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "win4r/MuseAI-Skills",
+      "title": "MuseAI-Skills",
+      "description": "muse.ai (Muse AI) skills and runtime snapshot: 68 skills, workflow guides, connector manifests. muse.ai 技能与运行环境文件；非官方存档 / Unofficial archive.",
+      "url": "https://github.com/win4r/MuseAI-Skills",
+      "stars": 305,
+      "language": "HTML",
+      "topics": [
+        "agent-skills",
+        "meta",
+        "muse",
+        "skills"
+      ],
+      "created_at": "2026-09-25T07:45:43Z",
+      "updated_at": "2026-09-28T00:49:54Z",
+      "forks": 100,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 MuseAI-Skills 的技术项目。muse.ai (Muse AI) skills and runtime snapshot: 68 skills, workflow guides, connector manifests. muse.ai 技能与运行环境文件；非官方存档 / Unofficial archive.",
+      "tags": [
+        "ai",
+        "meta",
+        "muse",
+        "skills",
+        "agent-skills"
+      ],
+      "analyzed_at": "2026-09-30T03:36:55.181218+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "zhuyansen/awesome-claude-video-skills",
+      "title": "awesome-claude-video-skills",
+      "description": "Open-source skills and toolkits that let Claude Code, Codex and other coding agents make video. 180 repos by type, each security-graded. English / 中文.",
+      "url": "https://github.com/zhuyansen/awesome-claude-video-skills",
+      "stars": 298,
+      "language": null,
+      "topics": [
+        "agent-skills",
+        "awesome-list",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "hyperframes",
+        "motion-graphics",
+        "opus-5-5",
+        "remotion",
+        "video"
+      ],
+      "created_at": "2026-09-27T04:06:05Z",
+      "updated_at": "2026-09-28T09:30:21Z",
+      "forks": 32,
+      "open_issues": 2,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 awesome-claude-video-skills 的技术项目。Open-source skills and toolkits that let Claude Code, Codex and other coding agents make video. 180 repos by type, each security-graded. English / 中文.",
+      "tags": [
+        "codex",
+        "video",
+        "opus-5-5",
+        "awesome-list",
+        "remotion"
+      ],
+      "analyzed_at": "2026-09-30T03:36:55.953436+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "openai/mcp-extensions",
+      "title": "mcp-extensions",
+      "description": "Build plugins that feel like native, first-class features of ChatGPT.",
+      "url": "https://github.com/openai/mcp-extensions",
+      "stars": 263,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-09-29T00:45:42Z",
+      "updated_at": "2026-09-29T19:30:39Z",
+      "forks": 10,
+      "open_issues": 4,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 mcp-extensions 的技术项目。Build plugins that feel like native, first-class features of ChatGPT.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-30T03:36:56.719085+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "openJiuwen-ai/iCode",
+      "title": "iCode",
+      "description": "A lightweight, extensible, fully offline development platform and agent/workflow toolkit for the AI era, with an intuitive TUI, easy deployment, and complete control over your data, agents, and workflows.",
+      "url": "https://github.com/openJiuwen-ai/iCode",
+      "stars": 258,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-09-28T03:35:08Z",
+      "updated_at": "2026-09-29T15:42:57Z",
+      "forks": 41,
+      "open_issues": 3,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 iCode 的技术项目。A lightweight, extensible, fully offline development platform and agent/workflow toolkit for the AI era, with an intuitive TUI, easy deployment, and complete control over your data, agents, and workfl",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-30T03:36:57.473549+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "XiaoPuOuO/openchatx-mcp",
+      "title": "openchatx-mcp",
+      "description": "Turn ChatGPT into a local agent runtime. Operate your computer, use local tools, discover MCP servers, and delegate work to your own models through one MCP connection.",
+      "url": "https://github.com/XiaoPuOuO/openchatx-mcp",
+      "stars": 226,
+      "language": "TypeScript",
+      "topics": [
+        "agent-runtime",
+        "ai-agents",
+        "chatgpt",
+        "local-agent",
+        "macos",
+        "mcp",
+        "model-context-protocol",
+        "windows"
+      ],
+      "created_at": "2026-09-23T14:25:56Z",
+      "updated_at": "2026-09-28T17:58:50Z",
+      "forks": 15,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 openchatx-mcp 的技术项目。Turn ChatGPT into a local agent runtime. Operate your computer, use local tools, discover MCP servers, and delegate work to your own models through one MCP connection.",
+      "tags": [
+        "ai-agents",
+        "chatgpt",
+        "windows",
+        "mcp",
+        "model-context-protocol"
+      ],
+      "analyzed_at": "2026-09-30T03:36:58.246822+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "diggerhq/shipvideo",
+      "title": "shipvideo",
+      "description": "Paste a URL or a prompt, get a launch video. Opus 5.5 writes HTML, an OpenComputer serverless agent renders it.",
+      "url": "https://github.com/diggerhq/shipvideo",
+      "stars": 220,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-09-24T19:17:31Z",
+      "updated_at": "2026-09-24T23:17:03Z",
+      "forks": 27,
+      "open_issues": 1,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 shipvideo 的技术项目。Paste a URL or a prompt, get a launch video. Opus 5.5 writes HTML, an OpenComputer serverless agent renders it.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-30T03:36:59.011521+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "imikerussell/beebots",
+      "title": "beebots",
+      "description": "Three AI trading bees on OKX, every decision by Jev. Paper trading by default. Not financial advice.",
+      "url": "https://github.com/imikerussell/beebots",
+      "stars": 174,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-09-25T15:30:48Z",
+      "updated_at": "2026-09-27T05:07:43Z",
+      "forks": 90,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 beebots 的技术项目。Three AI trading bees on OKX, every decision by Jev. Paper trading by default. Not financial advice.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-30T03:36:59.765872+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "czg86389-hub/muse2api",
+      "title": "muse2api",
+      "description": "把 Muse(muse.ai) 逆向封装为 OpenAI 兼容接口，支持对话、文生图、文生视频/图生视频、多账号池轮转与 48h 自动续期。OpenAI-compatible API for Muse.ai with Chat, Image & Video generation.",
+      "url": "https://github.com/czg86389-hub/muse2api",
+      "stars": 171,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-09-25T14:22:55Z",
+      "updated_at": "2026-09-29T16:42:29Z",
+      "forks": 45,
+      "open_issues": 2,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 muse2api 的技术项目。把 Muse(muse.ai) 逆向封装为 OpenAI 兼容接口，支持对话、文生图、文生视频/图生视频、多账号池轮转与 48h 自动续期。OpenAI-compatible API for Muse.ai with Chat, Image & Video generation.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-30T03:37:00.531078+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "JoinArtisanVent/x-scraper-no-api",
+      "title": "x-scraper-no-api",
+      "description": "Free, self-hosted X (Twitter) scraper no API key, no credits. Uses your own browser session via Playwright. Export tweets, search results & timelines as LLM-ready JSON/CSV/Markdown. Ships an AI agent Skill for OpenClaw & Hermes.",
+      "url": "https://github.com/JoinArtisanVent/x-scraper-no-api",
+      "stars": 159,
+      "language": "JavaScript",
+      "topics": [
+        "hermes",
+        "nitter",
+        "openclaw",
+        "openclaw-plugin",
+        "openclaw-tools",
+        "scrape-twitter-without-api",
+        "tweet-scraper",
+        "twitter",
+        "twitter-api",
+        "twitter-osint",
+        "twitter-scrape",
+        "twitter-scraper",
+        "twitter-scraper-no-api",
+        "twitter-scraping",
+        "twitter-script",
+        "x-data-export",
+        "x-scraper"
+      ],
+      "created_at": "2026-09-26T01:57:59Z",
+      "updated_at": "2026-09-26T08:18:20Z",
+      "forks": 5,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 x-scraper-no-api 的技术项目。Free, self-hosted X (Twitter) scraper no API key, no credits. Uses your own browser session via Playwright. Export tweets, search results & timelines as LLM-ready JSON/CSV/Markdown. Ships an AI agent ",
+      "tags": [
+        "scrape-twitter-without-api",
+        "nitter",
+        "x-data-export",
+        "openclaw-plugin",
+        "tweet-scraper"
+      ],
+      "analyzed_at": "2026-09-30T03:37:01.284913+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "tswawa/WechatVibe",
+      "title": "WechatVibe",
+      "description": "微信聊天分析工具，支持本地 Laya 与 API 模型，提供意图识别、情绪感知、人物画像、群聊画像、好感度分析和 MBTI 聊天推测。",
+      "url": "https://github.com/tswawa/WechatVibe",
+      "stars": 158,
+      "language": "Python",
+      "topics": [
+        "chat-analysis",
+        "electron",
+        "emotion-recognition",
+        "intent-recognition",
+        "laya",
+        "llm",
+        "local-ai",
+        "mbti",
+        "onnx",
+        "personality-analysis",
+        "wechat",
+        "windows"
+      ],
+      "created_at": "2026-09-23T09:59:24Z",
+      "updated_at": "2026-09-29T11:53:29Z",
+      "forks": 27,
+      "open_issues": 4,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 WechatVibe 的技术项目。微信聊天分析工具，支持本地 Laya 与 API 模型，提供意图识别、情绪感知、人物画像、群聊画像、好感度分析和 MBTI 聊天推测。",
+      "tags": [
+        "chat-analysis",
+        "onnx",
+        "windows",
+        "llm",
+        "personality-analysis"
+      ],
+      "analyzed_at": "2026-09-30T03:37:02.037951+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "scarletkc/seiso",
+      "title": "seiso",
+      "description": "A Markdown convention and linter for project docs written by AI and read by humans and agents",
+      "url": "https://github.com/scarletkc/seiso",
+      "stars": 150,
+      "language": "Rust",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "claude-code",
+        "cli",
+        "coding-agents",
+        "commonmark",
+        "conventions",
+        "developer-tools",
+        "docs-as-code",
+        "documentation",
+        "documentation-tool",
+        "gfm",
+        "lint",
+        "linter",
+        "llm",
+        "markdown",
+        "markdown-linter",
+        "rust",
+        "static-analysis",
+        "technical-writing"
+      ],
+      "created_at": "2026-09-27T13:27:28Z",
+      "updated_at": "2026-09-29T13:42:59Z",
+      "forks": 8,
+      "open_issues": 17,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 seiso 的技术项目。A Markdown convention and linter for project docs written by AI and read by humans and agents",
+      "tags": [
+        "ai-agents",
+        "static-analysis",
+        "developer-tools",
+        "gfm",
+        "claude-code"
+      ],
+      "analyzed_at": "2026-09-30T03:37:02.791069+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "YeJe-cpu/SeeCut",
+      "title": "SeeCut",
+      "description": "An AI editor that watches its own cut: talking-head / AI-avatar video → auto-edited short video. 网感口播精剪：数字人/真人口播 → AI 自动精剪成网感动效短视频 → 可选剪映分层草稿",
+      "url": "https://github.com/YeJe-cpu/SeeCut",
+      "stars": 137,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skill",
+        "ai-avatar",
+        "ai-video",
+        "claude-code",
+        "gemini",
+        "heygen",
+        "hyperframes",
+        "talking-head",
+        "video-editing"
+      ],
+      "created_at": "2026-09-25T11:48:27Z",
+      "updated_at": "2026-09-29T06:20:42Z",
+      "forks": 24,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 SeeCut 的技术项目。An AI editor that watches its own cut: talking-head / AI-avatar video → auto-edited short video. 网感口播精剪：数字人/真人口播 → AI 自动精剪成网感动效短视频 → 可选剪映分层草稿",
+      "tags": [
+        "video-editing",
+        "agent-skill",
+        "gemini",
+        "heygen",
+        "ai-video"
+      ],
+      "analyzed_at": "2026-09-30T03:37:03.608101+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "YUTA-fywoo/jev-gui-delegate",
+      "title": "jev-gui-delegate",
+      "description": "AI-assisted Windows and Chrome GUI delegation for Codex: task contracts, local execution, Jev semantic decisions, recovery and outcome verification.",
+      "url": "https://github.com/YUTA-fywoo/jev-gui-delegate",
+      "stars": 131,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-09-25T13:23:45Z",
+      "updated_at": "2026-09-27T21:22:43Z",
+      "forks": 6,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 jev-gui-delegate 的技术项目。AI-assisted Windows and Chrome GUI delegation for Codex: task contracts, local execution, Jev semantic decisions, recovery and outcome verification.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-30T03:37:04.370109+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "NaiveAI-Labs/Naive-N0.5-Flash",
+      "title": "Naive-N0.5-Flash",
+      "description": "Naive-N0.5-Flash is an open-weight 309B MoE model with 15.5B active parameters, built for coding and AI R&D.",
+      "url": "https://github.com/NaiveAI-Labs/Naive-N0.5-Flash",
+      "stars": 130,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-09-27T15:03:09Z",
+      "updated_at": "2026-09-27T15:57:31Z",
+      "forks": 7,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Naive-N0.5-Flash 的技术项目。Naive-N0.5-Flash is an open-weight 309B MoE model with 15.5B active parameters, built for coding and AI R&D.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-30T03:37:05.145035+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "ANDRETRIPOL/OpenGhost",
+      "title": "OpenGhost",
+      "description": "Open desktop agent for Windows, macOS and Linux",
+      "url": "https://github.com/ANDRETRIPOL/OpenGhost",
+      "stars": 125,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-09-25T12:32:32Z",
+      "updated_at": "2026-09-29T19:58:45Z",
+      "forks": 11,
+      "open_issues": 3,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 OpenGhost 的技术项目。Open desktop agent for Windows, macOS and Linux",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-30T03:37:05.920667+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "aaddrick/building-with-typesafe-jev",
+      "title": "building-with-typesafe-jev",
+      "description": "Unofficial skill that teaches coding agents to build with TypeSafe AI's Jev: typed decisions, calibrated confidence, and prior art from 150+ community projects.",
+      "url": "https://github.com/aaddrick/building-with-typesafe-jev",
+      "stars": 124,
+      "language": "Python",
+      "topics": [
+        "agent-skill",
+        "agent-skills",
+        "ai-agents",
+        "calibration",
+        "classification",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-code-skill",
+        "claude-code-skills",
+        "codex-cli",
+        "gemini-cli",
+        "guardrails",
+        "jev",
+        "llm",
+        "llm-tools",
+        "prompt-engineering",
+        "structured-output",
+        "system-one",
+        "typesafe",
+        "typesafe-ai"
+      ],
+      "created_at": "2026-09-26T00:01:19Z",
+      "updated_at": "2026-09-28T02:25:46Z",
+      "forks": 9,
+      "open_issues": 1,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 building-with-typesafe-jev 的技术项目。Unofficial skill that teaches coding agents to build with TypeSafe AI's Jev: typed decisions, calibrated confidence, and prior art from 150+ community projects.",
+      "tags": [
+        "ai-agents",
+        "system-one",
+        "jev",
+        "claude-code",
+        "typesafe-ai"
+      ],
+      "analyzed_at": "2026-09-30T03:37:06.675475+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "theNetworkChuck/paperclip-guide",
+      "title": "paperclip-guide",
+      "description": "Companion guide for the NetworkChuck Paperclip video: install Paperclip and build an AI IT department. Every step tested on Paperclip 2026.916.1.",
+      "url": "https://github.com/theNetworkChuck/paperclip-guide",
+      "stars": 124,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "ai-company",
+        "claude-code",
+        "codex",
+        "flare",
+        "hermes",
+        "homelab",
+        "networkchuck",
+        "paperclip"
+      ],
+      "created_at": "2026-09-24T15:00:59Z",
+      "updated_at": "2026-09-24T15:02:21Z",
+      "forks": 18,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 paperclip-guide 的技术项目。Companion guide for the NetworkChuck Paperclip video: install Paperclip and build an AI IT department. Every step tested on Paperclip 2026.916.1.",
+      "tags": [
+        "ai-agents",
+        "codex",
+        "flare",
+        "paperclip",
+        "networkchuck"
+      ],
+      "analyzed_at": "2026-09-30T03:37:07.460825+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "michaelswissa/jevry",
+      "title": "jevry",
+      "description": "Your browser. Ready to act. An MIT-licensed desktop browser agent for website tasks, cited research, and supported games.",
+      "url": "https://github.com/michaelswissa/jevry",
+      "stars": 122,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "browser-automation",
+        "desktop-app",
+        "electron",
+        "research",
+        "typescript"
+      ],
+      "created_at": "2026-09-24T10:44:35Z",
+      "updated_at": "2026-09-28T14:19:21Z",
+      "forks": 3,
+      "open_issues": 2,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 jevry 的技术项目。Your browser. Ready to act. An MIT-licensed desktop browser agent for website tasks, cited research, and supported games.",
+      "tags": [
+        "ai-agents",
+        "desktop-app",
+        "browser-automation",
+        "typescript",
+        "electron"
+      ],
+      "analyzed_at": "2026-09-30T03:37:08.220001+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "chelinho139/wow-ai",
+      "title": "wow-ai",
+      "description": "Addon to use AI (Claude, Codex, Grok, Antigravity and Hermes) inside World of Warcraft  (WoW)",
+      "url": "https://github.com/chelinho139/wow-ai",
+      "stars": 121,
+      "language": "JavaScript",
+      "topics": [
+        "ai",
+        "claude-code",
+        "wow"
+      ],
+      "created_at": "2026-09-23T04:57:34Z",
+      "updated_at": "2026-09-27T20:42:30Z",
+      "forks": 27,
+      "open_issues": 10,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 wow-ai 的技术项目。Addon to use AI (Claude, Codex, Grok, Antigravity and Hermes) inside World of Warcraft  (WoW)",
+      "tags": [
+        "claude-code",
+        "ai",
+        "wow"
+      ],
+      "analyzed_at": "2026-09-30T03:37:08.970278+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "aws-samples/sample-voice-ai-agent-studio",
+      "title": "sample-voice-ai-agent-studio",
+      "description": null,
+      "url": "https://github.com/aws-samples/sample-voice-ai-agent-studio",
+      "stars": 119,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-09-24T13:32:45Z",
+      "updated_at": "2026-09-25T17:20:39Z",
+      "forks": 45,
+      "open_issues": 9,
+      "relevance_score": 0.7,
+      "summary": "这是一个关于 sample-voice-ai-agent-studio 的技术内容。",
+      "tags": [
+        "ai",
+        "agent"
+      ],
+      "analyzed_at": "2026-09-30T03:37:09.737929+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "georgeding/Relate",
+      "title": "Relate",
+      "description": "记得她说过的每一句话，也记得你答应过的每一件事。A self-hosted AI chief of staff for your chats — remembers what they said and what you promised.",
+      "url": "https://github.com/georgeding/Relate",
+      "stars": 118,
+      "language": "JavaScript",
+      "topics": [
+        "ai-assistant",
+        "llm",
+        "mcp",
+        "memory",
+        "ollama",
+        "openai-compatible",
+        "personal-knowledge",
+        "privacy",
+        "self-hosted",
+        "telegram"
+      ],
+      "created_at": "2026-09-23T16:20:10Z",
+      "updated_at": "2026-09-28T00:15:36Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Relate 的技术项目。记得她说过的每一句话，也记得你答应过的每一件事。A self-hosted AI chief of staff for your chats — remembers what they said and what you promised.",
+      "tags": [
+        "privacy",
+        "self-hosted",
+        "ollama",
+        "llm",
+        "mcp"
+      ],
+      "analyzed_at": "2026-09-30T03:37:10.493761+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "springvoiceswell/semrush-ai-tool",
+      "title": "semrush-ai-tool",
+      "description": "Semrush SEO AI-powered analysis tool MCP server & CLI for keyword research, domain analytics, backlink analysis",
+      "url": "https://github.com/springvoiceswell/semrush-ai-tool",
+      "stars": 117,
+      "language": "JavaScript",
+      "topics": [
+        "ai-seo",
+        "backlink-analysis",
+        "claude-desktop",
+        "cursor-pro",
+        "semrush",
+        "semrush-alternative",
+        "semrush-api",
+        "semrush-features",
+        "semrush-patch",
+        "semrush-safe",
+        "seo",
+        "seo-automation",
+        "seo-optimization",
+        "seo-tools",
+        "seo-tools-rapid-url-indexer",
+        "serp-analysis",
+        "serp-api",
+        "serp-scraper"
+      ],
+      "created_at": "2026-09-25T04:00:09Z",
+      "updated_at": "2026-09-26T08:16:28Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 semrush-ai-tool 的技术项目。Semrush SEO AI-powered analysis tool MCP server & CLI for keyword research, domain analytics, backlink analysis",
+      "tags": [
+        "seo-optimization",
+        "semrush-api",
+        "ai-seo",
+        "semrush-safe",
+        "serp-analysis"
+      ],
+      "analyzed_at": "2026-09-30T03:37:11.256856+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "majidmanzarpour/blender-game-skills",
+      "title": "blender-game-skills",
+      "description": "Claude Code agent skills for game dev in Blender. Turn concept art into rigged, game-ready 3D assets, measured against your references.",
+      "url": "https://github.com/majidmanzarpour/blender-game-skills",
+      "stars": 116,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-09-24T00:08:40Z",
+      "updated_at": "2026-09-24T00:14:19Z",
+      "forks": 15,
+      "open_issues": 1,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 blender-game-skills 的技术项目。Claude Code agent skills for game dev in Blender. Turn concept art into rigged, game-ready 3D assets, measured against your references.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-30T03:37:12.023832+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "PointAntStorm/grok-self",
+      "title": "grok-self",
+      "description": "grok-cli-self the lightweight, zero-dependency Grok CLI. Chat with xAI's Grok AI (Grok 4) in your terminal: one-shot prompts",
+      "url": "https://github.com/PointAntStorm/grok-self",
+      "stars": 116,
+      "language": "JavaScript",
+      "topics": [
+        "ai-assistant",
+        "ai-assistants",
+        "ai-chatbo",
+        "chatgpt-alternative",
+        "cli",
+        "cli-tool",
+        "command-line",
+        "grok",
+        "grok-4",
+        "grok-ai",
+        "grok-cli",
+        "llm-cli",
+        "macos",
+        "terminal-ai",
+        "xai",
+        "xai-ap"
+      ],
+      "created_at": "2026-09-25T03:26:15Z",
+      "updated_at": "2026-09-26T08:15:57Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 grok-self 的技术项目。grok-cli-self the lightweight, zero-dependency Grok CLI. Chat with xAI's Grok AI (Grok 4) in your terminal: one-shot prompts",
+      "tags": [
+        "ai-assistants",
+        "chatgpt-alternative",
+        "terminal-ai",
+        "ai-chatbo",
+        "xai-ap"
+      ],
+      "analyzed_at": "2026-09-30T03:37:12.792495+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "disler/ten-levels-of-jev",
+      "title": "ten-levels-of-jev",
+      "description": "Ten levels of Jev, from one smart if statement to a coding agent that reaches for Jev on its own",
+      "url": "https://github.com/disler/ten-levels-of-jev",
+      "stars": 113,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-09-27T17:19:00Z",
+      "updated_at": "2026-09-27T17:19:07Z",
+      "forks": 29,
+      "open_issues": 4,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 ten-levels-of-jev 的技术项目。Ten levels of Jev, from one smart if statement to a coding agent that reaches for Jev on its own",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-30T03:37:13.572131+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "breakstageaxe61/genspark-claw",
+      "title": "genspark-claw",
+      "description": "🦀⚡ Community skill pack & CLI for Genspark Claw, OpenClaw & Hermes agents — 5 production-ready SKILL.md skills (deep research, reports, slides, browser automation, AI call prep), zero-dependency Node.js installer, MCP server, one-line install",
+      "url": "https://github.com/breakstageaxe61/genspark-claw",
+      "stars": 113,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "ai-assistants",
+        "ai-tools",
+        "awesome-genspark",
+        "genspark-agent",
+        "genspark-claw",
+        "genspark-mcp",
+        "genspark-skills",
+        "hermes-agent",
+        "hermes-skill",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "open-genspark",
+        "openclaw",
+        "openclaw-skill",
+        "openclaw-skills",
+        "skills",
+        "zero-dependency"
+      ],
+      "created_at": "2026-09-26T02:18:05Z",
+      "updated_at": "2026-09-26T08:18:01Z",
+      "forks": 1,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 genspark-claw 的技术项目。🦀⚡ Community skill pack & CLI for Genspark Claw, OpenClaw & Hermes agents — 5 production-ready SKILL.md skills (deep research, reports, slides, browser automation, AI call prep), zero-dependency Node.",
+      "tags": [
+        "ai-agent",
+        "hermes-skill",
+        "model-context-protocol",
+        "openclaw-skill",
+        "open-genspark"
+      ],
+      "analyzed_at": "2026-09-30T03:37:14.317554+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Xuanwo/cida",
+      "title": "cida",
+      "description": "辞达：用你选择的大模型，在 Mac 的任何地方翻译和润色文字。Translate and polish text anywhere on your Mac.",
+      "url": "https://github.com/Xuanwo/cida",
+      "stars": 112,
+      "language": "Swift",
+      "topics": [
+        "llm",
+        "macos",
+        "menubar-app",
+        "swiftui",
+        "translation"
+      ],
+      "created_at": "2026-09-25T08:20:35Z",
+      "updated_at": "2026-09-29T19:49:35Z",
+      "forks": 4,
+      "open_issues": 5,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 cida 的技术项目。辞达：用你选择的大模型，在 Mac 的任何地方翻译和润色文字。Translate and polish text anywhere on your Mac.",
+      "tags": [
+        "llm",
+        "menubar-app",
+        "translation",
+        "macos",
+        "swiftui"
+      ],
+      "analyzed_at": "2026-09-30T03:37:15.091150+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Finderchangchang/brewreel",
+      "title": "brewreel",
+      "description": "精酿 BrewReel：让 DeepSeek 这类便宜模型也能做出好看的竖版宣传片。写一份产品简报，AI 挑镜头、写文案，一条命令出片。3 种配方、6 个行业、广告法校验，开源可商用。",
+      "url": "https://github.com/Finderchangchang/brewreel",
+      "stars": 109,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "deepseek",
+        "deepseek-harness",
+        "dsh-plugin",
+        "llm",
+        "promo-video",
+        "remotion",
+        "short-video",
+        "video-generation"
+      ],
+      "created_at": "2026-09-26T01:52:24Z",
+      "updated_at": "2026-09-29T18:05:36Z",
+      "forks": 19,
+      "open_issues": 1,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 brewreel 的技术项目。精酿 BrewReel：让 DeepSeek 这类便宜模型也能做出好看的竖版宣传片。写一份产品简报，AI 挑镜头、写文案，一条命令出片。3 种配方、6 个行业、广告法校验，开源可商用。",
+      "tags": [
+        "short-video",
+        "deepseek-harness",
+        "video-generation",
+        "llm",
+        "deepseek"
+      ],
+      "analyzed_at": "2026-09-30T03:37:15.865519+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "graygnatconsole/mcp-audit-tool",
+      "title": "mcp-audit-tool",
+      "description": "🛡️ Security audit CLI for Model Context Protocol (MCP) servers — scan AI agent configs for tool poisoning, rug pulls, hardcoded secrets, command injection & supply-chain risks. Pure Python, SARIF + CI ready.",
+      "url": "https://github.com/graygnatconsole/mcp-audit-tool",
+      "stars": 109,
+      "language": "Python",
+      "topics": [
+        "agent-security",
+        "agentic-ai",
+        "ai-security",
+        "cursor",
+        "llm-guardrails",
+        "llm-security",
+        "mcp",
+        "mcp-audit",
+        "mcp-scanner",
+        "mcp-security",
+        "mcp-server",
+        "mcp-server-python",
+        "model-context-protocol",
+        "prompt-injection",
+        "security-scanner",
+        "supply-chain",
+        "supply-chain-security",
+        "tool-poisoning",
+        "vulnerability-scanner"
+      ],
+      "created_at": "2026-09-26T02:42:57Z",
+      "updated_at": "2026-09-26T08:17:27Z",
+      "forks": 1,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 mcp-audit-tool 的技术项目。🛡️ Security audit CLI for Model Context Protocol (MCP) servers — scan AI agent configs for tool poisoning, rug pulls, hardcoded secrets, command injection & supply-chain risks. Pure Python, SARIF + CI",
+      "tags": [
+        "llm-guardrails",
+        "supply-chain",
+        "supply-chain-security",
+        "model-context-protocol",
+        "mcp-security"
+      ],
+      "analyzed_at": "2026-09-30T03:37:16.644763+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "christianmat/jev-pokemon",
+      "title": "jev-pokemon",
+      "description": "Jev, an AI decision model, plays Pokémon Red. It beat the game in 37h 40m.",
+      "url": "https://github.com/christianmat/jev-pokemon",
+      "stars": 108,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-09-25T01:02:51Z",
+      "updated_at": "2026-09-28T17:46:13Z",
+      "forks": 7,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 jev-pokemon 的技术项目。Jev, an AI decision model, plays Pokémon Red. It beat the game in 37h 40m.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-09-30T03:37:17.414523+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "wildminder/awesome-qwen-image",
+      "title": "awesome-qwen-image",
+      "description": "Qwen-Image 2.1. Checkpoints, quants, prompt engines, LoRAs, and tooling",
+      "url": "https://github.com/wildminder/awesome-qwen-image",
+      "stars": 107,
+      "language": null,
+      "topics": [
+        "ai",
+        "comfyui",
+        "comfyui-nodes",
+        "i2i",
+        "image",
+        "image-generation",
+        "t2i"
+      ],
+      "created_at": "2026-09-24T10:15:43Z",
+      "updated_at": "2026-09-26T15:32:59Z",
+      "forks": 10,
+      "open_issues": 1,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 awesome-qwen-image 的技术项目。Qwen-Image 2.1. Checkpoints, quants, prompt engines, LoRAs, and tooling",
+      "tags": [
+        "t2i",
+        "ai",
+        "image",
+        "i2i",
+        "comfyui-nodes"
+      ],
+      "analyzed_at": "2026-09-30T03:37:18.167896+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "j4c8dobolsuo8m2m/seedance-api-cn",
+      "title": "seedance-api-cn",
+      "description": "AI API 中转站/网关中文文档 · AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+      "url": "https://github.com/j4c8dobolsuo8m2m/seedance-api-cn",
+      "stars": 105,
+      "language": "Shell",
+      "topics": [
+        "ai-api-aggregator",
+        "ai-api-gateway",
+        "api-docs",
+        "api-pricing",
+        "apimart",
+        "cheapest-llm-api",
+        "llm-api-gateway",
+        "openai-compatible",
+        "openrouter-alternative",
+        "pay-as-you-go",
+        "per-image-pricing"
+      ],
+      "created_at": "2026-09-24T16:46:07Z",
+      "updated_at": "2026-09-24T19:50:46Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 seedance-api-cn 的技术项目。AI API 中转站/网关中文文档 · AI API gateway pricing: image2.5 $0.0085/image, Seedance 2.0 Mini $0.0106/sec, LLM tokens from $0.0229/M. One OpenAI-compatible key, $1 minimum top-up, per-call cost in every respo",
+      "tags": [
+        "llm-api-gateway",
+        "api-docs",
+        "cheapest-llm-api",
+        "pay-as-you-go",
+        "openrouter-alternative"
+      ],
+      "analyzed_at": "2026-09-30T03:37:18.933600+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "bestagentkits/motion-video-skill",
+      "title": "motion-video-skill",
+      "description": "Agent skill that produces beat-synced 1080p motion-graphic videos in HyperFrames (HTML + GSAP) with an AI voice-over, karaoke captions, SFX and generated music. MIT.",
+      "url": "https://github.com/bestagentkits/motion-video-skill",
+      "stars": 103,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "beat-sync",
+        "chatgpt-plugins",
+        "claude-code",
+        "claude-plugin",
+        "codex",
+        "gsap",
+        "hyperframes",
+        "motion-graphics",
+        "video"
+      ],
+      "created_at": "2026-09-25T07:35:18Z",
+      "updated_at": "2026-09-28T18:57:40Z",
+      "forks": 34,
+      "open_issues": 2,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 motion-video-skill 的技术项目。Agent skill that produces beat-synced 1080p motion-graphic videos in HyperFrames (HTML + GSAP) with an AI voice-over, karaoke captions, SFX and generated music. MIT.",
+      "tags": [
+        "codex",
+        "video",
+        "gsap",
+        "beat-sync",
+        "claude-plugin"
+      ],
+      "analyzed_at": "2026-09-30T03:37:19.731919+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
