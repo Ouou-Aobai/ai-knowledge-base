@@ -1,0 +1,272 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-10-01T03:41:37.977862Z",
+  "analyzed_at": "2026-10-01T03:42:06.108391+00:00",
+  "count": 11,
+  "items": [
+    {
+      "id": 49913571,
+      "title": "Gemini 4 Argon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "score": 1082,
+      "comments": 729,
+      "author": "bradleyg223",
+      "time": 1790798677,
+      "hn_url": "https://news.ycombinator.com/item?id=49913571",
+      "text": "See also: <i>Gemini 4 Argon (High): Intelligence, Performance and Price Analysis</i> - <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49914236\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=49914236</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Google’s new Gemini 4 Argon model brings advanced reasoning to complex, long-horizon professional tasks with an industry-leading 1 million token limit for deep, multi-step problem solving. It excels at coding, financial research, legal drafting, and autonomous cybersecurity vulnerability patching. Argon is currently rolling out to trusted cyber defenders through the Fairwind Program, with Google prioritizing safety and rigorous testing before a wider release to the public. The model is priced at $4.00 per million input tokens and $20.00 per million output tokens, and it places #1 on the Vals Index at $15.68 per test.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-01T03:41:40.401234+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49912955,
+      "title": "Surprisingly complex waves reveal the brain's inner workings",
+      "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+      "score": 136,
+      "comments": 44,
+      "author": "ibobev",
+      "time": 1790795090,
+      "hn_url": "https://news.ycombinator.com/item?id=49912955",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "New research reveals that brain waves are more complex than previously known, typically measured by electrodes as basic planar waves. Traditionally seen as merely signs of brain activity, emerging evidence suggests these traveling waves play a central role in brain function. Neuroscientists like Joshua Jacobs and Anup Das observed complex patterns of brain waves using intracranial electrodes, finding waves moving in opposite directions across the brain’s cortex. These large-scale wave patterns may help reorganize the brain in real time to meet behavioral demands. Earl K. Miller's tweet and The Quantum Observer's article both reference this research from Quanta Magazine, highlighting the brain's ability to navigate environments and access memory through electrical activity.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-01T03:41:42.861932+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49911995,
+      "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "score": 132,
+      "comments": 61,
+      "author": "anerli",
+      "time": 1790789860,
+      "hn_url": "https://news.ycombinator.com/item?id=49911995",
+      "text": "Hey HN, Anders and Tom here. We&#x27;re building Magnitude, an inference engine for agents that optimizes itself to run as fast as possible on your hardware. It works on Mac, Linux, and Windows on any hardware and is up to 2x faster than llama.cpp.<p>We&#x27;re both software engineers and previously built an open source browser agent to 4k+ GH stars and 100k+ downloads. We increasingly wanted to run it on local models, but found that no inference engine worked for our use case.<p>Inference engin",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Magnitude is an open source inference engine for agents that optimizes itself to run as fast as possible on your hardware. It works on Mac, Linux, and Windows on any hardware and is up to 2x faster than llama.cpp. Built in Rust, it includes a custom GPU kernel runtime and autotuner, taking inspiration from innovations in inference and other engines to reach performance ceilings. It profiles your machine, recommends the best open models for it, and tunes them for your exact hardware. It connects your favorite agent and works on Apple Silicon, NVIDIA, AMD, or just a CPU.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-10-01T03:41:45.048216+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49897600,
+      "title": "What a Massive New 728-Foot-Wide Crater Means for Future Moon Bases",
+      "url": "https://www.nytimes.com/2026/09/21/science/space/what-a-massive-new-crater-means-for-future-moon-bases.html",
+      "score": 23,
+      "comments": 32,
+      "author": "bookofjoe",
+      "time": 1790704724,
+      "hn_url": "https://news.ycombinator.com/item?id=49897600",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "NASA’s Lunar Reconnaissance Orbiter has identified a 728-foot-wide crater on the Moon, the largest newly formed crater ever identified in the solar system. The crater, named McGetchin in honor of lunar scientist Tom McGetchin, formed in 2024 when an asteroid or comet struck the Moon's surface. The impact created a \"cold spot\" and disturbed the surface for miles, potentially influencing future lunar exploration by altering the texture and density of the regolith. The crater's size and the impact's effects on the lunar landscape are significant for planning future moon bases.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-01T03:41:47.504966+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49909648,
+      "title": "Show HN: Lathoa, a math app for kids where the AI is wrong on purpose",
+      "url": "https://lathoa.ai/en",
+      "score": 38,
+      "comments": 15,
+      "author": "thanouil1411",
+      "time": 1790779137,
+      "hn_url": "https://news.ycombinator.com/item?id=49909648",
+      "text": "I made this for kids around 10 to 14. A robot called Errol solves a math problem step by step and one of the steps is wrong. The kid has to find it and say what&#x27;s wrong with it. Sometimes nothing is wrong, so just saying &quot;there&#x27;s a mistake&quot; every time doesn&#x27;t work. The user needs to enter an explanation if she finds an error to gain more XP; speed matters also for more points. There is no direct interaction or chatting with an LLM. Lathoa&#x27;s harness is stable and has",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Lathoa is a math app for kids aged 10 to 14 where the AI, Errol, intentionally provides incorrect solutions to math problems. The goal is to teach kids critical thinking by having them identify and correct Errol's mistakes. The app emphasizes developing the skill of recognizing when an AI-generated answer is wrong, which is seen as a valuable skill in an age of AI-generated content. The app can be played on the homepage without signing up, and it highlights the challenge of getting an AI to be wrong on purpose, as it often gives the right answer instead.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-01T03:41:50.118831+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49905644,
+      "title": "Doing a Machine Learning PhD While Working in Japan",
+      "url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
+      "score": 52,
+      "comments": 20,
+      "author": "pwim",
+      "time": 1790753625,
+      "hn_url": "https://news.ycombinator.com/item?id=49905644",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that it is possible to pursue a Machine Learning PhD in Japan while working, but it is recommended only for those with a strong research background and industry experience. Marco Cognetta, a TokyoDev contributor, completed his PhD at Tokyo Institute of Technology while working at Google. Japan offers several English-taught PhD programs in machine learning with full MEXT funding, including at the University of Tokyo's Graduate School of Information Science and Technology. The University of Tokyo, Kyoto University, Osaka University, and Institute of Science Tokyo are noted for their strong machine learning programs. However, specific details such as official websites or phone numbers are not provided in the sources.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-01T03:41:53.749565+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49913604,
+      "title": "Functional Ultrasound Imaging (fUSI) from scratch",
+      "url": "https://www.neuroai.science/p/functional-ultrasound-imaging-from",
+      "score": 31,
+      "comments": 7,
+      "author": "pminimax",
+      "time": 1790798799,
+      "hn_url": "https://news.ycombinator.com/item?id=49913604",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Functional ultrasound imaging (fUSI) is a brain imaging modality that captures movies of brain tissue rapidly, tracking changes caused by blood flow following neural activity. It uses transducers to transmit and receive ultrasound waves, which travel through brain tissue and backscatter where they encounter changes in impedance, like red blood cells. fUSI employs a multiplexed strategy, transmitting unfocused plane waves to insonify the whole imaging plane at once, allowing for high-speed imaging of entire planes at thousands of frames per second. Unlike conventional Doppler ultrasound, which scans tissue sequentially, fUSI's method enables whole-brain network imaging and is suitable for studying drug-induced effects across the entire brain in preclinical models.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-01T03:41:56.202194+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49903713,
+      "title": "Responsible Release of AI-Generated Mathematics",
+      "url": "https://agmai.org/general-sep29/",
+      "score": 81,
+      "comments": 102,
+      "author": "aureianimus",
+      "time": 1790735772,
+      "hn_url": "https://news.ycombinator.com/item?id=49903713",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources discuss the responsible release and use of AI-generated mathematics, emphasizing the need for transparency, accountability, and proper attribution. The Leiden Declaration highlights that AI should augment rather than replace human mathematical creativity. The sources also mention concerns about student over-reliance and bias in AI-generated solutions, advocating for ethical and responsible use of generative AI in education. Funding agencies are developing policies for acceptable use of AI in applications and assessment, and university departments are grappling with the ethical implications of these tools in research and teaching.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-01T03:41:58.369056+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49906637,
+      "title": "You said no MCP",
+      "url": "https://earendil.com/posts/you-said-no-mcp/",
+      "score": 619,
+      "comments": 348,
+      "author": "yarapavan",
+      "time": 1790762123,
+      "hn_url": "https://news.ycombinator.com/item?id=49906637",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that Pi.dev initially did not support MCP but has since changed its stance. The Earendil post explains that MCP is now supported in Pi, with Codemode automatically loaded when MCP is configured. The QWE AI Academy guide confirms that while MCP is now supported, Pi.dev has not fully reversed its previous stance, maintaining default codemode, exposure controls, and criticism of bloated servers. The Hacker News discussion does not provide specific details but references the Earendil post.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-01T03:42:00.782241+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49890707,
+      "title": "Show HN: JBR-001 – An open-source 3D printable desktop robot",
+      "url": "https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96",
+      "score": 124,
+      "comments": 29,
+      "author": "gvuksic",
+      "time": 1790676356,
+      "hn_url": "https://news.ycombinator.com/item?id=49890707",
+      "text": "We built a desktop companion robot that is powered by Arduino UNO Q. Project is open source: source code, 3D printable files and assembly instructions are available at Arduino Project Hub.<p>Robot is equipped with camera, distance sensor, buzzer, moves head and arms with 3 servo motors and has an animated display. It can recognise objects and respond to it. We build it with idea this should be fun project people can 3D print and build at home themself.",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that JBR-001 is an open-source desktop companion robot powered by Arduino UNO Q, available for 3D printing and assembly. The project includes source code, 3D printable files, and assembly instructions on Arduino Project Hub. The robot features a camera, distance sensor, buzzer, and uses three servo motors to move its head and arms. It also has an animated display and can recognize objects and respond to them. The project was posted on Hacker News and received 122 points with 29 comments. The project description and latest commit date are not fully provided in the sources.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-01T03:42:02.851601+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49917102,
+      "title": "Steelers ex-coach Mike Tomlin has been building a Minecraft city for 12 years",
+      "url": "https://www.youtube.com/playlist?list=PLS-_IoE-EKXU",
+      "score": 8,
+      "comments": 0,
+      "author": "Vaslo",
+      "time": 1790822728,
+      "hn_url": "https://news.ycombinator.com/item?id=49917102",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to the sources, Mike Tomlin, the former head coach of the Pittsburgh Steelers, has been building a Minecraft city for 12 years. The sources also indicate that Tomlin stepped down as the Steelers' head coach following the 2025 season and is now working for NBC. The timeline of his tenure with the Steelers is detailed as 2007–2025.",
+      "tags": [
+        "ml"
+      ],
+      "analyzed_at": "2026-10-01T03:42:05.607496+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
