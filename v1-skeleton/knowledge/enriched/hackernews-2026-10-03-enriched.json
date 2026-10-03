@@ -1,0 +1,488 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-10-03T03:25:37.562777Z",
+  "analyzed_at": "2026-10-03T03:26:24.635221+00:00",
+  "count": 20,
+  "items": [
+    {
+      "id": 49933869,
+      "title": "The Forgetful CPU (Linux on M4)",
+      "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+      "score": 136,
+      "comments": 60,
+      "author": "signa11",
+      "time": 1790950932,
+      "hn_url": "https://news.ycombinator.com/item?id=49933869",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that the M4 series of Apple's hardware has specific challenges for Linux, particularly in managing CPU idle states. Yureka added a kernel command line parameter to configure idle loop behavior, preventing M4 machines from crashing during early kernel initialization. The Asahi Linux team noted that while they cannot fine-tune low-level CPU behavior due to Apple's locking down of registers controlling chicken bits starting with the M4 series, patches to address these issues are in place. However, not much else is working on M4 and M5, and they are not yet ready to enable them in the Asahi Installer.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-03T03:25:39.388576+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49940467,
+      "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
+      "url": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
+      "score": 21,
+      "comments": 9,
+      "author": "sdko",
+      "time": 1790989741,
+      "hn_url": "https://news.ycombinator.com/item?id=49940467",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "On September 6, 2026, Prime Air flight 7598, a Boeing 767-33A (N1997A), overran runway 30 at Miami International Airport, resulting in five fatalities and eight injuries. The captain had a type rating for the Boeing 767 and was hired by Prime Air in April 2026. The NTSB traveled to the site on September 7, 2026, to collect evidence. The aircraft was operated by Prime Air on behalf of Amazon Air. The preliminary investigation from the cockpit voice recorder and flight data recorder indicates the crew was aware of their altitude and speed as they approached the runway.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-03T03:25:41.843492+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49925184,
+      "title": "Mike Tomlin spent 12 years building a Minecraft city",
+      "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
+      "score": 334,
+      "comments": 86,
+      "author": "CoryOndrejka",
+      "time": 1790878818,
+      "hn_url": "https://news.ycombinator.com/item?id=49925184",
+      "text": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;Kv6yS\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;Kv6yS</a><p><a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=_h_pQ1-5iQg\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=_h_pQ1-5iQg</a><p><a href=\"https:&#x2F;&#x2F;www.theguardian.com&#x2F;sport&#x2F;2026&#x2F;oct&#x2F;01&#x2F;mike-tomlin-minecraft-city\" rel=\"nofollow\">https:&#x2F;&#x2F;www.theguardian.com&#x2F;sport&#x2F;2026&#x2F;oct&#x2F;01&#x2F;mike-tomlin-mi...</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Mike Tomlin, former Pittsburgh Steelers coach, spent 12 years building an elaborate Minecraft city in his free time, starting small and gradually developing neighborhoods and communities. He began playing Minecraft to spend time with his children, who contributed buildings to the city. Tomlin described the building process as \"mindless entertainment\" but also therapeutic, a way to detach from the pressures of life. The city features densely populated buildings with carefully designed interiors, reflecting his passion for urban architecture.",
+      "tags": [
+        "ml"
+      ],
+      "analyzed_at": "2026-10-03T03:25:44.307145+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49933740,
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "score": 191,
+      "comments": 91,
+      "author": "PaulHoule",
+      "time": 1790950284,
+      "hn_url": "https://news.ycombinator.com/item?id=49933740",
+      "text": "<a href=\"https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41586-026-11036-y\" rel=\"nofollow\">https:&#x2F;&#x2F;www.nature.com&#x2F;articles&#x2F;s41586-026-11036-y</a><p><a href=\"https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2511.07312\" rel=\"nofollow\">https:&#x2F;&#x2F;arxiv.org&#x2F;abs&#x2F;2511.07312</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI has finally overcome the challenge of the game Stratego, according to Ars Technica. The breakthrough came by adding a second neural network that guesses the identity of hidden pieces. Eugene Vinitsky from NYU noted that Stratego's complexity lies in its massive hidden information that unfolds over a long time scale. MIT researchers developed Ataraxos, an AI system capable of winning Stratego, which could help decision makers with real-world problems involving hidden information.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-03T03:25:46.589732+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49937504,
+      "title": "Muse Gadgets",
+      "url": "https://gadgets.muse.ai",
+      "score": 149,
+      "comments": 69,
+      "author": "anant",
+      "time": 1790969214,
+      "hn_url": "https://news.ycombinator.com/item?id=49937504",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Meta is developing a standalone Muse AI gadget called Muse Charm, which was shown by Meta CEO Mark Zuckerberg and is expected to ship this year. The Muse Charm is a standalone device that doesn’t require a phone and features a fingerprint sensor, a small camera, and multiple microphones. Meanwhile, the original Muse headband, manufactured by InteraXon, measures brain activity via EEG sensors and connects to a mobile app for biofeedback, used for meditation, sleep studies, and scientific research.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-03T03:25:48.864317+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49936575,
+      "title": "From the creator of Redis; run LLM locally with ds4",
+      "url": "https://dwarfstar.sh/",
+      "score": 173,
+      "comments": 43,
+      "author": "fibo",
+      "time": 1790964076,
+      "hn_url": "https://news.ycombinator.com/item?id=49936575",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Salvatore Sanfilippo, the creator of Redis, released ds4, a custom inference engine that runs DeepSeek V4 Flash, a 284-billion parameter frontier model, locally on a MacBook with 128GB of RAM. The ds4 engine, written in pure C, enables running this large model on a single hardware platform without relying on cloud infrastructure. Early testers have reported that ds4 outperforms other models of similar or smaller sizes, indicating a significant advancement in local AI inference.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-10-03T03:25:50.959309+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49921825,
+      "title": "OKI Develops 124-Layer PCB Technology",
+      "url": "https://www.oki.com/global/press/2025/z25006e.html",
+      "score": 8,
+      "comments": 1,
+      "author": "luu",
+      "time": 1790863254,
+      "hn_url": "https://news.ycombinator.com/item?id=49921825",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "OKI Circuit Technology has successfully developed 124-layer PCB technology for wafer inspection equipment designed for next-generation high bandwidth memory, such as HBM mounted on AI semiconductors. This represents a roughly 15% increase in the number of layers over conventional 108-layer designs. The company is seeking to establish mass production technology by October 2025 at its Joetsu Plant in Joetsu City, Niigata Prefecture. The 124-layer PCB technology has a board thickness of 7.6 mm and is part of OKI's focus on developing PCBs and manufacturing technologies in line with future technological advancements.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-03T03:25:53.913679+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49929391,
+      "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "score": 193,
+      "comments": 52,
+      "author": "usernomdeguerre",
+      "time": 1790909487,
+      "hn_url": "https://news.ycombinator.com/item?id=49929391",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that Greg Kroah-Hartman has discussed security concerns in the context of large language models (LLMs) in the LLM age. In his talk at Kernel Recipes 2026, he highlighted that LLMs can generate insecure code, particularly for CGI scripts and kernel code, which can lead to bad patterns and old security issues. He also mentioned that the Linux kernel uses AI for patch review, leveraging LLMs to find bugs by matching patterns. The sources do not provide a definitive answer to specific questions about the exact details or outcomes of his discussion.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-10-03T03:25:56.021330+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49925974,
+      "title": "FLUX 3 Image",
+      "url": "https://bfl.ai/models/flux-3-image",
+      "score": 288,
+      "comments": 62,
+      "author": "minimaxir",
+      "time": 1790882669,
+      "hn_url": "https://news.ycombinator.com/item?id=49925974",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "FLUX 3 Image is Black Forest Labs' multimodal model for generating and editing images, part of the FLUX 3 suite that also includes video and audio capabilities. It allows users to place elements on a canvas with bounding boxes and edit the finished image one box at a time. FLUX 3 Image is available under a commercial weights license for companies generating images at scale. It is currently rolling out in early access, with video and audio already available on Krea, and image generation expected to follow. The model can synthesize and edit images in various styles, aspect ratios, and resolutions, and render accurate multilingual text.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-03T03:25:59.034706+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49937916,
+      "title": "Show HN: Made an open-source Lego AI generator",
+      "url": "https://github.com/anteloc/ldraw-nova",
+      "score": 78,
+      "comments": 41,
+      "author": "antelocnova",
+      "time": 1790971215,
+      "hn_url": "https://news.ycombinator.com/item?id=49937916",
+      "text": "Hi there :-) New on HN, first time posting.<p>Past year, around December, I started experimenting with making ChatGPT and Claude generate source code in LDraw language.<p>This LDraw is literally an &quot;assembly&quot; language, a low-level programming language that describes how to assemble LEGO pieces together into models, one placement instruction at a time.<p>When executed by specific tools, like e.g. LDView, LeoCAD, Studio... these instructions become LEGO CAD models, that can be interacted",
+      "relevance_score": 0.8999999999999999,
+      "summary": "On Hacker News, a user named antelocnova shared a project titled \"Show HN: Made an open-source Lego AI generator\" which can be found on GitHub at github.com/anteloc. The project involves using AI to generate source code in LDraw language, a low-level programming language for describing LEGO assemblies. Additionally, a tool called Phygital+ LEGO AI builder is available at phygital.plus/tools/free-lego-ai-generator, which uses AI to create LEGO set designs, character ideas, and more from simple text prompts.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-03T03:26:01.341413+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49927747,
+      "title": "Sites in ChatGPT",
+      "url": "https://chatgpt.com/features/sites/",
+      "score": 227,
+      "comments": 225,
+      "author": "polvi",
+      "time": 1790893341,
+      "hn_url": "https://news.ycombinator.com/item?id=49927747",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Sites lets you create, host, refine, and share websites, web apps, and games using ChatGPT. You can start a site from a prompt or a compatible local project, then manage it in the Sites view. Sites is available during public beta with eligible plans like Plus, Pro, Business, Enterprise, and Edu. You can create Sites in Work on the web or in Work or Codex in the desktop app. It doesn't require coding; describe what you want in plain language and let ChatGPT build the Site with you.",
+      "tags": [
+        "gpt"
+      ],
+      "analyzed_at": "2026-10-03T03:26:03.776317+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49928566,
+      "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+      "url": "https://stillwet.art/",
+      "score": 217,
+      "comments": 72,
+      "author": "alstonite",
+      "time": 1790900876,
+      "hn_url": "https://news.ycombinator.com/item?id=49928566",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that on October 2, 2026, a project titled \"Show HN: Giving Opus 5.5 a simulated paint canvas\" was featured on Hacker News, receiving 162 points and 54 comments. The project was submitted by alstonite and linked to stillwet.art. Additionally, it was highlighted on Hacker News 20 on X, where it was mentioned alongside another project, \"Audionaut – an open-source cross-platform multitrack audio editor.\" The sources do not provide details on how Opus 5.5 actually paints or generate text.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-03T03:26:05.833334+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49933230,
+      "title": "Venice’s failed war against Constantinople led to the first bond market",
+      "url": "https://bigthink.com/books/a-fabulous-debt/",
+      "score": 84,
+      "comments": 24,
+      "author": "RickJWagner",
+      "time": 1790947067,
+      "hn_url": "https://news.ycombinator.com/item?id=49933230",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Venice’s failed war against Constantinople led to the creation of the world’s first bond market. After the war, Venice turned an emergency loan into permanent public debt by making it tradable and paying interest reliably, thus averting financial disaster. The Campo San Giacomo di Rialto became the first bond market where citizens could buy and sell prestiti, contributing to the financial stake of the populace in their government and helping governments fund wars and other expenses. This innovation became a model for other Italian city-states and eventually spread across Europe.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-03T03:26:08.411170+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49934620,
+      "title": "One month coding with GLM 5.3 Flash",
+      "url": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
+      "score": 126,
+      "comments": 99,
+      "author": "ThibWeb",
+      "time": 1790954955,
+      "hn_url": "https://news.ycombinator.com/item?id=49934620",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "For one month coding with GLM 5.3 Flash, the cost is $10 per month at the GOAT tier, which equates to approximately 1,200 requests based on the usage calculator provided. The model has an input cost of $0.15 per million tokens and an output cost of $0.50 per million tokens. The launch promotion by Z.ai halved these rates to $0.075/$0.25 per million tokens until September 9, 2026. The model is a 320B-total, 18B-active mixture-of-experts model with a 1,048,576-token context window, released under an MIT license.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-03T03:26:10.885602+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49932191,
+      "title": "Our Project Suncatcher prototype satellite is in orbit",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/",
+      "score": 49,
+      "comments": 52,
+      "author": "pantalaimon",
+      "time": 1790939582,
+      "hn_url": "https://news.ycombinator.com/item?id=49932191",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Google's Project Suncatcher prototype satellite is in orbit. The prototype launched aboard the Transporter-18 rideshare mission with SpaceX on October 1, 2026, and Google has confirmed contact with the satellite, which is operating as expected. The mission aims to test Google Tensor Processing Units (TPUs) in space to explore whether space could host scalable machine learning infrastructure. The satellite will be in a sun-synchronous orbit, eliminating the need for heavy batteries or backup power.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-03T03:26:13.070751+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49932079,
+      "title": "F.02 Decommission",
+      "url": "https://www.figure.ai/news/f-02-decommission",
+      "score": 71,
+      "comments": 27,
+      "author": "ad_hockey",
+      "time": 1790938647,
+      "hn_url": "https://news.ycombinator.com/item?id=49932079",
+      "text": "<a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=pfAh5oQDPDM\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=pfAh5oQDPDM</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Figure decommissioned its F.02 fleet by sending the robots into a 75-ton electric arc furnace in Imatra, Finland, where they were melted down to protect proprietary hardware. The resulting metal is being machined into a limited series of commemorative artifacts. Arnold Schwarzenegger made an appearance at the decommissioning event, signing off with \"Hasta la vista, F.02.\" Most of the F.02 fleet has been destroyed, with a handful remaining stored at the company’s headquarters.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-03T03:26:15.170756+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49938783,
+      "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+      "url": "https://allenai.org/blog/astabrief",
+      "score": 22,
+      "comments": 3,
+      "author": "malshe",
+      "time": 1790976325,
+      "hn_url": "https://news.ycombinator.com/item?id=49938783",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AstaBrief, an eight-billion-parameter language model for rapid scientific report generation, has been open-sourced by the Allen Institute for AI. It is available in Asta’s Generate a report feature as Fast mode alongside the existing Thinking mode. AstaBrief is 3.5× faster than Thinking mode, averaging 51.1 seconds per report compared with 178.5 seconds for Thinking mode. The model is built atop the Qwen3-8B foundation and enables institutional deployment on secure, on-premise infrastructure.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-03T03:26:17.207004+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49938521,
+      "title": "Zig v0.17.0",
+      "url": "https://ziglang.org/download/0.17.0/release-notes.html",
+      "score": 221,
+      "comments": 146,
+      "author": "ErenayDev",
+      "time": 1790974596,
+      "hn_url": "https://news.ycombinator.com/item?id=49938521",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Zig v0.17.0 changes the definition of the `@bitCast` builtin and improves the compiler's implementation of incremental compilation, fixing many bugs and enhancing support for the new ELF Linker. The release also includes a new ELF Linker with good support for incremental compilation. Download links for various operating systems and architectures are available on the Zig download page. The release notes and a Hacker News discussion mention these changes but do not provide a definitive stance on the project's overall direction or stance against AI.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-03T03:26:19.625256+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49911472,
+      "title": "Philip Sidney and the Extreme (Dis)Graces of the Parenthesis",
+      "url": "https://publicdomainreview.org/essay/philip-sidney-and-the-extreme-disgraces-of-the-parenthesis/",
+      "score": 7,
+      "comments": 0,
+      "author": "pepys",
+      "time": 1790787396,
+      "hn_url": "https://news.ycombinator.com/item?id=49911472",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Philip Sidney masterfully used parentheses in his work, \"The Countess of Pembroke’s Arcadia,\" to add layers of meaning through comparisons, classical allusions, and appeals to the reader. The use of parentheses in Sidney's writing creates a complex, three-dimensional narrative that invites readers to engage with multiple interpretations and ethical considerations. Sidney's parentheses serve to hedge his words, keeping vulnerable admissions safe and visually private, while also expanding the narrative with qualifications, doubts, metaphors, and examples.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-03T03:26:22.008312+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49933587,
+      "title": "SequenceHash: Multihashing for the rest of us",
+      "url": "https://blog.trailofbits.com/2026/10/02/sequencehash-multihashing-for-the-rest-of-us/",
+      "score": 22,
+      "comments": 0,
+      "author": "tob_scott_a",
+      "time": 1790949415,
+      "hn_url": "https://news.ycombinator.com/item?id=49933587",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "SequenceHash is a hash-agnostic multihashing construct introduced by Trail of Bits, designed to address the common issues cryptographers face when using hashes. It allows the use of various hash functions, including SHA2 family, BLAKE, and RIPEMD, and employs a double-hash construction to prevent length extension attacks. Similar to HMAC, SequenceHash supports a keyed variant, SequenceMAC, which can accept keys up to ${2}^{128}-1$ bytes in length. Multihash, as described in the Multiformats documentation, is a protocol for differentiating outputs from various hash functions, addressing size and encoding considerations, and is useful for future-proofing applications that use hashes.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-03T03:26:24.134222+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
