@@ -1,0 +1,297 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-10-06T04:26:02.191951Z",
+  "analyzed_at": "2026-10-06T04:29:23.279162+00:00",
+  "count": 12,
+  "items": [
+    {
+      "id": 49969183,
+      "title": "Beam: Reflection's 501B open-weight model",
+      "url": "https://reflection.ai/blog/introducing-beam",
+      "score": 369,
+      "comments": 109,
+      "author": "Philpax",
+      "time": 1791227795,
+      "hn_url": "https://news.ycombinator.com/item?id=49969183",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Reflection AI’s Beam is a 501B open-weight foundation model built on a sparse mixture-of-experts (MoE) architecture designed for coding, complex reasoning, and agentic workflows. It uses 23B active parameters per token and aims to be a U.S.-based alternative to Chinese open models, offering efficiency at inference time. Beam’s MoE approach selectively activates subsets of specialized expert layers per token, which can cut inference FLOPs and enable higher effective capacity without linear compute scaling. It is positioned as a technical alternative to GLM-5.2, Qwen, and DeepSeek, and is designed to be downloadable and run on-prem or in private clouds.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-06T04:28:55.443017+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49970871,
+      "title": "Dust: Pretraining Transformers Without Backpropagation",
+      "url": "https://qlabs.sh/research/dust",
+      "score": 134,
+      "comments": 30,
+      "author": "E-Reverance",
+      "time": 1791234907,
+      "hn_url": "https://news.ycombinator.com/item?id=49970871",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Dust is a zeroth-order method for pretraining transformer language models without backpropagation. It perturbs activations independently at every token, allowing each token to be evaluated in parallel as a virtual population member. The goal is to develop a search-based credit assignment algorithm competitive with backprop for pretraining transformers. The method claims to approach or sometimes beat backprop with sufficient computation and is significantly more compute-efficient than EGGROLL, though it is not intended to replace backprop currently. The researchers also note that they have not trained new neural net architectures enabled by this method, such as those with an external program in the loop or transformers looped over many steps.",
+      "tags": [
+        "ai",
+        "transformer"
+      ],
+      "analyzed_at": "2026-10-06T04:28:57.663338+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49972419,
+      "title": "AI tutoring with Khanmigo in a two-year school experiment",
+      "url": "https://edworkingpapers.com/ai26-1551",
+      "score": 51,
+      "comments": 37,
+      "author": "bryan0",
+      "time": 1791244845,
+      "hn_url": "https://news.ycombinator.com/item?id=49972419",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "In a two-year cluster randomized trial in 18 Tennessee middle schools, students using Khan Academy with its AI tutor, Khanmigo, during daily remedial mathematics sessions raised their math achievement by 1.3 national percentile ranks per term, or about 0.06 to 0.08 standard deviations over a school year; the implied effect of a full year of active participation reaches 0.14 standard deviations. These gains resemble those from Khan Academy practice without AI assistance, with one explanation being that students used the tutor infrequently and rarely engaged it in substantive mathematical dialogue: 96 percent of students tried Khanmigo at least once, but the median student messaged it on only a third of the days they practiced.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-06T04:28:59.865062+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49945588,
+      "title": "An algorithmic failure beneath the secret ballot",
+      "url": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
+      "score": 49,
+      "comments": 14,
+      "author": "leecoursey",
+      "time": 1791044587,
+      "hn_url": "https://news.ycombinator.com/item?id=49945588",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "In October 2022, a team of researchers published a report showing that certain ballot scanning machines used throughout the US had a critical privacy failure in how they anonymized ballots. Specifically, the machines would assign a seemingly random number to each electronic ballot record at the time of scanning to label each ballot for later auditing. However, the algorithm by which the machines generate this random number is actually deterministic and can be exactly reversed to identify the voter. Independently, these public files do not break the secret ballot. However, the AI agent was able to combine them by deshuffling the ballots using the published exploit, identifying the date each ballot was cast, and subsequently creating buckets of ballots and potential voters.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-06T04:29:02.386846+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49970667,
+      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "score": 257,
+      "comments": 179,
+      "author": "outlier99",
+      "time": 1791234021,
+      "hn_url": "https://news.ycombinator.com/item?id=49970667",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Opus 5.5 agents discovered two room-temperature magnetic semiconductor candidates: YBaMnFeO₅ and KV[Cr(CN)₆]. Simulations predicted YBaMnFeO₅ to have a 2.35 eV band gap and magnetism above room temperature, while KV[Cr(CN)₆] stayed magnetic up to 376 K (103°C) experimentally. The sources do not provide information on whether these materials have been synthesized or measured for spin sorting.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-10-06T04:29:04.968512+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49971846,
+      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+      "score": 340,
+      "comments": 250,
+      "author": "rdmuser",
+      "time": 1791240405,
+      "hn_url": "https://news.ycombinator.com/item?id=49971846",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to the sources, there are reports that ChatGPT is generating fake New Yorker cartoons and falsely attributing them to real artists by adding their signatures. For instance, Brendan Loper's signature was used on a cartoon that was not drawn by him but generated by ChatGPT. This was investigated by Andrew Deck for NiemanLab and highlighted by David Forrest on X. The sources do not provide a definitive answer to whether this practice is widespread or isolated.",
+      "tags": [
+        "gpt"
+      ],
+      "analyzed_at": "2026-10-06T04:29:07.099058+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49961057,
+      "title": "Anthropic reported diary entry to police, woman faces felony charge",
+      "url": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+      "score": 612,
+      "comments": 497,
+      "author": "emptybits",
+      "time": 1791178660,
+      "hn_url": "https://news.ycombinator.com/item?id=49961057",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A Florida woman faces a felony charge after using Anthropic's Claude AI as a diary and writing about a plan to attack a Sheriff's office. Anthropic reported the entry to police after a human reviewer examined it. The woman is charged with making a written threat of violence under Florida law, which is a second-degree felony. Anthropic's policy allows it to share user information in narrow emergency circumstances to prevent death or serious physical injury.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-06T04:29:09.572637+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49972211,
+      "title": "Samon: Designing a Zen Garden Raking Puzzle",
+      "url": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
+      "score": 28,
+      "comments": 9,
+      "author": "networked",
+      "time": 1791243335,
+      "hn_url": "https://news.ycombinator.com/item?id=49972211",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Samon: Designing a Zen Garden Raking Puzzle features a single physical rule, the wide rake, which simplifies garden designs to a handful of rakings, often exactly one. In an 8×8 garden, it picks out the only U-turn-free raking among 12 par rakings of 6,310,226. The game includes seven worlds, each adding a rule, and rewards players with classical poems for raked gardens. It also offers a heightfield sand renderer, a free-raking practice garden, and a level pipeline with measured yields and difficulty distribution. The game's production plan includes pass/fail criteria. Hacker News comments describe it as surprisingly deep and in line with the concept of Zen gardens.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-06T04:29:12.956774+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49965118,
+      "title": "Linux containers in 500 lines of code (2016)",
+      "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
+      "score": 111,
+      "comments": 22,
+      "author": "mkornaukhov",
+      "time": 1791209355,
+      "hn_url": "https://news.ycombinator.com/item?id=49965118",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources mention a lightweight container implementation written in Scheme that fits within 500 lines of code, as well as another implementation in bash called bocker. They also reference a project called Lizzie, which is linked to the Hacker News discussion. Additionally, the sources discuss other lightweight container solutions like Firecracker, gVisor, and Kata Containers, which use VM primitives for lighter codebases. However, there is no definitive answer regarding the specific details or performance of these containers.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-06T04:29:15.472023+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49928862,
+      "title": "Martian chaos terrain",
+      "url": "https://en.wikipedia.org/wiki/Martian_chaos_terrain",
+      "score": 101,
+      "comments": 26,
+      "author": "tiagod",
+      "time": 1790903488,
+      "hn_url": "https://news.ycombinator.com/item?id=49928862",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Martian chaos terrain is characterized by irregular groups of large blocks, some reaching tens of kilometers across and hundreds of meters high, forming depressions hundreds of meters deep. These features are found within deep basins that are tens to hundreds of kilometers across and are globally distributed but concentrated in the Tharsis/Valles Marineris region. The chaotic terrain is believed to be associated with the release of huge amounts of water, possibly due to massive floods, and is often found in the same locations as ancient river valleys. Radar studies from the Mars Express mission detected evidence of subglacial lakes beneath Mars' south polar region, supporting the idea that underground water may contribute to the formation of chaos terrain.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-06T04:29:18.056052+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49971473,
+      "title": "Engineer says Claude Code has made his job \"soul-sucking\"",
+      "url": "https://www.techspot.com/news/113937-engineer-claude-code-has-made-job-soul-sucking.html",
+      "score": 49,
+      "comments": 34,
+      "author": "hefner1456",
+      "time": 1791237695,
+      "hn_url": "https://news.ycombinator.com/item?id=49971473",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to an anonymous software engineer posting as v0xium, Anthropic's Claude Code has made his job \"soul-sucking,\" claiming colleagues are working 12 to 13 hours a day while relying on the AI tool to generate much of their software-development work and racing to ship more. He claimed that people are working long hours \"just to press enter\" and later wrote that \"nobody is thinking anymore.\" The engineer argued that the problem is not AI itself, but how companies are using it.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-06T04:29:20.230715+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49935872,
+      "title": "Mystery Function",
+      "url": "https://codeset.ai/function",
+      "score": 47,
+      "comments": 10,
+      "author": "andre15silva",
+      "time": 1790960588,
+      "hn_url": "https://news.ycombinator.com/item?id=49935872",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that the \"mystery function\" is a concept defined over non-negative integers, with its more common name intentionally concealed. The function is used in educational contexts to challenge students to solve equations, as seen in the ACM publication. A YouTube video suggests experimenting with numbers to predict the function's behavior. However, the exact nature or common name of the mystery function is not explicitly provided in the sources.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-06T04:29:22.778247+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
