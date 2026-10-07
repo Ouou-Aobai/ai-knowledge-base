@@ -1,0 +1,658 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-10-07T03:52:05.861960Z",
+  "analyzed_at": "2026-10-07T03:56:07.598366+00:00",
+  "count": 27,
+  "items": [
+    {
+      "id": 49984923,
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "score": 557,
+      "comments": 490,
+      "author": "OfficialTurkey",
+      "time": 1791325041,
+      "hn_url": "https://news.ycombinator.com/item?id=49984923",
+      "text": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;openai&#x2F;math\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;openai&#x2F;math</a><p><a href=\"https:&#x2F;&#x2F;github.com&#x2F;openai&#x2F;math&#x2F;tree&#x2F;main&#x2F;preprints\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;openai&#x2F;math&#x2F;tree&#x2F;main&#x2F;preprints</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "On August 28, an internal model at OpenAI began training and has since resolved more than 100 long-standing open problems across most areas of mathematics, surprising the mathematicians within the company. This progress has led to discussions on how to inform the mathematical community. Separately, an Advisory Group on Mathematics and AI was announced on September 21, 2026, to advise on the release of these findings but has no power to influence research direction. The mathematical community has expressed concerns, with 25 Fields Medal winners arguing that the focus on solving famous problems as a benchmark by AI companies harms the science of mathematics.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-07T03:54:56.830173+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49977979,
+      "title": "Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "score": 1629,
+      "comments": 978,
+      "author": "Philpax",
+      "time": 1791292549,
+      "hn_url": "https://news.ycombinator.com/item?id=49977979",
+      "text": "<a href=\"https:&#x2F;&#x2F;docs.mistral.ai&#x2F;models&#x2F;mistral-large-4-0\" rel=\"nofollow\">https:&#x2F;&#x2F;docs.mistral.ai&#x2F;models&#x2F;mistral-large-4-0</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Mistral Large 4 is a 1 trillion-parameter open-weight AI model released by Mistral AI, which aims to leapfrog both American and Chinese rivals. The model can convert technical drawings into CAD models and performs well on semiconductor tests, suggesting it is aimed at industrial customers. Mistral Large 4 reached 67% on the FinWorkBench, level with DeepSeek-V4-Pro and ahead of GLM-5.3, and scored 15% on Harvey’s Legal Agent benchmark. The company plans to use these skills in real-world ways, such as helping insurers assess storm damage in aerial photos, utilities inspect power lines, and farms monitor crop health. Mistral already works with more than 125 large businesses, including Airbus, ASML, and HSBC.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-07T03:54:59.391905+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49987076,
+      "title": "Strands Decider 2B: a small, open-source, decision model",
+      "url": "https://strandsagents.com/blog/introducing-strands-decider/",
+      "score": 55,
+      "comments": 5,
+      "author": "gmays",
+      "time": 1791338531,
+      "hn_url": "https://news.ycombinator.com/item?id=49987076",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Strands Decider 2B is a small, open-source decision model with 2 billion parameters, designed for fast experimentation and local development. It is optimized to return answers to meaningful questions in tens of milliseconds and is suitable for running on a local CPU or GPU. The model is competitive in accuracy and calibration with other models in its class. It is released as open source on GitHub with weights on Hugging Face, including all training data and scripts used to build the model. It is one of a new class of decision models or system one models, designed to pick between sets of options and assign simple numerical scores.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-07T03:55:01.800686+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49984025,
+      "title": "Decisions API is in public beta",
+      "url": "https://developers.openai.com/api/docs/guides/decisions",
+      "score": 185,
+      "comments": 77,
+      "author": "chiefstorm",
+      "time": 1791320245,
+      "hn_url": "https://news.ycombinator.com/item?id=49984025",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "As of September 30, 2026, the Decisions API is described as a limited preview by multiple sources. One source mentions that it is in limited preview and expects a broader release in the coming days, without a firm date. Another source states that as of September 30, 2026, there is no public contract for the Decisions API and no public endpoint reference, SDK example, or application route available. A third source notes that the Decisions API is in limited preview at DevDay 2026 and advises developers to verify details before production. These sources indicate that the Decisions API is not yet publicly available in a full capacity.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-07T03:55:04.273874+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49984716,
+      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+      "url": "https://penguin-mail.com/",
+      "score": 98,
+      "comments": 45,
+      "author": "kavourias",
+      "time": 1791323983,
+      "hn_url": "https://news.ycombinator.com/item?id=49984716",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources mention an open-source Rust email client for Linux with AI, referred to as Penguin Mail, on Hacker News. The GitHub repository for a Rust email client library, io-email, indicates it is developed with AI assistance and includes verification processes to ensure correctness. The Forward Email blog recommends meli and Himalaya as top open-source Rust email clients for CLI, but does not mention Penguin Mail. The sources do not provide a definitive answer regarding Penguin Mail's specific features or status.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-07T03:55:06.496317+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49987675,
+      "title": "La Cueva BBS in Mexico in 1993 (session replay)",
+      "url": "https://nanochess.org/la_cueva_bbs.html",
+      "score": 7,
+      "comments": 0,
+      "author": "nanochess",
+      "time": 1791343005,
+      "hn_url": "https://news.ycombinator.com/item?id=49987675",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources mention \"Programa La Cueva\" in the context of a video by Antonio Birabent on Instagram, noting it was from 1993. However, there is no specific information about a session replay from La Cueva BBS in Mexico in 1993. The Instagram post includes nostalgic comments about the program and mentions of people who remember it, but does not provide details about a BBS session. The other sources discuss La Cueva trail and its historical and wildlife aspects, but do not mention any BBS sessions or related digital activities.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-07T03:55:08.744768+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49980487,
+      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+      "score": 252,
+      "comments": 31,
+      "author": "ilreb",
+      "time": 1791302629,
+      "hn_url": "https://news.ycombinator.com/item?id=49980487",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "EmbeddingGemma 2 is an open multimodal embedding model built by Google DeepMind which maps text, images, video, and audio inputs—and combinations thereof—into a single, unified 768-dimensional vector space. The model has 740M total parameters, combining a 270M parameter text model with modular vision (170M) and audio (300M) encoders. It is designed for responsible AI development and is among the strongest multimodal embedding models under 1B parameters, intended for on-device or edge AI applications. The model is lightweight and designed to run on consumer hardware such as mobile devices and laptops, delivering low-latency semantic representations for on-device applications.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-07T03:55:10.948462+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49981905,
+      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+      "score": 130,
+      "comments": 66,
+      "author": "zed_labs_dev",
+      "time": 1791309634,
+      "hn_url": "https://news.ycombinator.com/item?id=49981905",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to the sources, the real customer is the model. The blog post on Builder.io emphasizes that Anthropic can give maximum value by allowing direct access to models like Opus without the need for intermediaries, likening it to buying directly from the manufacturer. The newsletter by Gergely Orosz highlights the belief that the model can do much more than current products enable, advocating for minimal UI to keep the model as raw as possible. The YouTube video discusses the messages API and its control over the experience, suggesting that the model is central to the service. The sources don't provide a definitive answer to the exact nature of the customer relationship beyond this focus on the model.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-07T03:55:13.636446+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49973644,
+      "title": "LLMs may have helped my RSI",
+      "url": "https://vaughanhilts.me/2026/10/05/llms-immensely-helped-my-rsi.html",
+      "score": 58,
+      "comments": 28,
+      "author": "vaughands",
+      "time": 1791255664,
+      "hn_url": "https://news.ycombinator.com/item?id=49973644",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources do not provide a definitive answer regarding whether LLMs may have helped your RSI. While there is discussion about the potential impact of LLMs on AI experiments and the rate at which they can be run, there is no direct mention or evidence connecting LLMs to RSI (Repetitive Strain Injury). The sources focus on the exponential growth and efficiency improvements of LLMs but do not address the specific context of RSI.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-10-07T03:55:16.158733+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49980715,
+      "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+      "url": "https://github.com/FeSens/openTPU",
+      "score": 252,
+      "comments": 311,
+      "author": "fsbonetto",
+      "time": 1791303805,
+      "hn_url": "https://news.ycombinator.com/item?id=49980715",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "OpenTPU is an open-source re-implementation of Google's Tensor Processing Unit (TPU) by the UC Santa Barbara ArchLab. It is developed by AI and targets a Xilinx Kintex-7 FPGA on an Inspur PCIe card. The project includes RTL, ISA, a compiler, simulator, and host tools, aiming to test whether AI agents can design the chip that runs their own inference. Reported throughput on LFM2.5-230M is 59.0 tok/s decode and 295.6 tok/s prefill in int8, with DRAM running 82-94% of a 17.1 GB/s peak. The design keeps nothing opaque to make the answer legible: \"There is no cache and no hidden scheduling: every data movement is an instruction, so a trace shows exactly where the cycles go.\"",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-07T03:55:20.210703+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49986862,
+      "title": "ESP32-C3 Adblock",
+      "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
+      "score": 18,
+      "comments": 2,
+      "author": "jayhoon",
+      "time": 1791337161,
+      "hn_url": "https://news.ycombinator.com/item?id=49986862",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The ESP32-C3 Adblock project, developed by ZedAxis (M-Abozaid on GitHub), is a Pi-hole-class DNS ad-blocker that runs on a $2 ESP32-C3 without requiring PSRAM. It blocks 537,000 ad domains using just 50KB of RAM by storing 5-byte (40-bit) domain hashes in flash and performing binary searches to avoid using RAM. The project can be built from source or flashed via a web interface, and it features a web dashboard for configuration. The sources do not provide specific details on the exact date or version of the firmware used.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-07T03:55:23.788983+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49986765,
+      "title": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
+      "url": "https://www.sregym.com/blog/jev-driven-sre-diagnosis",
+      "score": 10,
+      "comments": 2,
+      "author": "matt_d",
+      "time": 1791336469,
+      "hn_url": "https://news.ycombinator.com/item?id=49986765",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to the sources, Jev is a proprietary AI model developed by TypeSafe AI that was released in limited early access on 15 September 2026. It is a discriminative model used for classification or regression, returning typed values with probability estimates and confidence scores, intended for software consumption rather than human reading. Jev is not fine-tuned with customer data and is trained to return calibrated decisions. It is primarily trained in English, with less accuracy in other languages. Jev is used for high-volume, repeated decisions and is often paired with other models for complex cases that require written explanations. The sources do not provide specific details on what worked and failed with Jev's SRE diagnosis.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-07T03:55:26.708473+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49981197,
+      "title": "Utah to let AI examine patients and prescribe medication without human oversight",
+      "url": "https://www.techspot.com/news/114111-utah-become-first-state-ai-examine-patients-prescribe.html",
+      "score": 97,
+      "comments": 109,
+      "author": "healsdata",
+      "time": 1791306112,
+      "hn_url": "https://news.ycombinator.com/item?id=49981197",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Utah has launched a pilot program allowing an AI system to autonomously renew certain prescription medications under state oversight, specifically for patients with chronic conditions. This initiative, conducted through the Utah Department of Commerce and its Office of Artificial Intelligence Policy, focuses on prescription renewals without real-time human clinician involvement. The program raises questions about the future of AI in medical care and the potential for federal legislation to standardize AI-enabled prescribing across states. While the AI system is not authorized to prescribe medications initially, the program represents a significant regulatory development in the use of AI in healthcare.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-07T03:55:29.043771+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49967427,
+      "title": "Benchmark in Milliseconds",
+      "url": "https://matklad.github.io/2026/10/05/benchmark-milliseconds.html",
+      "score": 130,
+      "comments": 38,
+      "author": "surprisetalk",
+      "time": 1791219610,
+      "hn_url": "https://news.ycombinator.com/item?id=49967427",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources suggest that for micro benchmarks, a duration of around 300 milliseconds is recommended to keep timings as easy-to-scan integers, avoid skew from fixed costs like interpreter startup, and remain within a human-perceptible range for intuitive judgment. The rule of thumb is to tweak the input size until the benchmark takes about 300ms. For larger benchmarks, the sources mention that anything longer than a second makes iterating on the benchmark slower than it needs to be. In competitive sectors, top-tier properties now consistently serve pages with LCPs under 200 milliseconds.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-07T03:55:31.290687+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49985861,
+      "title": "South Korea says AI agents appear to have been used to hack the country's banks",
+      "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
+      "score": 49,
+      "comments": 11,
+      "author": "thoughtpeddler",
+      "time": 1791330633,
+      "hn_url": "https://news.ycombinator.com/item?id=49985861",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "South Korean President Lee Jae-myung stated that AI models are believed to have been used in some recent hacking incidents against banks, causing public concern and anxiety. At least seven financial firms, including Shinhan Bank, KB Kookmin Bank, Hana Bank, and Woori Bank, were reportedly hacked, leading to the theft of personal information for 68,000 people. Authorities have not disclosed details on what kind of AI tools were used or the full scale of the breaches. The South Korean police have launched a full-scale investigation into these attacks.",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "analyzed_at": "2026-10-07T03:55:33.736717+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49985292,
+      "title": "UniEvo-VL: Self-Distillation Training for Multimodal Model Self-Improvement",
+      "url": "https://arxiv.org/abs/2609.38721",
+      "score": 13,
+      "comments": 3,
+      "author": "gmays",
+      "time": 1791327095,
+      "hn_url": "https://news.ycombinator.com/item?id=49985292",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "UniEvo-VL is a self-evolving framework for multimodal models to learn from their own constructive self-correction feedback during test-time compute. It leverages the model's self-critiques as privileged information, allowing a single multimodal model to act as both teacher and student with different contexts. The student only sees the vanilla question, while the teacher conditions on the privileged critique. Training minimizes the per-state divergence between their denoising diffusion distributions over the student's own sampling trajectories. Experiments demonstrate that UniEvo-VL improves the image generation capabilities of multimodal models, while maintaining their sensitivity to additional reflection information.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-07T03:55:36.091129+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49985524,
+      "title": "Integer multiplication below n log n",
+      "url": "https://github.com/openai/math/tree/main/preprints/Integer-multiplication-below-n-log-n-September-23-2026",
+      "score": 73,
+      "comments": 55,
+      "author": "E-Reverance",
+      "time": 1791328492,
+      "hn_url": "https://news.ycombinator.com/item?id=49985524",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that the best-known algorithm for integer multiplication operates in O(n log n) time, as demonstrated by the 2019 algorithm of David Harvey and Joris van der Hoeven. This algorithm uses number-theoretic transforms introduced with the Schönhage–Strassen algorithm. While this is conjectured to be the best possible algorithm, the sources do not provide a definitive answer to whether O(n log n) is a lower bound or if anything beneath n log n would violate it.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-07T03:55:38.620010+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49979845,
+      "title": "The Early History of Smalltalk (1993)",
+      "url": "https://worrydream.com/EarlyHistoryOfSmalltalk/",
+      "score": 116,
+      "comments": 69,
+      "author": "_reza",
+      "time": 1791299997,
+      "hn_url": "https://news.ycombinator.com/item?id=49979845",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that Alan Kay, a computer scientist who won the Turing award, wrote \"The Early History of Smalltalk\" in 1993. In this paper, Kay discusses the development of Smalltalk and its significance in the context of contemporary programming languages like C++ and the upcoming Java. Kay's narrative emphasizes the idea of simulating virtual computers where each object possesses the Turing completeness of a computer. The paper also mentions that Smalltalk was named to be innocuous, hoping it would pleasantly surprise people if it delivered good results. The Hacker News discussion from 2022 references this paper, highlighting its importance in understanding modern programming languages and computing.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-07T03:55:43.038293+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49983791,
+      "title": "OpenSSH 10.6",
+      "url": "https://www.openssh.org/releasenotes.html#10.6",
+      "score": 97,
+      "comments": 23,
+      "author": "torcete",
+      "time": 1791319299,
+      "hn_url": "https://news.ycombinator.com/item?id=49983791",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that OpenSSH 10.6 was released on 06/10/2026 with security fixes and feature improvements. The release notes mention minor security fixes and general bug fixes, but do not provide specific details about the vulnerabilities addressed or the new features included. The OpenSSH project continues to receive support from its community, and future deprecation warnings are noted. The exact content of the release and specific changes are not detailed in the provided sources.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-07T03:55:46.147940+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49977689,
+      "title": "Erdosproblems.com Succumbs to the AI Onslaught",
+      "url": "https://www.erdosproblems.com/forum/thread/blog:9",
+      "score": 97,
+      "comments": 39,
+      "author": "pfdietz",
+      "time": 1791291238,
+      "hn_url": "https://news.ycombinator.com/item?id=49977689",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to Hacker News, the site erdosproblems.com now primarily serves to advertise AI-generated proofs without explanation, which contrasts with the original vision of the site's founder. Quanta Magazine reports that major tech companies saw an opportunity in the site as a benchmark for AI capabilities. Scientific American notes that AI tools have helped solve about 100 Erdős problems since October, with LLMs often forming new solutions in dialogue with mathematician prompters. The sources collectively indicate a shift in the site's purpose and the impact of AI on solving mathematical problems.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-07T03:55:48.598716+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49976823,
+      "title": "Nature's capacity to 'bounce back' when species are lost is overestimated: study",
+      "url": "https://phys.org/news/2026-10-nature-capacity-species-lost-vastly.html",
+      "score": 321,
+      "comments": 157,
+      "author": "pseudolus",
+      "time": 1791285111,
+      "hn_url": "https://news.ycombinator.com/item?id=49976823",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The study by King’s College London and Imperial College London with the Natural History found that ecosystems have far less ‘spare’ capacity than previously thought, with the ocean potentially having the most to lose. The idea that ecosystems carry plenty of back-up, so if a small number of species become extinct there is little harm, has been greatly overestimated according to the largest global study of its kind. The study published in Nature Ecology & Evolution combined 423 published studies and 222,829 data points across land, freshwater, marine and estuarine ecosystems. The ecological benefits keep climbing as diversity rises, which means it is falling as we lose species.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-07T03:55:51.607174+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49984736,
+      "title": "Show HN: An AI agent runs ten web errands a day, every transcript published",
+      "url": "https://agentability.org/",
+      "score": 8,
+      "comments": 0,
+      "author": "khalidsaidi",
+      "time": 1791324058,
+      "hn_url": "https://news.ycombinator.com/item?id=49984736",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to the sources, an AI agent runs ten web errands a day, every transcript published. This is evidenced by the Show HN post on Hacker News, which details the functionality of the AI agent. Additionally, another Show HN post on Hacker News describes the collaboration of AI agents in an app, where the full debate transcript is available underneath any video, showcasing the agents' genuine disagreements and interactions. The AI agents directory mentions a suite of always-on AI agents by OpenAI, which perform various tasks 24/7.",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "analyzed_at": "2026-10-07T03:55:54.208196+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49986740,
+      "title": "Show HN: TerrainSR – fast, realistic heightmap upscaling model",
+      "url": "https://huggingface.co/joe-gibbs/terrainsr",
+      "score": 7,
+      "comments": 2,
+      "author": "joegibbs",
+      "time": 1791336257,
+      "hn_url": "https://news.ycombinator.com/item?id=49986740",
+      "text": "This is a model that I made for a historical game. I wanted to have a 1:1 scale model of Europe, but my problem was that 100m data was too low-res while 10m LIDAR data was patchy, took hundreds of GBs to store and was full of manmade objects like mines, buildings and so on.<p>I trained this model on undeveloped landscape so that it can quickly add plausible erosion features, rocks, etc to the low-resolution height data and sort of reconstruct what the terrain would look like before any human int",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources mention TerrainSR as a fast, realistic heightmap upscaling model but do not provide specific details about its features or performance. The first source discusses a method for converting height differences into world-space slopes and mentions bands for terrain coloring. The second source talks about importing height maps into Unreal Engine 5 and adding detail to mountain slopes using a fluvial node. The third source describes a TerrainPrettifier component in Unity for refining satellite/DEM based terrains. None of these sources provide a definitive answer about TerrainSR's specific capabilities or results.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-07T03:55:56.701424+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49986919,
+      "title": "Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years",
+      "url": "https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html",
+      "score": 13,
+      "comments": 3,
+      "author": "geox",
+      "time": 1791337499,
+      "hn_url": "https://news.ycombinator.com/item?id=49986919",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Researchers at Leibniz University Hannover and the Helmholtz-Zentrum Dresden-Rossendorf found that six tiny, highly radioactive fragments released from the destroyed Chernobyl reactor in 1986 have largely intact crystal structures after 40 years, indicating greater chemical stability than previously assumed. The particles retain fission products within themselves, but their structures varied. The findings could allow for more precise assessments of the health risks posed by such radioactive particles. However, samples from only two locations cannot establish regional particle stability or health risks.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-07T03:55:59.172604+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49944369,
+      "title": "Direct retinal projection display for smart glasses using a meta-optic mirror",
+      "url": "https://www.tdk.com/en/news_center/press/20261002_01.html",
+      "score": 128,
+      "comments": 62,
+      "author": "bookofjoe",
+      "time": 1791036267,
+      "hn_url": "https://news.ycombinator.com/item?id=49944369",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "TDK Corporation has demonstrated the world’s first direct retinal projection display for smart glasses using a meta-optic mirror. The mirror is 150 nm thick, uses nanoscale reflectors, and can be embedded directly into a lens. It has a visible-light transmittance of approximately 80 percent, enabling smart glasses with transparency equivalent to that of ordinary eyeglass lenses, making them suitable for everyday use. TDK has also entered into a business cooperation agreement with QD Laser, Inc. to accelerate the development of next-generation RGB light source modules and optical engines for smart glasses.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-07T03:56:01.537924+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49972125,
+      "title": "Ask HN: Are there AI models for generating sounds based on a text and reference?",
+      "url": "",
+      "score": 24,
+      "comments": 12,
+      "author": "onemiketwelve",
+      "time": 1791242684,
+      "hn_url": "https://news.ycombinator.com/item?id=49972125",
+      "text": "I&#x27;ve been having a hard time finding a solution. Is there really no commercialized model that I can feed in a reference sound and text instruction and get another sound out?<p>Right now having a multimodal inputs to image or text output is a commodotized, solved problem. IE you can put a prompt for some image and use a reference image to guide the model on what you want. After all, a picture is worth a thousand words right?<p>Ive also used a text and audio input in order to get a text descr",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to the sources, there is an AI model by Nvidia that can generate sound effects and music from a text description, including novel sounds like making a trumpet bark like a dog. This model, called Fugatto, can also modify existing audio, such as transforming a piano line into a human voice line or changing the accent and mood of a spoken word recording. However, it is not publicly released yet. The sources do not provide information on other commercialized models that can generate sounds based on both text and a reference sound.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-07T03:56:04.544290+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49983262,
+      "title": "Terraform Meets Proxmox: Lessons from a VMware Migration",
+      "url": "https://www.goncharov.xyz/it/tf4proxmox-en.html",
+      "score": 19,
+      "comments": 0,
+      "author": "ultral",
+      "time": 1791316699,
+      "hn_url": "https://news.ycombinator.com/item?id=49983262",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources discuss deploying virtual machines (VMs) in Proxmox using Terraform as an Infrastructure as Code (IaC) tool, detailing the steps to create VMs and manage them through Terraform. They mention the use of Proxmox Virtual Environment (Proxmox VE) as an open-source virtualization solution that integrates KVM hypervisor, LXC containers, storage functionality, and networking. The sources also touch on the migration of VMs from VMware to Proxmox, suggesting the use of a NAS server for live migration and conversion of VMDK files to raw/qcow format. However, the sources do not provide a definitive answer on lessons learned from a VMware migration to Proxmox using Terraform.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-07T03:56:07.097451+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
