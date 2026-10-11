@@ -1,0 +1,418 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-10-11T03:30:28.583397Z",
+  "analyzed_at": "2026-10-11T03:34:15.991329+00:00",
+  "count": 17,
+  "items": [
+    {
+      "id": 50039092,
+      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+      "score": 49,
+      "comments": 30,
+      "author": "davikr",
+      "time": 1791684158,
+      "hn_url": "https://news.ycombinator.com/item?id=50039092",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Security researcher Maurice Heumann published a detailed account of a three-month project titled \"500+ Billion Tokens Later: Letting AI Agents Decompile A First-Person Shooter,\" where AI coding agents decompiled a commercial shooter, achieving about 80% reconstruction with visible progress such as the main menu and map loading. However, the legality of such decompilation remains unsettled, with a YouTube video warning against it due to potential legal issues surrounding ownership checks and anti-cheat mechanisms, and noting that the rules in the EU are narrower.",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "analyzed_at": "2026-10-11T03:33:32.890918+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50038473,
+      "title": "Veda: The First Agentic Hobby Operating System",
+      "url": "https://github.com/vahmoh25/Veda",
+      "score": 31,
+      "comments": 3,
+      "author": "vahmohh",
+      "time": 1791678153,
+      "hn_url": "https://news.ycombinator.com/item?id=50038473",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Veda is described as the first agentic hobby operating system, which connects memory, tools, orchestration, and workflows to enable AI agents to run business processes autonomously. The concept of an agentic operating system is explained as the architectural solution that connects memory, tools, agents, and workflows so AI can run business processes end-to-end autonomously. There is no information about whether Veda actually works or if anyone has signed up for DeepGram to test it.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-10-11T03:33:35.369857+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50021899,
+      "title": "Five months treating bugs like patients and coding agents like a medical team",
+      "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
+      "score": 87,
+      "comments": 36,
+      "author": "rafiss",
+      "time": 1791559593,
+      "hn_url": "https://news.ycombinator.com/item?id=50021899",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources mention AI agents like Argus that autonomously test UIs without needing test scripts, and AURI by Endor Labs, which provides security intelligence for AI coding agents. There is no direct information about \"five months treating bugs like patients and coding agents like a medical team,\" but the sources do highlight the capabilities of AI agents in testing and security, emphasizing their efficiency and effectiveness in these areas.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-10-11T03:33:38.080886+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50031614,
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "url": "https://github.com/rociiu/talorys",
+      "score": 262,
+      "comments": 123,
+      "author": "rociiu",
+      "time": 1791629529,
+      "hn_url": "https://news.ycombinator.com/item?id=50031614",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Talorys is a self-hosted personal AI agent that runs entirely on Cloudflare's free tier, eliminating hosting costs for single users. It was mentioned in Hacker News and the context suggests it is an AI-assisted tool for consumers. The sources do not provide specific details about its features or capabilities beyond its hosting on Cloudflare's free tier.",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "analyzed_at": "2026-10-11T03:33:40.796637+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50016956,
+      "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+      "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+      "score": 171,
+      "comments": 39,
+      "author": "smokel",
+      "time": 1791528769,
+      "hn_url": "https://news.ycombinator.com/item?id=50016956",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Microsoft Execution Containers (MXC) version 1.0.0 is a policy-driven execution layer for untrusted code or dynamically generated workloads, providing containment for AI agents. MXC limits the scope of the impact if something goes wrong by defining the resources an agent can use. It offers a spectrum of containment options for different workloads, from low latency coding agents to those processing sensitive data or running untrusted code. MXC provides a hypervisor-backed isolation boundary with near-native startup times and integrates with Defender, Entra, Intune, and Purview for enhanced security.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-11T03:33:43.100386+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49980880,
+      "title": "Grieving the loss of details",
+      "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
+      "score": 371,
+      "comments": 288,
+      "author": "signa11",
+      "time": 1791304641,
+      "hn_url": "https://news.ycombinator.com/item?id=49980880",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Grief is a natural emotional response to loss, which can occur after the death of someone close, a serious illness, divorce, or other significant events like job loss. It often involves intense sadness and can affect both physical and mental health. While most people's grief eases over time, everyone experiences it differently. Coping strategies include taking care of oneself, keeping busy, and sharing memories with supportive family and friends. Prolonged and intense grief can lead to complicated grief, characterized by an inability to accept the loss and difficulty resuming normal life. There are ways to manage grief, and help is available.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-11T03:33:45.930574+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50035886,
+      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
+      "score": 134,
+      "comments": 91,
+      "author": "arkj",
+      "time": 1791658115,
+      "hn_url": "https://news.ycombinator.com/item?id=50035886",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to the Financial Times and Reuters, Nvidia is in discussions to deepen its investment in or acquire Reflection AI, a U.S. startup focused on developing open-weight models. The talks are at an early stage, and a deal could take several forms, including an acqui-hire arrangement where Nvidia would hire staff and license technology. The companies could reach an agreement in the coming weeks, but the discussions could still fall apart. Nvidia has already invested $800M into Reflection AI, which was last valued at $25B in a March funding round.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-11T03:33:48.153626+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50029830,
+      "title": "Food processing influences metabolism and brain activity",
+      "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
+      "score": 118,
+      "comments": 89,
+      "author": "gmays",
+      "time": 1791609750,
+      "hn_url": "https://news.ycombinator.com/item?id=50029830",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that food processing influences metabolism and brain activity. In healthy adults, meals matched for calories and nutrients but prepared differently led to different metabolic responses and activity in the brain’s reward system. The study by Virginia Tech's Fralin Biomedical Research Institute at VTC found that two meals with the same macronutrients but differing in processing level produced different metabolic responses and brain activity. The research also highlighted that variations in carbohydrate utilization after consuming ultraprocessed meals aligned with differential brain activity in regions linked to motivation and reward.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-11T03:33:50.461217+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50027257,
+      "title": "Recent AI models struggled to match a human algorithmic innovation",
+      "url": "https://epoch.ai/publications/innovationeval",
+      "score": 82,
+      "comments": 63,
+      "author": "merksittich",
+      "time": 1791584080,
+      "hn_url": "https://news.ycombinator.com/item?id=50027257",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Recent AI models struggled to match a human algorithmic innovation, as evidenced by the InnovationEval tests which found that even AI models that had seen the original paper failed to fully solve the task. The AI models either memorized the details or had different causes for their failure. Additionally, a YouTube video argues that current AI models cannot reason like humans and highlights three unfixable problems blocking AI tech progress. The MathOverflow discussion also points out that current AI models haven't completely cracked problems like figuring out the rules of computer games without instructions, which are relatively easy for humans.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-11T03:33:53.590852+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 49986919,
+      "title": "Chernobyl particles reveal unexpectedly stable nuclear fuel after 40 years",
+      "url": "https://phys.org/news/2026-10-chernobyl-particles-reveal-unexpectedly-stable.html",
+      "score": 143,
+      "comments": 55,
+      "author": "geox",
+      "time": 1791337499,
+      "hn_url": "https://news.ycombinator.com/item?id=49986919",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Researchers at Leibniz University Hannover and the Helmholtz-Zentrum Dresden-Rossendorf found that six tiny, highly radioactive fragments from the Chernobyl reactor, examined four decades after the 1986 disaster, have largely intact crystal structures, indicating greater chemical stability than previously assumed. The particles retain fission products, but their structures varied. The findings suggest more precise health risk assessments, though the small sample size limits broader conclusions. The particles remain highly radioactive, and the study does not establish regional particle stability or health risks.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-11T03:33:56.077737+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50039062,
+      "title": "A plastic once thought harmless may be fueling fatty liver disease",
+      "url": "https://www.sciencedaily.com/releases/2026/10/261008102718.htm",
+      "score": 9,
+      "comments": 0,
+      "author": "gradus_ad",
+      "time": 1791683764,
+      "hn_url": "https://news.ycombinator.com/item?id=50039062",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Texas A&M researchers discovered that polyethylene microplastics can contribute to fatty liver disease, with potentially worse effects when combined with an unhealthy diet. Their findings suggest that polyethylene may worsen the condition when paired with an unhealthy diet, according to sources from ScienceDaily, MedicalXpress, and TAMU stories.",
+      "tags": [
+        "ml"
+      ],
+      "analyzed_at": "2026-10-11T03:33:59.520682+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50021410,
+      "title": "Can you use autoregressive diffusion to generate market data?",
+      "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+      "score": 177,
+      "comments": 56,
+      "author": "jsomers",
+      "time": 1791557773,
+      "hn_url": "https://news.ycombinator.com/item?id=50021410",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to the Jane Street blog, a research intern named Kavish built a diffusion model for market data, using four years of US equities data to generate features for the next event in an autoregressive manner. However, the Hacker News discussion does not provide specific details on the use of autoregressive diffusion for generating market data, and the NIPS paper focuses on comparing autoregressive and diffusion models in data-constrained settings without directly addressing market data generation. Thus, while there is evidence of an attempt to use diffusion models for market data, the specifics and effectiveness of using autoregressive diffusion for this purpose remain unclear from the provided sources.",
+      "tags": [
+        "diffusion"
+      ],
+      "analyzed_at": "2026-10-11T03:34:01.984746+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50039128,
+      "title": "Brain does not process information and it is not a computer (2016)",
+      "url": "https://aeon.co/essays/your-brain-does-not-process-information-and-it-is-not-a-computer",
+      "score": 9,
+      "comments": 3,
+      "author": "Anon84",
+      "time": 1791684612,
+      "hn_url": "https://news.ycombinator.com/item?id=50039128",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The brain is described as the coordinating center of the Central Nervous System (CNS), integrating sensory information to regulate both conscious thought and involuntary survival mechanisms. It functions by processing inputs from sensory receptors and generating coordinated responses through effectors: muscles and glands. The brain is responsible for receiving information from the sensory nervous system, processing that information (thought, cognition, and intelligence), and coordinating responses. While modern neuroscience treats the brain as a biological computer, it is noted that the brain is very different in mechanism from a digital computer.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-11T03:34:05.138863+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50034640,
+      "title": "A 1980s filter chip that uses switched capacitors",
+      "url": "https://www.righto.com/2026/10/ML10-switched-capacitor-filter.html",
+      "score": 22,
+      "comments": 6,
+      "author": "pwg",
+      "time": 1791650687,
+      "hn_url": "https://news.ycombinator.com/item?id=50034640",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Harris HF-10 is a 1980s filter chip that uses switched capacitors, mirroring the architecture of the Texas Instruments MF10. It employs a four-switch topology to invert voltage and cancel parasitic capacitance errors, with each filter's two integrators using 8 or 16 unit capacitors as integration capacitors. The chip features CMOS switches and a non-overlapping clock generator, and it replaces resistors with clocked capacitors to implement addition and subtraction at the summing node. The MF10, introduced in 1981, offers low-pass, band-pass, and high-pass outputs simultaneously, with frequency, Q, and gain set by external resistors.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-11T03:34:07.866178+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50034008,
+      "title": "How Protein Took over the World",
+      "url": "https://www.ft.com/content/e26574cf-94cc-40d9-921e-5c7417fc5dbd",
+      "score": 62,
+      "comments": 149,
+      "author": "thm",
+      "time": 1791646806,
+      "hn_url": "https://news.ycombinator.com/item?id=50034008",
+      "text": "<a href=\"https:&#x2F;&#x2F;archive.is&#x2F;CbkfI\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.is&#x2F;CbkfI</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that the focus on protein began in the mid-1800s with German chemist Justus von Liebig, who regarded protein as \"the only true nutrient.\" This focus intensified during World War II and surged in popularity in the 1990s and early 2000s due to fitness culture and diet trends. By the late 20th century, high-protein foods and drinks had become widespread globally, driven by marketing and perceived health benefits. In 2026, protein remains a prominent wellness trend, with social media influencers and companies promoting high-protein products, though experts suggest that most people's protein needs are likely lower than suggested by some marketing.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-11T03:34:10.411943+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50024090,
+      "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+      "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+      "score": 195,
+      "comments": 58,
+      "author": "matt_d",
+      "time": 1791567732,
+      "hn_url": "https://news.ycombinator.com/item?id=50024090",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Mathematicians should know that the Lean theorem prover is highly reliable within its specialized domain, particularly in proving equalities in commutative rings, but it operates on human-written algorithms and may not extend beyond its fixed class of problems. While it can produce proofs that convince another model or pass a rubric, it requires human intervention to correct errors, as seen in the case of Bren's postulate. The sources do not provide a definitive answer on whether a soundness bug in the Lean kernel will recur.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-11T03:34:13.107897+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50038479,
+      "title": "Supreme Court: 401(k) case over private funds and underperformance",
+      "url": "https://www.cnbc.com/2026/10/10/supreme-court-case-401k-private-funds-intel.html",
+      "score": 13,
+      "comments": 1,
+      "author": "cramer4next",
+      "time": 1791678268,
+      "hn_url": "https://news.ycombinator.com/item?id=50038479",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Supreme Court appears to be leaning toward a ruling that could smooth private equity’s path into Americans’ 401(k) retirement accounts. The court heard arguments in a case, Anderson v. Intel, over when an employee can sue an employer for putting risky or unwise investments into the company retirement plan. The plaintiff accused the company of violating its fiduciary duty by including private equity and hedge funds in its defined-contribution retirement plan, alleging these investments performed worse than standard equity funds would have. Several members of the court suggested that alleging damages without a \"meaningful benchmark\" was insufficient for a suit to survive a motion to dismiss. The Supreme Court granted certiorari to resolve the circuit court split over whether ERISA plaintiffs must plead a meaningful benchmark to state a prudence claim.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-11T03:34:15.490176+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
