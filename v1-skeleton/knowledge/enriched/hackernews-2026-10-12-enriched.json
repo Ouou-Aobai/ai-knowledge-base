@@ -1,0 +1,250 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-10-12T03:54:18.934489Z",
+  "analyzed_at": "2026-10-12T03:57:36.330565+00:00",
+  "count": 10,
+  "items": [
+    {
+      "id": 50047422,
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046",
+      "score": 301,
+      "comments": 486,
+      "author": "albertzeyer",
+      "time": 1791750052,
+      "hn_url": "https://news.ycombinator.com/item?id=50047422",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that there is an increasing gap between human and Large Language Model (LLM) performance in tasks such as deception detection, with LLMs achieving up to 0.82 on typed data compared to human accuracy of 0.58. Additionally, there is a noted performance drop when speech-adapted LLMs process spoken inputs compared to text-based LLMs, termed the text–speech understanding gap. Furthermore, LLMs show marked inconsistencies in languages other than English, with Russian-language analysis underperforming English by up to 9 percentage points and models struggling with sentiment analysis in Latvian. These findings highlight the widening gap in shared understanding of LLM capabilities across different languages and modalities.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-10-12T03:57:12.193941+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50048522,
+      "title": "Recursive self-improvement through collective intelligence",
+      "url": "https://pub.sakana.ai/mass/",
+      "score": 79,
+      "comments": 41,
+      "author": "hardmaru",
+      "time": 1791757330,
+      "hn_url": "https://news.ycombinator.com/item?id=50048522",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Recursive self-improvement (RSI) is a process in which artificial general intelligence (AGI) systems rewrite and test their own computer code, potentially leading to an intelligence explosion and superintelligence. RSI research continues into 2026, with major increases in AI self-coding, but no sign of an intelligence explosion or superintelligence. Recent progress in self-training, agent memory, harness optimization, embodied self-improvement, automated AI research, self-modifying coding agents, and evolutionary search has made RSI increasingly relevant as an empirical research direction. However, some researchers argue that full-on RSI might require more than just designing software and chips, and keeping humans in the loop may lead to faster co-improvement rather than self-improvement.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-12T03:57:14.674575+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50045946,
+      "title": "NYC's \"Click to Cancel\" rule is now in effect",
+      "url": "https://www.nyc.gov/main/click-to-cancel",
+      "score": 389,
+      "comments": 192,
+      "author": "gregsadetsky",
+      "time": 1791741676,
+      "hn_url": "https://news.ycombinator.com/item?id=50045946",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "NYC's \"Click to Cancel\" rule is now in effect as of October 1, 2026, making New York City the first municipality in the United States to impose its own subscription cancellation requirements. The rule treats noncompliant automatic renewal and continuous service practices as deceptive and unconscionable trade practices under the City’s Consumer Protection Law. The Department of Consumer and Worker Protection (DCWP) will enforce this rule, which has been finalized and will take effect on October 1, 2026. Businesses that violate the rule would be liable for civil penalties, starting at $525, and may be liable for refunding the consumer.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-12T03:57:16.914819+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50039092,
+      "title": "500B tokens later: Letting AI agents decompile a first-person shooter",
+      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+      "score": 180,
+      "comments": 127,
+      "author": "davikr",
+      "time": 1791684158,
+      "hn_url": "https://news.ycombinator.com/item?id=50039092",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to Maurice Heumann's blog post, AI agents managed to decompile about 80% of a popular first-person shooter, achieving a stable and feature-complete recreation of the game. After 2 more months of optimization, 99% of the game’s functions were present in the reconstructed source, with 83% of all functions being byte exact. The agents used separate branches and submitted their changes through pull requests. The Hacker News thread and Fortune article do not provide specific details about the decompilation project but mention other AI-related topics.",
+      "tags": [
+        "ai",
+        "agent"
+      ],
+      "analyzed_at": "2026-10-12T03:57:19.732383+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50049132,
+      "title": "Show HN: BraiNOTES, handwritten notes on your lecture PDFs in a browser tab",
+      "url": "https://github.com/swimmingbrain/brainotes",
+      "score": 19,
+      "comments": 0,
+      "author": "swimmingbrain",
+      "time": 1791760949,
+      "hn_url": "https://news.ycombinator.com/item?id=50049132",
+      "text": "In August, I posted here about TeXbrain, a LaTeX editor that runs completely in the browser, with no need for an account or server. (I didn&#x27;t excpect it to get that much feedback, bug reports and help from here!)<p>This is the same idea for the other half of my studies, the handwritten notes. I take them on a convertible laptop, and I&#x27;ve had a hard time with apps for that, taking notes from a device to another, exporting as PDF, needing an account for many of them, etc. So I&#x27;ve be",
+      "relevance_score": 0.8999999999999999,
+      "summary": "BrainNotes allows users to take handwritten notes on lecture PDFs in a browser tab, summarizing lectures, PDFs, and YouTube videos into notes, flashcards, and quizzes. It features an AI-powered chat for interacting with notes, and an organized interface with folders for easy navigation. Other apps like Goodnotes and RemNote also support annotating PDFs, handwriting recognition, and organizing notes, but specific details about BrainNotes' functionalities are not provided in the sources.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-12T03:57:22.939711+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50036023,
+      "title": "Cbirds: A flock of birds in your terminal",
+      "url": "https://github.com/clainstone/cbirds",
+      "score": 23,
+      "comments": 16,
+      "author": "epestr",
+      "time": 1791658955,
+      "hn_url": "https://news.ycombinator.com/item?id=50036023",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources provide chord information for \"Wild Birds Flock To Me\" by Peter Murphy. One source indicates the intro chords as B E D A with the lyrics \"Wild birds flock to me A Soaring rocks.\" Another source lists the chords as Capo 2 [Intro] A E Bm G, and the verse as A E Bm Looked like a blue eyes lonely boy G A Hair skating to the ground E Bm Read the air between the words G A. There is no information about a flock of birds in your terminal.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-12T03:57:25.732031+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50049388,
+      "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
+      "url": "https://github.com/plimsollmark/plimsoll",
+      "score": 12,
+      "comments": 2,
+      "author": "cagster",
+      "time": 1791762479,
+      "hn_url": "https://news.ycombinator.com/item?id=50049388",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Plimsoll is a self-hosted sandbox for running untrusted, agent-authored code that reports the isolation boundary each run executed behind. It is designed to run code written by AI agents in a secure environment, ensuring that the sandbox maintains a minimum strength level demanded by the requester. The project is hosted on GitHub and has 2 stars and 1 watcher as of the latest update. The repository includes an Apache-2.0 license and provides resources such as a README and a security policy. The project's website offers additional lessons and information on how to use Plimsoll without cloning the repository.",
+      "tags": [
+        "ai",
+        "agent"
+      ],
+      "analyzed_at": "2026-10-12T03:57:29.304653+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50042219,
+      "title": "I paid people to try and follow my README",
+      "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+      "score": 376,
+      "comments": 190,
+      "author": "edent",
+      "time": 1791719249,
+      "hn_url": "https://news.ycombinator.com/item?id=50042219",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Terence Eden paid people to test his README as part of his NLnet grant application for ActivityBot. He paid around €150 in total, offering €25 per hour for their time. He recruited volunteers via a call on Mastodon, conducting video calls where participants were asked to share their screens and speak aloud their thoughts and confusions. Eden took notes by hand and updated the README based on the feedback received.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-12T03:57:31.537044+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50042370,
+      "title": "Scandinavia's first farmers slaughtered hunter-gatherer population, DNA suggests",
+      "url": "https://phys.org/news/2024-02-scandinavia-farmers-slaughtered-hunter-population.html",
+      "score": 64,
+      "comments": 92,
+      "author": "optimalsolver",
+      "time": 1791720442,
+      "hn_url": "https://news.ycombinator.com/item?id=50042370",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Following the arrival of the first farmers in Scandinavia 5,900 years ago, the hunter-gatherer population was wiped out within a few generations, according to a new study from Lund University in Sweden, among others. The results, which are contrary to prevailing opinion, are based on DNA analysis of skeletons and teeth found in what is now Denmark. A thousand years later, about 4,850 years ago, another population change took place when people with genetic roots in Yamnaya—a livestock herding people with origins in southern Russia—came to Scandinavia and wiped out the previous farmer population.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-12T03:57:33.732777+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50050971,
+      "title": "Xerox PARC chip shatters on command",
+      "url": "https://techxplore.com/news/2015-09-xerox-parc-chip-shatters-shards.html",
+      "score": 5,
+      "comments": 0,
+      "author": "gurjeet",
+      "time": 1791775029,
+      "hn_url": "https://news.ycombinator.com/item?id=50050971",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Engineers at Xerox PARC have developed a chip that will self-destruct on command, demonstrated at DARPA's Wait. The chip breaks apart on command and was developed under DARPA. The sources do not specify the exact time frame for the self-destruction process beyond the general statement of \"on command.\"",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-12T03:57:35.829664+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
