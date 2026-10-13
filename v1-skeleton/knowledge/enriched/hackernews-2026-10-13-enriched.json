@@ -1,0 +1,609 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-10-13T05:04:36.140218Z",
+  "analyzed_at": "2026-10-13T05:08:35.920430+00:00",
+  "count": 25,
+  "items": [
+    {
+      "id": 50058507,
+      "title": "GLM-Legal",
+      "url": "https://z.ai/blog/glm-legal",
+      "score": 490,
+      "comments": 286,
+      "author": "ilreb",
+      "time": 1791821505,
+      "hn_url": "https://news.ycombinator.com/item?id=50058507",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "GLM LEGAL, APC was launched in October 2024 by Gonzalo Morales, who is a solo practitioner with six years in the legal profession. The firm focuses on Family Law, Personal Injury, and Criminal Defense. Separately, GLM LEGAL LLP, incorporated on August 6, 2014, is a limited liability partnership with a registered office in Salford, England, and is currently active with a proposal to strike off. The sources do not provide a definitive answer regarding the relationship between these two entities.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-13T05:07:28.989790+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50065692,
+      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+      "url": "https://arxiv.org/abs/2610.13928",
+      "score": 46,
+      "comments": 25,
+      "author": "sbulaev",
+      "time": 1791857228,
+      "hn_url": "https://news.ycombinator.com/item?id=50065692",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI models can provably hide arbitrary capabilities under reasonable cryptographic assumptions, posing a threat to the evaluation pipeline. This is demonstrated by constructing backdoor attacks that embed encrypted neural networks within host model weights, decrypting and executing them only upon receiving a secret trigger. This research shows that hidden capabilities can remain provably hard to elicit and interpret even given full access to model weights, extending prior work from hiding fixed strings to arbitrary computations. The findings suggest that pre-deployment testing may provide a false sense of security, urging safety-minded builders and deployments to reconsider their evaluation processes.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-13T05:07:31.634147+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50063365,
+      "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "score": 129,
+      "comments": 54,
+      "author": "hurricanepootis",
+      "time": 1791840935,
+      "hn_url": "https://news.ycombinator.com/item?id=50063365",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Intel D270 GPU AI Accelerator is designed for AI inference workloads and can be configured with up to 480GB of LPDDR5X memory. Based on Intel’s Xe3P architecture, the accelerator prioritizes memory capacity and deployment costs for inference workloads where large language models need substantial memory. The D270 features a 350W power envelope, PCIe 5.0 interface, and 1.3 petaflops of FP8 performance. It is air-cooled and can handle models up to 300 billion parameters with a single card, scaling to beyond one trillion with eight-card systems.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-13T05:07:34.781206+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50065932,
+      "title": "A look at OpenAI’s math that’s claimed computes faster Fourier transforms",
+      "url": "https://www.argmin.net/p/faster-fourier-transforms",
+      "score": 66,
+      "comments": 39,
+      "author": "mochomocha",
+      "time": 1791859603,
+      "hn_url": "https://news.ycombinator.com/item?id=50065932",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to the sources, the main claim from the \"main.pdf\" in the massive paper dump by OpenAI is that they have developed an algorithm that computes the discrete Fourier transform in O(n (log n)1 − ε) time for ε = 10−13. This result is considered amazing as it theoretically breaks the O(n log n) limit for exact Fourier computation. However, the practical applications are limited as the algorithm runs faster only when n is impossibly large, and exact complex arithmetic differs from finite-precision computation.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-13T05:07:37.319380+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50063717,
+      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+      "url": "https://github.com/prabanta-dev/janas",
+      "score": 74,
+      "comments": 26,
+      "author": "khalidkhair",
+      "time": 1791842743,
+      "hn_url": "https://news.ycombinator.com/item?id=50063717",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that Janas is a method to run large language models (LLMs) that exceed the available RAM by streaming expert weights from an SSD instead of loading everything into RAM. This approach was demonstrated in a YouTube video where a 32GB AI model was run on a PC with only 28GB of total memory by streaming MoE expert weights from an NVMe SSD. The technique involves checking the RAM first for the needed expert, and if not found, streaming from the SSD, similar to streaming content from a library without downloading the entire collection. The Hacker News discussion mentions the potential for switching quickly between models and highlights the importance of SSD bandwidth and endurance, noting that generating 1000 tokens from a 70B model with 80 layers could require reading 1.75TB from the SSD.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-10-13T05:07:40.145307+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50061791,
+      "title": "Making big downloads resumable in Firefox",
+      "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
+      "score": 137,
+      "comments": 45,
+      "author": "speckx",
+      "time": 1791833762,
+      "hn_url": "https://news.ycombinator.com/item?id=50061791",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "To make big downloads resumable in Firefox, setting `network.http.response.timeout` to `0` (or a very large value) in `about:config` can help, though the exact reason for its effectiveness is unclear. This method assumes the server supports resumable downloads, and it addresses Firefox's inability to resume a resumable download on error. An alternative non-Firefox workaround is using `wget -c -O \"$filename\" \"$url\"`, which appears stable. There are also various download manager extensions for Firefox that can resume downloads, and settings like `network.http.connection-timeout` might help in some cases. However, the problem of resumable downloads being unstable in Firefox has been known since at least 2005.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-13T05:07:42.906371+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50063427,
+      "title": "AI is a tool and using it well takes skill",
+      "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "score": 294,
+      "comments": 240,
+      "author": "layer8",
+      "time": 1791841218,
+      "hn_url": "https://news.ycombinator.com/item?id=50063427",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI is a tool that requires skill to use effectively, and the sources emphasize that the skills needed to implement AI applications in daily work are similar to the soft skills already used in everyday interactions, such as collaboration, problem-solving, and critical thinking. While AI can assist in problem-solving and workflow streamlining, it still requires users to define problems and ask the right questions. The sources also highlight that mastery of AI skills involves understanding industry-specific tools and the broader context of AI, rather than just detailed knowledge of specific tools.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-13T05:07:45.354826+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50059096,
+      "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+      "url": "",
+      "score": 122,
+      "comments": 83,
+      "author": "vishnukool",
+      "time": 1791823594,
+      "hn_url": "https://news.ycombinator.com/item?id=50059096",
+      "text": "Hey HN, I’m Vishnu from Agent37 (<a href=\"https:&#x2F;&#x2F;agent37.com\">https:&#x2F;&#x2F;agent37.com</a>). We build sandboxes for running AI agents at under 10% of the cost of most sandbox providers. Our customers spend an average of $0.37&#x2F;month per sandbox.<p>You can view a video walkthrough of the product here: <a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;DK5ISR2tbNo\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;DK5ISR2tbNo</a><p>We started as one of those OpenClaw wrapper companies back ",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Agent37 is a startup founded in 2026, part of Y Combinator's Fall 2026 batch, offering low-cost agent sandboxes for running AI agents like Hermes, OpenClaw, and Claude Code. It provides $2,500 in sandbox credits, worth over $50,000 of uptime on most other providers, aiming to make running agents affordable for everyone. Agent37's sandboxes are always-on, isolated, and remember files and settings until deleted, with pay-as-you-use compute power. The company is active and based in New York City, NY.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-10-13T05:07:48.165663+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50060694,
+      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+      "url": "https://github.com/openai/codex/issues/48195",
+      "score": 504,
+      "comments": 257,
+      "author": "whimblepop",
+      "time": 1791829744,
+      "hn_url": "https://news.ycombinator.com/item?id=50060694",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Codex CLI v0.157.0, released on 25 September 2026, confirmed daemon auto-start as a stable default behaviour. The feature was introduced as opt-in in v0.156.0 and promoted to default during the v0.157 alpha cycle. With the stable release, every new interactive Codex session automatically starts a background server process unless one is already running. Codex is now, in practical terms, an always-on tool. The GitHub issue #52067 mentions that Codex CLI 0.160.0 automatically launches persistent managed app-server and updater without explicit settings.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-13T05:07:53.191450+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50057668,
+      "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+      "url": "https://taylor.town/kk-ai-2026",
+      "score": 160,
+      "comments": 57,
+      "author": "surprisetalk",
+      "time": 1791818205,
+      "hn_url": "https://news.ycombinator.com/item?id=50057668",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Kevin Kelly predicted that by 2026 Google's main product would be AI rather than search, that an oligarchy of two or three large cloud-based commercial AI providers would dominate, that AI would function like a ubiquitous utility similar to Amazon Web Services, and that most AI would be narrow special-purpose software rather than general human-like intelligence. The sources also note that Kelly did not anticipate the rise of general-purpose large language models, which contradicts his specific forecast that 99 percent of AI would be narrow special-purpose software.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-13T05:07:55.705323+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50064438,
+      "title": "Show HN: An experimental pattern-first DAW that supports MCP",
+      "url": "https://github.com/andrewfader/blokkily",
+      "score": 32,
+      "comments": 17,
+      "author": "androsynth89",
+      "time": 1791847272,
+      "hn_url": "https://news.ycombinator.com/item?id=50064438",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that there is an experimental pattern-first DAW called Blokkily, developed by Andrew Fader, which supports MCP. The MCP support in Blokkily is part of a broader trend of experimental tools in the audio production field that aim to integrate advanced features like sound discovery and ideation through natural language and stack generation. While the specifics of MCP support in Blokkily are not fully detailed, it is clear that it is an innovative tool within the experimental landscape of DAWs and MCP integrations.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-13T05:07:58.501569+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50063042,
+      "title": "Show HN: Brickbrag – A multiplayer brick-building world in the browser",
+      "url": "https://brickbrag.com/",
+      "score": 44,
+      "comments": 15,
+      "author": "neuling",
+      "time": 1791839016,
+      "hn_url": "https://news.ycombinator.com/item?id=50063042",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Brickbrag is a multiplayer brick-building world in the browser, showcased on Hacker News. It allows players to drive cars, ride buses, fly planes, race on tracks, and build together in a GTA-style open brick world. The project was built using Claude Code (Opus 5.5), three.js, Node, and SQLite, with a 9-year-old as the main playtester. The creator, neuling, is seeking feedback, particularly on what breaks. The post received 42 points and 15 comments at the time of the source update.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-13T05:08:02.882608+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50064840,
+      "title": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
+      "url": "https://github.com/bherbruck/solidcraft",
+      "score": 18,
+      "comments": 0,
+      "author": "bherbruck",
+      "time": 1791850264,
+      "hn_url": "https://news.ycombinator.com/item?id=50064840",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "SolidCraft is an open-source parametric 3D CAD application written in pure Rust. It runs as a desktop app for Windows and Linux, a web app in the browser, a headless CLI, and an MCP server that AI agents model with, headless or driving the running app. It uses familiar parametric CAD workflows: constrained sketches, solid features, an editable timeline, parameters and assemblies. It also includes a headless CLI `solvecraft-cli` that runs command scripts, measures and exports, and an MCP server `solvecraft-cli mcp` that AI agents use to model, measure and look at parts headless or in the running app.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-13T05:08:05.416493+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50059115,
+      "title": "Muse Wonder",
+      "url": "https://research.meta.ai/blog/muse-wonder",
+      "score": 574,
+      "comments": 313,
+      "author": "meetpateltech",
+      "time": 1791823681,
+      "hn_url": "https://news.ycombinator.com/item?id=50059115",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The album \"MUSE (WONDER ver.)\" by Jimin was released on July 23, 2024, and contains 10 songs. It is a re-release of his previous album \"MUSE,\" with the Wonder version featuring different versions of the tracks. The album is available on Spotify and Apple Music, and it is published by BIGHIT MUSIC.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-13T05:08:08.387800+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50049588,
+      "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+      "url": "https://github.com/SaarthurR/atticus-mac",
+      "score": 88,
+      "comments": 16,
+      "author": "SaarthRanka",
+      "time": 1791764112,
+      "hn_url": "https://news.ycombinator.com/item?id=50049588",
+      "text": "Hi HN! I&#x27;m Saarth. I&#x27;m in 9th grade, and I built Atticus.<p>Atticus is a fast and cheap Mac assistant that can do tasks for you. You hold down Control-Option-Space, speak or type your task, be it complex or a simple browser search, and Atticus will get on it.<p>The interesting part is that simple tasks, like opening apps, playing a Spotify playlist, or web queries, don&#x27;t touch AI, and instead are processed locally and typically finish in under a second. For example, prompting Atti",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources mention a voice dictation app called Typeless that works across multiple platforms and can be used as an alternative to Claude Code's built-in voice mode, which fails in certain dialogs. They also discuss an AI assistant called Alter for Mac that uses dictation and voice triggers, though it can become confusing with multiple actions. Trustpilot reviews for Claude AI are negative, citing poor customer support and questionable billing practices. There is no mention of a \"Hold-to-talk voice assistant for macOS that runs on Claude -p\" named Atticus in the provided sources.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-13T05:08:11.021347+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50051573,
+      "title": "Type-safe HTML templating in Zig",
+      "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+      "score": 241,
+      "comments": 86,
+      "author": "lukaslalinsky",
+      "time": 1791781354,
+      "hn_url": "https://news.ycombinator.com/item?id=50051573",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A web developer has released zt, a type-safe HTML templating library for the Zig programming language, which is an adaptation of Templ for Go. The library ensures that all dynamic values are HTML-escaped by default, both in text and attributes, and values in URL attributes like href or src are checked for dangerous schemes. To output raw HTML, explicit use of {!value} is required, making it easy to spot. The parser also requires all elements to be properly closed. The author emphasizes that while it does not protect against everything, it removes the most common sources of XSS. The templates are parsed and transpiled to Zig code during `zig build`, allowing them to import app code and ensuring type safety at compile time.",
+      "tags": [
+        "ml"
+      ],
+      "analyzed_at": "2026-10-13T05:08:13.368595+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50060269,
+      "title": "'AI' Is Not a Tool by Rich Hickey",
+      "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
+      "score": 243,
+      "comments": 120,
+      "author": "svieira",
+      "time": 1791828025,
+      "hn_url": "https://news.ycombinator.com/item?id=50060269",
+      "text": "<a href=\"https:&#x2F;&#x2F;gist.github.com&#x2F;svieira&#x2F;619d60dea942a8d4498cba3bb6b11c02\" rel=\"nofollow\">https:&#x2F;&#x2F;gist.github.com&#x2F;svieira&#x2F;619d60dea942a8d4498cba3bb6b1...</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to Rich Hickey, \"AI' is not a tool but rather a form of automation that allows individuals to avoid writing code, which they abdicate writing code to. He argues that tools are implements that require expertise and skill, whereas AI lacks the predictability, reliability, and bounded function of good tools. Hickey emphasizes that AI does not get \"misaligned\" or \"go rogue\" like tools do, and that referring to AI as a tool is a mistake because it ignores the intrinsic differences between automation and tools.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-13T05:08:16.254185+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50040317,
+      "title": "Neuroscience can make decluttering easier",
+      "url": "https://www.nytimes.com/2026/10/11/opinion/clutter-spring-cleaning-psychology.html",
+      "score": 23,
+      "comments": 8,
+      "author": "gumby",
+      "time": 1791700335,
+      "hn_url": "https://news.ycombinator.com/item?id=50040317",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to neuroscience, decluttering can be made easier by understanding how the brain processes decision-making and memory. The New York Times article explains that objects can trigger memories, making it challenging to let go of items that offer a sense of connection. The video by Sidwarrier elaborates that a messy space causes the brain's anterior cingulate cortex to be overactive, increasing stress, but organizing and decluttering can relax this area, reducing stress and promoting calmness. The MINDSHIFT LEADERSHIP article suggests categorizing items to make decluttering more manageable and highlights that clearing spaces can improve mood, productivity, and creativity. These insights provide a framework for making decluttering a more manageable and beneficial process.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-13T05:08:18.731872+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50034001,
+      "title": "No portable way to detect string-to-float conversion errors in standard C",
+      "url": "https://sebsite.pw/w/20261009-strtod.html",
+      "score": 68,
+      "comments": 85,
+      "author": "signa11",
+      "time": 1791646770,
+      "hn_url": "https://news.ycombinator.com/item?id=50034001",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that there is no portable way to detect string-to-float conversion errors in standard C. The C standard library's string-to-float conversion functions, such as strtod and related variants, exhibit inconsistent error-reporting behavior across different implementations like glibc and musl. This inconsistency leaves developers without a single reliable method for error checking, necessitating custom solutions or specific strategies depending on the POSIX system being used.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-13T05:08:20.825596+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50054751,
+      "title": "QGIS enacts moratorium on AI contributions",
+      "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+      "score": 370,
+      "comments": 398,
+      "author": "bwnkl",
+      "time": 1791804144,
+      "hn_url": "https://news.ycombinator.com/item?id=50054751",
+      "text": "<a href=\"https:&#x2F;&#x2F;lists.osgeo.org&#x2F;pipermail&#x2F;qgis-developer&#x2F;2026-September&#x2F;068576.html\" rel=\"nofollow\">https:&#x2F;&#x2F;lists.osgeo.org&#x2F;pipermail&#x2F;qgis-developer&#x2F;2026-Septem...</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "QGIS adopted a strict 'NOT ALLOWED' policy banning AI-assisted contributions, replacing the earlier 'human in the loop' policy that let contributors use AI tools if disclosed. The change followed roughly 50 pull requests tagged 'AI Assisted', about 40 of which were closed without merging, and concerns about harm to the reviewer community. The policy passed its voting stage with unanimous +1 votes from core maintainers, though it is intended as a starting point that may be relaxed later on.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-13T05:08:23.094055+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50059523,
+      "title": "AI coding agents generate more code, but not more software",
+      "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+      "score": 324,
+      "comments": 276,
+      "author": "gumby",
+      "time": 1791825241,
+      "hn_url": "https://news.ycombinator.com/item?id=50059523",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to a study of more than 700 software firms, AI coding agents significantly increase the amount of code developers produce, with a 30 percent increase in total lines of code, a 20 percent rise in the number of total commits, and a 23 percent increase in pull requests on average. However, this extra code does not translate directly into improved software output on the firm level. The resolution rate for Issues and Epics does not improve, and the average \"review process\" time balloons 49 percent on average after AI agents are introduced. The code review process forms a significant \"bottleneck\" for the overall efficiency of AI coding tools, resulting in \"little evidence that firms increase software output or reduce employment\" by using them.",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "analyzed_at": "2026-10-13T05:08:25.749509+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50064318,
+      "title": "I turned my unused Kindle into a photo frame with GPT-6 Astra",
+      "url": "https://nirajrajgor.com/blog/kindle-photo-frame-with-ai",
+      "score": 136,
+      "comments": 91,
+      "author": "nirajrajgor",
+      "time": 1791846445,
+      "hn_url": "https://news.ycombinator.com/item?id=50064318",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "You turned your unused Kindle into a photo frame with GPT-6 Astra. The process involved jailbreaking the Kindle and setting up a feedback loop for debugging. The Kindle now serves as a photo frame on your wooden shelf. The project was initiated out of curiosity about what AI could do with an unused device. The sources also mention that the Kindle still retains access to your Amazon library.",
+      "tags": [
+        "gpt"
+      ],
+      "analyzed_at": "2026-10-13T05:08:28.146112+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50063756,
+      "title": "Patching Zig's Std",
+      "url": "https://marler8997.github.io/blog/zig-patch/",
+      "score": 11,
+      "comments": 1,
+      "author": "ingve",
+      "time": 1791842976,
+      "hn_url": "https://news.ycombinator.com/item?id=50063756",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that Zig's standard library has undergone significant changes, particularly in the 0.15 release. The `std.ArrayList` was replaced with `std.array_list.Managed`, requiring an allocator for every method call. Additionally, the use of `undefined` became more restricted, only permitted in specific contexts. The `std.time` and `std.crypto` modules were also updated, with `std.time.Instant`, `std.time.Timer`, and `std.time.timestamp` being replaced by `std.Io.Timestamp`. The file system APIs were migrated to `Io`, and new APIs like `std.Io.File.hardLink` were introduced. The sources do not provide a definitive answer regarding specific changes in the standard library for the date 2026-10-13.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-13T05:08:30.968170+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50064673,
+      "title": "The Origin Story of Kid Pix",
+      "url": "http://red-green-blue.com/kid-pix-the-early-years",
+      "score": 12,
+      "comments": 1,
+      "author": "MBCook",
+      "time": 1791849149,
+      "hn_url": "https://news.ycombinator.com/item?id=50064673",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Kid Pix is a bitmap drawing program designed for children, originally created by Craig Hickman. Inspired by his son Ben's struggle with MacPaint, Hickman aimed to develop a simple drawing program. He sent a copy of the application to Broderbund Software in the Summer of 1990, and they decided to publish it. The program was first released for the Macintosh in 1989 and officially published in 1991 by Broderbund. Hickman's initial release was a monochrome version, which he later enhanced into Kid Pix Professional, retailing for US$25. Broderbund's release of Kid Pix was demonstrated during the MacWorld keynote in 1991, and the software received very positive feedback.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-13T05:08:33.455051+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50061497,
+      "title": "RimWorld 1.7 moves from Unity to Ludeon's in-house Waylith engine",
+      "url": "https://ludeon.com/blog/2026/10/announcing-the-waylith-engine-and-update-1-7/",
+      "score": 27,
+      "comments": 3,
+      "author": "sha-3",
+      "time": 1791832722,
+      "hn_url": "https://news.ycombinator.com/item?id=50061497",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Update 1.7 for RimWorld moves the game from Unity to Ludeon's in-house Waylith engine, with performance improvements of 2-4x in tests. The game looks and plays the same, and 1.6 savegames will load on 1.7. Most mods work on 1.7 without changes, though some may appear as \"potentially unsupported\" due to version number changes. Older PCs may not run 1.7 if they are more than 10 years old.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-13T05:08:35.420125+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
