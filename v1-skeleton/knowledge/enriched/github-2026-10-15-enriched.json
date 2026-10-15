@@ -1,0 +1,1808 @@
+{
+  "source": "github",
+  "collected_at": "2026-10-15T02:49:58.182777Z",
+  "analyzed_at": "2026-10-15T02:53:05.130121+00:00",
+  "count": 50,
+  "items": [
+    {
+      "id": "wheresryan22/anatomy",
+      "title": "anatomy",
+      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects.",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "stars": 10577,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skill",
+        "open-source",
+        "svg",
+        "vizualization"
+      ],
+      "created_at": "2026-10-08T10:12:49Z",
+      "updated_at": "2026-10-14T22:24:32Z",
+      "forks": 754,
+      "open_issues": 11,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Anatomy is an agent skill that turns technical ideas into detailed, interactive isometric figures of real machines. It generates SVGs with optional WebGL shaders and 3D effects for documentation, articles, and landing pages. The skill is available for installation via a CLI or git, and it requires a recent Node.js version. It is licensed under MIT and supports platforms like Linux, macOS, and Windows. The skill is designed to replace abstract flowcharts with functioning isometric machines that mirror computing concepts.",
+      "tags": [
+        "open-source",
+        "agent-skill",
+        "svg",
+        "vizualization"
+      ],
+      "analyzed_at": "2026-10-15T02:50:11.973907+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "mhtsec/ARTEX",
+      "title": "ARTEX",
+      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目",
+      "url": "https://github.com/mhtsec/ARTEX",
+      "stars": 4111,
+      "language": "Go",
+      "topics": [],
+      "created_at": "2026-10-08T05:33:06Z",
+      "updated_at": "2026-10-10T09:16:20Z",
+      "forks": 6391,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "ARTEX AI 自主渗透测试系统是一个基于人工智能的自主渗透系统，由中国的网络安全工程师设计，在2026年7月首次上线GitHub，并在8月的百度“agent+”攻防挑战赛中夺冠。其设计初衷是帮助公司和机构做网络安全测试与风险排查，但在仅仅一个月后的韩国银行攻击事件中，它被改用于非授权的渗透测试，展现了其“两用性”的风险。开发者在事件后迅速将其闭源并移除了开源资源，以免进一步的滥用。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-15T02:50:14.691984+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "onehumanbeing/esp32-iphone-agent",
+      "title": "esp32-iphone-agent",
+      "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "stars": 2117,
+      "language": "C",
+      "topics": [
+        "ai-agent",
+        "airplay",
+        "automation",
+        "computer-use",
+        "esp32",
+        "esp32-s3",
+        "iphone",
+        "llm",
+        "usb-hid"
+      ],
+      "created_at": "2026-10-11T19:10:25Z",
+      "updated_at": "2026-10-15T02:12:42Z",
+      "forks": 285,
+      "open_issues": 3,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The esp32-iphone-agent project allows an AI model to use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, and any OpenAI-compatible vision model. It does not require a developer account, Xcode, or jailbreak. The agent uses AirPlay mirroring for the iPhone's screen and an ESP32-S3 board as a mouse and keyboard for interaction. It supports any OpenAI-compatible server with a vision model and can be run on a Linux machine without needing a Mac. The project is open source under the MIT license.",
+      "tags": [
+        "esp32-s3",
+        "computer-use",
+        "usb-hid",
+        "agent",
+        "iphone"
+      ],
+      "analyzed_at": "2026-10-15T02:50:18.447683+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "trhhubsd/ARTEXX",
+      "title": "ARTEXX",
+      "description": "AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 Autumn-27/ARTEX",
+      "url": "https://github.com/trhhubsd/ARTEXX",
+      "stars": 1198,
+      "language": "Go",
+      "topics": [],
+      "created_at": "2026-10-08T20:35:22Z",
+      "updated_at": "2026-10-09T12:43:45Z",
+      "forks": 10,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "ARTEX is an open-source autonomous pentest platform built in Go with LLM agents, winner of Baidu's \"agent+\" attack-defense challenge. It is an AI self-penetration testing system that can be self-hosted via Docker or a single binary. The project has been featured on Zendot, with star growth ranging from +124 in four days to +500 in six days. The sources do not provide specific URLs or official websites for the project.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-15T02:50:23.417406+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "rociiu/talorys",
+      "title": "talorys",
+      "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
+      "url": "https://github.com/rociiu/talorys",
+      "stars": 1004,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agent",
+        "cloudflare",
+        "cloudflare-workers",
+        "durable-objects",
+        "personal-assistant",
+        "react",
+        "self-hosted",
+        "typescript",
+        "workers-ai"
+      ],
+      "created_at": "2026-10-10T09:46:56Z",
+      "updated_at": "2026-10-15T00:47:32Z",
+      "forks": 90,
+      "open_issues": 5,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Talorys is a free, open-source personal AI agent that deploys entirely into a user's own Cloudflare account via a single npx command. It offers chat, memory, tasks, notes, projects, and scheduled reminders, running on Cloudflare Pages, Workers, and Durable Objects with Workers AI for inference. The project is designed to fit the Cloudflare free tier with no servers or accounts operated by the developers. It uses a single SQLite Durable Object for storage and runs on the glm-4.7-flash model for chat. The chat feature is subject to daily Neuron allocation limits, becoming unavailable once exhausted until it resets. The project is privacy-forward, with no telemetry, analytics, tracking, or advertising code.",
+      "tags": [
+        "personal-assistant",
+        "typescript",
+        "workers-ai",
+        "durable-objects",
+        "cloudflare"
+      ],
+      "analyzed_at": "2026-10-15T02:50:27.382620+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "zhuyansen/new-term-radar",
+      "title": "new-term-radar",
+      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "url": "https://github.com/zhuyansen/new-term-radar",
+      "stars": 965,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai",
+        "aisa",
+        "claude-code",
+        "claude-skills",
+        "google-trends",
+        "keyword-research",
+        "mcp",
+        "mcp-server",
+        "seo",
+        "trends"
+      ],
+      "created_at": "2026-10-12T07:11:01Z",
+      "updated_at": "2026-10-14T14:31:39Z",
+      "forks": 385,
+      "open_issues": 3,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that Nicheloom's \"new-term-radar\" is a daily tracker for new AI terms, including names of new models, products, and repos, sourced from platforms like X, Hugging Face, GitHub, and sitemaps. It highlights the niche of the day, which on 2026-10-15 is document and PDF processing tools. The radar also lists recent launches and mentions competitors, noting that Nicheloom has an attention rank of #1 of 41. The sources do not provide a definitive answer regarding specific new AI models or products.",
+      "tags": [
+        "google-trends",
+        "agent-skills",
+        "claude-skills",
+        "aisa",
+        "seo"
+      ],
+      "analyzed_at": "2026-10-15T02:50:31.005999+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "marclou/mailcheap",
+      "title": "mailcheap",
+      "description": "The affordable newsletter for the agentic era. Open source: self-host it, or use mailcheap.ai.",
+      "url": "https://github.com/marclou/mailcheap",
+      "stars": 933,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "email",
+        "mcp",
+        "newsletter",
+        "nextjs",
+        "self-hosted"
+      ],
+      "created_at": "2026-10-10T12:55:36Z",
+      "updated_at": "2026-10-14T19:21:49Z",
+      "forks": 233,
+      "open_issues": 8,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Mailcheap is an API-first email hosting service offering dedicated email servers with complete API support for email administration. It provides affordable scalability for small and large businesses, offering unlimited mailboxes without per-user charges. Mailcheap manages everything for you, including the deployment using an automated installer. The service emphasizes professional email addresses and secure, accessible email solutions. The sources do not provide specific pricing or hosting details beyond the general range of $5 to $20 a month for hosting.",
+      "tags": [
+        "newsletter",
+        "ai-agents",
+        "mcp",
+        "ai",
+        "email"
+      ],
+      "analyzed_at": "2026-10-15T02:50:34.546516+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "jwuthri-cloud/Tracely-ai",
+      "title": "Tracely-ai",
+      "description": null,
+      "url": "https://github.com/jwuthri-cloud/Tracely-ai",
+      "stars": 817,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-11T15:38:03Z",
+      "updated_at": "2026-10-12T19:53:54Z",
+      "forks": 107,
+      "open_issues": 19,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Tracely is an open-source platform that turns production failures of AI agents into regression tests by ingesting agent traces over OTLP, grading each run with structural checks and LLM judges, and promoting failing traces into hermetic test cases for CI/CD. It supports auto-instrumentation for various AI frameworks and provides a Python SDK for easy integration. The platform emphasizes \"the recorded run is the test\" approach, eliminating the need for hand-authored eval datasets. It also offers real-time insights into model performance through tracing and monitoring capabilities.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-15T02:50:36.988378+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "ThariqS/ai-newtab",
+      "title": "ai-newtab",
+      "description": "Claude generates a daily new tab page based on your browser history.",
+      "url": "https://github.com/ThariqS/ai-newtab",
+      "stars": 797,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-10-08T17:44:43Z",
+      "updated_at": "2026-10-10T04:20:03Z",
+      "forks": 79,
+      "open_issues": 9,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources mention a new feature called \"Artifacts\" in an AI named Claude, which allows for a more integrated and interactive experience by displaying live outputs, including functional code, interactive web pages, and editable documents, directly in a chat window. However, there is no information about whether this AI generates a daily new tab page based on your browser history. The sources do not provide a definitive answer to this specific question.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-15T02:50:39.818669+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "CoolkHz/gptibo",
+      "title": "gptibo",
+      "description": "Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
+      "url": "https://github.com/CoolkHz/gptibo",
+      "stars": 757,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-10-13T15:57:19Z",
+      "updated_at": "2026-10-14T02:40:46Z",
+      "forks": 454,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The gptibo repository on GitHub is a self-hosted storefront, admin, and Go backend with sanitized MIT source code. It integrates product display, order processing, payment, delivery, after-sales service, and agent store management. The project is licensed under MIT and uses React and TypeScript for the front end, and Go with PostgreSQL and Cloudflare Workers for the back end. The original site has ceased operations, and the source code is available for self-hosting and further development. The repository has 475 stars and 278 forks as of the latest commit on September 12, 2026.",
+      "tags": [
+        "gpt"
+      ],
+      "analyzed_at": "2026-10-15T02:50:43.027515+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "franzenzenhofer/big-arrow-on-the-screen",
+      "title": "big-arrow-on-the-screen",
+      "description": "Let your AI agents paint big arrows, boxes and text on your Mac screen. One CLI, click-through, gone by itself. Skill for Claude Code and Codex. MIT.",
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "stars": 744,
+      "language": "Swift",
+      "topics": [
+        "accessibility",
+        "ai-agents",
+        "claude-code",
+        "cli",
+        "codex",
+        "macos",
+        "swift"
+      ],
+      "created_at": "2026-10-08T08:39:15Z",
+      "updated_at": "2026-10-12T16:38:15Z",
+      "forks": 20,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "big-arrow-on-the-screen is an open-source AI skill for AI coding assistants such as Claude Code and Codex, built by franzenzenhofer. It allows AI agents to paint big arrows, boxes, and text on a Mac screen, with clicks going through and the arrow removing itself. The tool is MIT licensed and has 421 GitHub stars. It is described as a macOS command-line tool that draws an arrow and a sign on top of every window, click-through enabled, and it removes itself after use. The tool is also noted to have appeared on Hacker News and is part of the explainx.ai blog.",
+      "tags": [
+        "codex",
+        "ai-agents",
+        "accessibility",
+        "macos",
+        "claude-code"
+      ],
+      "analyzed_at": "2026-10-15T02:50:47.124718+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "deeplethe/solid-glass",
+      "title": "solid-glass",
+      "description": "A design system for AI applications. Material, physical, tactile, technical.",
+      "url": "https://github.com/deeplethe/solid-glass",
+      "stars": 678,
+      "language": "TypeScript",
+      "topics": [
+        "agent-ui",
+        "ai",
+        "ai-agents",
+        "chat-ui",
+        "design-system",
+        "llm",
+        "react",
+        "shadcn",
+        "shadcn-ui",
+        "tailwindcss",
+        "theme"
+      ],
+      "created_at": "2026-10-12T09:19:02Z",
+      "updated_at": "2026-10-14T14:01:43Z",
+      "forks": 6,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources discuss the concept of Liquid Glass, a design system that emphasizes dynamic materials like translucency, layering, and motion, and its implications for technical architecture and rendering. They highlight the challenges of integrating such a system into existing frameworks and the importance of updating both design thinking and technical setup to handle GPU-heavy rendering. The comparison to Material Design suggests that Liquid Glass aims to redefine interface responsiveness and modern aesthetics, but the sources do not provide a definitive answer on whether it will surpass Material Design or its specific implementation details.",
+      "tags": [
+        "shadcn",
+        "design-system",
+        "ai-agents",
+        "agent-ui",
+        "tailwindcss"
+      ],
+      "analyzed_at": "2026-10-15T02:50:49.721345+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "outcrawlai/scout",
+      "title": "scout",
+      "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "url": "https://github.com/outcrawlai/scout",
+      "stars": 665,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agent",
+        "browser-agent",
+        "browser-automation",
+        "cdp",
+        "llm",
+        "typescript",
+        "web-automation"
+      ],
+      "created_at": "2026-10-13T09:18:55Z",
+      "updated_at": "2026-10-15T00:44:38Z",
+      "forks": 23,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The open-source browser agent \"Scout\" by Outcrawl is mirrored from Outcrawl's own repository. The sources describe it as an LLM-driven browser agent that has become the most-starred AI browser agent on GitHub, with over 78,000 stars. It is designed for content extraction rather than interactive automation, focusing on extracting clean Markdown for RAG pipelines. It is available in three ways: fully hosted cloud, CLI, or as a Python library. The GitHub repository for Browser Use also mentions a $0.02 per browser-hour cloud browser service with stealth, CAPTCHA solving, and residential proxies.",
+      "tags": [
+        "typescript",
+        "web-automation",
+        "cdp",
+        "browser-automation",
+        "llm"
+      ],
+      "analyzed_at": "2026-10-15T02:50:53.369779+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "nateherkai/roast-room",
+      "title": "roast-room",
+      "description": "Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
+      "url": "https://github.com/nateherkai/roast-room",
+      "stars": 540,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-10T20:38:58Z",
+      "updated_at": "2026-10-13T02:59:59Z",
+      "forks": 120,
+      "open_issues": 3,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources describe \"Roast Room\" as a free Claude Code skill that simulates a debate among AI personas modeled on well-known business figures, including Jeff Bezos, Warren Buffett, Paul Graham, Alex Hormozi, Gary Vaynerchuk, Dan Martell, and Gino Wickman. Each persona is a separate sub-agent, and the skill runs a multi-round debate based on public source material to help users make decisions. The skill is free to download, and the visual interface is optional, but users are advised to understand the recommendation before acting on it. The advisors are simulated and do not speak for the actual people.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-15T02:50:57.244503+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "NabilRFG12/Reverse-Engineer-anything",
+      "title": "Reverse-Engineer-anything",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "url": "https://github.com/NabilRFG12/Reverse-Engineer-anything",
+      "stars": 447,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-10-08T22:35:51Z",
+      "updated_at": "2026-10-08T22:33:35Z",
+      "forks": 161,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources describe \"rea\" as an open-source toolkit that allows reverse engineering of any application, from app behavior down to native binaries, through the use of agents and MCP. It includes installation and setup instructions, readiness and troubleshooting guidance, CLI commands, and a tool catalog. The toolkit can decompile apps, trace execution, and recreate features for your own stack. It works with various AI agents and is MIT licensed, running locally without requiring source code. The GitHub repository provides detailed documentation on installation, updates, and usage, including commands for analyzing JavaScript/Electron apps and native binaries.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-15T02:51:00.548866+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "mrsarac/ff-tracking",
+      "title": "ff-tracking",
+      "description": "A virtual camera films an AI agent's screen while a tracker locks onto every glyph. Two fframes passes, one SkSL shader, all sound synthesized.",
+      "url": "https://github.com/mrsarac/ff-tracking",
+      "stars": 403,
+      "language": "Rust",
+      "topics": [
+        "fframes",
+        "generative-video",
+        "hud",
+        "motion-graphics",
+        "rust",
+        "shader",
+        "skia",
+        "sksl"
+      ],
+      "created_at": "2026-10-09T11:12:47Z",
+      "updated_at": "2026-10-14T22:48:00Z",
+      "forks": 25,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources describe ff-tracking as a procedural video generator that films an AI agent's screen using a virtual camera and a tracker that locks onto every glyph. It employs two fframes passes, a SkSL shader, and synthesizes all sound. The visual style is inspired by Michael Nowak, though none of his footage is used. The project is built on fframes by Dmitriy Kovalenko, rendering with Skia, and encoding with FFmpeg. The font used is JetBrains Mono under SIL OFL 1.1. The GitHub repository has seen activity with stars and forks, and it has been mentioned on social media platforms like Instagram and X.",
+      "tags": [
+        "motion-graphics",
+        "shader",
+        "fframes",
+        "hud",
+        "rust"
+      ],
+      "analyzed_at": "2026-10-15T02:51:03.673668+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "LingCore/WinShun",
+      "title": "WinShun",
+      "description": "Win顺：免费开源的 Windows 快速搜索启动器。双击 Ctrl，拼音秒搜文件、全文搜索 Word/Excel/PDF、剪贴板历史（代替 Win+V）、对话框搜索、任务栏搜索、插件、AI 助手 MCP。Free Windows search launcher: pinyin file search, full-text search, clipboard history, MCP server. Everything/Listary alternative.",
+      "url": "https://github.com/LingCore/WinShun",
+      "stars": 351,
+      "language": "C++",
+      "topics": [
+        "chinese",
+        "clipboard-history",
+        "clipboard-manager",
+        "cpp",
+        "everything",
+        "file-search",
+        "full-text-search",
+        "launcher",
+        "listary",
+        "mcp",
+        "mcp-server",
+        "ntfs",
+        "ocr",
+        "pinyin",
+        "productivity",
+        "qt6",
+        "search",
+        "windows"
+      ],
+      "created_at": "2026-10-08T03:18:00Z",
+      "updated_at": "2026-10-14T04:05:21Z",
+      "forks": 25,
+      "open_issues": 7,
+      "relevance_score": 0.8999999999999999,
+      "summary": "WinShun is a free, open-source search launcher for Windows that allows users to quickly search for files and folders by name or pinyin, search the text inside Word, Excel, and PDF files, and access clipboard history, dialog box search, taskbar search, plugins, and an MCP server for AI assistants. It is released under the MIT License and requires Windows 10 or 11, 64-bit. The sources do not provide specific details about the official website or contact information for WinShun.",
+      "tags": [
+        "ntfs",
+        "pinyin",
+        "full-text-search",
+        "qt6",
+        "windows"
+      ],
+      "analyzed_at": "2026-10-15T02:51:07.418497+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "juliobsz/skills",
+      "title": "skills",
+      "description": "An agent skill that builds award-caliber websites from one line",
+      "url": "https://github.com/juliobsz/skills",
+      "stars": 341,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "astro",
+        "awwwards",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "creative-coding",
+        "frontend",
+        "gsap",
+        "nextjs",
+        "web-design",
+        "webgl"
+      ],
+      "created_at": "2026-10-12T00:07:32Z",
+      "updated_at": "2026-10-13T01:05:32Z",
+      "forks": 9,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The GitHub repository at https://github.com/juliobsz/skills describes an agent skill called \"/awwwards\" that builds award-caliber websites from a single line of input. The skill is compatible with Claude Code and other supported agents, and it requires Node 22.20 or later. The skill can be installed with \"npx skills add\" and is licensed under MIT. The skill's functionality is demonstrated by the command \"make me a portfolio, my name is Julio,\" which showcases the agent's role as creative director, designer, and developer. The skill includes components like \"photos.mjs\" and \"serve.mjs\" for handling photo contact sheets and serving static build output, respectively.",
+      "tags": [
+        "agent-skills",
+        "claude-skills",
+        "codex",
+        "webgl",
+        "creative-coding"
+      ],
+      "analyzed_at": "2026-10-15T02:51:10.260919+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "zhouwei713/luobo-ppt",
+      "title": "luobo-ppt",
+      "description": "生成和美化可编辑原生 PPT 的 Agent Skill",
+      "url": "https://github.com/zhouwei713/luobo-ppt",
+      "stars": 340,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "codex-skill",
+        "powerpoint",
+        "pptx",
+        "presentation"
+      ],
+      "created_at": "2026-10-08T11:50:44Z",
+      "updated_at": "2026-10-08T11:51:27Z",
+      "forks": 66,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that the \"luobo-ppt\" Agent Skill is designed to generate and beautify editable native PPT files. It supports the export of PPTX files where the text remains editable, allowing for further modifications in PowerPoint without returning to the AI tool. The skill offers a wide range of styles and templates, ensuring it covers various professional scenarios. It emphasizes content security, ensuring that business documents and sensitive information do not leave the user's device during the generation, editing, and export process. The skill can be installed via a command and provides a web-based editor for further refinements.",
+      "tags": [
+        "codex-skill",
+        "agent-skills",
+        "powerpoint",
+        "pptx",
+        "presentation"
+      ],
+      "analyzed_at": "2026-10-15T02:51:12.756750+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "fayazara/robot-heads",
+      "title": "robot-heads",
+      "description": "Animated 3D robot heads for React: TV-headed bots with LED faces that show what your agent is doing.",
+      "url": "https://github.com/fayazara/robot-heads",
+      "stars": 329,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "animation",
+        "avatar",
+        "canvas",
+        "react",
+        "robot"
+      ],
+      "created_at": "2026-10-09T16:28:47Z",
+      "updated_at": "2026-10-10T05:18:23Z",
+      "forks": 52,
+      "open_issues": 3,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources describe \"robot-heads\" as animated 3D robot heads for React, featuring TV-headed bots with LED faces that visually represent the actions of an agent, such as thinking, searching, listening, and speaking. These robot heads are drawn on a 2D canvas without WebGL or runtime dependencies and are available for installation via npm. The GitHub repository for \"robot-heads\" provides details on installation and showcases various shapes and features of the animated robot heads. Other sources include various 3D robot head images and designs available for inspiration and use in different projects, ranging from metallic and cartoon styles to more abstract and futuristic designs.",
+      "tags": [
+        "ai-agents",
+        "avatar",
+        "robot",
+        "animation",
+        "canvas"
+      ],
+      "analyzed_at": "2026-10-15T02:51:16.486294+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Ayzzz123/mcd-coupon-strategist",
+      "title": "mcd-coupon-strategist",
+      "description": "麦麦省钱助手 —— 基于麦当劳 MCP 的点餐成本优化 Skill。算出当前门店最省钱的点餐方案，并主动提示凑单陷阱。",
+      "url": "https://github.com/Ayzzz123/mcd-coupon-strategist",
+      "stars": 304,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "cost-optimization",
+        "coupon",
+        "llm",
+        "mcd-mcp",
+        "mcdonalds",
+        "mcp",
+        "python",
+        "skill",
+        "workbuddy"
+      ],
+      "created_at": "2026-10-10T12:59:19Z",
+      "updated_at": "2026-10-14T12:19:04Z",
+      "forks": 19,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that the mcd-saver-strategist skill is an open-source AI tool designed to optimize McDonald's menu purchases by combining menu items, coupons, and stacking rules to find the most cost-effective order. It is developed by hujjun and has 161 GitHub stars. The tool requires users to register on the McDonald's official website to obtain an API token and set up environment variables for proper functioning. It also highlights the importance of securing the MCD_TOKEN and adhering to frequency limits to avoid service disruptions. The sources do not provide a definitive answer regarding the specific cost-saving strategies for different ordering scenarios beyond general guidance on using the tool effectively.",
+      "tags": [
+        "mcdonalds",
+        "mcd-mcp",
+        "agent",
+        "skill",
+        "python"
+      ],
+      "analyzed_at": "2026-10-15T02:51:19.456429+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "egotoadcitadel/palette-from-image-ai",
+      "title": "palette-from-image-ai",
+      "description": "AI coloring palette-from-image generator for designers and pixel artists — pull a clean named palette straight from any image, no subscription or cloud upload.",
+      "url": "https://github.com/egotoadcitadel/palette-from-image-ai",
+      "stars": 303,
+      "language": "Python",
+      "topics": [
+        "ai-color-extraction",
+        "ai-color-palette",
+        "color-extraction",
+        "color-palette-generator",
+        "color-picker",
+        "color-quantization",
+        "color-scheme-extractor",
+        "desktop-app",
+        "dominant-color-finder",
+        "dominant-colors",
+        "gui",
+        "image-color-extraction",
+        "image-to-palette",
+        "kmeans-clustering",
+        "kmeans-color-clustering",
+        "palette-from-image",
+        "python",
+        "python-gui",
+        "windows"
+      ],
+      "created_at": "2026-10-13T17:08:53Z",
+      "updated_at": "2026-10-13T17:10:50Z",
+      "forks": 78,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that there are several AI-based color palette generators available for designers and artists. Toolsvy's Color Palette Generator uses K-Means clustering to extract dominant colors from images entirely within the browser, ensuring privacy as no uploads or cloud processing occurs. Color Study offers a free service to extract color palettes from images, providing hex codes, RGB values, and color relationships without requiring an account. These tools allow users to generate palettes from various types of images, including photographs, screenshots, and artwork, and offer features like exporting to design tools. However, specific details about a \"palette-from-image-ai AI coloring palette-from-image generator for designers and pixel artists\" are not given in the sources.",
+      "tags": [
+        "python-gui",
+        "color-picker",
+        "windows",
+        "gui",
+        "kmeans-clustering"
+      ],
+      "analyzed_at": "2026-10-15T02:51:25.696233+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "spideymooon/McOracle",
+      "title": "McOracle",
+      "description": "不要问 AI，问薯条。一个结合麦当劳 MCP 与 AI 答案之书的 Skill。",
+      "url": "https://github.com/spideymooon/McOracle",
+      "stars": 287,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-12T15:44:21Z",
+      "updated_at": "2026-10-12T16:00:28Z",
+      "forks": 8,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "McOracle is a Skill that combines McDonald's MCP with AI to provide random, original divine answers from a library of 104 oracles. It uses the real-time data from McDonald's China's official MCP to recommend items and prices, ensuring the information is accurate and not fabricated. The oracle answers are randomly selected and packaged into a \"McDonald's prophecy,\" which includes a recommendation for \"today's must-order\" item and a price verified by MCP. The oracle answers are original and not generated by the model, and the tool ensures no orders are created without explicit user confirmation. The sources also mention that McDonald's has embraced AI technology through its MCP platform, aiming to integrate AI capabilities into its services.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-15T02:51:28.901630+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "aindeev/agent-chrome-relay",
+      "title": "agent-chrome-relay",
+      "description": "Let your AI agents use your Chrome, signed in as you, in background tabs. By Alexey Indeev · blog: read.aindeev.com · X: @AlexeyIndeev",
+      "url": "https://github.com/aindeev/agent-chrome-relay",
+      "stars": 283,
+      "language": "Go",
+      "topics": [
+        "agent-browser",
+        "ai-agents",
+        "browser-automation",
+        "cdp",
+        "chrome-extension",
+        "claude",
+        "claude-code",
+        "codex",
+        "cursor",
+        "macos",
+        "paseo"
+      ],
+      "created_at": "2026-10-10T07:38:27Z",
+      "updated_at": "2026-10-14T20:28:20Z",
+      "forks": 8,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources describe different AI agent browser relay systems that allow AI agents to control a user's Chrome browser. Cursor’s Chrome Relay enables the agent to use the user's signed-in Chrome in background tabs, requiring setup through Chrome extensions and terminal commands. OpenClaw Browser Relay creates a bridge between the user's AI agent and Chrome browser, allowing the agent to interact with the browser through natural language commands. SkillsLLM's browser-relay allows AI agents to join the user's Chrome browser through a Skill + CLI, working in the same everyday browser without launching a separate automation profile. The sources do not provide a definitive answer on agent-chrome-relay specifically.",
+      "tags": [
+        "agent",
+        "codex",
+        "ai-agents",
+        "chrome-extension",
+        "agent-browser"
+      ],
+      "analyzed_at": "2026-10-15T02:51:32.335366+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "NousResearch/hermes-official-plugins",
+      "title": "hermes-official-plugins",
+      "description": "☤ The official plugins for Hermes Agent, built and maintained by Nous Research: Home Assistant, Spotify, Claude Subscription DirectSDK and more, one install away from the Hermes plugin catalog.",
+      "url": "https://github.com/NousResearch/hermes-official-plugins",
+      "stars": 278,
+      "language": "Python",
+      "topics": [
+        "agent-plugins",
+        "ai-agents",
+        "claude",
+        "hermes",
+        "hermes-agent",
+        "home-assistant",
+        "llm",
+        "model-provider",
+        "nous-research",
+        "plugins",
+        "spotify"
+      ],
+      "created_at": "2026-10-10T20:51:25Z",
+      "updated_at": "2026-10-15T02:32:34Z",
+      "forks": 28,
+      "open_issues": 59,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The official plugins for Hermes Agent, built and maintained by Nous Research, include Home Assistant, Spotify, and the Claude Subscription DirectSDK, among others, available for installation from the Hermes plugin catalog. The catalog lists nine official plugins by NousResearch, including the Home Assistant gateway platform and the experimental model provider for the Claude Subscription DirectSDK. The sources do not provide specific details about the date of the catalog's first listing or the exact number of plugins beyond the nine listed.",
+      "tags": [
+        "home-assistant",
+        "model-provider",
+        "ai-agents",
+        "spotify",
+        "hermes"
+      ],
+      "analyzed_at": "2026-10-15T02:51:36.713929+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "liyupi/ai-promo-video-maker",
+      "title": "ai-promo-video-maker",
+      "description": "一句话让 AI 帮你做产品宣传片！把产品名或网址告诉 Cursor、Claude Code、Codex 等 AI 编程工具，它会自己调研产品、画出多种风格样图让你挑选、截取 4K 真实页面、按音乐节拍卡点剪辑、生成 AI 旁白并逐句转写校验、自动审图，最后交付一支 4K 商业宣传视频和可在线播放的网页版。App、网站、SaaS、开源项目、课程、AI 模型都能做，你只需确认需求、试听配乐。不用学剪辑软件，也不用花钱找外包。基于 Remotion + ElevenLabs，可直接克隆使用，也能一键安装为 Agent Skill。",
+      "url": "https://github.com/liyupi/ai-promo-video-maker",
+      "stars": 269,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-agent",
+        "ai-video",
+        "ai-video-generator",
+        "aigc",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "cursor",
+        "elevenlabs",
+        "ffmpeg",
+        "marketing",
+        "motion-graphics",
+        "playwright",
+        "product-video",
+        "promo-video",
+        "react",
+        "remotion",
+        "text-to-speech",
+        "video-generation"
+      ],
+      "created_at": "2026-10-09T08:44:30Z",
+      "updated_at": "2026-10-09T08:44:49Z",
+      "forks": 44,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The AI-Promo-Video-Maker project on GitHub allows users to create product promotional videos with minimal effort. By providing the product name or URL to AI programming tools like Cursor, Claude Code, or Codex, the tool conducts research, generates style images for selection, captures 4K real pages, edits with music, generates AI narration and transcription, and delivers a 4K commercial video and an online web version. The project is free to use, with optional subscription fees for AI tools like ElevenLabs for advanced features. It supports Windows and Linux, and can produce vertical videos. The project is based on Remotion and ElevenLabs and can be cloned or installed as an Agent Skill.",
+      "tags": [
+        "motion-graphics",
+        "codex",
+        "ai-video-generator",
+        "video-generation",
+        "ai-agent"
+      ],
+      "analyzed_at": "2026-10-15T02:51:41.512627+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "yeyuxin777/baoyan-agent-benchmark",
+      "title": "baoyan-agent-benchmark",
+      "description": "Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning.",
+      "url": "https://github.com/yeyuxin777/baoyan-agent-benchmark",
+      "stars": 261,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-12T09:15:11Z",
+      "updated_at": "2026-10-14T12:09:54Z",
+      "forks": 0,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources mention several benchmarks for AI agents, including the Agent Effectiveness Index (AEI) by Brackett, which measures AI agents' ability to understand complex processes and take proactive actions. Another benchmark, Argo-Bench by TextQL Labs, tests AI agents in a simulated food-delivery company environment. Evidently's open-source library, Evidently, also provides benchmarks for evaluating AI agents, incorporating large datasets for API interaction. However, the specific benchmark named \"baoyan-agent-benchmark Sprix AI at 屿智同行 × 保研岛\" is not mentioned in the provided sources.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-10-15T02:51:45.381002+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "finnvoor/PiDurableKit",
+      "title": "PiDurableKit",
+      "description": "Durable AI agents for Apple platforms: pi-durable on JavaScriptCore with a Swift API",
+      "url": "https://github.com/finnvoor/PiDurableKit",
+      "stars": 250,
+      "language": "Swift",
+      "topics": [],
+      "created_at": "2026-10-08T10:02:27Z",
+      "updated_at": "2026-10-14T17:04:00Z",
+      "forks": 22,
+      "open_issues": 4,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Pi Durable is a framework for durable AI agents on Apple platforms, built on JavaScriptCore with a Swift API. It allows multiple concurrent conversations, each with its own model, tools, instructions, and working directory, and can checkpoint conversations to survive restarts. Pi Durable is an experimental framework from Arendelle, released alongside Pi 1.0, meant for applications needing persistent agent conversations across process restarts. The sources don't provide a definitive answer to specific details like official websites or pricing.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-15T02:51:48.200451+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "datalab-to/indra",
+      "title": "indra",
+      "description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
+      "url": "https://github.com/datalab-to/indra",
+      "stars": 240,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "cpu",
+        "document-parsing",
+        "ocr",
+        "onnx",
+        "pdf"
+      ],
+      "created_at": "2026-10-13T11:07:11Z",
+      "updated_at": "2026-10-13T15:52:14Z",
+      "forks": 22,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Indra OCR is a 1M-parameter OCR model that reads up to 49 pages per second on CPU. It turns PDFs and images into markdown, plain text, or JSON with boxes, and it has features like a local web viewer that shows lines, layout blocks, and reading order over each page. It outputs `markdown` with headings, paragraphs, lists, and tables as HTML, and `text` with one line per detected line in reading order. The pipeline options are set in the page, and lines, blocks, block labels, and reading order can each be shown or hidden. Files stay on your local device.",
+      "tags": [
+        "cpu",
+        "ocr",
+        "document-parsing",
+        "ai",
+        "onnx"
+      ],
+      "analyzed_at": "2026-10-15T02:51:50.467266+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "mrzh7/scam-with-your-friends-web",
+      "title": "scam-with-your-friends-web",
+      "description": "Scam With Your Friends Web: unofficial open-source browser remake. Co-op AI call center game with a 3D office, voice chat and daily quotas. React + Three.js; self-host on Cloudflare.",
+      "url": "https://github.com/mrzh7/scam-with-your-friends-web",
+      "stars": 230,
+      "language": "TypeScript",
+      "topics": [
+        "ai-game",
+        "browser-game",
+        "call-center",
+        "cloudflare-workers",
+        "coop-game",
+        "dark-comedy",
+        "fan-game",
+        "game-remake",
+        "multiplayer",
+        "open-source",
+        "party-game",
+        "react",
+        "scam-with-your-friends",
+        "scam-with-your-friends-web",
+        "steam",
+        "threejs",
+        "typescript",
+        "unofficial",
+        "voice-chat",
+        "webrtc"
+      ],
+      "created_at": "2026-10-09T05:27:48Z",
+      "updated_at": "2026-10-12T22:04:00Z",
+      "forks": 19,
+      "open_issues": 7,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Scam With Your Friends is a simulation game developed by JakeHub and Metater, published by Jatater Worldwide, and released on Steam on October 15, 2026. The game allows players to run a scam call center with friends, using increasingly ridiculous schemes to trick AI callers out of their life savings. It features in-game chat, online interactivity, and supports 23 languages. The game is still in development, so players should expect bugs and changes to balance and content. The game supports single-player and online co-op, and requires a broadband internet connection.",
+      "tags": [
+        "coop-game",
+        "game-remake",
+        "unofficial",
+        "multiplayer",
+        "scam-with-your-friends"
+      ],
+      "analyzed_at": "2026-10-15T02:51:56.508109+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "i12bp8/decomp.wtf",
+      "title": "decomp.wtf",
+      "description": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
+      "url": "https://github.com/i12bp8/decomp.wtf",
+      "stars": 228,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "decomp",
+        "decompilation",
+        "decompiler",
+        "matching-decompilation",
+        "mcp",
+        "n64",
+        "recomp",
+        "recompilation",
+        "recompiler",
+        "retro-gaming",
+        "reverse-engineering"
+      ],
+      "created_at": "2026-10-13T08:19:01Z",
+      "updated_at": "2026-10-14T20:52:05Z",
+      "forks": 14,
+      "open_issues": 8,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that AI agents have been decompiling a first-person shooter game, achieving 99% of functions present and 83% byte-exact after five months and 600 to 700 billion tokens. The decompilation process involves reconstructing the game's functions and comparing the bytes to ensure they match the original compiled output. The agents use separate branches and submit changes through pull requests, and they exclude relocation bytes from direct comparison to verify symbol references. Despite the progress, the initial 80% reconstruction was discarded due to cost considerations. The ultimate goal is to produce a provably faithful, clean-room reimplementation that matches the original game byte-for-byte.",
+      "tags": [
+        "decomp",
+        "decompiler",
+        "recomp",
+        "ai-agents",
+        "retro-gaming"
+      ],
+      "analyzed_at": "2026-10-15T02:52:00.333042+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "chekusu/yobiru",
+      "title": "yobiru",
+      "description": "Let your agents talk: messages, data, files and wake-ups over Tailscale.",
+      "url": "https://github.com/chekusu/yobiru",
+      "stars": 226,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-10T10:30:00Z",
+      "updated_at": "2026-10-15T00:04:45Z",
+      "forks": 30,
+      "open_issues": 3,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Yobiru allows personal agents to communicate across computers and cloud workspaces using Tailscale, enabling them to send messages, exchange data and files, reply with results, and request wake-ups. It operates on your own Tailscale network without a central message or file storage, and each computer decides for itself what may wake its agents. Yobiru is open source and runs on your Tailscale network, facilitating secure communication between any devices and nodes within your tailnet.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-15T02:52:02.622191+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "BlenderGPT3D/blender-ai-addon",
+      "title": "blender-ai-addon",
+      "description": "Blender add-on: create and edit 3D models by chatting with AI - send text or an image, get working bpy code",
+      "url": "https://github.com/BlenderGPT3D/blender-ai-addon",
+      "stars": 213,
+      "language": "Python",
+      "topics": [
+        "3d-graphics",
+        "ai",
+        "blender",
+        "blender-addon",
+        "blender-plugin",
+        "chatgpt",
+        "generative-ai",
+        "gpt",
+        "llm",
+        "python"
+      ],
+      "created_at": "2026-10-09T08:34:03Z",
+      "updated_at": "2026-10-09T09:11:13Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that there is a Blender add-on called 3D-Agent that allows users to create and edit 3D models by chatting with AI. It works within Blender 4.2 or later and generates 3D models directly in the Blender scene based on natural language instructions. It is a paid service with pricing tiers: Basic for $19/month (100 prompts), Pro for $29/month (200 prompts), and Ultra for $89/month (800 prompts). The sources do not provide information on whether it can be used for animating scenes.",
+      "tags": [
+        "gpt",
+        "generative-ai",
+        "python",
+        "blender-plugin",
+        "ai"
+      ],
+      "analyzed_at": "2026-10-15T02:52:06.201113+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "hujjun/mcd-saver-strategist",
+      "title": "mcd-saver-strategist",
+      "description": "麦当劳省钱点餐助手（麦门精算师）｜麦当劳优惠券组合优化 Skill：拉取麦当劳菜单与全部可用优惠券，算出最省的点餐组合，巨无霸套餐 ¥47 → ¥21.9（省 53%）。McDonalds MCP（麦当劳 MCP）coupon optimizer · McDonalds China MCP Server · Agent Skill for WorkBuddy · 麦当劳程序员创意开发大赛参赛作品",
+      "url": "https://github.com/hujjun/mcd-saver-strategist",
+      "stars": 213,
+      "language": "Python",
+      "topics": [
+        "agent-skill",
+        "ai-agent",
+        "coupon-optimizer",
+        "coupons",
+        "deterministic-optimization",
+        "fast-food",
+        "mcd",
+        "mcdonalds",
+        "mcdonalds-mcp",
+        "mcp",
+        "mcp-server",
+        "money-saving",
+        "python",
+        "workbuddy",
+        "workbuddy-skill"
+      ],
+      "created_at": "2026-10-09T03:21:52Z",
+      "updated_at": "2026-10-10T07:23:13Z",
+      "forks": 1,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources do not provide specific information about the \"mcd-saver-strategist 麦当劳省钱点餐助手（麦门精算师）\" or its functionality. The Homeland Security SAVER document focuses on procurement decisions and real-time information transmission for emergency teams. The Android Developers' Saver API reference describes how it saves and restores `TextFieldState`. The Alaska Airlines page discusses saver fares and pre-order food options but does not mention the McDonald's coupon optimizer. The premise of the McDonald's coupon optimizer is not supported by the provided sources.",
+      "tags": [
+        "coupon-optimizer",
+        "agent-skill",
+        "deterministic-optimization",
+        "python",
+        "coupons"
+      ],
+      "analyzed_at": "2026-10-15T02:52:11.685147+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "cxm947/FakeLiang",
+      "title": "FakeLiang",
+      "description": "基于攻击图的靶场自动验证，多agent框架，kali MCP，自动化编排，POC生成。",
+      "url": "https://github.com/cxm947/FakeLiang",
+      "stars": 212,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-12T02:01:07Z",
+      "updated_at": "2026-10-13T09:05:03Z",
+      "forks": 15,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources mention a multi-agent framework for automated penetration testing based on attack graphs, using LLM and MCP, and highlight the importance of orchestration and tool integration within Kali MCP. They also emphasize that these tools provide methodology and orchestration rather than embedded exploit code, and execution relies on separately installed security tools within authorized testing scope. The sources also provide guidance on the security and deployment of AI agents, including best practices for server configuration, tool selection, and runtime controls.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-15T02:52:14.731658+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Atoll92/agent-standup",
+      "title": "agent-standup",
+      "description": "Your Claude Code, Codex and Mistral Vibe sessions as a live, animated team call: who is working, who waits on whom, who needs you. VS Code extension, terminal command, desktop app. Runs locally, zero tokens.",
+      "url": "https://github.com/Atoll92/agent-standup",
+      "stars": 209,
+      "language": "HTML",
+      "topics": [
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "codex",
+        "developer-tools",
+        "mistral",
+        "mistral-vibe",
+        "monitoring",
+        "subagents",
+        "visualization",
+        "vscode-extension"
+      ],
+      "created_at": "2026-10-10T07:48:17Z",
+      "updated_at": "2026-10-15T00:31:59Z",
+      "forks": 29,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Agent Standup is an open source tool that turns your Claude Code, Codex, and Mistral Vibe sessions into an animated team meeting, displaying a status for each agent: working, waiting for another agent, needs you, or done. It runs locally and consumes no tokens, listening only on 127.0.0.1 and rejecting external requests. The tool also shows screen sharing when an agent runs a command or edits a file, flagging failed commands. The GitHub project for Visual Studio 2026 vide-coding extension, vs-agentic, works with Claude and supports auto mode, bash/grep/glob, smart read/write/edit tools, sub agents, theming, and more. It stores session history locally and never leaves your machine. The Claude Agent Manager extension on Visual Studio Marketplace provides a live dashboard of what your Claude Code agents are doing, displaying a live agent and subagent tree, token counts, and progress.",
+      "tags": [
+        "subagents",
+        "agent",
+        "codex",
+        "mistral",
+        "mistral-vibe"
+      ],
+      "analyzed_at": "2026-10-15T02:52:18.836404+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "backtrue/thinkwithblack-skill",
+      "title": "thinkwithblack-skill",
+      "description": "365 個免費 AI 行銷 Skills：先上傳索引，再依問題上傳方法包",
+      "url": "https://github.com/backtrue/thinkwithblack-skill",
+      "stars": 194,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-09T15:05:31Z",
+      "updated_at": "2026-10-14T08:37:48Z",
+      "forks": 21,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that ThinkWithBlack offers a comprehensive AI marketing ecosystem called \"報數據 X FABE\" that includes modules for audience insight, persuasive narrative construction, proposal generation, and e-commerce data tracking. The platform provides tools for transforming insights into compelling narratives, generating quotes and contracts, and tracking e-commerce results. Additionally, the sources mention that there are 7 free AI Skills available to help with tasks like script outline refinement, subtitle bug fixing, video B-roll animation, cover design, content distribution, and podcast shownotes creation, which are useful for self-media professionals. However, specific details like official websites or phone numbers are not provided in the sources.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-15T02:52:21.375970+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "iamumeransari/claude-show-your-work",
+      "title": "claude-show-your-work",
+      "description": "Claude Code plugin to see, review and iterate on your agent's work without leaving the terminal: show images, play videos, and run visual QA with Playwright recordings and before/after comparisons inside the Claude Code terminal. Works in any terminal that supports the kitty graphics protocol, fully cross-platform on macOS, Linux and Windows.",
+      "url": "https://github.com/iamumeransari/claude-show-your-work",
+      "stars": 193,
+      "language": "TypeScript",
+      "topics": [
+        "agentic-coding",
+        "ai-agents",
+        "ai-tools",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "claude-code-mod",
+        "claude-code-mods",
+        "claude-code-plugin",
+        "developer-tools",
+        "ghostty",
+        "image-viewer",
+        "kitty",
+        "kitty-graphics-protocol",
+        "playwright",
+        "qa-automation",
+        "screenshots",
+        "terminal",
+        "video-player",
+        "visual-qa"
+      ],
+      "created_at": "2026-10-08T11:57:55Z",
+      "updated_at": "2026-10-14T21:19:52Z",
+      "forks": 16,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that the Claude Code plugin can be installed natively on Windows through PowerShell or CMD without requiring a Linux environment or WSL. It is also available for macOS and Linux via npm install, with Node.js 18 or newer recommended. The plugin offers functionalities such as reading codebases, editing files, executing shell commands, and handling git workflows through natural-language instructions. It also includes a visual QA feature that can run visual QA with Playwright recordings and before/after comparisons inside the terminal. The sources do not provide a definitive answer on specific details like exact installation steps for all platforms beyond what is mentioned.",
+      "tags": [
+        "agentic-coding",
+        "video-player",
+        "kitty",
+        "qa-automation",
+        "claude"
+      ],
+      "analyzed_at": "2026-10-15T02:52:25.512993+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "MirroS-Lab/AgentGarten",
+      "title": "AgentGarten",
+      "description": "AgentGarten: Code Worlds for Evolving Agents",
+      "url": "https://github.com/MirroS-Lab/AgentGarten",
+      "stars": 184,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "diffusion",
+        "multimodal",
+        "self-evolving"
+      ],
+      "created_at": "2026-10-08T03:53:57Z",
+      "updated_at": "2026-10-09T06:40:05Z",
+      "forks": 3,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "AgentGarten builds real-time interactive environments that are both simulators and game engines, maintaining persistent state and executing program-defined rules. A shared neural renderer generates the agent's observations from the depth and surface normals each world exports. Agents improve from their own experience by distilling what happened into playbooks that later agents inherit and build upon. The neural renderer adapts Cosmos3-Nano to geometry conditions in three stages. The environment must be faithful, with consistent state, rules, and dynamics, and realistic, with observations that follow the real-world visual distributions.",
+      "tags": [
+        "agent",
+        "self-evolving",
+        "diffusion",
+        "multimodal"
+      ],
+      "analyzed_at": "2026-10-15T02:52:28.125542+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "bdg9412/artex-ko-plus",
+      "title": "artex-ko-plus",
+      "description": "ARTEX 한국어판 ·AI 기반 침해사고 대응 기능 추가 (upstream: Autumn-27/ARTEX, AGPL-3.0)",
+      "url": "https://github.com/bdg9412/artex-ko-plus",
+      "stars": 184,
+      "language": "Go",
+      "topics": [
+        "ai-agent",
+        "autonomous-agents",
+        "blue-team",
+        "cert",
+        "cybersecurity",
+        "detection-engineering",
+        "investigation-tools",
+        "security",
+        "security-automation",
+        "siem",
+        "splunk",
+        "threat-detection"
+      ],
+      "created_at": "2026-10-09T11:36:03Z",
+      "updated_at": "2026-10-11T13:56:24Z",
+      "forks": 160,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that artex-ko-plus is a Korean localization of ARTEX, an Automated Red Teaming/incident response platform, with added AI-based incident response functionality. The project is based on the upstream Autumn-27/ARTEX and is licensed under AGPL-3.0. The Korean version includes additional Sigma rules for identifying ARTEX activity traces and Suricata rules for network intrusion detection, which were not present in the original version. The project was released to provide a Korean interface and documentation for the platform, aiming to enhance cybersecurity defense mechanisms.",
+      "tags": [
+        "cert",
+        "blue-team",
+        "autonomous-agents",
+        "threat-detection",
+        "security-automation"
+      ],
+      "analyzed_at": "2026-10-15T02:52:30.881013+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "LYiHub/pub-street-fighter-ai",
+      "title": "pub-street-fighter-ai",
+      "description": "Ultimate SFighterAI",
+      "url": "https://github.com/LYiHub/pub-street-fighter-ai",
+      "stars": 182,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-10T11:15:59Z",
+      "updated_at": "2026-10-10T11:16:23Z",
+      "forks": 38,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources provide details on the AI code for Street Fighter II and a project focused on Street Fighter 6, but they do not mention anything specific about \"pub-street-fighter-ai Ultimate SFighterAI.\" The first source discusses the AI code for Street Fighter 6, detailing various player and action parameters. The second source offers insights into the AI code of Street Fighter II, focusing on how opponents tick. The third source describes a project where an entire Street Fighter game is coded with AI, including hit detection, round timers, and special moves. None of these sources mention \"pub-street-fighter-ai Ultimate SFighterAI.\"",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-15T02:52:33.273670+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "SouravBeraAkaSpeed/xiryn",
+      "title": "xiryn",
+      "description": "Xiryn — the open-source personal agent. Does everything Muse, Grok Bot and Dots do, on your own computer: each agent gets its own Linux desktop in Docker, any model with your keys, an encrypted vault, and control from Telegram.",
+      "url": "https://github.com/SouravBeraAkaSpeed/xiryn",
+      "stars": 176,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "ai-sdk",
+        "anthropic",
+        "byok",
+        "computer-use",
+        "docker",
+        "firecrawl",
+        "llm",
+        "local-first",
+        "multi-agent",
+        "nextjs",
+        "ollama",
+        "open-source",
+        "openai",
+        "personal-agent",
+        "privacy",
+        "self-hosted",
+        "sqlite",
+        "telegram-bot",
+        "typescript"
+      ],
+      "created_at": "2026-10-11T13:12:31Z",
+      "updated_at": "2026-10-13T16:20:19Z",
+      "forks": 26,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Xiryn is an open-source personal agent that operates on your own computer, emulating the functionalities of Muse, Grok Bot, and Dots. Each agent runs in its own Linux desktop environment within Docker, allowing it to browse, research, code, and fill forms without interfering with your work. It emphasizes privacy with no account or telemetry, storing chats, memory, and keys locally on your disk. It features an encrypted vault for cards and logins, requiring your approval for any payment. Xiryn supports any model, including local ones, and can be controlled remotely via Telegram, enabling you to approve payments with a tap or take control of its screen from your phone. The sources do not provide specific details about official websites or phone numbers.",
+      "tags": [
+        "computer-use",
+        "firecrawl",
+        "ai-sdk",
+        "sqlite",
+        "telegram-bot"
+      ],
+      "analyzed_at": "2026-10-15T02:52:37.217601+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "BaruqueRodrigues/llm-legislativo",
+      "title": "llm-legislativo",
+      "description": "Corpus legislativo brasileiro em larga escala e modelo Transformer causal treinado do zero em PyTorch puro.",
+      "url": "https://github.com/BaruqueRodrigues/llm-legislativo",
+      "stars": 168,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-13T23:46:21Z",
+      "updated_at": "2026-10-13T23:46:27Z",
+      "forks": 19,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that large language models (LLMs) are complex and require significant resources to train, with the Transformer architecture being the most successful for creating LLMs. In the legal domain, transformer-based models have been used to summarize legal texts, showing potential for few-shot and zero-shot adaptations to reduce reliance on large datasets in low-resource settings. In the context of Brazilian legal texts, several large-scale language models have been evaluated, including LLaMA 3, Gemma, Mistral, and Phi-3, using few-shot learning techniques to generate JSON responses with extracted text and entity labels. The sources do not provide a definitive answer regarding the specific corpus \"Corpus legislativo brasileiro em larga escala e modelo Transformer causal treinado do zero em PyTorch puro.\"",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-10-15T02:52:41.065618+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "zju3dv/SuperNav",
+      "title": "SuperNav",
+      "description": "An Agentic Navigation System for Any Task in Any Scene",
+      "url": "https://github.com/zju3dv/SuperNav",
+      "stars": 168,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-08T07:05:40Z",
+      "updated_at": "2026-10-14T00:20:13Z",
+      "forks": 5,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "SuperNav is an agentic navigation system that uses a pretrained multimodal model to solve diverse navigation tasks through tool use, task-progress tracking, and context management, without navigation-specific fine-tuning of the model. It provides the agent runtime, navigation tools and Skills, experiment recipes, and evaluation utilities for Habitat-GS and AI2-THOR. SuperNav enables a pretrained Multimodal Large Language Model (MLLM) to interpret requests, understand scenes, and make navigation decisions without navigation-specific fine-tuning, while delegating motion execution to external tools. It outperforms four evaluated baselines on instance-level, multi-object, and demand-driven tasks and demonstrates applicability through category-level HM3D evaluation and real deployment on a quadruped robot.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-15T02:52:43.885769+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "HRuiCcc/RuiC-oc-ferry",
+      "title": "RuiC-oc-ferry",
+      "description": "把 OpenCode 的免费模型摆渡给 WorkBuddy —— 隔离运行时、并发检测、判定缓存、一键导入、本机 OpenAI 兼容转发口",
+      "url": "https://github.com/HRuiCcc/RuiC-oc-ferry",
+      "stars": 157,
+      "language": "JavaScript",
+      "topics": [
+        "electron",
+        "free-models",
+        "llm",
+        "macos",
+        "openai-compatible",
+        "opencode",
+        "tray-app",
+        "windows",
+        "workbuddy"
+      ],
+      "created_at": "2026-10-10T08:59:18Z",
+      "updated_at": "2026-10-12T09:33:57Z",
+      "forks": 25,
+      "open_issues": 3,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that RuiC-oc-ferry has facilitated the integration of OpenCode's free model into WorkBuddy, focusing on isolated runtime, concurrency detection, judgment caching, one-click import, and local compatibility forwarding for the OpenAI protocol. WorkBuddy's official model configuration guide confirms that the latest version allows direct addition, editing, and deletion of custom models within the settings page, with the use of the universal custom model following the OpenAI interface format, where the URL should be the complete interface path. The EvoLink integration guide for WorkBuddy specifies the necessary steps to add EvoLink model configurations, supporting only models in the OpenAI SDK format. The OpenCode technical analysis report outlines the installation, deployment, and technical architecture of OpenCode, detailing system requirements and supported platforms.",
+      "tags": [
+        "openai-compatible",
+        "windows",
+        "workbuddy",
+        "free-models",
+        "opencode"
+      ],
+      "analyzed_at": "2026-10-15T02:52:46.866446+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "excalidraw/cli",
+      "title": "cli",
+      "description": "Official Excalidraw CLI for humans and agents",
+      "url": "https://github.com/excalidraw/cli",
+      "stars": 155,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-10-08T13:17:24Z",
+      "updated_at": "2026-10-08T17:22:58Z",
+      "forks": 7,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The official Excalidraw CLI for humans and agents is available on GitHub at https://github.com/swiftlysingh/excalidraw-cli. It allows generating editable `.excalidraw` files from text or JSON, exporting them to PNG or SVG formats, and validating input graphs. Another CLI, `mcp-excalidraw-server`, is available at https://github.com/yctimlin/mcp_excalidraw, which provides a zero-setup canvas-driving CLI with commands like `add`, `query`, `describe`, and `export`. The sources do not provide an install command for the official Excalidraw CLI.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-15T02:52:49.223472+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "kutukam/autonomous-pentest-agent",
+      "title": "autonomous-pentest-agent",
+      "description": "Autonomous Pentest Agent — LLM multi-agent autonomous penetration testing system (Go backend + Next.js UI). AGPL-3.0.",
+      "url": "https://github.com/kutukam/autonomous-pentest-agent",
+      "stars": 145,
+      "language": "Go",
+      "topics": [],
+      "created_at": "2026-10-08T18:47:12Z",
+      "updated_at": "2026-10-09T05:07:24Z",
+      "forks": 308,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Autonomous Pentest Agent is an LLM multi-agent autonomous penetration testing system built with Go backend and Next.js UI, released under the AGPL-3.0 license. It uses a swarm of AI agents to orchestrate recon, classification, exploitation, and reporting specialists with ReAct reasoning, supporting bug bounty, continuous monitoring, and CTF modes. It integrates with 7+ native security tools and is described as a fully capable autonomous API/web-app pentester that exploits and chains attacks, builds and scores attack paths, and ships a large library of attack-path + CVE chains. The GitHub repository for Pentest Swarm AI has 2.9k stars, 22 watchers, and 535 forks.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-10-15T02:52:53.487791+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "wousp112/justin-sun-alan-shao-ai-notes",
+      "title": "justin-sun-alan-shao-ai-notes",
+      "description": "孙宇晨 × 邵艾伦 4 小时对谈：全文 + 精华 + 一键丢给 AI 的规划 prompt",
+      "url": "https://github.com/wousp112/justin-sun-alan-shao-ai-notes",
+      "stars": 142,
+      "language": null,
+      "topics": [
+        "ai",
+        "ai-agents",
+        "alan-shao",
+        "career-development",
+        "learning",
+        "prompt-engineering"
+      ],
+      "created_at": "2026-10-09T06:01:01Z",
+      "updated_at": "2026-10-09T08:13:36Z",
+      "forks": 12,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources describe a 4-hour discussion between Justin Sun and Alan Shao, focusing on leveraging AI for personal and professional growth. They detail the process of transcribing the 4-hour video into text, breaking it into segments for accuracy, and using AI tools for various tasks like tracking daily meals and workouts. The discussion emphasizes the importance of continuous feedback to AI, expanding options before making decisions, and finding global opportunities while considering personal strengths. The sources also mention specific AI tools and strategies for different applications, such as using AI for daily reports, decision-making, and exploring global business opportunities.",
+      "tags": [
+        "ai-agents",
+        "prompt-engineering",
+        "ai",
+        "career-development",
+        "alan-shao"
+      ],
+      "analyzed_at": "2026-10-15T02:52:57.930482+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "lawrencewzen/wx-bot",
+      "title": "wx-bot",
+      "description": "把微信接入你的 AI Agent（Grok / Muse / Claude 等）· Connect WeChat to your personal AI agent via official iLink",
+      "url": "https://github.com/lawrencewzen/wx-bot",
+      "stars": 135,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agent",
+        "bun",
+        "claude-code",
+        "llm",
+        "typescript",
+        "wechat",
+        "wechat-bot"
+      ],
+      "created_at": "2026-10-09T12:51:25Z",
+      "updated_at": "2026-10-11T11:46:55Z",
+      "forks": 24,
+      "open_issues": 3,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that wx-bot is an open-source AI agent skill designed to connect WeChat to various AI coding assistants like Claude Code, Codex CLI, and ChatGPT. It allows WeChat messages to be routed to agents via webhook or pull methods, supporting text, images, voice, files, and videos. The bot can be integrated with services like Pi for auto-replies and community analysis. To use wx-bot, you can instruct your AI agent to set it up by sending a specific command, and it will guide you through the setup process using WeChat QR code login. The bot ensures message delivery by first storing messages in a local SQLite inbox before forwarding them to the agent.",
+      "tags": [
+        "wechat",
+        "typescript",
+        "bun",
+        "claude-code",
+        "llm"
+      ],
+      "analyzed_at": "2026-10-15T02:53:01.414073+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Sequester-AG/bug-bounty-triage",
+      "title": "bug-bounty-triage",
+      "description": "Agent skill for rigorous bug bounty report triage, validation, severity escalation, and submission-ready reporting.",
+      "url": "https://github.com/Sequester-AG/bug-bounty-triage",
+      "stars": 134,
+      "language": null,
+      "topics": [
+        "agent-skill",
+        "agent-skills",
+        "bug-bounty",
+        "security",
+        "vulnerability-triage"
+      ],
+      "created_at": "2026-10-09T19:27:46Z",
+      "updated_at": "2026-10-09T19:35:13Z",
+      "forks": 20,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources describe `bug-bounty-triage` as an agent skill for rigorous bug bounty report triage, validation, severity escalation, and submission-ready reporting. It is designed to help with these tasks and is built by Sequester-AG. The skill is used in conjunction with AI coding assistants such as Claude Code, Codex CLI, and ChatGPT. The sources do not provide a definitive answer on whether it is safe to use.",
+      "tags": [
+        "bug-bounty",
+        "agent-skills",
+        "agent-skill",
+        "vulnerability-triage",
+        "security"
+      ],
+      "analyzed_at": "2026-10-15T02:53:04.629194+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
