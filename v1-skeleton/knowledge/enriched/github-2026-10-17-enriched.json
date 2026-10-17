@@ -1,0 +1,1793 @@
+{
+  "source": "github",
+  "collected_at": "2026-10-17T02:38:31.203830Z",
+  "analyzed_at": "2026-10-17T02:39:21.951999+00:00",
+  "count": 50,
+  "items": [
+    {
+      "id": "onehumanbeing/esp32-iphone-agent",
+      "title": "esp32-iphone-agent",
+      "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "stars": 2873,
+      "language": "C",
+      "topics": [
+        "ai-agent",
+        "airplay",
+        "automation",
+        "computer-use",
+        "esp32",
+        "esp32-s3",
+        "iphone",
+        "llm",
+        "usb-hid"
+      ],
+      "created_at": "2026-10-11T19:10:25Z",
+      "updated_at": "2026-10-16T19:59:18Z",
+      "forks": 371,
+      "open_issues": 6,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 esp32-iphone-agent 的技术项目。Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "tags": [
+        "computer-use",
+        "usb-hid",
+        "esp32-s3",
+        "airplay",
+        "agent"
+      ],
+      "analyzed_at": "2026-10-17T02:38:44.429527+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "deeplethe/solid-glass",
+      "title": "solid-glass",
+      "description": "A design system for AI applications. Material, physical, tactile, technical.",
+      "url": "https://github.com/deeplethe/solid-glass",
+      "stars": 1426,
+      "language": "TypeScript",
+      "topics": [
+        "agent-ui",
+        "ai",
+        "ai-agents",
+        "chat-ui",
+        "design-system",
+        "llm",
+        "react",
+        "shadcn",
+        "shadcn-ui",
+        "tailwindcss",
+        "theme"
+      ],
+      "created_at": "2026-10-12T09:19:02Z",
+      "updated_at": "2026-10-16T04:35:40Z",
+      "forks": 21,
+      "open_issues": 7,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 solid-glass 的技术项目。A design system for AI applications. Material, physical, tactile, technical.",
+      "tags": [
+        "ai-agents",
+        "shadcn-ui",
+        "tailwindcss",
+        "agent-ui",
+        "theme"
+      ],
+      "analyzed_at": "2026-10-17T02:38:45.200362+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "rociiu/talorys",
+      "title": "talorys",
+      "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
+      "url": "https://github.com/rociiu/talorys",
+      "stars": 1256,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agent",
+        "cloudflare",
+        "cloudflare-workers",
+        "durable-objects",
+        "personal-assistant",
+        "react",
+        "self-hosted",
+        "typescript",
+        "workers-ai"
+      ],
+      "created_at": "2026-10-10T09:46:56Z",
+      "updated_at": "2026-10-17T01:45:02Z",
+      "forks": 112,
+      "open_issues": 7,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 talorys 的技术项目。Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no tel",
+      "tags": [
+        "cloudflare-workers",
+        "workers-ai",
+        "personal-assistant",
+        "typescript",
+        "self-hosted"
+      ],
+      "analyzed_at": "2026-10-17T02:38:45.967654+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "marclou/mailcheap",
+      "title": "mailcheap",
+      "description": "Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
+      "url": "https://github.com/marclou/mailcheap",
+      "stars": 1169,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "amazon-ses",
+        "beehiiv-alternative",
+        "email",
+        "email-marketing",
+        "mailchimp-alternative",
+        "mcp",
+        "mcp-server",
+        "mongodb",
+        "newsletter",
+        "nextjs",
+        "self-hosted",
+        "substack-alternative"
+      ],
+      "created_at": "2026-10-10T12:55:36Z",
+      "updated_at": "2026-10-16T14:43:11Z",
+      "forks": 294,
+      "open_issues": 11,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 mailcheap 的技术项目。Newsletters where you pay for the emails you send, not for dormant subscribers, at a fraction of the price of beehiiv and the like. Open source: self-host it, or use mailcheap.ai.",
+      "tags": [
+        "amazon-ses",
+        "newsletter",
+        "ai-agents",
+        "mcp",
+        "mailchimp-alternative"
+      ],
+      "analyzed_at": "2026-10-17T02:38:46.708086+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "zhuyansen/new-term-radar",
+      "title": "new-term-radar",
+      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "url": "https://github.com/zhuyansen/new-term-radar",
+      "stars": 1066,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai",
+        "aisa",
+        "claude-code",
+        "claude-skills",
+        "google-trends",
+        "keyword-research",
+        "mcp",
+        "mcp-server",
+        "seo",
+        "trends"
+      ],
+      "created_at": "2026-10-12T07:11:01Z",
+      "updated_at": "2026-10-14T14:31:39Z",
+      "forks": 418,
+      "open_issues": 2,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 new-term-radar 的技术项目。Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, GitHub and sitemaps before keyword tools list them.",
+      "tags": [
+        "keyword-research",
+        "mcp",
+        "agent-skills",
+        "trends",
+        "aisa"
+      ],
+      "analyzed_at": "2026-10-17T02:38:47.479569+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "feder-cr/git-ai",
+      "title": "git-ai",
+      "description": "Git designed for AI agents.",
+      "url": "https://github.com/feder-cr/git-ai",
+      "stars": 1064,
+      "language": "Go",
+      "topics": [
+        "ai-agents",
+        "coding-agents",
+        "git",
+        "golang",
+        "scion",
+        "version-control"
+      ],
+      "created_at": "2026-10-15T13:12:02Z",
+      "updated_at": "2026-10-16T23:02:12Z",
+      "forks": 112,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 git-ai 的技术项目。Git designed for AI agents.",
+      "tags": [
+        "golang",
+        "ai-agents",
+        "scion",
+        "coding-agents",
+        "version-control"
+      ],
+      "analyzed_at": "2026-10-17T02:38:48.256143+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "outcrawlai/scout",
+      "title": "scout",
+      "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "url": "https://github.com/outcrawlai/scout",
+      "stars": 895,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agent",
+        "browser-agent",
+        "browser-automation",
+        "cdp",
+        "llm",
+        "typescript",
+        "web-automation"
+      ],
+      "created_at": "2026-10-13T09:18:55Z",
+      "updated_at": "2026-10-16T07:57:53Z",
+      "forks": 28,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 scout 的技术项目。Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own repository.",
+      "tags": [
+        "web-automation",
+        "cdp",
+        "browser-automation",
+        "typescript",
+        "llm"
+      ],
+      "analyzed_at": "2026-10-17T02:38:49.006381+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "jwuthri-cloud/Tracely-ai",
+      "title": "Tracely-ai",
+      "description": null,
+      "url": "https://github.com/jwuthri-cloud/Tracely-ai",
+      "stars": 829,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-11T15:38:03Z",
+      "updated_at": "2026-10-15T23:52:25Z",
+      "forks": 139,
+      "open_issues": 19,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Tracely-ai 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-17T02:38:49.740934+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "CoolkHz/gptibo",
+      "title": "gptibo",
+      "description": "Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
+      "url": "https://github.com/CoolkHz/gptibo",
+      "stars": 811,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-10-13T15:57:19Z",
+      "updated_at": "2026-10-14T02:40:46Z",
+      "forks": 486,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 gptibo 的技术项目。Self-hosted GPTibo storefront, admin and Go backend — sanitized MIT source",
+      "tags": [
+        "gpt"
+      ],
+      "analyzed_at": "2026-10-17T02:38:50.502370+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "nateherkai/roast-room",
+      "title": "roast-room",
+      "description": "Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
+      "url": "https://github.com/nateherkai/roast-room",
+      "stars": 683,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-10T20:38:58Z",
+      "updated_at": "2026-10-13T02:59:59Z",
+      "forks": 157,
+      "open_issues": 5,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 roast-room 的技术项目。Seven AI advisors (Bezos, Paul Graham, Hormozi, Gary Vee, Dan Martell, Gino Wickman, Buffett) debate your business decision in Claude Code, live around a table.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-17T02:38:51.269454+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Zfinix/eleven",
+      "title": "eleven",
+      "description": "Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
+      "url": "https://github.com/Zfinix/eleven",
+      "stars": 622,
+      "language": "TypeScript",
+      "topics": [
+        "acp",
+        "ai-agents",
+        "android",
+        "decompiler",
+        "disassembler",
+        "ghidra",
+        "hopper",
+        "macos",
+        "rea",
+        "reverse-engineering"
+      ],
+      "created_at": "2026-10-13T13:47:31Z",
+      "updated_at": "2026-10-16T12:28:08Z",
+      "forks": 100,
+      "open_issues": 11,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 eleven 的技术项目。Agent-first reverse engineering for macOS, Windows and Linux: any ACP agent reads, renames and patches binaries, Android apps and GPU kernels next to you.",
+      "tags": [
+        "disassembler",
+        "decompiler",
+        "ai-agents",
+        "hopper",
+        "android"
+      ],
+      "analyzed_at": "2026-10-17T02:38:52.083762+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "i12bp8/decomp.wtf",
+      "title": "decomp.wtf",
+      "description": "What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
+      "url": "https://github.com/i12bp8/decomp.wtf",
+      "stars": 464,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "decomp",
+        "decompilation",
+        "decompiler",
+        "matching-decompilation",
+        "mcp",
+        "n64",
+        "recomp",
+        "recompilation",
+        "recompiler",
+        "retro-gaming",
+        "reverse-engineering"
+      ],
+      "created_at": "2026-10-13T08:19:01Z",
+      "updated_at": "2026-10-15T20:39:36Z",
+      "forks": 176,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 decomp.wtf 的技术项目。What The Function: your AI agent decompiles games you own into C that compiles to the exact same bytes. Runs locally.",
+      "tags": [
+        "retro-gaming",
+        "decompiler",
+        "matching-decompilation",
+        "ai-agents",
+        "mcp"
+      ],
+      "analyzed_at": "2026-10-17T02:38:52.868445+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "yeyuxin777/baoyan-agent-benchmark",
+      "title": "baoyan-agent-benchmark",
+      "description": "Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning.",
+      "url": "https://github.com/yeyuxin777/baoyan-agent-benchmark",
+      "stars": 459,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-12T09:15:11Z",
+      "updated_at": "2026-10-15T03:41:22Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 baoyan-agent-benchmark 的技术项目。Sprix AI at 屿智同行 × 保研岛 — an open-source benchmark for AI agents in Baoyan advising and application planning.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-10-17T02:38:53.616704+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "datalab-to/indra",
+      "title": "indra",
+      "description": "Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
+      "url": "https://github.com/datalab-to/indra",
+      "stars": 455,
+      "language": "Python",
+      "topics": [
+        "ai",
+        "cpu",
+        "document-parsing",
+        "ocr",
+        "onnx",
+        "pdf"
+      ],
+      "created_at": "2026-10-13T11:07:11Z",
+      "updated_at": "2026-10-15T06:45:17Z",
+      "forks": 35,
+      "open_issues": 1,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 indra 的技术项目。Fast CPU OCR: line detection, CTC recognition, reading order, markdown",
+      "tags": [
+        "document-parsing",
+        "pdf",
+        "ocr",
+        "cpu",
+        "onnx"
+      ],
+      "analyzed_at": "2026-10-17T02:38:54.396639+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "juliobsz/skills",
+      "title": "skills",
+      "description": "An agent skill that builds award-caliber websites from one line",
+      "url": "https://github.com/juliobsz/skills",
+      "stars": 375,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "astro",
+        "awwwards",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "creative-coding",
+        "frontend",
+        "gsap",
+        "nextjs",
+        "web-design",
+        "webgl"
+      ],
+      "created_at": "2026-10-12T00:07:32Z",
+      "updated_at": "2026-10-16T22:50:15Z",
+      "forks": 12,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 skills 的技术项目。An agent skill that builds award-caliber websites from one line",
+      "tags": [
+        "astro",
+        "web-design",
+        "agent-skills",
+        "codex",
+        "gsap"
+      ],
+      "analyzed_at": "2026-10-17T02:38:55.162864+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Ayzzz123/mcd-coupon-strategist",
+      "title": "mcd-coupon-strategist",
+      "description": "麦麦省钱助手 —— 基于麦当劳 MCP 的点餐成本优化 Skill。算出当前门店最省钱的点餐方案，并主动提示凑单陷阱。",
+      "url": "https://github.com/Ayzzz123/mcd-coupon-strategist",
+      "stars": 369,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "cost-optimization",
+        "coupon",
+        "llm",
+        "mcd-mcp",
+        "mcdonalds",
+        "mcp",
+        "python",
+        "skill",
+        "workbuddy"
+      ],
+      "created_at": "2026-10-10T12:59:19Z",
+      "updated_at": "2026-10-14T12:19:04Z",
+      "forks": 20,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 mcd-coupon-strategist 的技术项目。麦麦省钱助手 —— 基于麦当劳 MCP 的点餐成本优化 Skill。算出当前门店最省钱的点餐方案，并主动提示凑单陷阱。",
+      "tags": [
+        "mcd-mcp",
+        "python",
+        "mcp",
+        "workbuddy",
+        "agent"
+      ],
+      "analyzed_at": "2026-10-17T02:38:55.895971+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "BaruqueRodrigues/llm-legislativo",
+      "title": "llm-legislativo",
+      "description": "Corpus legislativo brasileiro em larga escala e modelo Transformer causal treinado do zero em PyTorch puro.",
+      "url": "https://github.com/BaruqueRodrigues/llm-legislativo",
+      "stars": 364,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-13T23:46:21Z",
+      "updated_at": "2026-10-13T23:46:27Z",
+      "forks": 41,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 llm-legislativo 的技术项目。Corpus legislativo brasileiro em larga escala e modelo Transformer causal treinado do zero em PyTorch puro.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-10-17T02:38:56.639572+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Leonxlnx/earshot",
+      "title": "earshot",
+      "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+      "url": "https://github.com/Leonxlnx/earshot",
+      "stars": 349,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "audio",
+        "claude-code",
+        "mcp",
+        "sound-design"
+      ],
+      "created_at": "2026-10-15T06:52:46Z",
+      "updated_at": "2026-10-16T22:38:23Z",
+      "forks": 20,
+      "open_issues": 2,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 earshot 的技术项目。Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+      "tags": [
+        "ai-agents",
+        "mcp",
+        "claude-code",
+        "audio",
+        "sound-design"
+      ],
+      "analyzed_at": "2026-10-17T02:38:57.377613+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "spideymooon/McOracle",
+      "title": "McOracle",
+      "description": "不要问 AI，问薯条。一个结合麦当劳 MCP 与 AI 答案之书的 Skill。",
+      "url": "https://github.com/spideymooon/McOracle",
+      "stars": 317,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-12T15:44:21Z",
+      "updated_at": "2026-10-12T16:00:28Z",
+      "forks": 12,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 McOracle 的技术项目。不要问 AI，问薯条。一个结合麦当劳 MCP 与 AI 答案之书的 Skill。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-17T02:38:58.122132+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "NB-Corp/gpt-with-taste",
+      "title": "gpt-with-taste",
+      "description": "Better judgment. Better taste. Less ceremony. System instructions and source-aware steering for GPT in Codex.",
+      "url": "https://github.com/NB-Corp/gpt-with-taste",
+      "stars": 316,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "codex",
+        "gpt",
+        "prompt-engineering",
+        "system-prompt"
+      ],
+      "created_at": "2026-10-12T16:40:29Z",
+      "updated_at": "2026-10-15T15:35:14Z",
+      "forks": 15,
+      "open_issues": 1,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 gpt-with-taste 的技术项目。Better judgment. Better taste. Less ceremony. System instructions and source-aware steering for GPT in Codex.",
+      "tags": [
+        "ai-agents",
+        "codex",
+        "prompt-engineering",
+        "system-prompt",
+        "gpt"
+      ],
+      "analyzed_at": "2026-10-17T02:38:58.855511+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "SakanaAI/AI-Scientist-v3",
+      "title": "AI-Scientist-v3",
+      "description": "The Agentic Scientist: Orchestrating Coding Agents for Automated Scientific (Co-)Discovery",
+      "url": "https://github.com/SakanaAI/AI-Scientist-v3",
+      "stars": 305,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-11T13:20:48Z",
+      "updated_at": "2026-10-15T08:53:39Z",
+      "forks": 51,
+      "open_issues": 1,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 AI-Scientist-v3 的技术项目。The Agentic Scientist: Orchestrating Coding Agents for Automated Scientific (Co-)Discovery",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-17T02:38:59.603323+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+      "title": "AI-Cross-Border-Ecommerce-Agent-Toolkit",
+      "description": "AI 跨境电商运营智能体工具箱 · 把运营 SOP 拆成 7 个可复用的 AI Agent 工作流，含 Prompt、模板与真实案例",
+      "url": "https://github.com/heqiangdiao-wq/AI-Cross-Border-Ecommerce-Agent-Toolkit",
+      "stars": 303,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "cross-border-ecommerce",
+        "ecommerce",
+        "llm",
+        "mercado-livre",
+        "prompt-engineering",
+        "shopee",
+        "sop",
+        "workflow-automation"
+      ],
+      "created_at": "2026-10-13T10:13:21Z",
+      "updated_at": "2026-10-16T13:52:52Z",
+      "forks": 377,
+      "open_issues": 2,
+      "relevance_score": 0.7,
+      "summary": "这是一个关于 AI-Cross-Border-Ecommerce-Agent-Toolkit 的技术项目。AI 跨境电商运营智能体工具箱 · 把运营 SOP 拆成 7 个可复用的 AI Agent 工作流，含 Prompt、模板与真实案例",
+      "tags": [
+        "mercado-livre",
+        "ai-agents",
+        "sop",
+        "prompt-engineering",
+        "agent"
+      ],
+      "analyzed_at": "2026-10-17T02:39:00.353715+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "NousResearch/hermes-official-plugins",
+      "title": "hermes-official-plugins",
+      "description": "☤ The official plugins for Hermes Agent, built and maintained by Nous Research: Home Assistant, Spotify, Claude Subscription DirectSDK and more, one install away from the Hermes plugin catalog.",
+      "url": "https://github.com/NousResearch/hermes-official-plugins",
+      "stars": 303,
+      "language": "Python",
+      "topics": [
+        "agent-plugins",
+        "ai-agents",
+        "claude",
+        "hermes",
+        "hermes-agent",
+        "home-assistant",
+        "llm",
+        "model-provider",
+        "nous-research",
+        "plugins",
+        "spotify"
+      ],
+      "created_at": "2026-10-10T20:51:25Z",
+      "updated_at": "2026-10-16T08:27:46Z",
+      "forks": 34,
+      "open_issues": 66,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 hermes-official-plugins 的技术项目。☤ The official plugins for Hermes Agent, built and maintained by Nous Research: Home Assistant, Spotify, Claude Subscription DirectSDK and more, one install away from the Hermes plugin catalog.",
+      "tags": [
+        "ai-agents",
+        "home-assistant",
+        "agent-plugins",
+        "spotify",
+        "hermes"
+      ],
+      "analyzed_at": "2026-10-17T02:39:01.090322+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "egotoadcitadel/palette-from-image-ai",
+      "title": "palette-from-image-ai",
+      "description": "AI coloring palette-from-image generator for designers and pixel artists — pull a clean named palette straight from any image, no subscription or cloud upload.",
+      "url": "https://github.com/egotoadcitadel/palette-from-image-ai",
+      "stars": 300,
+      "language": "Python",
+      "topics": [
+        "ai-color-extraction",
+        "ai-color-palette",
+        "color-extraction",
+        "color-palette-generator",
+        "color-picker",
+        "color-quantization",
+        "color-scheme-extractor",
+        "desktop-app",
+        "dominant-color-finder",
+        "dominant-colors",
+        "gui",
+        "image-color-extraction",
+        "image-to-palette",
+        "kmeans-clustering",
+        "kmeans-color-clustering",
+        "palette-from-image",
+        "python",
+        "python-gui",
+        "windows"
+      ],
+      "created_at": "2026-10-13T17:08:53Z",
+      "updated_at": "2026-10-13T17:10:50Z",
+      "forks": 75,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 palette-from-image-ai 的技术项目。AI coloring palette-from-image generator for designers and pixel artists — pull a clean named palette straight from any image, no subscription or cloud upload.",
+      "tags": [
+        "color-extraction",
+        "kmeans-color-clustering",
+        "kmeans-clustering",
+        "color-picker",
+        "ai-color-extraction"
+      ],
+      "analyzed_at": "2026-10-17T02:39:01.827590+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "anujasid/mcp-for-blender-pro",
+      "title": "mcp-for-blender-pro",
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, model selection, multi-agent workflows. Works with OpenAI, Claude, Gemini, Ollama and OpenCode. Blender AI automation, bpy scripting, 3D modeling, geometry nodes and MCP integration.",
+      "url": "https://github.com/anujasid/mcp-for-blender-pro",
+      "stars": 292,
+      "language": "Python",
+      "topics": [
+        "3d",
+        "3d-automation",
+        "3d-modeling",
+        "ai-agents",
+        "ai-assistant",
+        "blender",
+        "blender-addon",
+        "blender-ai",
+        "blender-automation",
+        "blender-extension",
+        "blender-mcp",
+        "blender-python",
+        "blender-scripting",
+        "blender3d",
+        "bpy",
+        "geometry-nodes",
+        "mcp",
+        "mcp-for-blender",
+        "mcp-server",
+        "model-context-protocol"
+      ],
+      "created_at": "2026-10-15T22:30:47Z",
+      "updated_at": "2026-10-16T07:12:20Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 mcp-for-blender-pro 的技术项目。AI assistant and MCP server for Blender: visual chat, scene tools, model selection, multi-agent workflows. Works with OpenAI, Claude, Gemini, Ollama and OpenCode. Blender AI automation, bpy scripting,",
+      "tags": [
+        "blender",
+        "blender-mcp",
+        "3d-automation",
+        "model-context-protocol",
+        "blender-automation"
+      ],
+      "analyzed_at": "2026-10-17T02:39:02.591218+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "aindeev/agent-chrome-relay",
+      "title": "agent-chrome-relay",
+      "description": "Let your AI agents use your Chrome, signed in as you, in background tabs. By Alexey Indeev · blog: read.aindeev.com · X: @AlexeyIndeev",
+      "url": "https://github.com/aindeev/agent-chrome-relay",
+      "stars": 289,
+      "language": "Go",
+      "topics": [
+        "agent-browser",
+        "ai-agents",
+        "browser-automation",
+        "cdp",
+        "chrome-extension",
+        "claude",
+        "claude-code",
+        "codex",
+        "cursor",
+        "macos",
+        "paseo"
+      ],
+      "created_at": "2026-10-10T07:38:27Z",
+      "updated_at": "2026-10-16T16:46:29Z",
+      "forks": 9,
+      "open_issues": 1,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 agent-chrome-relay 的技术项目。Let your AI agents use your Chrome, signed in as you, in background tabs. By Alexey Indeev · blog: read.aindeev.com · X: @AlexeyIndeev",
+      "tags": [
+        "paseo",
+        "ai-agents",
+        "cdp",
+        "macos",
+        "codex"
+      ],
+      "analyzed_at": "2026-10-17T02:39:03.338581+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "chekusu/yobiru",
+      "title": "yobiru",
+      "description": "Let your agents talk: messages, data, files and wake-ups over Tailscale.",
+      "url": "https://github.com/chekusu/yobiru",
+      "stars": 276,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-10T10:30:00Z",
+      "updated_at": "2026-10-17T00:06:50Z",
+      "forks": 35,
+      "open_issues": 7,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 yobiru 的技术项目。Let your agents talk: messages, data, files and wake-ups over Tailscale.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-17T02:39:04.086058+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "ziplab/ATAS",
+      "title": "ATAS",
+      "description": "Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation",
+      "url": "https://github.com/ziplab/ATAS",
+      "stars": 237,
+      "language": "Python",
+      "topics": [
+        "agentic-video-generation",
+        "mutli-agent",
+        "mutli-agent-system",
+        "spatial-consistency",
+        "video-generation",
+        "video-generator"
+      ],
+      "created_at": "2026-10-12T02:32:56Z",
+      "updated_at": "2026-10-15T02:09:20Z",
+      "forks": 2,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 ATAS 的技术项目。Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation",
+      "tags": [
+        "video-generator",
+        "mutli-agent-system",
+        "agentic-video-generation",
+        "video-generation",
+        "mutli-agent"
+      ],
+      "analyzed_at": "2026-10-17T02:39:04.848238+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Atoll92/agent-standup",
+      "title": "agent-standup",
+      "description": "Your Claude Code, Codex and Mistral Vibe sessions as a live, animated team call: who is working, who waits on whom, who needs you. VS Code extension, terminal command, desktop app. Runs locally, zero tokens.",
+      "url": "https://github.com/Atoll92/agent-standup",
+      "stars": 228,
+      "language": "HTML",
+      "topics": [
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "codex",
+        "developer-tools",
+        "mistral",
+        "mistral-vibe",
+        "monitoring",
+        "subagents",
+        "visualization",
+        "vscode-extension"
+      ],
+      "created_at": "2026-10-10T07:48:17Z",
+      "updated_at": "2026-10-17T02:09:52Z",
+      "forks": 39,
+      "open_issues": 2,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 agent-standup 的技术项目。Your Claude Code, Codex and Mistral Vibe sessions as a live, animated team call: who is working, who waits on whom, who needs you. VS Code extension, terminal command, desktop app. Runs locally, zero ",
+      "tags": [
+        "monitoring",
+        "visualization",
+        "ai-agents",
+        "codex",
+        "developer-tools"
+      ],
+      "analyzed_at": "2026-10-17T02:39:05.593424+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Entelligence-AI/agentplay",
+      "title": "agentplay",
+      "description": "Replay your coding agent sessions as a map and a timeline",
+      "url": "https://github.com/Entelligence-AI/agentplay",
+      "stars": 224,
+      "language": "Python",
+      "topics": [
+        "claude-code",
+        "codex",
+        "coding-agents",
+        "cursor",
+        "developer-tools",
+        "observability"
+      ],
+      "created_at": "2026-10-14T09:06:49Z",
+      "updated_at": "2026-10-14T12:36:15Z",
+      "forks": 10,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 agentplay 的技术项目。Replay your coding agent sessions as a map and a timeline",
+      "tags": [
+        "observability",
+        "codex",
+        "developer-tools",
+        "agent",
+        "coding-agents"
+      ],
+      "analyzed_at": "2026-10-17T02:39:06.335987+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "cxm947/FakeLiang",
+      "title": "FakeLiang",
+      "description": "基于攻击图的靶场自动验证，多agent框架，kali MCP，自动化编排，POC生成。",
+      "url": "https://github.com/cxm947/FakeLiang",
+      "stars": 218,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-12T02:01:07Z",
+      "updated_at": "2026-10-13T09:05:03Z",
+      "forks": 15,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 FakeLiang 的技术项目。基于攻击图的靶场自动验证，多agent框架，kali MCP，自动化编排，POC生成。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-17T02:39:07.075004+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "chuiziyao/maimen-certification",
+      "title": "maimen-certification",
+      "description": "🍔 麦门认证机 — 上传任意图片，AI 鉴定麦门身份：认证梗图卡 + 真实营养数据套餐推荐 + 一键领券。2026 麦当劳程序员创意开发大赛参赛作品",
+      "url": "https://github.com/chuiziyao/maimen-certification",
+      "stars": 217,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-10T17:08:35Z",
+      "updated_at": "2026-10-10T17:23:24Z",
+      "forks": 5,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 maimen-certification 的技术项目。🍔 麦门认证机 — 上传任意图片，AI 鉴定麦门身份：认证梗图卡 + 真实营养数据套餐推荐 + 一键领券。2026 麦当劳程序员创意开发大赛参赛作品",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-17T02:39:07.838856+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Fengzdadi/memory-bench-registry",
+      "title": "memory-bench-registry",
+      "description": "Structured registry of agent memory benchmarks, with every field traced to its source",
+      "url": "https://github.com/Fengzdadi/memory-bench-registry",
+      "stars": 209,
+      "language": "HTML",
+      "topics": [],
+      "created_at": "2026-10-11T20:06:31Z",
+      "updated_at": "2026-10-12T21:34:45Z",
+      "forks": 16,
+      "open_issues": 1,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 memory-bench-registry 的技术项目。Structured registry of agent memory benchmarks, with every field traced to its source",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-17T02:39:08.573933+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "HRuiCcc/RuiC-oc-ferry",
+      "title": "RuiC-oc-ferry",
+      "description": "把 OpenCode 的免费模型摆渡给 WorkBuddy —— 隔离运行时、并发检测、判定缓存、一键导入、本机 OpenAI 兼容转发口",
+      "url": "https://github.com/HRuiCcc/RuiC-oc-ferry",
+      "stars": 199,
+      "language": "JavaScript",
+      "topics": [
+        "electron",
+        "free-models",
+        "llm",
+        "macos",
+        "openai-compatible",
+        "opencode",
+        "tray-app",
+        "windows",
+        "workbuddy"
+      ],
+      "created_at": "2026-10-10T08:59:18Z",
+      "updated_at": "2026-10-12T09:33:57Z",
+      "forks": 34,
+      "open_issues": 5,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 RuiC-oc-ferry 的技术项目。把 OpenCode 的免费模型摆渡给 WorkBuddy —— 隔离运行时、并发检测、判定缓存、一键导入、本机 OpenAI 兼容转发口",
+      "tags": [
+        "opencode",
+        "openai-compatible",
+        "free-models",
+        "windows",
+        "macos"
+      ],
+      "analyzed_at": "2026-10-17T02:39:09.312334+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Graphicle-AI/graphicle",
+      "title": "graphicle",
+      "description": "Code graph and memory for your coding agents, in one Rust program. For Claude Code, Codex, Cursor and any MCP client.",
+      "url": "https://github.com/Graphicle-AI/graphicle",
+      "stars": 196,
+      "language": "Rust",
+      "topics": [
+        "agent-memory",
+        "ai-agents",
+        "claude-code",
+        "code-analysis",
+        "code-graph",
+        "code-intelligence",
+        "code-search",
+        "codex",
+        "coding-agents",
+        "context-engineering",
+        "cursor",
+        "developer-tools",
+        "graphrag",
+        "knowledge-graph",
+        "local-first",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "rust",
+        "tree-sitter"
+      ],
+      "created_at": "2026-10-14T12:25:36Z",
+      "updated_at": "2026-10-16T04:53:07Z",
+      "forks": 9,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 graphicle 的技术项目。Code graph and memory for your coding agents, in one Rust program. For Claude Code, Codex, Cursor and any MCP client.",
+      "tags": [
+        "graphrag",
+        "code-graph",
+        "cursor",
+        "model-context-protocol",
+        "tree-sitter"
+      ],
+      "analyzed_at": "2026-10-17T02:39:10.070472+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "LYiHub/pub-street-fighter-ai",
+      "title": "pub-street-fighter-ai",
+      "description": "Ultimate SFighterAI",
+      "url": "https://github.com/LYiHub/pub-street-fighter-ai",
+      "stars": 191,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-10T11:15:59Z",
+      "updated_at": "2026-10-10T11:16:23Z",
+      "forks": 42,
+      "open_issues": 1,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 pub-street-fighter-ai 的技术项目。Ultimate SFighterAI",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-17T02:39:10.828031+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "SaarthurR/atticus-mac",
+      "title": "atticus-mac",
+      "description": "Fast, free voice assistant for your Mac. No API key: runs on your Claude Pro or Max plan. Sends background agents for big jobs, remembers you and learns your shortcuts. Hold ⌃⌥Space and talk.",
+      "url": "https://github.com/SaarthurR/atticus-mac",
+      "stars": 186,
+      "language": "Python",
+      "topics": [
+        "claude",
+        "claude-code",
+        "macos",
+        "menubar-app",
+        "open-source",
+        "productivity",
+        "speech-recognition",
+        "swift",
+        "voice-assistant"
+      ],
+      "created_at": "2026-10-10T01:07:04Z",
+      "updated_at": "2026-10-17T02:27:06Z",
+      "forks": 7,
+      "open_issues": 2,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 atticus-mac 的技术项目。Fast, free voice assistant for your Mac. No API key: runs on your Claude Pro or Max plan. Sends background agents for big jobs, remembers you and learns your shortcuts. Hold ⌃⌥Space and talk.",
+      "tags": [
+        "open-source",
+        "swift",
+        "productivity",
+        "macos",
+        "speech-recognition"
+      ],
+      "analyzed_at": "2026-10-17T02:39:11.573649+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "SouravBeraAkaSpeed/xiryn",
+      "title": "xiryn",
+      "description": "Xiryn — the open-source personal agent. Does everything Muse, Grok Bot and Dots do, on your own computer: each agent gets its own Linux desktop in Docker, any model with your keys, an encrypted vault, and control from Telegram.",
+      "url": "https://github.com/SouravBeraAkaSpeed/xiryn",
+      "stars": 182,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "ai-sdk",
+        "anthropic",
+        "byok",
+        "computer-use",
+        "docker",
+        "firecrawl",
+        "llm",
+        "local-first",
+        "multi-agent",
+        "nextjs",
+        "ollama",
+        "open-source",
+        "openai",
+        "personal-agent",
+        "privacy",
+        "self-hosted",
+        "sqlite",
+        "telegram-bot",
+        "typescript"
+      ],
+      "created_at": "2026-10-11T13:12:31Z",
+      "updated_at": "2026-10-13T16:20:19Z",
+      "forks": 29,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 xiryn 的技术项目。Xiryn — the open-source personal agent. Does everything Muse, Grok Bot and Dots do, on your own computer: each agent gets its own Linux desktop in Docker, any model with your keys, an encrypted vault,",
+      "tags": [
+        "personal-agent",
+        "anthropic",
+        "self-hosted",
+        "nextjs",
+        "docker"
+      ],
+      "analyzed_at": "2026-10-17T02:39:12.320511+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "akitaonrails/ai-book-2026",
+      "title": "ai-book-2026",
+      "description": "e-book version of the akitaonrails.com blog.",
+      "url": "https://github.com/akitaonrails/ai-book-2026",
+      "stars": 181,
+      "language": "Ruby",
+      "topics": [],
+      "created_at": "2026-10-13T20:23:40Z",
+      "updated_at": "2026-10-16T19:51:03Z",
+      "forks": 23,
+      "open_issues": 2,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 ai-book-2026 的技术项目。e-book version of the akitaonrails.com blog.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-17T02:39:13.063841+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "sitor-ai/frametell",
+      "title": "frametell",
+      "description": "Frametell: turn your ideas and material into vivid explainer videos with an AI director agent. Local-first, any model.",
+      "url": "https://github.com/sitor-ai/frametell",
+      "stars": 177,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agent",
+        "ai-video",
+        "edtech",
+        "education",
+        "electron",
+        "explainer-video",
+        "llm",
+        "local-first",
+        "storyboard",
+        "text-to-video",
+        "tts",
+        "video-generation"
+      ],
+      "created_at": "2026-10-10T10:02:14Z",
+      "updated_at": "2026-10-17T00:59:05Z",
+      "forks": 37,
+      "open_issues": 2,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 frametell 的技术项目。Frametell: turn your ideas and material into vivid explainer videos with an AI director agent. Local-first, any model.",
+      "tags": [
+        "storyboard",
+        "tts",
+        "electron",
+        "explainer-video",
+        "text-to-video"
+      ],
+      "analyzed_at": "2026-10-17T02:39:13.813273+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "init-co-jp/diff-tour",
+      "title": "diff-tour",
+      "description": "Walk through a diff the way a senior engineer reads it. A read-only TUI that turns a git change into a guided tour.",
+      "url": "https://github.com/init-co-jp/diff-tour",
+      "stars": 171,
+      "language": "Go",
+      "topics": [
+        "cli",
+        "code-review",
+        "git",
+        "go",
+        "learning",
+        "llm",
+        "onboarding",
+        "tui"
+      ],
+      "created_at": "2026-10-10T09:19:05Z",
+      "updated_at": "2026-10-15T15:42:55Z",
+      "forks": 7,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 diff-tour 的技术项目。Walk through a diff the way a senior engineer reads it. A read-only TUI that turns a git change into a guided tour.",
+      "tags": [
+        "learning",
+        "cli",
+        "code-review",
+        "onboarding",
+        "llm"
+      ],
+      "analyzed_at": "2026-10-17T02:39:14.555967+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "LSPosed/dexsql-release",
+      "title": "dexsql-release",
+      "description": "SQL for Android apk and dex files",
+      "url": "https://github.com/LSPosed/dexsql-release",
+      "stars": 162,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "android",
+        "decompiler",
+        "dex",
+        "mcp-server",
+        "reverse-engineering"
+      ],
+      "created_at": "2026-10-14T11:50:40Z",
+      "updated_at": "2026-10-15T12:41:48Z",
+      "forks": 12,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 dexsql-release 的技术项目。SQL for Android apk and dex files",
+      "tags": [
+        "decompiler",
+        "android",
+        "reverse-engineering",
+        "agent",
+        "dex"
+      ],
+      "analyzed_at": "2026-10-17T02:39:15.298525+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "robosimstudio/robosimstudio",
+      "title": "robosimstudio",
+      "description": "An open interactive toolkit that accelerates human and agentic physics-based Real2Sim of Robot Manipulation Tasks",
+      "url": "https://github.com/robosimstudio/robosimstudio",
+      "stars": 162,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-12T06:22:39Z",
+      "updated_at": "2026-10-14T05:02:34Z",
+      "forks": 9,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 robosimstudio 的技术项目。An open interactive toolkit that accelerates human and agentic physics-based Real2Sim of Robot Manipulation Tasks",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-17T02:39:16.035559+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Seokwoooo/lucian-uxui-prompt",
+      "title": "lucian-uxui-prompt",
+      "description": "400 interactive UI elements you can try live, then copy as an AI prompt or working code: 200 interface parts and 200 website sections and animations. Light/dark, MIT.",
+      "url": "https://github.com/Seokwoooo/lucian-uxui-prompt",
+      "stars": 159,
+      "language": "HTML",
+      "topics": [
+        "ai-coding",
+        "design-system",
+        "html-css-js",
+        "prompt",
+        "ui-components"
+      ],
+      "created_at": "2026-10-12T09:01:47Z",
+      "updated_at": "2026-10-16T09:26:34Z",
+      "forks": 24,
+      "open_issues": 1,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 lucian-uxui-prompt 的技术项目。400 interactive UI elements you can try live, then copy as an AI prompt or working code: 200 interface parts and 200 website sections and animations. Light/dark, MIT.",
+      "tags": [
+        "prompt",
+        "ai-coding",
+        "design-system",
+        "ui-components",
+        "html-css-js"
+      ],
+      "analyzed_at": "2026-10-17T02:39:16.770918+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "aiwithremy/content-principles",
+      "title": "content-principles",
+      "description": "A Claude skill that teaches AI how to think about short-form content, instead of filling in a template.",
+      "url": "https://github.com/aiwithremy/content-principles",
+      "stars": 139,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-10-13T17:28:19Z",
+      "updated_at": "2026-10-13T17:29:18Z",
+      "forks": 15,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 content-principles 的技术项目。A Claude skill that teaches AI how to think about short-form content, instead of filling in a template.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-17T02:39:17.517318+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "zgsfsec/Full-Chain-Sentinel-System",
+      "title": "Full-Chain-Sentinel-System",
+      "description": "【全链哨兵】全流程渗透测试 Agent 系统，安全服务渗透测试辅助工具，禁止用于非法攻击。",
+      "url": "https://github.com/zgsfsec/Full-Chain-Sentinel-System",
+      "stars": 139,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-10-16T04:05:37Z",
+      "updated_at": "2026-10-16T16:33:05Z",
+      "forks": 52,
+      "open_issues": 0,
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Full-Chain-Sentinel-System 的技术项目。【全链哨兵】全流程渗透测试 Agent 系统，安全服务渗透测试辅助工具，禁止用于非法攻击。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-17T02:39:18.251023+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "openbin-ai/binny",
+      "title": "binny",
+      "description": "BINNY: an open source agent harness for reverse engineering. Plug in any model, or a local one.",
+      "url": "https://github.com/openbin-ai/binny",
+      "stars": 135,
+      "language": "Go",
+      "topics": [
+        "ghidra",
+        "llm-agent",
+        "malware-analysis",
+        "ollama",
+        "reverse-engineering",
+        "security-research"
+      ],
+      "created_at": "2026-10-10T05:03:07Z",
+      "updated_at": "2026-10-15T13:19:30Z",
+      "forks": 15,
+      "open_issues": 2,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 binny 的技术项目。BINNY: an open source agent harness for reverse engineering. Plug in any model, or a local one.",
+      "tags": [
+        "reverse-engineering",
+        "ollama",
+        "security-research",
+        "malware-analysis",
+        "llm-agent"
+      ],
+      "analyzed_at": "2026-10-17T02:39:19.189701+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "chekusu/yomado",
+      "title": "yomado",
+      "description": "Native macOS virtual displays for visual agents, with a skill to set up and manage their work screens.",
+      "url": "https://github.com/chekusu/yomado",
+      "stars": 125,
+      "language": "Objective-C",
+      "topics": [],
+      "created_at": "2026-10-10T12:49:48Z",
+      "updated_at": "2026-10-16T04:21:39Z",
+      "forks": 10,
+      "open_issues": 4,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 yomado 的技术项目。Native macOS virtual displays for visual agents, with a skill to set up and manage their work screens.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-17T02:39:19.955038+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "caveman-ai/trim-1",
+      "title": "trim-1",
+      "description": "trim-1: a 1.2 MB model that keeps the lines of a context an AI agent needs",
+      "url": "https://github.com/caveman-ai/trim-1",
+      "stars": 118,
+      "language": "Go",
+      "topics": [],
+      "created_at": "2026-10-14T03:05:27Z",
+      "updated_at": "2026-10-14T17:34:33Z",
+      "forks": 11,
+      "open_issues": 3,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 trim-1 的技术项目。trim-1: a 1.2 MB model that keeps the lines of a context an AI agent needs",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-17T02:39:20.693116+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Kai-Jungsthoefel/SOMA",
+      "title": "SOMA",
+      "description": "Desktop app for designing parametric 3D models in CadQuery together with the coding agent of your choice",
+      "url": "https://github.com/Kai-Jungsthoefel/SOMA",
+      "stars": 113,
+      "language": "TypeScript",
+      "topics": [
+        "3d-printing",
+        "agent",
+        "agentic-ai",
+        "cad",
+        "cadquery",
+        "claude-code",
+        "codex",
+        "fem",
+        "opencode",
+        "parametric-design"
+      ],
+      "created_at": "2026-10-10T18:01:10Z",
+      "updated_at": "2026-10-16T08:09:28Z",
+      "forks": 6,
+      "open_issues": 0,
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 SOMA 的技术项目。Desktop app for designing parametric 3D models in CadQuery together with the coding agent of your choice",
+      "tags": [
+        "opencode",
+        "parametric-design",
+        "codex",
+        "agent",
+        "agentic-ai"
+      ],
+      "analyzed_at": "2026-10-17T02:39:21.450964+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
