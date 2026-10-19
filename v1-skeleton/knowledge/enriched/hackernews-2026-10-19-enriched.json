@@ -1,0 +1,393 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-10-19T02:53:33.462765Z",
+  "analyzed_at": "2026-10-19T02:54:20.703172+00:00",
+  "count": 16,
+  "items": [
+    {
+      "id": 50145337,
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "score": 240,
+      "comments": 144,
+      "author": "allinonai",
+      "time": 1792356494,
+      "hn_url": "https://news.ycombinator.com/item?id=50145337",
+      "text": "<a href=\"https:&#x2F;&#x2F;x.com&#x2F;Jiaru_Zou&#x2F;status&#x2F;2110400256647340476\" rel=\"nofollow\">https:&#x2F;&#x2F;x.com&#x2F;Jiaru_Zou&#x2F;status&#x2F;2110400256647340476</a><p><a href=\"https:&#x2F;&#x2F;github.com&#x2F;togethercomputer&#x2F;HybridAgent\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;togethercomputer&#x2F;HybridAgent</a><p><a href=\"https:&#x2F;&#x2F;huggingface.co&#x2F;collections&#x2F;togethercomputer&#x2F;hybridagent\" rel=\"nofollow\">https:&#x2F;&#x2F;huggingface.co&#x2",
+      "relevance_score": 0.7,
+      "summary": "这是一个关于 Hybrid Reasoning Agents: LLM agents that think in latent space, act through text 的技术内容。",
+      "tags": [
+        "agent",
+        "llm"
+      ],
+      "analyzed_at": "2026-10-19T02:54:09.610386+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50146625,
+      "title": "William Gibson and the trademarking of cyberspace",
+      "url": "https://colo.to/cyberspace.html",
+      "score": 82,
+      "comments": 5,
+      "author": "Eric_Gullichsen",
+      "time": 1792366677,
+      "hn_url": "https://news.ycombinator.com/item?id=50146625",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 William Gibson and the trademarking of cyberspace 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-19T02:54:10.339389+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50145507,
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "score": 48,
+      "comments": 37,
+      "author": "amrrs",
+      "time": 1792357752,
+      "hn_url": "https://news.ycombinator.com/item?id=50145507",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 If you don't run your own LLM proxy, how do you know whats going on? 的技术内容。",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-10-19T02:54:11.045113+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50145715,
+      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+      "url": "https://github.com/finereli/whatsapp-mcp",
+      "score": 48,
+      "comments": 35,
+      "author": "zoozla",
+      "time": 1792359370,
+      "hn_url": "https://news.ycombinator.com/item?id=50145715",
+      "text": "I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on.<p>I wanted to run it for free on ClaudeFlare and with my personal WhatsApp account, so I built this.<p>Important feature - it connects to your Google account as well as WhatsApp to grab the names of all your WhatsApp contacts, otherwise you get only phone numbers for many of them and search doesn&#x27;t work properly.<p>This",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Show HN: WhatsApp MCP running free on Cloudflare 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-19T02:54:11.751837+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50135762,
+      "title": "I built a programming language that LLMs can't use",
+      "url": "https://blog.picheta.me/post/killswitch-lang/",
+      "score": 95,
+      "comments": 76,
+      "author": "dom96",
+      "time": 1792276007,
+      "hn_url": "https://news.ycombinator.com/item?id=50135762",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 I built a programming language that LLMs can't use 的技术内容。",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-10-19T02:54:12.472048+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50122058,
+      "title": "One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux",
+      "url": "https://quentinkaiser.be/security/2026/10/16/one-parser-two-bugs/",
+      "score": 54,
+      "comments": 9,
+      "author": "zoobab",
+      "time": 1792174064,
+      "hn_url": "https://news.ycombinator.com/item?id=50122058",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 One parser, two bugs, many routers: Exploiting Broadcom WiFi across eCos, Linux 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-19T02:54:13.159043+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50118165,
+      "title": "\"I'm on a war footing\": Terry Tao and the crisis in math",
+      "url": "https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html",
+      "score": 104,
+      "comments": 163,
+      "author": "vinipolicena",
+      "time": 1792157420,
+      "hn_url": "https://news.ycombinator.com/item?id=50118165",
+      "text": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;bid95\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;bid95</a>",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 \"I'm on a war footing\": Terry Tao and the crisis in math 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-19T02:54:13.859647+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50142449,
+      "title": "The Intel 8087 chip: floating-point addition and subtraction",
+      "url": "https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html",
+      "score": 91,
+      "comments": 33,
+      "author": "pwg",
+      "time": 1792340427,
+      "hn_url": "https://news.ycombinator.com/item?id=50142449",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 The Intel 8087 chip: floating-point addition and subtraction 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-19T02:54:14.560983+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50142866,
+      "title": "Namecheap just seized and disabled all my domains",
+      "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+      "score": 454,
+      "comments": 215,
+      "author": "sashk",
+      "time": 1792342616,
+      "hn_url": "https://news.ycombinator.com/item?id=50142866",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Namecheap just seized and disabled all my domains 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-19T02:54:15.286590+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50137950,
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "score": 242,
+      "comments": 85,
+      "author": "critiquebrowser",
+      "time": 1792298029,
+      "hn_url": "https://news.ycombinator.com/item?id=50137950",
+      "text": "FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it&#x27;ll throw up a questionnaire that checks if you understand how the code you&#x27;re pushing works.",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-19T02:54:15.996257+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50144005,
+      "title": "Florida's HOAs and condo associations are making the housing crisis worse",
+      "url": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
+      "score": 167,
+      "comments": 306,
+      "author": "lovewins",
+      "time": 1792348816,
+      "hn_url": "https://news.ycombinator.com/item?id=50144005",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Florida's HOAs and condo associations are making the housing crisis worse 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-19T02:54:16.695508+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50147792,
+      "title": "IMF World Economic Outlook 2026 [pdf]",
+      "url": "https://www.imf.org/-/media/files/publications/weo/2026/october/english/text.pdf",
+      "score": 3,
+      "comments": 0,
+      "author": "gmays",
+      "time": 1792377998,
+      "hn_url": "https://news.ycombinator.com/item?id=50147792",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 IMF World Economic Outlook 2026 [pdf] 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-19T02:54:17.391830+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50147462,
+      "title": "Chicago O'Hare Digs Up 50-Ton Boulder Under Airfield, Asks Public for Name Ideas",
+      "url": "https://simpleflying.com/chicago-ohare-digs-up-50-ton-boulder-public-names/",
+      "score": 4,
+      "comments": 6,
+      "author": "Stratoscope",
+      "time": 1792374999,
+      "hn_url": "https://news.ycombinator.com/item?id=50147462",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 Chicago O'Hare Digs Up 50-Ton Boulder Under Airfield, Asks Public for Name Ideas 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-19T02:54:18.084153+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50139998,
+      "title": "The Brain Sandwich",
+      "url": "https://terriblesoftware.org/2026/10/02/the-brain-sandwich/",
+      "score": 79,
+      "comments": 49,
+      "author": "keyle",
+      "time": 1792322137,
+      "hn_url": "https://news.ycombinator.com/item?id=50139998",
+      "text": "",
+      "relevance_score": 0.5,
+      "summary": "这是一个关于 The Brain Sandwich 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-19T02:54:18.789104+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50122878,
+      "title": "You could have invented transformers from memory",
+      "url": "https://alexwang.ai/posts/associative-memory/",
+      "score": 622,
+      "comments": 142,
+      "author": "speckx",
+      "time": 1792177277,
+      "hn_url": "https://news.ycombinator.com/item?id=50122878",
+      "text": "<a href=\"https:&#x2F;&#x2F;twitter.com&#x2F;heyyalexwang&#x2F;status&#x2F;2111158818730397932\" rel=\"nofollow\">https:&#x2F;&#x2F;twitter.com&#x2F;heyyalexwang&#x2F;status&#x2F;2111158818730397932</a>",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 You could have invented transformers from memory 的技术内容。",
+      "tags": [
+        "transformer"
+      ],
+      "analyzed_at": "2026-10-19T02:54:19.496128+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50108165,
+      "title": "Voyage of the Paper Canoe: 2500 Miles from Quebec to the Gulf of Mexico, 1874-5",
+      "url": "http://www.ibiblio.org/eldritch/nhb/paperc/intro.html",
+      "score": 29,
+      "comments": 8,
+      "author": "Eridanus2",
+      "time": 1792089249,
+      "hn_url": "https://news.ycombinator.com/item?id=50108165",
+      "text": "",
+      "relevance_score": 0.3,
+      "summary": "这是一个关于 Voyage of the Paper Canoe: 2500 Miles from Quebec to the Gulf of Mexico, 1874-5 的技术内容。",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-10-19T02:54:20.202314+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
