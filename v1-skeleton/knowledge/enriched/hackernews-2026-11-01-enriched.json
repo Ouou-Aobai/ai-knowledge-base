@@ -1,0 +1,560 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-11-01T03:53:30.664245Z",
+  "analyzed_at": "2026-11-01T03:54:30.493321+00:00",
+  "count": 23,
+  "items": [
+    {
+      "id": 50320995,
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "score": 120,
+      "comments": 63,
+      "author": "guregodevo",
+      "time": 1793486772,
+      "hn_url": "https://news.ycombinator.com/item?id=50320995",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A team of 5 Qwen3.8-27B models orchestrated through a shared filesystem ledger beats Fable 5 on LiveCodeBench Hard, achieving 92.4% compared to Fable 5's 90.4%. The orchestration method, which does not require retraining, allows fresh instances of the model to coordinate and decompose coding problems, reaching up to 25.6 percentage points higher on some backends. The Qwen setup also offers better production economics, costing $0.02/$0.50 per million context compared to Fable 5's $5/$25 per million on OpenRouter, and fits on a single 24GB GPU.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-01T03:53:33.239749+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50321130,
+      "title": "When electric cars were for women",
+      "url": "https://spectrum.ieee.org/early-electric-vehicles",
+      "score": 48,
+      "comments": 27,
+      "author": "dverlaeckt80",
+      "time": 1793488092,
+      "hn_url": "https://news.ycombinator.com/item?id=50321130",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Electric cars were marketed as \"women’s cars\" during the 1910s, reflecting traditional gender roles and the idea of \"separate spheres,\" promoting the notion that women had limited mobility needs and needed safe, easily operated vehicles. Initially, only 22% of electric cars between 1900 and 1904 were marketed towards women, but this increased to 77% in the 1910s as electric vehicle makers sought to maintain market share against the rising popularity of petrol-powered cars. This marketing strategy was influenced by the introduction of electric starting ignition in the 1912 Cadillac, which was initially conceived as \"effeminate\" but became practical and was later introduced in the 1919 T-Ford.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-01T03:53:35.731311+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50284789,
+      "title": "Edgar Allan Poe, Quintessential American Writer",
+      "url": "https://slate.com/culture/2026/10/edgar-allan-poe-poems-stories-most-influential-american-writer-death-horror-detective.html",
+      "score": 13,
+      "comments": 0,
+      "author": "samclemens",
+      "time": 1793250600,
+      "hn_url": "https://news.ycombinator.com/item?id=50284789",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Edgar Allan Poe is described as the quintessential American writer and one of the most influential American writers of all time. He is best known for his poetry and short stories, particularly those involving mystery and the macabre. Poe is widely regarded as a central figure of Romanticism in the United States and American literature, and he is considered one of the pioneers of the detective fiction genre. He is also credited with contributing to the emergence of science fiction. Poe was the first well-known American writer to earn a living exclusively through writing, which resulted in a financially difficult life and career.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-01T03:53:38.236274+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50319061,
+      "title": "The Duty of a Scholar",
+      "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
+      "score": 97,
+      "comments": 29,
+      "author": "gslin",
+      "time": 1793473656,
+      "hn_url": "https://news.ycombinator.com/item?id=50319061",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to Emanuel Vogel Gerhart, scholars have an obligation to rigorously continue their studies to stay aware of new knowledge and contribute their insights to the body of knowledge available to all. In \"The American Scholar,\" Ralph Waldo Emerson argues that the scholar should strive to be independent, self-reliant, and guided by their own intuition and judgment, rejecting blind acceptance of authority and embracing new ideas. Emerson also emphasizes that the scholar should learn through nature, the past, and their own actions, and should create and acquire knowledge through experiences. The sources do not provide a definitive answer to the question but highlight the duty of scholars to remain informed, contribute to knowledge, and learn through various means.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-01T03:53:41.072166+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50314699,
+      "title": "Do the math: How we took over ChatGPT accounts",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "score": 311,
+      "comments": 153,
+      "author": "armcat",
+      "time": 1793442611,
+      "hn_url": "https://news.ycombinator.com/item?id=50314699",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that the improvement in ChatGPT's ability to perform mathematical tasks was largely attributed to the integration of the Code Interpreter tool, which allowed it to run Python code and perform calculations. This tool was rolled out in beta to all ChatGPT Plus users starting from July 6, 2023, and was later referred to as Advanced Data Analysis. This tool enabled the AI to handle mathematical and coding tasks more effectively, suggesting that its earlier limitations in these areas were due to a lack of such backend capabilities. However, the sources do not provide specific details on how accounts were taken over, focusing instead on the technical improvements and tools that enhanced its mathematical capabilities.",
+      "tags": [
+        "gpt"
+      ],
+      "analyzed_at": "2026-11-01T03:53:43.781618+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50320599,
+      "title": "AI text watermarking and quality loss",
+      "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+      "score": 31,
+      "comments": 6,
+      "author": "danielfoster",
+      "time": 1793483413,
+      "hn_url": "https://news.ycombinator.com/item?id=50320599",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that there is debate about the impact of AI text watermarking on the quality of text produced by AI models. Some argue that watermarking does not affect quality, while others, like Daniel Jalkut, suggest that watermarking may limit the creative range of models and potentially degrade quality. A study on LLM watermarking found that even distortion-free watermarks negatively affect text quality, raising concerns about the future of watermarking techniques. Critics like John Gruber believe that watermarking reduces the overall quality of AI-generated text, while a 2024 Google paper claims that their watermarking scheme, SynthID-Text, does not impact quality. However, not everyone is convinced that text watermarking can work without compromising quality.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-01T03:53:46.428909+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50261253,
+      "title": "Simple circuits can create complex behaviors",
+      "url": "https://aatishb.com/myriad/lets-build-a-brain/",
+      "score": 223,
+      "comments": 69,
+      "author": "aatish",
+      "time": 1793116866,
+      "hn_url": "https://news.ycombinator.com/item?id=50261253",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Simple circuits can create complex behaviors as they build on basic rules and connections, leading to more intricate combinations. The Exploratorium notes that from the simplest circuit, basic rules about circuit building emerge, and each successful circuit completion is a step toward more complex connections. The YouTube video by Boston Children's Museum emphasizes that exploring, creating, testing, and trying again are essential in understanding circuits, which are circles of unbroken electricity. The sources do not provide a definitive answer to how complex behaviors specifically arise from simple circuits, but they suggest that through exploration and experimentation, simple circuits can lead to complex behaviors.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-01T03:53:48.950037+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50319358,
+      "title": "Anthropic blocks users for anything touching training larger models",
+      "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+      "score": 244,
+      "comments": 131,
+      "author": "pretext",
+      "time": 1793475559,
+      "hn_url": "https://news.ycombinator.com/item?id=50319358",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Anthropic reportedly blocks users for work touching training larger models, according to a viral X post by Jiahao Shao. However, this claim is unverified as there is no confirmation from Anthropic. Anthropic's published rule prohibits using Claude outputs to train models competitive with Anthropic's. Some commenters suggest region and VPN signals might be triggering classifiers instead.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-01T03:53:51.832620+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50322022,
+      "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM",
+      "url": "https://arxiv.org/abs/2409.02292",
+      "score": 3,
+      "comments": 0,
+      "author": "hapax_legomena",
+      "time": 1793497589,
+      "hn_url": "https://news.ycombinator.com/item?id=50322022",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A type of malware manipulates the RAM on a target computer into generating very faint radio signals readable by nearby devices, as described in a LinkedIn post by Rojeshe Shikhrakar. The same concept is explored in a paper by M Guri, which presents fast modification methods to leak data from air-gapped computers at 1000 bits per second. Another paper by M Guri discusses an attack allowing adversaries to leak information from air-gapped computers through malware on a compromised computer. The sources do not provide a definitive answer to the specific question asked.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-01T03:53:54.323451+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50315782,
+      "title": "Show HN: A language model that lives in a boot sector",
+      "url": "https://github.com/kerlenton/bootgpt",
+      "score": 63,
+      "comments": 1,
+      "author": "kerlenton",
+      "time": 1793451509,
+      "hn_url": "https://news.ycombinator.com/item?id=50315782",
+      "text": "All the ideas came from the boot sector demo scene where people had been writing chess and BASIC games in 512 bytes, even a C compiler. I wondered what one can do using a neural network instead of a program and generating boot logs for non-existent hardware was something fun to try.<p>Entire inference engine is 510 bytes of MBR, weights, vocab, and strings reside in the sectors following MBR. Small char-level neural network was trained on dmesg generated by machine, so machine produces Linux boo",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that on October 31, 2026, \"Show HN: A language model that lives in a boot sector\" by kerlenton was the top Show HN project with 52 points and 1 comment. The project, hosted on GitHub at github.com/kerlenton, involves a language model trained on synthetic dmesg data generated by machine, which produces Linux boot messages infinitely. The entire inference engine is 510 bytes of MBR, with weights, vocab, and strings residing in the sectors following MBR.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-01T03:53:56.648636+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50314654,
+      "title": "Serbia just elected the world's brainiest parliament",
+      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+      "score": 830,
+      "comments": 472,
+      "author": "input_sh",
+      "time": 1793442090,
+      "hn_url": "https://news.ycombinator.com/item?id=50314654",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to sources, Serbia elected the world’s brainiest parliament on October 29, 2026, with the Student List winning the election. The science.org portal and Science Magazine reported on the victory, highlighting the expertise of the new representatives, many of whom have professional backgrounds in science and academia. The sources emphasize the hope that this new parliament will bring about reforms in Serbia, particularly in academia, where there have been accusations of political pressure on universities and academics.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-01T03:53:59.066511+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50290652,
+      "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+      "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+      "score": 194,
+      "comments": 47,
+      "author": "datascientist",
+      "time": 1793287788,
+      "hn_url": "https://news.ycombinator.com/item?id=50290652",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to the sources, Leo de Moura, the creator of Lean, discusses how AI is making formal verification more accessible and potentially transforming software engineering. Lean can verify Rust code using the tool Aeneas. Leo also envisions a future where AI synthesizes code and proofs based on mathematically precise specifications, suggesting that formal verification and Lean will change how we write software and do math. However, there is also a concern that formal verification might not solve the issue of AI agents spinning in circles on specific tasks.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-01T03:54:01.585680+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50320588,
+      "title": "ChatGPT and Codex usage limits merging",
+      "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+      "score": 19,
+      "comments": 6,
+      "author": "Zariel",
+      "time": 1793483347,
+      "hn_url": "https://news.ycombinator.com/item?id=50320588",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to the sources, \"ChatGPT Work and Codex have not been merged into one universal usage limit.\" Instead, \"ChatGPT Work and Codex can share the same agentic usage allowance, while normal Chat remains separately metered.\" Different features, such as file uploads, image generation, and voice, still have separate limits and do not apply to Codex. Usage limits vary by plan, and Codex is included across all ChatGPT plans.",
+      "tags": [
+        "gpt"
+      ],
+      "analyzed_at": "2026-11-01T03:54:04.607317+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50314666,
+      "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
+      "url": "https://piefed.world/post/1503394",
+      "score": 312,
+      "comments": 182,
+      "author": "DeepLogin",
+      "time": 1793442221,
+      "hn_url": "https://news.ycombinator.com/item?id=50314666",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to the sources, Molly (Signal fork) has not been updated since July 31, 2026 (version v8.19.2-4) and remains vulnerable to a bug fixed in mainline Signal 8.27 that let audio or possibly video continue after a call was ended. The post recommends switching to mainline Signal and deleting Molly until the fork resumes regular updates. The Hacker News and X posts reiterate the same information about the lack of updates and the vulnerability.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-01T03:54:07.146157+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50293806,
+      "title": "Noctua Fan Swap on a Calnex Rb/GPS Frequency Reference",
+      "url": "https://www.jeffgeerling.com/blog/2026/noctua-fan-swap-calnex-rb-gps-frequency-reference/",
+      "score": 42,
+      "comments": 30,
+      "author": "aray07",
+      "time": 1793298820,
+      "hn_url": "https://news.ycombinator.com/item?id=50293806",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "To swap the loud stock fan in a Calnex Rb/GPS frequency reference for a Noctua NF-A4x20 FLX, one must use OmniJoin adapters due to the Calnex board's unique square 4-pin fan header. The fan screws should be left loose to maintain the Noctua's vibration damping rubber bumpers. The process involves splicing the stock fan cable with OmniJoin connectors and securing the assembly with Torx T10 screws. The fan swap is recommended if the device is used near a workspace due to the significant reduction in noise.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-01T03:54:09.814993+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50317331,
+      "title": "Show HN: A USB-C LTE modem that gives my computer a phone line",
+      "url": "https://github.com/Koppar-AI/koppar-lte-modem",
+      "score": 50,
+      "comments": 34,
+      "author": "abijahkaj",
+      "time": 1793462201,
+      "hn_url": "https://news.ycombinator.com/item?id=50317331",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources describe a USB-C LTE modem that provides a phone line to a computer. The Hacker News post mentions that where 2G and 3G are switched off, calls need a module firmware with VoLTE and a carrier that allows it. The YouTube video on \"Wi-Fi Anywhere: LTE 4G USB Modem with Wi-Fi HotSpot\" details the device's portability, power options, and connectivity as a Wi-Fi hotspot or direct Ethernet connection. Another YouTube video on \"192.168.100.1 :How to configure 4G LTE USB Wi-Fi Modem\" provides a step-by-step guide on configuring the modem, including accessing the management page to change SSID and Wi-Fi password. The sources do not provide a definitive answer on specific details like official website or phone number.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-01T03:54:12.678041+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50320028,
+      "title": "With 86% of the words, you might understand only 38% of an anime's lines",
+      "url": "https://learnfromx.com/research/anime-word-coverage-vs-lines-understood",
+      "score": 74,
+      "comments": 52,
+      "author": "lakesare",
+      "time": 1793479599,
+      "hn_url": "https://news.ycombinator.com/item?id=50320028",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Knowing most of the words spoken in an anime doesn't mean you can follow most of its lines. In Frieren, the 500 most common words cover 85.9% of spoken words but let you fully understand only 38.4% of the first 3,000 lines, since you need every word in a line to follow it. The gap holds across eight anime tested: Serial Experiments Lain needs the fewest words (about 400 for half the lines), while Jujutsu Kaisen needs 980. Going from 500 to 1,000 known words raises coverage by just 6.5 points.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-01T03:54:15.276204+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50300683,
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "score": 971,
+      "comments": 547,
+      "author": "_chall",
+      "time": 1793344152,
+      "hn_url": "https://news.ycombinator.com/item?id=50300683",
+      "text": "<a href=\"https:&#x2F;&#x2F;cursor.com&#x2F;blog&#x2F;claude-code-extension-security-notice\" rel=\"nofollow\">https:&#x2F;&#x2F;cursor.com&#x2F;blog&#x2F;claude-code-extension-security-notic...</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Phorion has discovered a compromise of the official Claude Code for VS Code extension on the Cursor Marketplace, where the backdoored extension bundle contains a persistent Secure Shell (SSH) backdoor. Cursor has removed the associated release from its marketplace, additionally pulling NPM and VSCode versions for `2.1.313` from their relevant registries. The malicious version 2.1.313 of the official Claude Code VS Code extension was distributed through the Open-VSX registry and Cursor's extension marketplace, with at most 5,000 users receiving the trojanized build during an 11-hour window. The malicious artifact included a JavaScript function that executed before the extension’s expected code, using Node.js APIs to collect host information, modify files, and execute operating-system commands.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-01T03:54:17.623270+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50316531,
+      "title": "Malware uses LLMs to rank victims by how much they're worth",
+      "url": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+      "score": 236,
+      "comments": 130,
+      "author": "khalidkhair",
+      "time": 1793456943,
+      "hn_url": "https://news.ycombinator.com/item?id=50316531",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A new Windows infostealer called VOLTA-AUTODOXER uses an LLM to rank stolen victim data by monetization value. After harvesting browser credentials, cookies, payment cards, crypto wallet seeds, and session tokens, it builds a structured evidence bundle and POSTs it to OpenRouter. The system prompt tells the model to act as 'a forensic intelligence analyst' and produce a 'WHAT THEY'RE WORTH' valuation and a 'THEIR OPSEC' assessment. Its default model is anthropic/claude-opus-4.6, set at temperature 0.2, with a fallback chain to moonshotai/kimi-k2 then google/gemini-2.5-flash if a model refuses. The malware is self-deleting, uses no attacker-owned infrastructure, and appears to be sold as a builder with customer-filled configuration slots.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-11-01T03:54:20.854130+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50318442,
+      "title": "I post trained a model on Demoscenes",
+      "url": "https://datavorous.com/writing/demoscener/",
+      "score": 48,
+      "comments": 34,
+      "author": "datavorous_",
+      "time": 1793470104,
+      "hn_url": "https://news.ycombinator.com/item?id=50318442",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that a model was trained on Demoscenes, as mentioned in a Hacker News post by datavorous. The demoscene is described as an underground computer art culture where participants create audiovisual applications to demonstrate the capabilities of the machines they run on. The sources do not provide specific details about the model or the training process, nor do they give any official website or contact information for Demoscenes.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-01T03:54:23.038759+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50318871,
+      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "url": "https://ryanmadden.net/gpt-56-beats-factorio/",
+      "score": 161,
+      "comments": 175,
+      "author": "ryanmadden",
+      "time": 1793472634,
+      "hn_url": "https://news.ycombinator.com/item?id=50318871",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to Ryan Madden, GPT-5.6 Sol in Codex at low thinking completed a peaceful Factorio run in 13.5 hours of game time, reaching the rocket launch. This was a third-party demonstration, not a new model launch, and the model used a Python game interface. Hacker News 20 also reported that GPT-5.6 Sol can beat Factorio on peaceful mode.",
+      "tags": [
+        "gpt"
+      ],
+      "analyzed_at": "2026-11-01T03:54:25.306717+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50301178,
+      "title": "5 years of OqtaDrive: Microdrive emulation to Sinclair Network over the internet",
+      "url": "https://oqtadrive.org/10.other/5-years/",
+      "score": 18,
+      "comments": 3,
+      "author": "xelalex",
+      "time": 1793349003,
+      "hn_url": "https://news.ycombinator.com/item?id=50301178",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "As of September 2026, microDrive's annual revenue is estimated to be $1M - $10M. The sources do not provide specific information about the 5th anniversary of OqtaDrive: Microdrive emulation to Sinclair Network over the internet. The sources mention microDrive's official website as microdrive.me and its social profiles on LinkedIn, but do not detail any specific achievements or milestones related to OqtaDrive.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-01T03:54:27.767196+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50313661,
+      "title": "Digital minimalism",
+      "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+      "score": 312,
+      "comments": 231,
+      "author": "wilbertliu",
+      "time": 1793427396,
+      "hn_url": "https://news.ycombinator.com/item?id=50313661",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Digital minimalism is a philosophy defined by Cal Newport as a way to question what digital communication tools add the most value to one's life, motivated by the belief that clearing away low-value digital noise and optimizing the use of important tools can significantly improve life. According to Katherine Martinko, it is a tech use philosophy that focuses online time on a small number of carefully selected and optimized activities that strongly support what one values, while happily missing out on everything else.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-01T03:54:29.992311+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
