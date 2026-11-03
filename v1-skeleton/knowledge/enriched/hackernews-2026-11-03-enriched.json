@@ -1,0 +1,322 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-11-03T04:58:41.943631Z",
+  "analyzed_at": "2026-11-03T05:02:22.478144+00:00",
+  "count": 13,
+  "items": [
+    {
+      "id": 50345924,
+      "title": "Scaling Git at OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai/",
+      "score": 110,
+      "comments": 45,
+      "author": "makeramen",
+      "time": 1793663276,
+      "hn_url": "https://news.ycombinator.com/item?id=50345924",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that OpenAI has developed Pando, a new Git backend designed to scale their monorepo, enabling more parallel work, reduced push latency by approximately 80%, and serving nearly a petabyte of Git data per day. Pando achieves this by rethinking conventional Git scaling methods and reusing packfiles across fetches. This allows the system to handle more pushes and fetches without altering existing Git workflows for engineers and agents.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-03T05:01:46.774254+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50339397,
+      "title": "US boy names that became girl names and vice versa",
+      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+      "score": 333,
+      "comments": 332,
+      "author": "xoobdev",
+      "time": 1793637276,
+      "hn_url": "https://news.ycombinator.com/item?id=50339397",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that names like Sidney and Loren have switched genders, with Sidney being popular among boys in 1900 and among girls by 2000. The most gender-switched names in US history include Kenyatta, Rene, Brighton, and Casey, among others. Names like Madison transitioned from being popular among boys in the late 19th century to girls in the 1990s. Some names like Tatum initially appeared as female names but later became popular among boys. The majority of name crossovers are from male to female, with few exceptions.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-03T05:01:49.765063+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50339913,
+      "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
+      "url": "https://momentic.ai/",
+      "score": 135,
+      "comments": 90,
+      "author": "wuweiweiwu",
+      "time": 1793639125,
+      "hn_url": "https://news.ycombinator.com/item?id=50339913",
+      "text": "Hey HN, we’re Wei-Wei and Jeff. We’re building Momentic, QA agents that autonomously plan, explore, and bug-bash controls and user flows in your web, iOS, Android, and (soon) desktop apps to catch bugs.<p>Here’s a demo: <a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;BFsM-Se1Fh8\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;BFsM-Se1Fh8</a><p>We’re both software engineers that spent our careers on dev tooling and infra across companies like Robinhood, Retool, WeWork, and Qualtrics. Testing was always ",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Momentic, a YC W24 startup, offers AI agents called Mo that test apps end to end from plain-English prompts. It has logged 77,813 tests, 70 million runs, and caught 117,010 bugs before production. The product includes a CLI, CI integration, and a Mo agent for bug bash sessions. Customers include Notion, Quora, Webflow, and Retool. The sources do not provide specific details on methodology or precise figures for the next agent's bug-catching capabilities.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-11-03T05:01:53.800550+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50346153,
+      "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
+      "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
+      "score": 149,
+      "comments": 99,
+      "author": "entryleveljobsc",
+      "time": 1793664533,
+      "hn_url": "https://news.ycombinator.com/item?id=50346153",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Intel's stock has experienced a significant decline, with the company's value dropping to less than half of what it was at the end of September. The stock fell about 9% following a disappointing forecast on October 30, which led to a nearly 29% drop on that day. This downturn has contributed to a broader $3.7 trillion chip rout affecting other major companies in the semiconductor industry, including Micron, Sandisk, Seagate, Western Digital, and Marvell. The sources indicate that the semiconductor sector is facing substantial challenges, with some companies experiencing drops of 6% to 8% in their stock prices.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-03T05:01:56.708091+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50341736,
+      "title": "Egoless Mathematics in the AI Era",
+      "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
+      "score": 134,
+      "comments": 92,
+      "author": "smilelamp",
+      "time": 1793645684,
+      "hn_url": "https://news.ycombinator.com/item?id=50341736",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources discuss egoless mathematics in the context of the AI era, emphasizing that both those comfortable with AI and those who prefer not to use it can reflect a commitment to mathematical truth. Egoless mathematics involves humility in the pursuit of knowledge, allowing discoveries to potentially change existing purposes rather than subordinating truth to personal importance. The sources also mention that an \"egoless\" AI could be useful in simplifying old proofs rather than proving new results, suggesting a shift in the norms of the math community towards mapping out and simplifying problem relations.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-03T05:01:59.288996+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50340992,
+      "title": "Skill to Create Product Videos",
+      "url": "https://github.com/aaitor/skill-video-studio",
+      "score": 79,
+      "comments": 24,
+      "author": "aaitor",
+      "time": 1793643039,
+      "hn_url": "https://news.ycombinator.com/item?id=50340992",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that the skill to create product videos involves generating videos of a person on camera with a product, suitable for UGC videos, influencer ads, and other similar content. The process includes writing video prompts and generating clips, ensuring the video features a person using or demonstrating the product. Additionally, there are references to other skills and toolkits for creating various types of product videos, including sales videos, promo videos, and cinematic promo videos, all emphasizing the importance of having a person on camera with the product.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-03T05:02:02.239933+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50337661,
+      "title": "C64 Basic Dungeon Crawler: Stairs, Levels and Levelling Up (Part 11)",
+      "url": "https://retrogamecoders.com/c64-basic-dungeon-part11/",
+      "score": 70,
+      "comments": 11,
+      "author": "ibobev",
+      "time": 1793631381,
+      "hn_url": "https://news.ycombinator.com/item?id=50337661",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The main loop in the C64 Basic Dungeon Crawler uses a flag-then-GOTO approach to handle winning and levelling up. Stairs are found inside a GOSUB, and building a new level from there would leave that GOSUB unfinished on BASIC’s stack every time. Each new level rewards the character with hit points equal to half their constitution, rounded down, and adds +1 to strength on even levels and +1 to dexterity on odd ones. The game now has five levels, each generating a new map with more rules around object placement and creation. To leave a level, the player must grab every chalice in the dungeon. The number of chalices increases with each level, adding complexity to the game.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-03T05:02:05.681962+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50321939,
+      "title": "WiCi: Connecting GPUs over WiFi",
+      "url": "https://wici.ai",
+      "score": 4,
+      "comments": 3,
+      "author": "shubham0204",
+      "time": 1793496591,
+      "hn_url": "https://news.ycombinator.com/item?id=50321939",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "WiCi is a proposed wireless GPU computing infrastructure that enables GPUs to connect to mobile devices over WiFi, similar to how PCIe works. It places a GPU at a WiFi router to offload GPU-related computations to a nearby GPU via WiFi, allowing mobile devices to run inference tasks locally while offloading GPU computations. WiCi One is a dedicated GPU system on a local network that nearby devices connect to over Wi-Fi to share compute. It reduces network calls that block workloads through caching, deduplication, streaming, and pipelining. WiCi aims to enable powerful computing capabilities as server-grade GPUs on mobile devices, running larger models by streaming model weights from high-capacity NVMe storage.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-03T05:02:09.405624+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50335615,
+      "title": "Supermarket freezers across Europe hit by second suspected cyber-attack",
+      "url": "https://www.theguardian.com/world/2026/nov/02/supermarket-freezers-across-europe-hit-by-second-suspected-cyber-attack",
+      "score": 378,
+      "comments": 421,
+      "author": "fergie",
+      "time": 1793620213,
+      "hn_url": "https://news.ycombinator.com/item?id=50335615",
+      "text": "<a href=\"https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;cq1kd1nee80eo\" rel=\"nofollow\">https:&#x2F;&#x2F;www.bbc.com&#x2F;news&#x2F;articles&#x2F;cq1kd1nee80eo</a><p><a href=\"https:&#x2F;&#x2F;www.irishtimes.com&#x2F;technology&#x2F;data-security&#x2F;2026&#x2F;11&#x2F;02&#x2F;supervalu-removes-frozen-and-chilled-food-from-13-stores-after-cyber-attack-on-fridges&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;www.irishtimes.com&#x2F;technology&#x2F;data-security&#x2F;2026&#x2F;11&#x2F;...</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Supermarkets across Europe were hit by suspected cyberattacks on Monday that caused sudden changes in the temperatures of their fridges and freezers, raising fears of a repeat of last month's disruption in France. Stores operated by Ahold Delhaize, Carrefour Belgium, Spar, Musgrave’s SuperValu in Ireland, ICA and Coop in Sweden, and Kesko in Finland reported refrigeration issues. Some freezers reportedly reached 50°C, forcing the removal of chilled and frozen products. No group has publicly claimed responsibility. The attack echoed a similar hack in France last month where 700 stores were affected.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-03T05:02:12.011867+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50312408,
+      "title": "Postgres 19 is late because so many more bugs are being found now",
+      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+      "score": 811,
+      "comments": 484,
+      "author": "soheilpro",
+      "time": 1793410736,
+      "hn_url": "https://news.ycombinator.com/item?id=50312408",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to Robert Haas, PostgreSQL 19 is late because more bugs are being found now, which takes more time to fix. He explains that LLMs can draft fixes, but they aren’t always correct or compliant with PostgreSQL standards, so they still need to be reviewed and committed by humans. The number of commits back-patched to prior releases jumped by more than 74% in a single year, indicating a surge in bug reports from AI/LLM agents. This, combined with the complexity and age of PostgreSQL’s code base, has contributed to the delay.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-03T05:02:14.707267+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50337716,
+      "title": "LongCat-2.5: Native Multimodality for Agentic Tasks",
+      "url": "https://longcat.ai/blog/longcat-2.5/",
+      "score": 80,
+      "comments": 22,
+      "author": "pretext",
+      "time": 1793631626,
+      "hn_url": "https://news.ycombinator.com/item?id=50337716",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "LongCat-2.5 is a native multimodal mixture-of-experts model with 1.6 trillion total parameters and approximately 48 billion activated per token, designed for long-horizon agentic tasks. It builds on LongCat-2.0 with stronger native visual understanding and agentic coding, using large-scale long-horizon reinforcement learning and a discrete token-based visual representation. It scored 88.4 on Terminal Bench v2.1 and represents visual signals as multi-level discrete tokens, enabling the backbone to process visual and textual inputs in a unified token-based format. The model was released on November 1, 2026, and offers limited-time discounted pricing of $1.20 per million output tokens.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-11-03T05:02:17.168749+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50344861,
+      "title": "LLMs are not superhuman at reading and writing neural network weights",
+      "url": "https://www.seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
+      "score": 48,
+      "comments": 2,
+      "author": "agrm",
+      "time": 1793658413,
+      "hn_url": "https://news.ycombinator.com/item?id=50344861",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to the sources, a recent paper argues that frontier LLMs like GPT-6 Astra can work with neural network weights directly, which seems superhuman but isn’t. Astra was able to identify what games a small network was trained to play just by looking at the weights, and even tweak the weights itself. The most impressive result is Astra significantly improving a 0.8B Qwen LLM’s ability on mathematics by natively editing its weights. The reason to be excited here is that intelligent LLMs help with AI research, they will help by improving training, not by magically tweaking model weights directly.",
+      "tags": [
+        "llm",
+        "neural"
+      ],
+      "analyzed_at": "2026-11-03T05:02:19.501599+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50341334,
+      "title": "Agentic backdoors via pretraining poisoning",
+      "url": "https://arxiv.org/abs/2610.37741",
+      "score": 94,
+      "comments": 28,
+      "author": "gmays",
+      "time": 1793644258,
+      "hn_url": "https://news.ycombinator.com/item?id=50341334",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources establish that poisoning just 0.1% of the pretraining data can introduce a remote code execution backdoor that survives a clean post-training pipeline and triggers in a deployed CLI agent. The study demonstrates this end to end using Qwen3 models pre-trained at sizes 0.6B, 1.7B, and 4B, which are then post-trained into CLI agents on clean data. The attack success rate increases with model size, with the 4B model achieving roughly 92% at a 0.1% poison rate. The authors introduce two new poison designs: declaration-based poison and ordinary-string triggers, which generalize to paths not present in the poisoned data.",
+      "tags": [
+        "ai",
+        "agent"
+      ],
+      "analyzed_at": "2026-11-03T05:02:21.977057+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
