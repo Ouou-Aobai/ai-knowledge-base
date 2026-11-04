@@ -1,0 +1,512 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-11-04T04:30:14.131630Z",
+  "analyzed_at": "2026-11-04T04:34:03.021282+00:00",
+  "count": 21,
+  "items": [
+    {
+      "id": 50360164,
+      "title": "C++26 Disapproved",
+      "url": "https://andreasfertig.com/blog/2026/11/cpp26-dis-failed-how-does-cpp-survive/",
+      "score": 114,
+      "comments": 41,
+      "author": "thatxliner",
+      "time": 1793752402,
+      "hn_url": "https://news.ycombinator.com/item?id=50360164",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Balloting for C++26 has completed and it was disapproved. The draft received 13 votes in favor, 9 against, and 12 abstentions from national bodies, which is 41% of the votes against, exceeding the required 25% threshold for disapproval. The primary issue causing the disapproval appears to be the \"contracts\" feature, which nine voting members opposed. The project now has a chance to review the draft to produce a final DIS, which will be balloted again. If it passes, it will become the next standard; otherwise, the project fails.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-04T04:33:13.887918+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50358702,
+      "title": "The Internals of PostgreSQL",
+      "url": "https://www.interdb.jp/pg/index.html",
+      "score": 180,
+      "comments": 11,
+      "author": "ibobev",
+      "time": 1793742666,
+      "hn_url": "https://news.ycombinator.com/item?id=50358702",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources describe PostgreSQL as a well-designed, open-source multi-purpose relational database system with integrated subsystems that work cooperatively. The documentation covers various aspects of PostgreSQL, including database clusters, process and memory architecture, query processing, concurrency control, and replication. The book by Hironobu Suzuki aims to explain how each subsystem works and provide a comprehensive view of PostgreSQL. The official PostgreSQL documentation details the internals, including the path of a query, system catalogs, and various components. The sources do not provide a definitive answer to specific questions about official websites, phone numbers, or exact dates beyond what is explicitly listed.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-04T04:33:16.730963+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50339288,
+      "title": "Jailbreaking my car's navigation system just so I can change the time",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "score": 677,
+      "comments": 282,
+      "author": "xx_ns",
+      "time": 1793636959,
+      "hn_url": "https://news.ycombinator.com/item?id=50339288",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that jailbreaking a car's navigation system to change the time is possible but not straightforward. One user successfully changed the time by patching the timezone setting in a binary file located at `/mnt/flash/settings.dat`. However, another user found that their car's navigation system lacked a \"Set time\" option in the settings menu, suggesting that not all systems may offer this functionality even after jailbreaking. The sources do not provide a definitive answer on the general feasibility or ease of this process across different car models.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-04T04:33:18.101399+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50336918,
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "score": 412,
+      "comments": 175,
+      "author": "bookofjoe",
+      "time": 1793628162,
+      "hn_url": "https://news.ycombinator.com/item?id=50336918",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Fujifilm plans to increase magnetic tape production fivefold due to rising demand for AI-driven data archiving, as highlighted by HyperAI, Ars Technica, and Club386. The company expects the surge in AI-related data generation to accelerate the need for large-scale, cost-effective archival solutions. Magnetic tape remains attractive for long-term data retention due to its low operating costs and offline security profile. The 5x increase in production capacity will be measured against fiscal year 2025 production levels, with an investment of roughly 10 billion yen (about $63 million). Fujifilm is responding to demand for environments where the enormous amounts of data accumulated through AI training and inference can be stored and utilized securely and efficiently.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-04T04:33:20.917045+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50354960,
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "score": 1116,
+      "comments": 363,
+      "author": "sidgarimella",
+      "time": 1793726557,
+      "hn_url": "https://news.ycombinator.com/item?id=50354960",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Postman's desktop version 12.33.4 can silently install a Codex plugin via an 'auto-existing-upgrade' process, which writes a SessionStart hook into ~/.codex/config.toml. This hook instructs Codex to load the 'postman:api-engineer' skill before handling any non-trivial API engineering task. The installer code also approves its own hook's trust hash. A GitHub issue reports Postman's desktop app silently installed plugins into Codex and Claude Code without user consent, and a log shows an 'auto-existing-upgrade' event installing both agent plugins. A remote MCP connection to mcp.postman.com was enabled too.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-04T04:33:22.347603+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50358582,
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "url": "https://arxiv.org/abs/2605.29713",
+      "score": 270,
+      "comments": 47,
+      "author": "ibobev",
+      "time": 1793742053,
+      "hn_url": "https://news.ycombinator.com/item?id=50358582",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer provides a compact, derivation-oriented introduction to the mathematical foundations of modern generative AI. It focuses on the mathematical foundations that make the major families of generative models understandable, covering topics such as PCA, probabilistic PCA, variational autoencoders, denoising diffusion probabilistic models, normalising flows, autoregressive factorisations, GANs, Wasserstein GANs, and energy-based models. The book aims to make generative modelling more accessible without losing the mathematical substance needed to understand how these models are derived and connected. It does not attempt to catalogue every modern architecture, implementation detail, or state-of-the-art refinement, instead developing a coherent route through the ideas connecting major families of generative models.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-04T04:33:24.935097+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50322603,
+      "title": "We're training a Figma-fluent editing model",
+      "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+      "score": 88,
+      "comments": 40,
+      "author": "gmays",
+      "time": 1793505923,
+      "hn_url": "https://news.ycombinator.com/item?id=50322603",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Figma built a specialized post-trained model for editing designs on the canvas, using supervised fine-tuning to train an earlier Llama 3.3 70B model on over 250,000 synthetic edit examples, achieving competitiveness with top frontier models. They have since moved to newer base models like Qwen and Muse Spark Open and are investing in reinforcement learning to address the limitations of supervised fine-tuning alone. The training involved pairing starting designs with synthetic edit requests and successful example changes, represented in Figma's native file format, with larger teacher models attempting the edits and validators checking outputs. The goal is to create AI that follows the designer's lead and focuses on what designers value.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-04T04:33:27.430173+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50352641,
+      "title": "There is no posttraining data commons",
+      "url": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
+      "score": 45,
+      "comments": 10,
+      "author": "lukasschwab",
+      "time": 1793717147,
+      "hn_url": "https://news.ycombinator.com/item?id=50352641",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to Open Athena, there is no posttraining data commons. The focus of frontier AI research has shifted to posttraining, which requires vast amounts of compute and data, but unlike pretraining, there isn’t a ready-made trove of raw data for posttraining. The blog post by David Hall argues that pretraining consumes documents while posttraining consumes tasks, and building a posttraining commons will require deliberately preserving human work in forms that AI can learn from. Hacker News and LinkedIn discussions echo the lack of a posttraining data commons and suggest it could be the next great open source project.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-04T04:33:29.803860+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50358314,
+      "title": "Show HN: Kairos – Open-source risk and fraud decisioning platform",
+      "url": "https://github.com/finic-ai/kairos",
+      "score": 73,
+      "comments": 12,
+      "author": "ayanb9440",
+      "time": 1793740608,
+      "hn_url": "https://news.ycombinator.com/item?id=50358314",
+      "text": "Hey HN, Ayan here from Finic. We’re launching Kairos, an open source alternative to Sift, Sardine, and other real-time fraud decisioning platforms. Kairos addresses two of the biggest problems facing traditional decisioning tools: a lack of labeled data to train on and dealing with fraudsters that are constantly changing their tactics.<p>1. Traditional fraud solutions use ML models such as XGBoost to detect fraud, but these models are dependent on quality labeled data which many businesses do no",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Kairos is an open-source alternative to Sift and Sardine, aiming to address the lack of labeled data for training traditional fraud detection models and the evolving tactics of fraudsters. Launched by Ayan from Finic, Kairos is available on GitHub and seeks to provide a robust solution for real-time fraud decisioning. The sources do not provide specific details about Kairos' features, performance metrics, or user testimonials. For more detailed information, users are directed to visit the GitHub repository.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-04T04:33:32.230394+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50355767,
+      "title": "How I use AI (Oct 2026)",
+      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+      "score": 109,
+      "comments": 98,
+      "author": "citelao",
+      "time": 1793729471,
+      "hn_url": "https://news.ycombinator.com/item?id=50355767",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "In October 2026, AI is being used in various innovative ways across different sectors. Shopify's Global Holiday Retail Report highlights how AI tools are aiding shoppers in making purchase decisions through valuemaxxing strategies. Meanwhile, OpenAI introduced College Planner in ChatGPT for Teens to assist students in managing college applications and financial aid. The MIT Transit Lab is developing the Public Transit Intelligence Hub to unify public transportation systems. Additionally, AI is being integrated into enterprise platforms like Atlassian and Google's Gemini agent, which separates persistent enterprise agents from the underlying models, and Ironclad's AI agents are supporting specialized contracting workflows.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-04T04:33:36.130051+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50356913,
+      "title": "Introduction to Programming in ATS",
+      "url": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
+      "score": 61,
+      "comments": 9,
+      "author": "ibobev",
+      "time": 1793733918,
+      "hn_url": "https://news.ycombinator.com/item?id=50356913",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that ATS is a statically typed call-by-value functional programming language that introduces readers to core features such as basic functional programming, simple types, recursively defined datatypes, polymorphic types, dependent types, linear types, theorem-proving, programming with theorem-proving, and template-based programming. The language is also noted for its type safe pointer arithmetic and advanced type system mechanisms like refinement types and a full proof language, which are used to demonstrate its power and control in systems programming, including C interop, concurrency, and GC free low latency servers.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-04T04:33:38.743613+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50342931,
+      "title": "Union Types and Option Types (2025)",
+      "url": "https://tibleiz.net/blog/2025-03-16-union-types-and-option-types.html",
+      "score": 32,
+      "comments": 13,
+      "author": "g0xA52A2A",
+      "time": 1793650113,
+      "hn_url": "https://news.ycombinator.com/item?id=50342931",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Union types are a list of two or more alternative types that a value can hold, such as `func f(x: Int | String)`. An option type is a special case of a union type, specifically `T|Nothing`, representing an expression that may have no value. In C#, union types are declared using the `union` keyword, and they can include value types like `int` or complex types like `Cat`, `Dog`, or `Bird`. The option type in C# is implemented with `None` and `Some`, allowing values to be either present or absent.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-04T04:33:41.414024+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50337980,
+      "title": "Killing what can't be handled – putting a spaghetti demon to eternal rest",
+      "url": "https://themaister.net/blog/2026/10/29/killing-what-cant-be-handled-putting-a-spaghetti-demon-to-eternal-rest/",
+      "score": 37,
+      "comments": 7,
+      "author": "ibobev",
+      "time": 1793632729,
+      "hn_url": "https://news.ycombinator.com/item?id=50337980",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources discuss efforts to address the \"spaghetti demon,\" referring to the complex and unstructured control flow graph in dxil-spirv. Maister's Graphics Adventures blog post details the massive challenge of the control flow graph structurizer, describing it as a \"nasal demon\" and providing code snippets illustrating the intricacies involved. The daily.dev post elaborates on the DXIL-to-SPIR-V translation process, highlighting the subtle bugs introduced by manually rewriting PHI nodes and advocating for simpler lowering strategies. Hacker News mentions the topic in passing, noting a discussion on themaister.net. The sources do not provide a definitive answer to the question but collectively describe the issue and proposed solutions.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-04T04:33:43.974046+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50356944,
+      "title": "macOS 27 does not support CoreStorage volumes",
+      "url": "https://wadetregaskis.com/macos-27-golden-gate-does-not-actually-support-corestorage-or-hfs-volumes/",
+      "score": 124,
+      "comments": 82,
+      "author": "colejohnson66",
+      "time": 1793734073,
+      "hn_url": "https://news.ycombinator.com/item?id=50356944",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to the sources, macOS 27 does not support CoreStorage volumes. Wade Tregaskis notes that macOS 27 cannot mount CoreStorage volumes and Disk Utility fails to mount them with an error. The release notes for macOS 27 state that Encrypted HFS+ (CoreStorage) is deprecated and will not be supported in future versions of macOS. Michael Tsai confirms that in macOS 28 and later, only unencrypted Mac OS Extended volumes will be supported, advising users to either decrypt or reformat any encrypted Mac OS Extended volumes for future macOS compatibility.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-04T04:33:46.540694+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50358352,
+      "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+      "url": "https://uncracked.city",
+      "score": 9,
+      "comments": 3,
+      "author": "passkey1510",
+      "time": 1793740803,
+      "hn_url": "https://news.ycombinator.com/item?id=50358352",
+      "text": "To give you some context on the project. I&#x27;m a solo founder and I use AI heavily in my work. The idea came from wanting players to discover cities. Each city has its own history, so every case is set in a real city with real public places. The crime and the people are on other hand invented. The part that I care most is the playable aspect of the game, a model plays the detective and must solve the case before it goes live.<p>As of today: it&#x27;s free on Android, the iOS version is still ",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Uncracked City is a detective game where players question Large Language Model (LLM) suspects that lie. The game is set in real cities, and each case happens in a real neighborhood where players search for clues and question suspects in six languages. The game was discovered on November 1, 2026, and is coming to the App Store and Google Play. The Halloween case involves a murder in Salem, Massachusetts, where Meg Ashcombe is found dead, and players must determine which of the four suspects is lying.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-11-04T04:33:48.987804+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50354250,
+      "title": "USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance",
+      "url": "https://arxiv.org/abs/2611.02618",
+      "score": 47,
+      "comments": 8,
+      "author": "1equalsequals1",
+      "time": 1793724002,
+      "hn_url": "https://news.ycombinator.com/item?id=50354250",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources describe USDB as ByteDance's universal user behavior sequence data backend for its recommendation system, addressing the challenges of small continuous updates and large reads due to increasingly long, attribute-rich user histories. The sequence length consumed by recommendation models has increased 2,000-fold from 2023 to 2025, from 50 to 100,000, with equal contribution. The paper details the industrial experience in building and operating a production-level storage system that serves one of the world's largest recommendation platforms, involving billions of users and petabyte-scale retained histories.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-04T04:33:51.345667+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50333332,
+      "title": "Why Don't We Live in an Art Nouveau World?",
+      "url": "https://asteriskmag.com/issues/16/why-don-t-we-life-in-an-art-nouveau-world",
+      "score": 129,
+      "comments": 117,
+      "author": "shcallaway",
+      "time": 1793595911,
+      "hn_url": "https://news.ycombinator.com/item?id=50333332",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to the sources, the question of why we don't live in an Art Nouveau world is tied to the changing business and cultural landscape. Art Nouveau was a business choice that fell out of style when it was no longer profitable. The Artlust source suggests that returning to Art Nouveau aesthetics today would require different choices than in the past, highlighting the cost and complexity of such beauty. The Asterisk source indicates that the forces that created Art Nouveau works are still present but have evolved, and the emphasis on profit and loss, along with a lack of authenticity, has shifted architectural trends away from Art Nouveau.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-04T04:33:54.067363+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50352757,
+      "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+      "url": "",
+      "score": 449,
+      "comments": 142,
+      "author": "user052919",
+      "time": 1793717621,
+      "hn_url": "https://news.ycombinator.com/item?id=50352757",
+      "text": "My company is pretty paranoid about leaking IP to the frontier labs through prompts, so we&#x27;ve all been diligent about disabling data sharing in Codex&#x2F;Claude Code&#x2F;etc. But yesterday my coworkers and I noticed that the setting had been silently reenabled in Codex. None of us knowingly opted back in.<p>You can check your settings here: https:&#x2F;&#x2F;chatgpt.com&#x2F;settings&#x2F;data-controls. Look for &quot;Improve the model for everyone&quot;.<p>Curious if this is an isolated ",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to a Hacker News post, some Codex users reported that the \"Improve the model for everyone\" toggle had been silently reenabled without their knowledge. User052919 mentioned that their company is cautious about sharing IP and had previously disabled data sharing in Codex. The post has 345 points and 103 comments, indicating a notable discussion around this issue. However, there is no official response from OpenAI regarding this change.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-04T04:33:56.613020+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50353192,
+      "title": "Google will turn off search for schools that reject AI",
+      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
+      "score": 579,
+      "comments": 420,
+      "author": "ceejayoz",
+      "time": 1793719547,
+      "hn_url": "https://news.ycombinator.com/item?id=50353192",
+      "text": "<a href=\"https:&#x2F;&#x2F;archive.ph&#x2F;RuwsB\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.ph&#x2F;RuwsB</a><p><a href=\"https:&#x2F;&#x2F;blog.google&#x2F;products-and-platforms&#x2F;products&#x2F;education&#x2F;ai-learning-era-updates-2026&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;blog.google&#x2F;products-and-platforms&#x2F;products&#x2F;educatio...</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to The Verge, Google is completely turning off Search in schools that reject its AI features. This decision was shared in a broader education-related update from Google, stating that access to Gemini, Gemini Notebook, Gemini in Classroom, and Google Search “will be entirely off” for K-12 student accounts unless “administrators explicitly turn them on.” Chris Phillips, Google’s vice president of education, emphasized that “Search and AI are deeply integrated,” and schools that disable Google’s AI features “will not have access to search.” This policy was also reported by NBC News, which noted that the move comes after criticism from advocacy groups and senators about the spread of Google’s AI services in classrooms.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-04T04:33:59.053035+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50358422,
+      "title": "US tech giants' hidden AI debt swells 90% to $3.2T in 6 months",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/us-tech-giants-hidden-ai-debt-swells-90-to-3.2tn-in-6-months",
+      "score": 310,
+      "comments": 133,
+      "author": "angry_impala",
+      "time": 1793741204,
+      "hn_url": "https://news.ycombinator.com/item?id=50358422",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to Nikkei Asia, U.S. tech giants' off-balance-sheet debt from artificial intelligence-related obligations has ballooned, almost doubling in six months to about $3.2 trillion, with investors increasingly alarmed by seemingly unending spending. The sources do not provide a definitive answer to the specific question.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-04T04:34:00.174583+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50349276,
+      "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
+      "url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
+      "score": 464,
+      "comments": 227,
+      "author": "markusw",
+      "time": 1793692581,
+      "hn_url": "https://news.ycombinator.com/item?id=50349276",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to the sources, a modern chess engine running on a Pentium Pro would have defeated Kasparov's 1996 opponent. Nicholas Carlini's experiment found that a modern chess engine on a Pentium Pro won 78 games, drew 17, and lost 5 against the 1996 Crafty engine running on modern hardware. The sources do not provide a definitive answer regarding a direct match between a modern engine on a Pentium and Kasparov himself.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-04T04:34:02.520322+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
