@@ -1,0 +1,1753 @@
+{
+  "source": "github",
+  "collected_at": "2026-11-05T04:45:56.143869Z",
+  "analyzed_at": "2026-11-05T04:49:52.140401+00:00",
+  "count": 50,
+  "items": [
+    {
+      "id": "deepseek-ai/dsh-superagent-prototype",
+      "title": "dsh-superagent-prototype",
+      "description": "Towards a More Autonomous Agent System",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "stars": 18786,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-10-31T09:32:46Z",
+      "updated_at": "2026-11-03T09:29:14Z",
+      "forks": 2107,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "DeepSeek just open-sourced dsh-superagent, a proactive coding agent built for a single GitHub repository. It listens to issues and pull requests, then runs many agents in parallel to clear work while demanding almost no ongoing human attention. The design follows one clear rule: take as little human attention as possible and deliver as much value as possible. The team notes that much of the engineering was done by coding agents themselves and that the code is intended for reference and adaptation, not as a production product. It sits alongside their broader Super-agent design that separates a long-running router from parallel worker sessions so one conversation can span multiple concurrent tasks without forcing people to track every session.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-11-05T04:47:10.736572+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "heydamir/unslop",
+      "title": "unslop",
+      "description": "A Claude skill that turns vibecoded, AI-looking UI into a designed interface",
+      "url": "https://github.com/heydamir/unslop",
+      "stars": 8814,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-29T15:41:21Z",
+      "updated_at": "2026-11-01T16:46:10Z",
+      "forks": 436,
+      "open_issues": 6,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Unslop skill transforms the AI-looking UI into a designed interface by flagging and removing design patterns that make a website look AI-generated. It targets 'vibe-coded' aesthetics like homogenous color schemes, emoji abuse, glassmorphism, and excessive gradients, ensuring that generated landing pages, dashboards, and components look professional and hand-crafted. The skill gained 997 stars in a few days in October 2026 and is described as a free tool that can be used on landing pages, dashboards, and mobile apps.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:47:13.391581+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "wangzan101/Mika",
+      "title": "Mika",
+      "description": "An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "url": "https://github.com/wangzan101/Mika",
+      "stars": 6750,
+      "language": "Kotlin",
+      "topics": [
+        "accessibility",
+        "ai-agent",
+        "android",
+        "automation",
+        "jetpack-compose",
+        "kotlin",
+        "llm",
+        "mobile-agent"
+      ],
+      "created_at": "2026-10-29T14:34:07Z",
+      "updated_at": "2026-11-05T04:43:25Z",
+      "forks": 1475,
+      "open_issues": 125,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Mika is an on-device AI agent for Android that operates apps and the web to get things done for you. It is open-source and written in Cotlin, emphasizing privacy by working on your phone without relying on remote models or screenshot streaming. Mika can handle scheduled tasks, remember your preferences, and operates in a hidden background screen, allowing you to use your phone while it works. It uses your own AI model and runs scripts in a Linux sandbox, ensuring tasks are completed privately. The project has gained significant attention, with over 4,000 stars on GitHub.",
+      "tags": [
+        "jetpack-compose",
+        "android",
+        "llm",
+        "ai-agent",
+        "kotlin"
+      ],
+      "analyzed_at": "2026-11-05T04:47:15.937538+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "KKKKhazix/agent-autoloop",
+      "title": "agent-autoloop",
+      "description": "让你的命令行 Agent 在后台自己接活、自己跟进到底；平时不烦你，遇到拿不准的事才发卡片找你拍板。",
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "stars": 2739,
+      "language": "TypeScript",
+      "topics": [
+        "ai-agents",
+        "automation",
+        "claude-code",
+        "cli",
+        "codex",
+        "event-driven",
+        "mcp",
+        "nodejs",
+        "self-hosted",
+        "typescript",
+        "workflow"
+      ],
+      "created_at": "2026-11-03T08:02:11Z",
+      "updated_at": "2026-11-05T04:17:20Z",
+      "forks": 535,
+      "open_issues": 9,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Agent-Autoloop is an open-source command line agent automation system that allows your agent to independently handle tasks in the background without bothering you unless it encounters uncertain situations, at which point it sends a card to you for decision-making. The system has been refined over a year and is designed to run autonomously, taking on tasks like cron jobs and GitHub issues, and it can interface with various agents like Claude code or Codex. It operates without external dependencies and integrates with platforms like Feishu, DingTalk, and Slack for notifications. The core of Agent-Autoloop is a lightweight, 1600-line code kernel with four mechanisms: suspending with zero consumption, event traceability, command-data separation, and jump number meltdown.",
+      "tags": [
+        "ai-agents",
+        "event-driven",
+        "claude-code",
+        "cli",
+        "nodejs"
+      ],
+      "analyzed_at": "2026-11-05T04:47:18.783613+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "paipiange/nvzhuang",
+      "title": "nvzhuang",
+      "description": "1407 张 AI 女装参考图集与虚拟试穿网站，支持中英检索、OpenAI Images / Gemini / 豆包及自定义 Base URL、API Key、模型。https://github.com/paipiange/nvzhuang",
+      "url": "https://github.com/paipiange/nvzhuang",
+      "stars": 2222,
+      "language": "HTML",
+      "topics": [],
+      "created_at": "2026-10-29T06:08:00Z",
+      "updated_at": "2026-11-04T15:09:47Z",
+      "forks": 561,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources describe various fashion references and AI-generated images, including detailed descriptions of outfits for different occasions and styles, and mention the use of multiple AI models for generating images. There is no direct mention of \"nvzhuang 1407 张 AI 女装参考图集与虚拟试穿网站\" or its features, but the sources do discuss AI-driven image generation and the use of different models and APIs for creating high-quality visuals.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:47:22.490679+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "caru-ini/stack-diagram",
+      "title": "stack-diagram",
+      "description": "Agent skill: describe your stack in a sentence, get an architecture diagram with official logos",
+      "url": "https://github.com/caru-ini/stack-diagram",
+      "stars": 1773,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skills",
+        "architecture-diagram",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "diagram",
+        "system-architecture",
+        "tech-stack"
+      ],
+      "created_at": "2026-11-01T05:35:12Z",
+      "updated_at": "2026-11-03T03:42:46Z",
+      "forks": 81,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources describe stack-diagram as an open-source AI agents skill for coding assistants, built by caru-ini, which allows users to describe their stack in a sentence to get an architecture diagram with official logos. It has 552 GitHub stars and was added on November 1, 2026. The skill also mentions generating diagrams from various sources and supports automatic logo inclusion from official libraries. The sources do not provide a definitive answer to the request for an architecture diagram with official logos.",
+      "tags": [
+        "claude-code",
+        "tech-stack",
+        "claude-skills",
+        "architecture-diagram",
+        "codex"
+      ],
+      "analyzed_at": "2026-11-05T04:47:25.514805+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "JuneYaooo/rea-video",
+      "title": "rea-video",
+      "description": "Reverse-engineer any video, shot by shot: tells whether each shot was filmed, AI-generated or coded, how the captions, cuts and audio were made, and how to remake it. 逆向一切视频，逐镜拆出制作方式并给出复刻方案。",
+      "url": "https://github.com/JuneYaooo/rea-video",
+      "stars": 1307,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-video",
+        "aigc-detection",
+        "claude-code",
+        "codex",
+        "douyin",
+        "ffmpeg",
+        "prompt-engineering",
+        "remotion",
+        "reverse-engineering",
+        "short-video",
+        "shot-detection",
+        "subtitles",
+        "tiktok",
+        "video-analysis",
+        "video-breakdown",
+        "video-editing",
+        "video-generation",
+        "vlm"
+      ],
+      "created_at": "2026-10-29T16:15:01Z",
+      "updated_at": "2026-11-05T02:23:05Z",
+      "forks": 191,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "rea-video reverse-engineers any video, analyzing shot by shot whether visuals, styled text, editing, and audio were filmed, AI-generated, or coded, then provides a plan to remake it. It doesn't render a video but gives a one-line summary, a remake plan, and a full `report.html` with per-shot frames, evidence, prompts, camera and lighting notes, and the audio breakdown. The workflow for reconstructing video into AI prompts includes shot detection, subject/scene analysis, motion analysis, camera analysis, light/style analysis, temporal structure, audio analysis, and prompt assembly.",
+      "tags": [
+        "shot-detection",
+        "video-analysis",
+        "subtitles",
+        "video-editing",
+        "prompt-engineering"
+      ],
+      "analyzed_at": "2026-11-05T04:47:29.429882+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "wquguru/cicada",
+      "title": "cicada",
+      "description": "知了 Cicada · 任何会议和直播的实时字幕、同声传译、AI 会议纪要，Mac、Windows、Linux、Android 免费开源。Live subtitles, interpreting and meeting notes for any call or stream, on Mac, Windows, Linux and Android.",
+      "url": "https://github.com/wquguru/cicada",
+      "stars": 1243,
+      "language": "Swift",
+      "topics": [
+        "android",
+        "linux",
+        "live-captions",
+        "macos",
+        "meeting-notes",
+        "menubar-app",
+        "simultaneous-interpretation",
+        "speech-recognition",
+        "subtitles",
+        "swift",
+        "swiftui",
+        "translation",
+        "windows"
+      ],
+      "created_at": "2026-11-01T05:41:23Z",
+      "updated_at": "2026-11-05T03:26:08Z",
+      "forks": 231,
+      "open_issues": 6,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Cicada, also known as 知了, is an open-source software for real-time subtitles, interpreting, and AI meeting notes available on Mac, Windows, Linux, and Android. It is released under the Apache-2.0 license, allowing for both personal and commercial use. Key features include real-time translation for any call or stream, meeting notes updated every 45 seconds with summaries, topics, and fishbone diagrams, and voice cloning for simultaneous translation. Users can also benefit from a free monthly quota of 50 hours via the Ant Ling API. The software is currently available for Mac, with versions for Windows, Linux, and Android in development.",
+      "tags": [
+        "macos",
+        "swift",
+        "translation",
+        "android",
+        "subtitles"
+      ],
+      "analyzed_at": "2026-11-05T04:47:32.918756+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "RikiyaT/lm_understand-logs",
+      "title": "lm_understand-logs",
+      "description": "Complete logs of the experiments in the blog post 'LLMs can understand and write neural network weights'",
+      "url": "https://github.com/RikiyaT/lm_understand-logs",
+      "stars": 942,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-29T04:17:30Z",
+      "updated_at": "2026-10-29T04:47:12Z",
+      "forks": 128,
+      "open_issues": 10,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The complete logs of every experiment in the blog post 'LLMs can understand and write neural network weights' are available at github.com/RikiyaT/lm_understand-logs. This includes everything sent to Astra and its responses, every piece of code it ran and the output it saw, the networks it read or wrote, and the evaluation behind each number. The blog post by Rikiya Takehi and co-authors states that these logs are released to provide transparency and reproducibility of their findings.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:47:35.895632+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "N1nEmAn/sapper-v2",
+      "title": "sapper-v2",
+      "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+      "url": "https://github.com/N1nEmAn/sapper-v2",
+      "stars": 925,
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "autonomous-agents",
+        "claude-code",
+        "ctf",
+        "llm",
+        "multi-agent",
+        "pentest"
+      ],
+      "created_at": "2026-10-30T15:12:35Z",
+      "updated_at": "2026-11-03T12:47:08Z",
+      "forks": 616,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources describe sapper-v2 as an autonomous pentest legion with an AI commander, a worker swarm, and a layered fact-intent graph. It was the 3rd Tencent Intelligent Attack-Defense online champion with 634 teams, achieving 8 hours unattended with 1B tokens beating 4.5B. It also participated in The Nüwa Test, giving AIs Create/Language/History to let a civilization grow. The project has 368 GitHub stars and 324 forks, and it is authorized for security testing only. The sources do not provide specific details on safety beyond this authorization.",
+      "tags": [
+        "ai-agents",
+        "claude-code",
+        "llm",
+        "ctf",
+        "autonomous-agents"
+      ],
+      "analyzed_at": "2026-11-05T04:47:39.457791+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "title": "Google_AI_Pro_2Year_ZeroCost_Auto",
+      "description": "Google_AI_Pro_2Year_ZeroCost_Auto",
+      "url": "https://github.com/worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
+      "stars": 895,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-11-04T14:54:56Z",
+      "updated_at": "2026-11-04T14:57:03Z",
+      "forks": 548,
+      "open_issues": 5,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The GitHub repository for Google_AI_Pro_2Year_ZeroCost_Auto requires Windows 10/11, Google Chrome, Python 3.10 or higher, and a US proxy for network settings. To use the tool, first run the installation and dependency setup batch file, then start the console. Users can input their Visa or Mastercard details in the left sidebar for zero-cost protection, and import Google accounts in various formats on the right. The tool automates the process of logging into Google, binding cards, and stacking free tiers to cover 24 months at zero cost, while ensuring no charges are applied.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:47:41.920474+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "anthropics/FlashProve",
+      "title": "FlashProve",
+      "description": "A research prototype for zero-knowledge proofs of AI inference. Not maintained.",
+      "url": "https://github.com/anthropics/FlashProve",
+      "stars": 839,
+      "language": "Lean",
+      "topics": [],
+      "created_at": "2026-10-30T19:29:59Z",
+      "updated_at": "2026-10-30T21:00:23Z",
+      "forks": 75,
+      "open_issues": 3,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Anthropic released FlashProve, an open-source research prototype for zero-knowledge proofs of AI inference, on November 2, 2026. The system uses cryptographic proofs to verify AI model outputs without revealing the model weights. FlashProve generates proofs at 110 tokens per second for Meta’s 400-billion-parameter Llama 4 Maverick model on a single H100 GPU, with each proof sized at about 19 MB. The system is based on zero-knowledge succinct arguments of knowledge (zkSNARKs) and is described as an unmaintained research artifact. The FlashProve repository includes a prover, a fast C++ verifier, a slower Lean verifier, Lean proofs, and an interactive theorem visualizer under the Apache 2.0 license.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:47:44.786311+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "sleepy-zone/ai-ref-library-cn",
+      "title": "ai-ref-library-cn",
+      "description": "AI 作图素材库 · 中文版（脸 / 姿势 / 服装）",
+      "url": "https://github.com/sleepy-zone/ai-ref-library-cn",
+      "stars": 716,
+      "language": "JavaScript",
+      "topics": [
+        "ai",
+        "gpt"
+      ],
+      "created_at": "2026-10-29T15:28:16Z",
+      "updated_at": "2026-11-04T12:36:26Z",
+      "forks": 176,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that the \"ai-ref-library-cn AI 作图素材库 · 中文版\" is a repository that mirrors an original Japanese AI pose gallery, providing 1439 records of AI human pose references, translated into Chinese. The repository includes 1439 images in total, with each record corresponding to multiple angles: front, side, top, etc. It also features a responsive gallery for browsing and downloading images. Additionally, the sources mention the use of AI tools for generating virtual models and avatars, with functionalities like face swapping, pose transfer, and style conversion. However, specific details about the repository's installation and usage are not provided in the sources.",
+      "tags": [
+        "gpt",
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:47:47.466010+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "UncensoredLabs/uncensored-ai-api",
+      "title": "uncensored-ai-api",
+      "description": "Uncensored AI API and browser chat: DeepSeek and GLM models, streaming, Python and TypeScript examples, pricing and setup guides.",
+      "url": "https://github.com/UncensoredLabs/uncensored-ai-api",
+      "stars": 716,
+      "language": "JavaScript",
+      "topics": [
+        "abliterated-models",
+        "ai-models",
+        "chat-api",
+        "deepseek",
+        "deepseek-flash-uncensored",
+        "deepseek-v4-1-flash-abliterated",
+        "developer-tools",
+        "glm",
+        "glm-abliterated",
+        "glm-uncensored",
+        "streaming-api",
+        "typescript",
+        "uncensored-ai",
+        "uncensored-ai-api",
+        "uncensored-ai-list",
+        "uncensored-chat",
+        "uncensored-llm",
+        "uncensored-models",
+        "unfiltered-ai",
+        "unfiltered-chat"
+      ],
+      "created_at": "2026-11-01T20:53:34Z",
+      "updated_at": "2026-11-01T20:57:07Z",
+      "forks": 51,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Uncensored AI API is an uncensored large language model that aims to generate text without safety filters, unlike standard models that may decline to answer adult, political, or security-related questions. It is distinct from GPT, Claude, Gemini, Grok, DeepSeek, Qwen, or Llama and is designed for lawful adult use without arbitrary blocks. The API is compatible with multiple models, including DeepSeek and GLM, and offers pay-per-token pricing. The GitHub repository for the API provides examples in Python and TypeScript, and includes a cURL example for accessing the API. The API is described as a single programmatic endpoint that gives access to model variants with fewer built-in refusals than standard hosted models.",
+      "tags": [
+        "deepseek-flash-uncensored",
+        "developer-tools",
+        "uncensored-ai-api",
+        "unfiltered-ai",
+        "unfiltered-chat"
+      ],
+      "analyzed_at": "2026-11-05T04:47:51.537622+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "rerun-build/rerun",
+      "title": "rerun",
+      "description": "AI coworkers that run your work. Self-hostable, AGPL-3.0.",
+      "url": "https://github.com/rerun-build/rerun",
+      "stars": 683,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-10-29T16:09:54Z",
+      "updated_at": "2026-11-04T19:58:18Z",
+      "forks": 68,
+      "open_issues": 4,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Rerun AI coworkers are open source and can be self-hosted for free under the AGPL-3.0 license. The software is free to host yourself, but the managed service is paid. You pay your model provider directly and for the infrastructure the self-hosted version runs on. The sources do not provide specific details on pricing or infrastructure costs.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:47:53.782641+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "hongye007/open-pose-costume",
+      "title": "open-pose-costume",
+      "description": "A bilingual reference studio for poses, costumes, and AI character creation.",
+      "url": "https://github.com/hongye007/open-pose-costume",
+      "stars": 656,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-10-29T22:05:35Z",
+      "updated_at": "2026-11-04T10:18:24Z",
+      "forks": 171,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Open Pose & Costume is a bilingual reference studio for character design, drawing practice, and AI-assisted creation. It offers 288 pose groups, 1,439 pose views, 1,407 outfits, and 1,499 character references, totaling 4,345 reference images as of October 30, 2026. Users can browse and search references in Chinese or English by name, keyword, ID, or multiple terms, filter and sort categories, and keep favorites and pairings in the current browser. The studio allows combining references on a workbench and sending the combination to an image-generation service configured by the user. The generated images depend on the configured model and service.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:47:56.247619+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Balanov/uncut",
+      "title": "uncut",
+      "description": "The lossless, headless coding agent harness. One 7 MB static binary, four tools, plain stdin/stdout, no silent cuts.",
+      "url": "https://github.com/Balanov/uncut",
+      "stars": 601,
+      "language": "Go",
+      "topics": [
+        "agent-harness",
+        "cli",
+        "coding-agent",
+        "go",
+        "headless",
+        "llm",
+        "local-models"
+      ],
+      "created_at": "2026-11-01T17:19:30Z",
+      "updated_at": "2026-11-02T20:58:19Z",
+      "forks": 14,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The uncut coding agent harness is a 7 MB static binary, headless, and lossless by default, with no summarization, pruning, sliding windows, or silent output caps. It consists of four tools and is implemented in 837 lines of Go. It outputs final text to stdout and structured NDJSON events with the `--json` flag. It is small and portable, requiring no runtime or third-party Go dependencies, and works with any provider neutral to OpenAI-compatible Chat Completions endpoints. It is resumable with optional append-only JSONL sessions preserving every message and tool result. The sources do not provide a definitive answer on specific details like version numbers or exact dates beyond the release information.",
+      "tags": [
+        "go",
+        "llm",
+        "local-models",
+        "cli",
+        "coding-agent"
+      ],
+      "analyzed_at": "2026-11-05T04:47:59.899305+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "zhanghao123vip/ai-manju-skills",
+      "title": "ai-manju-skills",
+      "description": "21 个题材的 AI 漫剧全流程 Skill：一句点子生成企划案、资产图提示词、分集剧本、分镜与视频提示词。可用于 Claude Code、WorkBuddy、DeepSeek",
+      "url": "https://github.com/zhanghao123vip/ai-manju-skills",
+      "stars": 575,
+      "language": null,
+      "topics": [
+        "ai-skills",
+        "ai-video",
+        "chinese",
+        "claude-code",
+        "prompt-engineering"
+      ],
+      "created_at": "2026-10-31T03:22:12Z",
+      "updated_at": "2026-11-01T02:53:40Z",
+      "forks": 111,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The AI 漫剧 Skills repository offers 21 different themes for creating full-process AI dramas, including genres like 玄幻修仙, 西幻魔法, 宫斗, 宅斗, 都市逆袭, and 悬疑刑侦. By inputting a single idea, users receive a complete plan including a project plan, asset image prompts, episode scripts, shot breakdowns, and video prompts. The templates are SKILL.md files that can be used directly in tools like Claude Code, WorkBuddy, and DeepSeek without dependencies. The default is 30 episodes, each about 4 minutes long in a 9:16 aspect ratio, but users can specify different episode counts and durations. However, the author notes that only the 玄幻修仙 theme has been fully tested, while others have only been partially tested.",
+      "tags": [
+        "claude-code",
+        "ai",
+        "chinese",
+        "ai-skills",
+        "prompt-engineering"
+      ],
+      "analyzed_at": "2026-11-05T04:48:04.227400+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "andrew-babo/muse4ai",
+      "title": "muse4ai",
+      "description": "Muse4AI — let your AI agent make the pictures and the videos. Local Windows bridge for Muse via REST, MCP, and OAuth.",
+      "url": "https://github.com/andrew-babo/muse4ai",
+      "stars": 526,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-11-03T17:45:18Z",
+      "updated_at": "2026-11-04T17:38:46Z",
+      "forks": 143,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Muse4AI is a third-party API for Muse by Meta that uses a Muse subscription: Free, Power $20 or Maximum $100 a month (as of October 2026). It provides a REST API and a hosted MCP server to make images and 10-second videos with sound and spoken dialogue, and allows chat with the Muse agent and control its web browser. The API uses one token for both REST API and MCP server. Meta sells no Muse video API, and its official Model API has no video generation or API for the Muse agent. Muse Code, Meta’s coding agent, supports MCP with `mcp_servers` config, stdio and Streamable HTTP transports, `/mcp` inventory, and OAuth 2.1 sign-in.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:48:08.051327+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Balanov/shim",
+      "title": "shim",
+      "description": "Tiny local-first AI harness: any model, MCP and Agent Skills, natural-language CLI. Zero dependencies. MIT.",
+      "url": "https://github.com/Balanov/shim",
+      "stars": 453,
+      "language": "Go",
+      "topics": [],
+      "created_at": "2026-11-02T17:54:29Z",
+      "updated_at": "2026-11-02T17:54:55Z",
+      "forks": 6,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources describe a high-performance AI agent called Late, which supports Agent Skills & MCP, Git worktree, and has a sub-10ms Go CLI startup. Bitget's Agent Hub upgrade supports the Model Context Protocol (MCP) for AI models to invoke trading capabilities. LongHorizon-Harness on GitHub supports DeepSeek Harness and OpenCode CLI with role-scoped permissions and API endpoint overrides. The sources do not provide a definitive answer regarding the specific model, MCP, and Agent Skills for shim Tiny local-first AI harness.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:48:11.451622+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "wquguru/shisei",
+      "title": "shisei",
+      "description": "💃 Free CC0 mannequin pose reference library for AI image tools (Nano Banana, ChatGPT, ComfyUI, Midjourney) — 250+ poses × 5 angles in line art, names in ja/zh/en/ko",
+      "url": "https://github.com/wquguru/shisei",
+      "stars": 441,
+      "language": "Python",
+      "topics": [
+        "ai-art",
+        "ai-image-generation",
+        "art-reference",
+        "cc0",
+        "comfyui",
+        "controlnet",
+        "dataset",
+        "drawing-reference",
+        "figure-drawing",
+        "line-art",
+        "mannequin",
+        "midjourney",
+        "multilingual",
+        "nano-banana",
+        "pose-reference",
+        "reference-images",
+        "stable-diffusion"
+      ],
+      "created_at": "2026-10-29T01:23:06Z",
+      "updated_at": "2026-11-02T14:10:19Z",
+      "forks": 87,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources do not provide information about \"shisei 💃 Free CC0 mannequin pose reference library for AI image tools (Nano Banana, ChatGPT, ComfyUI, Midjourney) — 250+ poses × 5 angles in line art, names in ja/zh/en/ko.\" The provided sources discuss pose references and tools for AI image generation but do not mention the specific library or its details as requested.",
+      "tags": [
+        "controlnet",
+        "reference-images",
+        "nano-banana",
+        "mannequin",
+        "midjourney"
+      ],
+      "analyzed_at": "2026-11-05T04:48:15.034758+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "op7418/dsh-guizang-design",
+      "title": "dsh-guizang-design",
+      "description": "歸藏设计 · DeepSeek Harness 插件：网页 PPT、图文卡片、网页排版、去 AI 味四个 skill，一套设计系统；作品库、内容生产工作流、语气档案",
+      "url": "https://github.com/op7418/dsh-guizang-design",
+      "stars": 440,
+      "language": "HTML",
+      "topics": [
+        "deepseek-harness",
+        "design-system",
+        "dsh-plugin",
+        "skills"
+      ],
+      "created_at": "2026-10-30T14:45:30Z",
+      "updated_at": "2026-10-31T04:55:09Z",
+      "forks": 28,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The dsh-guizang-design plugin for DeepSeek Harness includes four skills: Guizang PPT Skill, 图文卡片 Skill, 去 AI 味 Skill Humanizer-zh, and guizang-pages-skill for web layout. It shares a design system and Design Token, and includes useful features like a content production workflow and a library to store and reuse previous work such as PPTs, web pages, and documents. The plugin also allows for one-click duplication of styles.",
+      "tags": [
+        "design-system",
+        "deepseek-harness",
+        "skills",
+        "dsh-plugin"
+      ],
+      "analyzed_at": "2026-11-05T04:48:18.726823+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "wideeyededi/uncensored-nsfw-ai-video-api",
+      "title": "uncensored-nsfw-ai-video-api",
+      "description": "Uncensored NSFW AI video API — Seedance Spicy & Wan NSFW docs for 18+ text-to-video / image-to-video: async tasks, webhooks, credits billing. 成人向 AI 视频生成 API：Seedance Spicy、Wan NSFW、文生/图生视频、异步任务、积分计费、接入指南。",
+      "url": "https://github.com/wideeyededi/uncensored-nsfw-ai-video-api",
+      "stars": 422,
+      "language": null,
+      "topics": [
+        "123vips",
+        "ai-api",
+        "ai-companion",
+        "ai-video",
+        "ai-video-api",
+        "ai-video-generator",
+        "comfyui",
+        "image-to-video",
+        "nsfw",
+        "nsfw-ai",
+        "seedance",
+        "seedance-api",
+        "spicy",
+        "text-to-video",
+        "uncensored",
+        "uncensored-ai",
+        "video-api",
+        "video-generation",
+        "wan",
+        "wan-video"
+      ],
+      "created_at": "2026-11-02T02:15:29Z",
+      "updated_at": "2026-11-02T03:01:26Z",
+      "forks": 64,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Dzine AI is a platform that can create NSFW videos on its Master and Master Pro plans, supporting both text-to-video and image-to-video generation. It emphasizes that uncensored means freedom from overly sensitive filters but not a free-for-all to break the law. ZenCreator is another NSFW AI video generator that offers full creative freedom for adult-oriented video creation, including text-to-video and image-to-video animations, starting at $19.99. Crano AI's NSFW AI Video Generator turns text prompts, images, or clips into adult-themed video content using AI.",
+      "tags": [
+        "nsfw",
+        "video-api",
+        "spicy",
+        "comfyui",
+        "image-to-video"
+      ],
+      "analyzed_at": "2026-11-05T04:48:22.413692+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "mhfed/vn-law-check",
+      "title": "vn-law-check",
+      "description": "Audit pháp lý website theo luật Việt Nam (BVDLCN 91/2025, TMĐT 122/2025, ANM 116/2025, AI 134/2025) cho Claude Code, Cursor, Copilot, Windsurf, Cline",
+      "url": "https://github.com/mhfed/vn-law-check",
+      "stars": 418,
+      "language": "Shell",
+      "topics": [
+        "agent-md",
+        "agent-skills",
+        "claude-code",
+        "claude-plugin",
+        "claude-skills",
+        "compliance",
+        "copilot-instructions",
+        "cursor-rules",
+        "data-protection",
+        "ecomerce",
+        "legal-tech",
+        "privacy",
+        "skills",
+        "vietnam"
+      ],
+      "created_at": "2026-11-02T09:22:02Z",
+      "updated_at": "2026-11-04T07:07:52Z",
+      "forks": 94,
+      "open_issues": 12,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that the GitHub repository vn-law-check is designed to audit the legal compliance of websites and mobile apps according to Vietnamese laws, including BVDLCN 91/2025, TMĐT 122/2025, ANM 116/2025, and AI 134/2025. The repository provides a checklist and tools to identify legal issues in the code, with references to legal texts and notes on the current effective laws. The law on artificial intelligence, AI 134/2025, is highlighted as the first standalone binding AI law in Southeast Asia, effective from March 2026, introducing risk-based classification, registration requirements, and penalties for non-compliance.",
+      "tags": [
+        "compliance",
+        "copilot-instructions",
+        "claude-plugin",
+        "claude-code",
+        "skills"
+      ],
+      "analyzed_at": "2026-11-05T04:48:26.328891+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Pluviobyte/douyin-comments",
+      "title": "douyin-comments",
+      "description": "抓取抖音单条视频完整评论区（一级 + 楼中楼）的 Agent Skill：在已登录的 Chrome 里照抄页面真实请求，签名交给页面 SDK",
+      "url": "https://github.com/Pluviobyte/douyin-comments",
+      "stars": 394,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skill",
+        "claude-code",
+        "comments-scraper",
+        "douyin"
+      ],
+      "created_at": "2026-10-30T15:47:16Z",
+      "updated_at": "2026-10-31T02:52:47Z",
+      "forks": 103,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that douyin-comments is an open-source AI agent skill designed to scrape the complete comment section of a single Douyin video, including both top-level comments and replies (楼中楼), within an already logged-in Chrome browser. It captures real requests from the page and signs them using the page's SDK. The tool has been verified and has 366 stars on GitHub. Another skill, douyin-comment, focuses on searching for popular videos based on keywords and posting comments on Douyin, emphasizing the use of a managed browser profile to complete these tasks.",
+      "tags": [
+        "douyin",
+        "claude-code",
+        "comments-scraper",
+        "agent-skill"
+      ],
+      "analyzed_at": "2026-11-05T04:48:29.010079+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "wzc520pyfm/gen-ai-pose-image",
+      "title": "gen-ai-pose-image",
+      "description": "澜姿：从姿势线稿和衣装集给社区鲸鱼娘大肥鱼模特出图，调整姿势加变装，也可装进 DeepSeek Harness。Lanpose generates images of the community whale-girl Dafeiyu from pose sketches and costumes, and installs into DeepSeek Harness.",
+      "url": "https://github.com/wzc520pyfm/gen-ai-pose-image",
+      "stars": 351,
+      "language": "JavaScript",
+      "topics": [
+        "deepseek",
+        "genai",
+        "generic",
+        "gpt",
+        "image",
+        "pose"
+      ],
+      "created_at": "2026-10-29T08:20:20Z",
+      "updated_at": "2026-11-04T00:06:03Z",
+      "forks": 40,
+      "open_issues": 3,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Lanpose generates images of the community whale-girl Dafeiyu from pose sketches and costumes, and installs into DeepSeek Harness. The tool is open-source, available on GitHub at wzc520pyfm/gen-ai-pose-image, and is listed as free. It allows users to select the model's pose and outfit independently, with the default model being a community whale-girl named Dafeiyu. The tool supports integration with DeepSeek Harness and can be used with various image generation models.",
+      "tags": [
+        "genai",
+        "ai",
+        "pose",
+        "gpt",
+        "generic"
+      ],
+      "analyzed_at": "2026-11-05T04:48:32.541294+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "aa1143/NamiAgent",
+      "title": "NamiAgent",
+      "description": "零基础入门 AI Agent 的基础教程。不只是教程，也是一个能在本地跑起来的 Agent：读写文件、执行命令、MCP、长期记忆，自带网页端看清每一步。从 100 行最小循环开始，一课加一个能力，最后拆解 Claude Code、Codex 等主流 Agent",
+      "url": "https://github.com/aa1143/NamiAgent",
+      "stars": 350,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "ai-agent",
+        "chinese",
+        "claude-code",
+        "deepseek",
+        "from-scratch",
+        "llm",
+        "mcp",
+        "python",
+        "tutorial"
+      ],
+      "created_at": "2026-10-30T11:03:30Z",
+      "updated_at": "2026-10-30T13:37:27Z",
+      "forks": 35,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that there are comprehensive, zero-to-expert level tutorials available on Bilibili for developing AI Agents in 2026, including detailed courses on building AI Agent intelligent bodies, covering everything from basic to advanced levels, promising to transform beginners into experts in just seven days with minimal detours. The GitHub source emphasizes the need for standardized tools, reusable skills, and memory systems to create production-level agents, and suggests a roadmap for learning through various frameworks and protocols. These resources aim to equip learners with the skills to build, operate, and advance in the field of AI Agent development.",
+      "tags": [
+        "claude-code",
+        "llm",
+        "agent",
+        "mcp",
+        "chinese"
+      ],
+      "analyzed_at": "2026-11-05T04:48:36.487499+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "SAOS-3624/dsh-see-now",
+      "title": "dsh-see-now",
+      "description": "让 AI 实时看见你的屏幕：按变化量筛选帧、多帧拼进一张图，静止画面几乎不花 token",
+      "url": "https://github.com/SAOS-3624/dsh-see-now",
+      "stars": 347,
+      "language": "JavaScript",
+      "topics": [
+        "ai-agent",
+        "dsh",
+        "dsh-plugin",
+        "ffmpeg",
+        "llm",
+        "realtime",
+        "screen-capture",
+        "token-efficient",
+        "vision"
+      ],
+      "created_at": "2026-11-01T13:32:34Z",
+      "updated_at": "2026-11-05T03:45:48Z",
+      "forks": 33,
+      "open_issues": 5,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that dsh-see-now is a plugin for DeepSeek Harness that allows AI to see the user's screen in real-time by filtering frames based on change and combining multiple frames into one image, which reportedly minimizes token usage for static images. The plugin is part of a larger ecosystem of DeepSeek Harness plugins, which includes various tools and integrations for different functionalities, as evidenced by the GitHub discussions and the list of top plugins. The specific details about the plugin's implementation and its exact benefits are not fully detailed in the provided sources.",
+      "tags": [
+        "dsh",
+        "vision",
+        "llm",
+        "dsh-plugin",
+        "screen-capture"
+      ],
+      "analyzed_at": "2026-11-05T04:48:39.818048+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "mylea1/phongent",
+      "title": "phongent",
+      "description": "基于 Mika 的 iOS / Android 多设备 agent 主控与安卓执行端",
+      "url": "https://github.com/mylea1/phongent",
+      "stars": 342,
+      "language": "Kotlin",
+      "topics": [],
+      "created_at": "2026-11-01T04:40:37Z",
+      "updated_at": "2026-11-02T13:22:57Z",
+      "forks": 82,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources describe Mika as an open-source Android-based agent that operates on your phone without requiring additional permissions, rooting, or a computer. It can automate tasks such as operating apps, using a built-in browser for searches and actions, and running Python scripts in a local Linux sandbox. The agent can be commanded via natural language and operates in the background without interfering with your phone usage. The sources do not provide information about a similar iOS version or a multi-device agent control system based on Mika.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:48:42.373506+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "sqlpxc/airhand",
+      "title": "airhand",
+      "description": "High-performance remote desktop over QUIC · Rust + Tauri + React",
+      "url": "https://github.com/sqlpxc/airhand",
+      "stars": 321,
+      "language": "Rust",
+      "topics": [],
+      "created_at": "2026-10-31T13:33:04Z",
+      "updated_at": "2026-11-02T03:00:07Z",
+      "forks": 100,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources describe \"airhand\" as a high-performance remote desktop application built over QUIC using Rust, Tauri, and React. It is noted for its performance and the use of hardware-accelerated screen capture and encoding, input injection, and NAT traversal. The GitHub repository for \"airhand\" includes environment variables configuration files, and it is featured on Trendshift and Nicheloom as a trending open-source project with significant recent activity and interest. The sources do not provide specific details about the current status, features, or performance metrics beyond these descriptions.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:48:44.869974+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "apekshik/anyscene",
+      "title": "anyscene",
+      "description": "Photoreal Blender scenes from a one-paragraph brief, built by AI agents: image→3D props on fal, scripted layout, lighting, camera and grade.",
+      "url": "https://github.com/apekshik/anyscene",
+      "stars": 312,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-30T18:39:04Z",
+      "updated_at": "2026-11-04T06:47:27Z",
+      "forks": 35,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "AnyScene is a Blender pipeline that converts a one-paragraph brief into a photorealistic, film-ready environment using AI agents. It generates concept and prop reference images, converts each prop to 3D with Tripo H3.1 and Meshy 7.1 on fal, scripts the room, dresses it with furniture and clutter, checks for collisions and floating, adds grime, decals, night lighting, haze, steam, and rain, and renders cinematic and handheld walk-through shots in Cycles. The process is documented as a supervised production workflow, with a cost anchor of ~$150 per scene. The project's practical value lies in its detailed, gated, scripted pipeline that keeps the artist in control of layout, lighting, and camera while outsourcing prop creation.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:48:48.290910+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "davidlopez-x05x8/minecraft-aim-assist",
+      "title": "minecraft-aim-assist",
+      "description": "Minecraft Aim Assist 2026 — Smooth aiming assistance for 1.21.4 Fabric. Adaptive tracking, customizable FOV, visibility check and clean UI. Easy install, regularly updated",
+      "url": "https://github.com/davidlopez-x05x8/minecraft-aim-assist",
+      "stars": 300,
+      "language": "Python",
+      "topics": [
+        "minecraft"
+      ],
+      "created_at": "2026-11-02T04:19:35Z",
+      "updated_at": "2026-11-02T04:19:49Z",
+      "forks": 254,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that Minecraft Aim Assist is available for Minecraft 1.21.11 with the latest version supporting Minecraft 26.3 and Minecraft Bedrock 26.10. The mod offers smooth aiming assistance, adaptive tracking, customizable FOV, and a clean UI. It is compatible with Fabric and NeoForge, and it includes features like automatic correction of configuration values and runtime failure logging to prevent crashes. The mod is described as useful for players using controllers, beginners, or those with motor limitations, aiming to make aiming smoother and more comfortable without breaking PvP balance. The sources do not provide specific details about the version for 1.21.4 Fabric mentioned in the question.",
+      "tags": [
+        "minecraft",
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:48:51.873876+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "sarpstar/cinecode",
+      "title": "cinecode",
+      "description": "Films made with code. Short films, long YouTube videos, ads, explainers and music videos: an AI coding agent writes the script, builds every frame in code, designs the sound and hands you an MP4.",
+      "url": "https://github.com/sarpstar/cinecode",
+      "stars": 294,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-11-03T10:08:16Z",
+      "updated_at": "2026-11-03T15:21:18Z",
+      "forks": 48,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources provide information about two entities named \"cinecode.\" One is based in Heidenheim, Germany, founded in 2025, and offers media production services. The other is \"Pixelview,\" based in Tallinn, Estonia, founded in 2000, and focuses on software development for remote collaboration among filmmakers. There is no information about cinecode Films made with code or specific details on their production process.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:48:55.243462+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Interactive-Active-AI/NextTransformer",
+      "title": "NextTransformer",
+      "description": ":sunrise: A comprehensive, cutting-edge open-source framework for next-generation Transformers/LLM, with compute-matched benchmarking and a platform for autonomous architecture research.",
+      "url": "https://github.com/Interactive-Active-AI/NextTransformer",
+      "stars": 288,
+      "language": "Python",
+      "topics": [
+        "auto-research",
+        "benchmark",
+        "deep-learning",
+        "language-models",
+        "linear-attention",
+        "llm",
+        "looped-transformer",
+        "nexttransformer",
+        "pytorch",
+        "sparse-attention",
+        "transformer"
+      ],
+      "created_at": "2026-10-31T07:46:13Z",
+      "updated_at": "2026-11-05T03:33:52Z",
+      "forks": 21,
+      "open_issues": 6,
+      "relevance_score": 0.8999999999999999,
+      "summary": "NextTransformer is a comprehensive, cutting-edge open-source framework for next-generation Transformers, with compute-matched benchmarking and a platform for autonomous architecture research. By November 14, 2026, Arena v2 and agent-native research will be available. Training recipes for 400B tokens and larger models are planned for November 2026. The framework supports comparisons of dense, sparse, linear, looped, residual, and hybrid architectures in one codebase, with a fair, explicit protocol for training and evaluation. The observatory provides learning curves, a leaderboard, and model cards for all runs. Contributions are welcome, and the framework is designed to train a ~1.4B-parameter model on 49B tokens on one 8-GPU node in 2–4 days.",
+      "tags": [
+        "deep-learning",
+        "auto-research",
+        "benchmark",
+        "llm",
+        "pytorch"
+      ],
+      "analyzed_at": "2026-11-05T04:48:59.164068+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "raylee-ai/lancer",
+      "title": "lancer",
+      "description": "Lancer — desktop AI workspace based on pi-gui and pi",
+      "url": "https://github.com/raylee-ai/lancer",
+      "stars": 279,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-10-31T08:01:15Z",
+      "updated_at": "2026-11-04T14:04:37Z",
+      "forks": 74,
+      "open_issues": 11,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Lancer is a desktop AI workspace based on pi-gui and pi, recently maintained and last pushed on 2026-11-02. It has 202 stars and 60 forks as of 2026-11-05. The star count increased from 0 on 2026-10-24 to 202 on 2026-11-02. pi-gui is a native desktop visual shell for the pi coding agent, aimed at developers who want a clearer way to supervise pi coding-agent work without losing control of the repository.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:49:01.512319+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Renly1994/xiaotang-daozai",
+      "title": "xiaotang-daozai",
+      "description": "岛仔 Daozai：Rust 构建的 Windows 桌面信息岛。音乐歌词、邮件验证码、日程提醒、待办与 AI 额度，让重要信息轻轻出现在屏幕顶部。",
+      "url": "https://github.com/Renly1994/xiaotang-daozai",
+      "stars": 278,
+      "language": "Rust",
+      "topics": [
+        "desktop-widget",
+        "dynamic-island",
+        "egui",
+        "productivity",
+        "rust",
+        "windows"
+      ],
+      "created_at": "2026-11-03T04:25:22Z",
+      "updated_at": "2026-11-04T06:46:36Z",
+      "forks": 45,
+      "open_issues": 21,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Fly Island is a Windows desktop tool that provides a floating \"island\" at the top of the screen, featuring a compact capsule view that expands to show tasks, clipboard history, messages, music, and settings. Built with Tauri 2, React 19, and Rust, it offers a lightweight and efficient user experience with a small installation size of approximately 5 MB. It supports customization in appearance and behavior, including different styles, sizes, and automatic edge retraction. The tool integrates with AI for task status and includes features like clipboard search and organization, daily note management, and media control.",
+      "tags": [
+        "desktop-widget",
+        "ai",
+        "rust",
+        "windows",
+        "dynamic-island"
+      ],
+      "analyzed_at": "2026-11-05T04:49:04.903796+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "daniel-madrid-07/weeping-of-the-empire",
+      "title": "weeping-of-the-empire",
+      "description": "Zelda: Tears of the Kingdom (TotK) 1.0.0 recompiled to native Windows and Vulkan. Frame cap up to 240, DLSS option, mouse and keyboard. Open source, mostly written by AI agents. You build it from your own dump; no game files included. Measured on one PC so far.",
+      "url": "https://github.com/daniel-madrid-07/weeping-of-the-empire",
+      "stars": 269,
+      "language": "C",
+      "topics": [
+        "dlss",
+        "game-port",
+        "native-port",
+        "nintendo-switch",
+        "pc-port",
+        "recomp",
+        "recompilation",
+        "reverse-engineering",
+        "static-recompilation",
+        "tears-of-the-kingdom",
+        "totk",
+        "vulkan",
+        "windows",
+        "zelda",
+        "zelda-pc",
+        "zelda-totk"
+      ],
+      "created_at": "2026-10-30T23:58:29Z",
+      "updated_at": "2026-11-05T00:55:29Z",
+      "forks": 10,
+      "open_issues": 40,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Weeping of the Empire is a static recompilation of Tears of the Kingdom (Switch, version 1.0.0 only) into a native Windows x86-64 program. It requires a legally obtained, extracted copy of the game’s base 1.0.0 release and a build process that takes 30-60 minutes and requires ~75 GB free storage. The project focuses on making TotK play like a PC game, with in-game keyboard/mouse prompts, exclusive fullscreen, DLSS option, and support for non-AVX2 CPUs. The distribution does not contain protected Nintendo files, so users need their own legal dump of the base game to compile a native executable. The project has been measured on one PC only, with first visits stuttering while shaders build, and it has not been tested on dedicated AMD or Intel GPUs yet.",
+      "tags": [
+        "nintendo-switch",
+        "zelda-totk",
+        "game-port",
+        "pc-port",
+        "native-port"
+      ],
+      "analyzed_at": "2026-11-05T04:49:09.196694+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "phuryn/product-engineering",
+      "title": "product-engineering",
+      "description": "Agent skills for shipping real products with coding agents, from the first idea to paying users. No coding.",
+      "url": "https://github.com/phuryn/product-engineering",
+      "stars": 256,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-10-29T11:32:54Z",
+      "updated_at": "2026-11-03T20:00:01Z",
+      "forks": 31,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources describe a suite of agent skills for shipping real products with coding agents, from the first idea to paying users without coding. These skills include `product-analytics`, `uptime-monitoring`, `mcp-server`, `chatgpt-plugin`, `embedded-agents-messages-api`, and `embedded-agents-agent-sdk`. They cover the entire lifecycle from defining ideas to shipping and launching products, with a focus on production-grade engineering skills for AI coding agents. The skills are designed to encode workflows, quality gates, and judgment senior engineers bring to production, ensuring consistent application across every phase.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:49:13.001027+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Moh4696/open-3d-skills",
+      "title": "open-3d-skills",
+      "description": "Eight agent skills for 3D and animated websites: three.js scenes from code, scroll films, transparent video, cursor rigs, exploded views, AI motion assets, browser checks and 60 fps recording. Claude Code, Codex, Cursor, Gemini CLI.",
+      "url": "https://github.com/Moh4696/open-3d-skills",
+      "stars": 248,
+      "language": "JavaScript",
+      "topics": [
+        "3d",
+        "agent-skills",
+        "animation",
+        "claude-code",
+        "codex",
+        "cursor",
+        "frontend",
+        "scroll-animation",
+        "threejs",
+        "webgl"
+      ],
+      "created_at": "2026-10-31T08:46:18Z",
+      "updated_at": "2026-10-31T08:58:25Z",
+      "forks": 36,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources describe open-3d-skills as an open-source AI agents skill for coding assistants such as Claude Code, Codex CLI, and ChatGPT, built by Moh4696. It offers eight agent skills for 3D and animated websites, including three.js scenes from code, scroll films, transparent video, cursor rigs, exploded views, AI motion assets, browser checks, and 60 fps recording. The project has 167 GitHub stars and is MIT-licensed. The sources do not provide a definitive answer regarding the safety of using this skill.",
+      "tags": [
+        "claude-code",
+        "cursor",
+        "webgl",
+        "animation",
+        "frontend"
+      ],
+      "analyzed_at": "2026-11-05T04:49:16.843632+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Balanov/verdict",
+      "title": "verdict",
+      "description": "A 197 KB local semantic verifier for AI agent tool calls. Exit code 0 is not proof.",
+      "url": "https://github.com/Balanov/verdict",
+      "stars": 236,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-11-02T19:14:51Z",
+      "updated_at": "2026-11-02T22:36:33Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources describe \"Verdict\" as a 197 KB local semantic verifier for AI agent tool calls, which operates without Python dependencies and runs locally on CPU. It analyzes tool calls beyond just the exit code, evaluating command, stdout, and stderr. The model uses hashed character 3–5-grams and word 1–3-grams for multiclass logistic regression. The demo results show the system rejecting all misreported agents and correctly verifying honest claims, though the author notes the verifier is tested with script agents rather than real AI. The arXiv paper discusses a verification-aware tool wrapper that reduces duplicate actions and maintains task success rates in simulated environments.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:49:19.515243+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "len5ky/seatback-cinema",
+      "title": "seatback-cinema",
+      "description": "Every movie on 11 airlines' in-flight entertainment, monthly, with IMDb/TMDB ids, plus an agent skill that picks what to watch.",
+      "url": "https://github.com/len5ky/seatback-cinema",
+      "stars": 230,
+      "language": "TypeScript",
+      "topics": [
+        "agent-skill",
+        "airline",
+        "british-airways",
+        "claude-code",
+        "dataset",
+        "emirates",
+        "ife",
+        "imdb",
+        "inflight-entertainment",
+        "letterboxd",
+        "movies",
+        "united-airlines"
+      ],
+      "created_at": "2026-10-29T16:18:00Z",
+      "updated_at": "2026-11-04T18:35:51Z",
+      "forks": 4,
+      "open_issues": 18,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources mention that United Airlines, American Airlines, Virgin Atlantic, and Delta offer extensive in-flight entertainment options, including movies, TV shows, music, and more, which change monthly and vary by flight. American Airlines provides a library of movies, including \"Spider-Man: Brand New Day,\" \"Minions & Monsters,\" and \"Brother Bear 2.\" IMDb lists several movies for 2026, such as \"Son of Darkness,\" \"Blood for My Bone,\" and \"The Perfect Crimson,\" but does not specify their inclusion in airline in-flight entertainment. The premise of a comprehensive in-flight entertainment system with monthly updates and an agent skill is not directly supported by the provided sources.",
+      "tags": [
+        "emirates",
+        "imdb",
+        "claude-code",
+        "ife",
+        "agent-skill"
+      ],
+      "analyzed_at": "2026-11-05T04:49:22.657662+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "R238Company/meu-emprego-novo",
+      "title": "meu-emprego-novo",
+      "description": "Equipe de agentes de IA (CrewAI + AWS Bedrock/Claude) que lê a descrição de uma vaga e a base profissional da pessoa e gera currículos personalizados em PDF/LaTeX, em PT ou EN, sem inventar informações e preservando toda a trajetória de carreira.",
+      "url": "https://github.com/R238Company/meu-emprego-novo",
+      "stars": 229,
+      "language": "Python",
+      "topics": [
+        "agentes-de-ia",
+        "aws-bedrock",
+        "busca-de-emprego",
+        "carreira",
+        "claude",
+        "crewai",
+        "curriculo",
+        "ia-generativa",
+        "latex",
+        "python"
+      ],
+      "created_at": "2026-10-31T20:07:53Z",
+      "updated_at": "2026-11-03T09:28:48Z",
+      "forks": 55,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "CrewAI is a multi-agent platform that enables businesses and technical teams to build agents while giving platform teams the control to govern them. It operates in the software development industry and is privately held, headquartered in Middletown, Delaware, United States. The sources do not provide information about a team specifically generating personalized resumes in PDF/LaTeX format based on job descriptions and professional backgrounds using CrewAI.",
+      "tags": [
+        "crewai",
+        "busca-de-emprego",
+        "curriculo",
+        "agentes-de-ia",
+        "aws-bedrock"
+      ],
+      "analyzed_at": "2026-11-05T04:49:26.050335+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Balanov/latch",
+      "title": "latch",
+      "description": "One tiny HTTPS contract between any agent and any service. Quote, approve, commit, receipt. Zero dependencies. MIT.",
+      "url": "https://github.com/Balanov/latch",
+      "stars": 225,
+      "language": "JavaScript",
+      "topics": [
+        "agents"
+      ],
+      "created_at": "2026-11-04T16:57:51Z",
+      "updated_at": "2026-11-05T00:57:24Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Latch is an open-source control layer for autonomous AI agents, enforcing policies on what the agent can do through a policy engine, LLM-evaluated policies, and an approval workflow. It operates without dependencies like accounts, API keys, Docker, or cloud services. It is MIT licensed and can be self-hosted to keep data on your infrastructure. The GitHub repository for Latch has 11 stars, 0 watchers, and 1 fork as of today's date. The Yahoo Finance page for Latch, Inc. (LTCH) shows a stock price of $0.185 as of November 4, 2026, with a five-day return of -0.71%.",
+      "tags": [
+        "agents"
+      ],
+      "analyzed_at": "2026-11-05T04:49:29.747303+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "FigureSultanLast/roblox-ai-studio-agent",
+      "title": "roblox-ai-studio-agent",
+      "description": "An AI agent in your terminal that builds Roblox places in Studio: parts, models, UI and Luau scripts. Place diff before every change, playtests with proof, one undo per turn.",
+      "url": "https://github.com/FigureSultanLast/roblox-ai-studio-agent",
+      "stars": 223,
+      "language": "Luau",
+      "topics": [
+        "luau",
+        "place-diff",
+        "playtest",
+        "roblox",
+        "roblox-studio",
+        "rojo",
+        "rust",
+        "terminal"
+      ],
+      "created_at": "2026-10-30T21:42:20Z",
+      "updated_at": "2026-11-03T15:44:54Z",
+      "forks": 11,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources describe an AI agent for Roblox Studio called Stud, which offers features like direct Studio control, script editing, and undo support for every AI change. Stud bridges the gap between AI coding tools and Roblox Studio, providing a visual tree of instances, properties, and Luau scripts. It also includes a real-time error checking feature and supports multiple AI agents working on the same project without collisions. However, the sources do not provide specific details about the agent's name or features beyond what is listed.",
+      "tags": [
+        "terminal",
+        "ai",
+        "roblox",
+        "rust",
+        "playtest"
+      ],
+      "analyzed_at": "2026-11-05T04:49:33.135658+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "rubenhassid1/grenade",
+      "title": "grenade",
+      "description": "Claude artifacts anyone understands in 5 seconds. From the How to AI newsletter by Ruben Hassid.",
+      "url": "https://github.com/rubenhassid1/grenade",
+      "stars": 213,
+      "language": null,
+      "topics": [],
+      "created_at": "2026-10-30T11:33:32Z",
+      "updated_at": "2026-11-02T17:18:07Z",
+      "forks": 39,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources describe \"Claude Artifacts\" as interactive outputs you can use, not just read, as part of the broader suite of tools offered by the AI system built by a team of inventors at Amazon. Specifically, they mention that artifacts are part of the \"Plugins\" category, which turns the AI into a specialist for specific tasks. However, the sources do not provide a definitive description of what \"grenade Claude artifacts\" specifically entail.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:49:35.982403+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Open-RUA/uni-robot-agent",
+      "title": "uni-robot-agent",
+      "description": "A Unified Robot-Use Agent Harness Across Environments",
+      "url": "https://github.com/Open-RUA/uni-robot-agent",
+      "stars": 210,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-11-02T17:50:44Z",
+      "updated_at": "2026-11-03T17:50:36Z",
+      "forks": 12,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The uni-robot-agent is a unified and modular harness for robot use without privileged inputs, designed for generalizable agentic training. It unifies interaction records across environments and supports efficient experience collection for open models. The tool interfaces and feedback formats span models, robots, tasks, and environments, making simulation and real-world experience easier to combine for training. The uni-robot-agent is an open-source harness with Codex and Claude Code runtimes, available in version 0.1.0 under the MIT license. It includes a CLI, Python SDK, local dashboard, and simulator integrations, and supports environments like RoboDojo, RoboUse, and RoboLab.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-11-05T04:49:38.243792+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "rhfbgfgfdg999999/3d-printer-live",
+      "title": "3d-printer-live",
+      "description": "3D打印机开源直播抖音快手tiktok直播项目 · 抖音直播间头像打印机效果，观众评论/点赞/送礼触发3D打印头像 · 完全开源免费 · 志哥AI出品",
+      "url": "https://github.com/rhfbgfgfdg999999/3d-printer-live",
+      "stars": 204,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-10-31T15:56:38Z",
+      "updated_at": "2026-11-01T22:31:25Z",
+      "forks": 104,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The 3D打印机开源直播抖音快手tiktok直播项目 allows users to print avatars triggered by audience comments, likes, and gifts during live streams. The project is completely open-source and free, developed by 志哥AI. To use it, users need to double-click start-all.bat to automatically start the printing service and open the live stream window and the avatar printing program side by side. The project captures real-time data from live streams and prints avatars based on audience interactions, ensuring no anonymous prints and prioritizing fresh and active viewers.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:49:41.271936+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Straitbrashadow/minecraft-ai-mod-builder",
+      "title": "minecraft-ai-mod-builder",
+      "description": "Vibe-build in Minecraft. Describe a build in your terminal, see it as a blueprint in your world, place it in one step and undo it in one. Writes datapacks too. Free local models.",
+      "url": "https://github.com/Straitbrashadow/minecraft-ai-mod-builder",
+      "stars": 200,
+      "language": "Java",
+      "topics": [
+        "ai-mods",
+        "blueprint",
+        "cli",
+        "fabric",
+        "minecraft",
+        "minecraft-mods",
+        "paper",
+        "rust"
+      ],
+      "created_at": "2026-10-30T21:11:28Z",
+      "updated_at": "2026-11-03T15:27:54Z",
+      "forks": 12,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The minecraft-ai-mod-builder Vibe-build allows users to describe a build in the terminal and see it as a blueprint in their world, placing it in one step and undoing it in one. It writes datapacks too and offers free local models. The mod uses commands like `/vb` to generate and build from text, and `/vb image` for image-based builds. It requires Java 21, Minecraft 1.21.11 with Fabric Loader 0.18.4+, and WorldEdit for Fabric. The mod also needs an API key for Anthropic. The sources do not provide a definitive answer on the undo feature beyond the general description.",
+      "tags": [
+        "ai",
+        "rust",
+        "cli",
+        "ai-mods",
+        "blueprint"
+      ],
+      "analyzed_at": "2026-11-05T04:49:44.839012+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "stellarorbrectify/aida-64-extreme",
+      "title": "aida-64-extreme",
+      "description": "Complete standalone setup for Aida 64 Extreme 2026. Full working installer with all features pre-activated, ready to run on your desktop.",
+      "url": "https://github.com/stellarorbrectify/aida-64-extreme",
+      "stars": 200,
+      "language": null,
+      "topics": [
+        "aida64",
+        "aida64-extreme-compatibility-check",
+        "aida64-extreme-detailed-reporting",
+        "aida64-extreme-hardware-diagnostics",
+        "aida64-extreme-setup",
+        "aida64-extreme-system-information",
+        "aida64-free-setup",
+        "automation",
+        "desktop",
+        "developer-tools",
+        "open-source",
+        "pc-diagnostics-windows-platform",
+        "python",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app",
+        "windows-cpu-gpu-status-check",
+        "windows-performance-benchmarking"
+      ],
+      "created_at": "2026-11-02T10:10:12Z",
+      "updated_at": "2026-11-02T10:10:19Z",
+      "forks": 1,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that AIDA64 Extreme is available in trial versions as of September 15, 2026, with sizes ranging from 59.1 MB to 62.15 MB for different packages. The official website lists the AIDA64 Extreme Trial version, self-installing EXE package, and portable ZIP package, with the latest beta version released on October 30, 2026. The TechPowerUp site confirms the availability of AIDA64 Extreme v8.40 on September 15, 2026, with both EXE and ZIP packages. The installer and portable ZIP package options are provided, but no complete standalone setup with all features pre-activated is mentioned.",
+      "tags": [
+        "developer-tools",
+        "scripts",
+        "python",
+        "aida64-extreme-detailed-reporting",
+        "aida64-free-setup"
+      ],
+      "analyzed_at": "2026-11-05T04:49:48.072599+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "driveinspectorgrow/aida-64-extreme",
+      "title": "aida-64-extreme",
+      "description": "Ready-to-run desktop installation build of Aida 64 Extreme 2026. Full working installer with complete standalone setup, pre-activated for...",
+      "url": "https://github.com/driveinspectorgrow/aida-64-extreme",
+      "stars": 200,
+      "language": null,
+      "topics": [
+        "aida64",
+        "aida64-extreme-compatibility-check",
+        "aida64-extreme-detailed-reporting",
+        "aida64-extreme-hardware-diagnostics",
+        "aida64-extreme-setup",
+        "aida64-extreme-system-information",
+        "aida64-free-setup",
+        "automation",
+        "desktop",
+        "developer-tools",
+        "open-source",
+        "pc-diagnostics-windows-platform",
+        "python",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app",
+        "windows-cpu-gpu-status-check",
+        "windows-performance-benchmarking"
+      ],
+      "created_at": "2026-11-04T08:41:01Z",
+      "updated_at": "2026-11-04T08:41:08Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that AIDA64 Extreme is available in trial versions as an EXE package and a ZIP package, with the latest stable version being 6.60 released in early 2026. The most recent beta versions available as of today's date, November 5, 2026, are 8.40.8523, released on October 30, 2026, in both EXE and ZIP formats. The EXE package is 59.75 MB, while the ZIP package is 62.15 MB. The sources do not provide information on a ready-to-run desktop installation build of AIDA64 Extreme 2026 that is pre-activated.",
+      "tags": [
+        "developer-tools",
+        "scripts",
+        "python",
+        "aida64-extreme-detailed-reporting",
+        "aida64-free-setup"
+      ],
+      "analyzed_at": "2026-11-05T04:49:51.639396+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}

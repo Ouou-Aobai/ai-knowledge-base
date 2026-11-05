@@ -1,0 +1,563 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-11-05T04:46:07.542757Z",
+  "analyzed_at": "2026-11-05T04:47:08.688037+00:00",
+  "count": 23,
+  "items": [
+    {
+      "id": 50372945,
+      "title": "Images 2.6",
+      "url": "https://openai.com/index/introducing-images-2-6/",
+      "score": 183,
+      "comments": 121,
+      "author": "davidbarker",
+      "time": 1793835344,
+      "hn_url": "https://news.ycombinator.com/item?id=50372945",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "MAI-Image-2.6 is Microsoft AI's highest-quality image generation and editing model, supporting text-to-image generation, controllable edits with up to five reference images, web grounding for current real-world context, and dynamic aspect-ratio selection with output up to 1.5K. Its strengths include text rendering, portraits, photorealism, commercial design, and maintaining people, products, styles, and scenes across complex edits. MAI-Image-2.6-Flash is the speed-optimized variant, retaining generation and editing capabilities for latency-sensitive production, supporting text-to-image generation, precise multi-reference editing, web grounding, and dynamic aspect ratios, with strengths in targeted object edits, layout adaptation, text updates, artifact cleanup, and visual consistency across iterations. It is designed for rapid prototyping, personalization, automated pipelines. MAI Image 2.6 is also available for photorealistic, design-ready output with transparent pay-as-you-go pricing and Day-0 access for scalable integration.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:46:10.895019+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50372929,
+      "title": "A thousand fewer paths to root",
+      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+      "score": 211,
+      "comments": 121,
+      "author": "dangelosaurus",
+      "time": 1793835194,
+      "hn_url": "https://news.ycombinator.com/item?id=50372929",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources do not provide a definitive answer to the question \"A thousand fewer paths to root.\" The BYU speech discusses the enduring nature of challenges and the importance of maintaining a gospel perspective, but it does not mention anything about paths to root. The PubMed article talks about the use of nickel-titanium rotary PathFile in root canal preparation, focusing on its effectiveness and differences in canal shaping by clinicians of varying expertise. The Hacker News content covers various tech and software topics but does not relate to paths to root. Therefore, the sources do not settle the question of \"A thousand fewer paths to root.\"",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:46:13.789414+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50369925,
+      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "url": "https://www.ricursive.com/ripple",
+      "score": 254,
+      "comments": 90,
+      "author": "Philpax",
+      "time": 1793818409,
+      "hn_url": "https://news.ycombinator.com/item?id=50369925",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Ripple-65B Preview, a 65B dense large language model (LLM) by Ricursive, has set a new state-of-the-art (SOTA) for U.S. open-weight models on agentic coding, surpassing larger models including Meta Muse Spark Open 816B, Reflection Beam 501B, Thinking Machines Inkling 975B, and NVIDIA Nemotron 3 Ultra 550B. The model was trained on 12 trillion tokens and supports up to 1M context length. It scores 80.5% on TerminalBench 2.1, 79.1% on SWE-Bench Pro v2.0-Hard, and 44.3% on DeepSWE v1.1, all while fitting locally on a MacBook or DGX Spark. Ripple-65B Preview is available today on Hugging Face, GMI Cloud, and OpenRouter, with Together AI and Fireworks AI later today. The model was built on a $32 million compute budget, one-tenth the cost of the previous open-weight SOTA on agentic coding.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-11-05T04:46:16.290614+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50366999,
+      "title": "Kimi K3.1 Pro model weights are out",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
+      "score": 428,
+      "comments": 125,
+      "author": "abrarthought",
+      "time": 1793806230,
+      "hn_url": "https://news.ycombinator.com/item?id=50366999",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Moonshot AI has released the model weights of Kimi K3.1 Pro, which reportedly have 2.8 trillion parameters and take up around 1.56 TB. The weights are available on Hugging Face and require a server with 8 NVIDIA B300 GPUs and 2.3 TB of GPU memory to run locally. The model is also rolling out on Ollama Cloud, which is US-based and promises zero data retention.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:46:18.780151+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50370654,
+      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+      "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "score": 121,
+      "comments": 53,
+      "author": "peter_d_sherman",
+      "time": 1793822114,
+      "hn_url": "https://news.ycombinator.com/item?id=50370654",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Qualcomm Cloud AI 100 Ultra is equipped with 128 GB of LPDDR4x memory with a bandwidth of 548 GB/s. It is based on the Cloud AI 100 architecture, launched in 2023, and features a TDP (Thermal Design Power) rating of 150 watts. The card has a form factor of PCIe Gen4 x16 and includes 64 AI cores, with a peak INT8 performance of up to 870 TOPS and a peak FP16 performance of up to 288 TFLOPS. The card also includes 576 MB of on-die SRAM.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:46:21.188236+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50368804,
+      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+      "url": "",
+      "score": 78,
+      "comments": 31,
+      "author": "lukeigel",
+      "time": 1793813513,
+      "hn_url": "https://news.ycombinator.com/item?id=50368804",
+      "text": "Hi HN! I&#x27;m Luke from Kino (<a href=\"https:&#x2F;&#x2F;kino.ai\">https:&#x2F;&#x2F;kino.ai</a>). Kino lets you make great videos with your agents and your teammates. Storage of footage and assets, a rich video editor, and review links for teammates are all bundled into one. Your colleagues and Codex &#x2F; Claude Code can work on the same timeline with review notes and footage all in one place. See a basic overview at <a href=\"https:&#x2F;&#x2F;kino.ai&#x2F;walkthrough-video\">https:&#x2F;&#x2",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Kino AI, a YC S23 company, is an AI media manager and video editor that automates media management tasks, allowing filmmakers to use natural language to find specific moments within their footage library without requiring cloud storage. The product was first launched in 2023, with the founders aiming to make video editing faster by leveraging AI. The company has worked with shows like Survivor and A24's Beef, but in 2025, they pivoted to focus on making editors more than 10x faster by breaking free from traditional studio security rules and using frontier models. Kino invites assistant editors, media professionals, and production companies to request a demo.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:46:24.486888+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50368626,
+      "title": "Progress on provable inference for large language models",
+      "url": "https://www.anthropic.com/research/provable-inference",
+      "score": 193,
+      "comments": 87,
+      "author": "ltononro",
+      "time": 1793812666,
+      "hn_url": "https://news.ycombinator.com/item?id=50368626",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Anthropic has made progress on provable inference for large language models, specifically with their system FlashProve, which was measured on the 400B-parameter model Llama 4 Maverick. FlashProve generates proofs at around 110 tokens per second using a single H100 GPU, with a proof size of ~19 MB per 1,024-token request, when in 4-bit quantized weights, using integer arithmetic in prefill. This is ~70-95x the GPU time of running the model itself on vLLM. The system involves two parties: the model provider (the prover) and a user (the verifier), split into two phases. Prior work in this area includes SafetyNets (2017), zkCNN (2021), and Kang et al. (2022).",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:46:27.002989+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50364336,
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "score": 1122,
+      "comments": 655,
+      "author": "pseudolus",
+      "time": 1793793137,
+      "hn_url": "https://news.ycombinator.com/item?id=50364336",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI is forcing us to pay off 40 years of technical debt, according to multiple sources. IEEE Spectrum's Dina Genkina highlights this in an article about the PHP2Shell vulnerability, which exposed legacy software bugs. Technology Times also echoes this sentiment, emphasizing the need to address long-standing technical debt due to AI advancements.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:46:29.814863+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50366117,
+      "title": "Ask HN: What's your current AI agentic setup?",
+      "url": "",
+      "score": 195,
+      "comments": 207,
+      "author": "eggbrain",
+      "time": 1793803042,
+      "hn_url": "https://news.ycombinator.com/item?id=50366117",
+      "text": "I&#x27;m curious how people on HN are using AI day to day, and came up with a list of questions I thought could be interesting to know. No need to answer every question of course, just wanted to get a gut feel how people are using AI.<p>1) What AI subscriptions are you personally paying for? (Claude, ChatGPT&#x2F;Codex, Cursor, etc)<p>- Which tiers?<p>- Have you purchased multiple subscriptions from the same provider (eg two Claude accounts)?<p>2) Are you using models outside (or instead) of tho",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The provided source from Hacker News mentions a user named throwaway888abc who recently switched from local development to a remote \"vps\" cloud setup. Their current AI agentic setup includes Zed, Terminal threads, and a remote machine, along with Devcontainers, Claude, and Pi. They also replaced Alacritty and Zellij after finding they didn't need them for three weeks with their new setup.",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:46:33.114494+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50342031,
+      "title": "Frustrated Ranchers Want People to Quit 'Rescuing' Their Working Guardian Dogs",
+      "url": "https://cowboystatedaily.com/2026/10/15/frustrated-ranchers-want-people-to-quit-rescuing-their-working-guardian-dogs/",
+      "score": 64,
+      "comments": 58,
+      "author": "rdmuser",
+      "time": 1793646835,
+      "hn_url": "https://news.ycombinator.com/item?id=50342031",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Well-meaning people who mistake guardian dogs for strays in rural pastures are taking them to animal shelters, causing frustration among Wyoming ranchers. The Fremont County Sheriff's Office has issued a public reminder asking people not to pick up large livestock guardian dogs they encounter in rural areas. Ranchers are concerned that these dogs, which protect their livestock from predators, are being removed and leaving their herds unprotected. The sources do not provide specific names or dates for these incidents beyond the general observation that the problem is growing.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:46:35.785126+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50366863,
+      "title": "OpenAI to acquire Pierre Computer Company",
+      "url": "https://openai.com/index/openai-to-acquire-pierre/",
+      "score": 211,
+      "comments": 63,
+      "author": "itunpredictable",
+      "time": 1793805681,
+      "hn_url": "https://news.ycombinator.com/item?id=50366863",
+      "text": "<a href=\"https:&#x2F;&#x2F;twitter.com&#x2F;pierrecomputer&#x2F;status&#x2F;2117999036175188183\" rel=\"nofollow\">https:&#x2F;&#x2F;twitter.com&#x2F;pierrecomputer&#x2F;status&#x2F;211799903617518818...</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to the sources, OpenAI has announced its acquisition of Pierre Computer Company to enhance its AI coding platform, Codex. The acquisition aims to integrate Pierre's developer tools and Code Storage into Codex, thereby improving its capabilities to connect code with the decisions made by teams. The sources also mention that Pierre's open-source projects will remain freely available. The financial terms of the deal were not disclosed.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:46:37.058406+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50338474,
+      "title": "Basically no one is using AI agents for their DoorDash orders",
+      "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
+      "score": 93,
+      "comments": 184,
+      "author": "PaulHoule",
+      "time": 1793634525,
+      "hn_url": "https://news.ycombinator.com/item?id=50338474",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to DoorDash's third-quarter earnings call, CEO Tony Xu mentioned that AI agents have generated \"several hundred orders\" since they were introduced, which he described as a \"very low use case\" for a company that handled nearly 1 billion orders in the third quarter of 2026. The Model Context Protocol (MCP) connector, which was rolled out less than a month ago, provides a standardized way for third-party AI tools to order through DoorDash, but it is still only available to a small number of \"early beta partners\" and mainly used to streamline corporate lunch orders. Despite the increasing use of AI tools across digital life, a very small number of people are using AI agents for DoorDash orders.",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:46:39.547785+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50365780,
+      "title": "Tencent Hy4",
+      "url": "https://hy.tencent.ai/research/hy4",
+      "score": 208,
+      "comments": 70,
+      "author": "Philpax",
+      "time": 1793801486,
+      "hn_url": "https://news.ycombinator.com/item?id=50365780",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Tencent Hy4 is a new-generation Mixture-of-Experts (MoE) flagship model developed by the Tencent Hy Team, comprising 770B total parameters, of which 49B are activated per token. The model features 78 layers, with the first layer using a standard dense FFN and the remaining 77 layers employing MoE, each containing 256 routed experts and 1 shared expert. Every token activates the top-8 routed experts along with the shared expert. The model also introduces visual understanding for the first time, capable of processing images, analyzing complex charts, and conducting visual mathematical reasoning. Tencent claims Hy4 is one of the strongest open-weight models available today, although it still trails leading closed-source systems on certain benchmarks.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:46:42.086298+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50342219,
+      "title": "PageScribe: Handwriting and offline dictionary audio for KOReader",
+      "url": "https://aspireai.kiranadimatyam.com/builds/pagescribe/",
+      "score": 16,
+      "comments": 1,
+      "author": "seshakiran",
+      "time": 1793647428,
+      "hn_url": "https://news.ycombinator.com/item?id=50342219",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "PageScribe is a handwriting plugin for KOReader that allows users to write notes beside passages in their ebooks, and Dictionary Audio is a separate plugin for offline pronunciation. Both can work together but neither requires the other. They are accessible from the KOReader plugins menu, do not need installation, and are automatically updated with KOReader. They can be enabled or disabled via the TOP MENU / More tools / Plugin management.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:46:44.915585+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50367653,
+      "title": "'It's just vape, nail, charity shops': Can anything save UK high street?",
+      "url": "https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham",
+      "score": 84,
+      "comments": 198,
+      "author": "theanonymousone",
+      "time": 1793808693,
+      "hn_url": "https://news.ycombinator.com/item?id=50367653",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to the sources, the UK high street is currently dominated by vape shops, nail shops, and charity shops, and there is a consensus that a total economic rebuild is needed to save it. The Guardian article mentions the situation 20 years after Jo and Richard Hill's purchase, while a Hacker News comment suggests that there is zero political will for such a rebuild due to the current system's financial benefits for certain people. Instagram comments and videos by Andy Burnham further discuss the challenges, including the high costs of running a legitimate business and suggestions to ban gambling and vape shops. The sources do not provide a definitive answer on what can save the UK high street.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:46:47.412362+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50363461,
+      "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+      "url": "",
+      "score": 641,
+      "comments": 166,
+      "author": "jameslk",
+      "time": 1793787027,
+      "hn_url": "https://news.ycombinator.com/item?id=50363461",
+      "text": "If you have a personal Google AI subscription, all your saved chat history in Gemini can be used for training and there is no way to opt out unless you turn off chat history or use temporary chat sessions. These chat transcripts may even be read by human reviewers. Although Google claims to disconnect them from your account when human-reviewed, they explicitly warn <i>not to enter confidential information</i>.<p>https:&#x2F;&#x2F;support.google.com&#x2F;gemini&#x2F;answer&#x2F;16836988<p><i>“[Ge",
+      "relevance_score": 0.8999999999999999,
+      "summary": "If you have a personal Google AI subscription, all your saved chat history in Gemini can be used for training and there is no way to opt out unless you turn off chat history or use temporary chat sessions. These chat transcripts may even be read by human reviewers. Although Google claims to disconnect them from your account when human-reviewed, they explicitly warn not to enter confidential information. Disabling the Keep Activity setting forces users to lose chat sessions after 72 hours. Human reviewers may retain reviewed chat sessions for up to three years, even after users delete their accounts or activity.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:46:50.169033+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50362905,
+      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "score": 595,
+      "comments": 275,
+      "author": "novaRom",
+      "time": 1793781989,
+      "hn_url": "https://news.ycombinator.com/item?id=50362905",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to a post by (((JReuben1))) on X and a discussion on Hacker News, the encrypted firmware of the Nvidia RTX Spark slows inference speed to 35% on Linux. MindStudio's blog post elaborates that the platform controller’s power management logic in the Linux driver is not shipping, and the encrypted firmware power table can only be decrypted by Windows, leading to a significant drop in clock speed on Linux. The blog also mentions that disabling the controller in Windows reproduced the slowdown, confirming that the controller, not the kernel, distribution, or driver, is responsible for the reduced performance on Linux.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:46:52.596272+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50366971,
+      "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+      "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+      "score": 72,
+      "comments": 88,
+      "author": "karakoram",
+      "time": 1793806111,
+      "hn_url": "https://news.ycombinator.com/item?id=50366971",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to TechCrunch, Hacker News, and Yahoo Tech, Garry Tan from Y Combinator spends up to $200,000 a year on tokens for AI agents. He uses these agents extensively for work projects, coding tasks, and personal life management, and has shared his set of 23 skills on GitHub to help others understand what agents can do.",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:46:55.174183+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50369527,
+      "title": "From wild to mild: Friendly foxes show changes in brain region",
+      "url": "https://news.cornell.edu/stories/2026/11/wild-mild-friendly-foxes-show-changes-brain-region",
+      "score": 37,
+      "comments": 7,
+      "author": "gmays",
+      "time": 1793816656,
+      "hn_url": "https://news.ycombinator.com/item?id=50369527",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Scientists studying the neurology of tame foxes identified changes in a part of the brain called the ventromedial hypothalamus, which is known to drive aggression, control decisions related to energy use, and is important for maternal instincts and social behaviors in mice. The study found that tame foxes had fewer estrogen receptor alpha (ERα)-expressing neurons within the ventromedial hypothalamus compared to aggressive and wild foxes. The researchers aim to understand why domestication leads to these changes in this brain area, which has not been well studied before this work. Study co-author Anna Kukekova may explore how mutations in different parts of the fox genome affect the development of these particular neurons.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:46:57.983839+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50373505,
+      "title": "American Voters Overwhelmingly Reject AI Data Centers",
+      "url": "https://www.404media.co/american-voters-overwhelmingly-reject-ai-data-centers/",
+      "score": 27,
+      "comments": 1,
+      "author": "latexr",
+      "time": 1793839393,
+      "hn_url": "https://news.ycombinator.com/item?id=50373505",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "American voters overwhelmingly rejected data centers during the midterm election, with proposals related to data centers explicitly on the ballot in more than 40 races across 13 states. Voters voted against data centers in 38 of them and counting, with six cities voting to ban data centers outright and 12 putting limits on the amount of megawatts such buildings could draw. In addition to specific ballot measures, candidates who supported data centers lost across the country. The tally for all ballots across the country on whether to restrict data centers was 44-1. According to NBC exit polls, 56% of voters said AI and data centers played a “crucial or major factor” in their vote for Congress.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:47:00.307512+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50374741,
+      "title": "Flims and TV shows created using AI have now reached a high level of quality",
+      "url": "https://crateh.com/en",
+      "score": 6,
+      "comments": 2,
+      "author": "haebom",
+      "time": 1793848859,
+      "hn_url": "https://news.ycombinator.com/item?id=50374741",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that while AI is extensively used in film and TV, primarily for enhancing efficiency in tasks like VFX and de-aging, the quality of AI-generated content is still being debated. One source highlights that collaborative human creativity is currently outperforming Gen-AI in terms of quality and audience loyalty, while another notes that AI is used to create visually impressive but generic media, contributing to a form of \"AI Slop.\" Another source mentions that AI is being used to replicate and enhance traditional animation aesthetics, but does not explicitly state that it has reached a high level of quality in mainstream films and TV shows. Thus, while AI is making significant inroads, the extent to which it has reached a high level of quality remains uncertain according to the provided sources.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:47:02.961839+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50369098,
+      "title": "512GB Mac Studio",
+      "url": "https://www.apple.com/shop/buy-mac/mac-studio/m5-ultra-chip-36-core-cpu-80-core-gpu-512gb-memory-1tb-storage",
+      "score": 29,
+      "comments": 22,
+      "author": "immutlex",
+      "time": 1793814712,
+      "hn_url": "https://news.ycombinator.com/item?id=50369098",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Mac Studio can be configured with up to 512GB of unified memory, which is the most ever in a personal computer, and up to 16TB of ultrafast SSD storage. It supports advanced graphics architecture with Dynamic Caching, hardware-accelerated mesh shading, and ray tracing, making it up to 2.6x faster for graphics workflows. The Mac Studio is also built for Apple Intelligence™ and can run large language models with over 600 billion parameters entirely in memory. The sources do not provide specific pricing or availability dates beyond the announcement.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:47:05.666226+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50371890,
+      "title": "Don't Call It a Decision Model",
+      "url": "https://typesafe.ai/blog/dont-call-it-a-decision-model",
+      "score": 13,
+      "comments": 4,
+      "author": "emschwartz",
+      "time": 1793828118,
+      "hn_url": "https://news.ycombinator.com/item?id=50371890",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Decision models, as described by Laurence Moroney, are small, open-source tools that score possible answers to defined questions based on provided states, returning results that fit a specified schema with probabilities. AWS's Strands Decider 2B is highlighted as a notable example, with performance metrics of around 115 ms per decision on an RTX 3090 and 153 ms for small tasks on an M3 MacBook. The sources also mention that a decision model earns trust through calibration, meaning it is right about nine times out of ten when it claims to be 90 percent sure. The debate around the Yes/No model highlights its limitations and potential dangers in decision-making processes.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-05T04:47:08.186987+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
