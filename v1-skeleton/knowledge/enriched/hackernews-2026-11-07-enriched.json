@@ -1,0 +1,536 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-11-07T04:13:55.053283Z",
+  "analyzed_at": "2026-11-07T04:17:22.450204+00:00",
+  "count": 22,
+  "items": [
+    {
+      "id": 50397429,
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+      "score": 379,
+      "comments": 86,
+      "author": "theanomaly",
+      "time": 1793994531,
+      "hn_url": "https://news.ycombinator.com/item?id=50397429",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost, according to Hightouch. The hybrid model combining Jev + Opus achieves frontier accuracy at more than 4x lower costs compared to Opus alone. Specifically, Opus costs $2.42 per thousand requests while the hybrid model costs $0.69 per thousand requests, achieving 84.0% accuracy, within 0.4 points of Opus alone.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-07T04:16:29.676347+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50401414,
+      "title": "Lighting the Skies",
+      "url": "https://computer.rip/2026-10-25-searchlights.html",
+      "score": 5,
+      "comments": 0,
+      "author": "dverlaeckt80",
+      "time": 1794022834,
+      "hn_url": "https://news.ycombinator.com/item?id=50401414",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources mention natural light sources in the night sky, including the moon, stars, planets, the Milky Way, zodiacal light, airglow, and auroras in high latitude regions. Airglow is emitted from excited oxygen atoms in the Earth’s upper atmosphere and is caused by the Sun and cosmic rays during the day. The zodiacal light appears as a cone of light near the sun, caused by sunlight scattered by dust particles in our solar system. The Hill Country Alliance's Night Sky Preservation Fund supports efforts to reduce light pollution and protect starry skies. The sources do not provide a definitive answer to the specific question about \"Lighting the Skies.\"",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-07T04:16:32.401482+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50399991,
+      "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+      "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+      "score": 58,
+      "comments": 20,
+      "author": "raybb",
+      "time": 1794008239,
+      "hn_url": "https://news.ycombinator.com/item?id=50399991",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A major federal antitrust lawsuit over algorithmic rent-setting via Realpage’s software has been settled, with a federal court approving a settlement agreement that provides nearly $360M to U.S. multifamily renters who paid any owner or operator on a property that used Realpage’s software between Oct. 18, 2018 through Nov. 21, 2025. None of the companies admitted fault or liability, but they agreed to stop providing Realpage with their nonpublic data for use as an input in their algorithms.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-07T04:16:34.786162+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50397219,
+      "title": "Firecracker VM Escape: PwnEscape Part 2",
+      "url": "https://pwn.ai/blog/firecracker-escape",
+      "score": 194,
+      "comments": 90,
+      "author": "SerCe",
+      "time": 1793993618,
+      "hn_url": "https://news.ycombinator.com/item?id=50397219",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources detail a Firecracker VM escape exploit, demonstrating root code execution on the host as CVE-2026-99999. The exploit chain involves four stages: an EPT resolver, a reverse mapper, an image mapper, and a frame finder. While a vCPU thread is blocked in KVM_RUN, the host kernel stores its saved registers in a pt_regs structure. An attacker can locate this frame and overwrite RIP, RSP, and argument registers. When the guest operation returns from KVM, the kernel restores the modified registers, causing Firecracker to execute an attacker-chosen call.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-07T04:16:37.300146+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50388001,
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+      "score": 299,
+      "comments": 240,
+      "author": "ChrisArchitect",
+      "time": 1793937628,
+      "hn_url": "https://news.ycombinator.com/item?id=50388001",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The US Federal Aviation Administration (FAA) plans to phase out floppy disks from its air traffic control system by the end of 2028, replacing outdated technology used at more than 400 facilities across the country. The new Enterprise Information Display System will consolidate data from four separate 1980s-era systems, improving the speed and accessibility of vital flight information for controllers. The agency will upgrade more than 400 facilities with a modern information system as part of a sweeping technology overhaul.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-07T04:16:39.433230+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50397994,
+      "title": "AI is dramatically accelerating AI research",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "score": 234,
+      "comments": 175,
+      "author": "yurivish",
+      "time": 1793996843,
+      "hn_url": "https://news.ycombinator.com/item?id=50397994",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AI is dramatically accelerating AI research, as evidenced by the combination of AI systems with high-throughput experimentation to accelerate the development of next-generation energy storage materials, leading to new battery materials with improved performance and substantial reductions in research timelines. Additionally, AI research is speeding up dramatically, with progress in frontier maths problems accelerating to 98% in little over a year, and researchers at Anthropic noting that AI-assisted tasks started to go down, indicating a rapid acceleration in AI progress.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-07T04:16:42.098425+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50401029,
+      "title": "The AI sell-off compared to well-known stock market crashes",
+      "url": "https://www.kadoa.com/companies/insights/ai-selloff-perspective",
+      "score": 14,
+      "comments": 1,
+      "author": "hubraumhugo",
+      "time": 1794018006,
+      "hn_url": "https://news.ycombinator.com/item?id=50401029",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to Jim Cramer, the recent AI stock sell-off echoes the 1987 Black Monday crash, where automatic selling hit strong companies' stocks despite their fundamentals. Cramer noted that the 1987 crash was fueled by portfolio insurance strategies that triggered waves of automatic selling, leading to a spectacular buying opportunity. He emphasized that the recent AI sell-off, particularly in semiconductor and data center stocks, is also driven by forces beyond the companies' control, similar to the 1987 crash. However, Cramer also pointed out that the current sell-off is not comparable to the dot-com crash, as no significant defaults on debt are occurring, and the issue is more about regulatory delays in AI infrastructure spending.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-07T04:16:44.734399+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50394855,
+      "title": "First steps in bare-metal programming using UEFI",
+      "url": "https://kevinboone.me/efitest_index.html",
+      "score": 200,
+      "comments": 36,
+      "author": "LaSombra",
+      "time": 1793983829,
+      "hn_url": "https://news.ycombinator.com/item?id=50394855",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "To start bare-metal programming using UEFI, the sources indicate that you should first compile and link your code using specific flags to ensure EFI compliance. For instance, the command `gcc -I /usr/include -DEFI_FUNCTION_WRAPPER -fno-stack-protector -mno-red-zone -fpic -fshort-wchar -c test.c -o test.o` is used to compile the code, followed by `objcopy` to transform the shared object into an EFI executable with the command `objcopy -j.text -j.sdata -j.data -j.dynamic -j.dynsym -j.rel -j .rela -j.reloc --target=efi-app-x86_64 test.so test.efi`. The series of articles by Kevin Boone and daily.dev provide a comprehensive guide for experienced Linux developers to follow in order to understand and implement bare-metal UEFI programming.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-07T04:16:47.075231+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50397017,
+      "title": "Restaurant Delivery Payment-Skimming Campaign",
+      "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+      "score": 104,
+      "comments": 51,
+      "author": "fiej",
+      "time": 1793992767,
+      "hn_url": "https://news.ycombinator.com/item?id=50397017",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "InfoHawk research has uncovered a network of 820 suspicious restaurant domains impersonating major US chains, including Jersey Mike’s, Jimmy John’s, Firehouse Subs, Chipotle, and Dave’s Hot Chicken. Some are running sophisticated payment-skimming attacks that capture credit card information and ask customers for their bank’s SMS verification codes. The scam involves fraudsters proxying the real websites of these restaurants and swapping in a fake payment form at checkout to steal credit card numbers. Additionally, at least two “separate, ongoing Magecart campaigns have injected e-skimmer scripts into the online ordering portals of restaurants using three separate platforms, MenuDrive, Harbortouch, and InTouchPOS,” according to a July 18 post by Insikt Group. These campaigns expose internet-based transactions at more than 300 restaurants.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-07T04:16:49.450388+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50355009,
+      "title": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots",
+      "url": "https://github.com/andrewboldi/tmux-restore",
+      "score": 16,
+      "comments": 5,
+      "author": "boldi",
+      "time": 1793726721,
+      "hn_url": "https://news.ycombinator.com/item?id=50355009",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that Tmux-restore is a tool that saves tmux windows and agent sessions across reboots. On Hacker News, it is presented as a project by Andrew Boldi. Nick Janetakis' blog post and YouTube video discuss a similar plugin called tmux-resurrect, which allows saving and restoring tmux sessions across reboots using hotkeys. Both tools aim to persist tmux sessions, windows, and panes even after reboots.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-11-07T04:16:51.725581+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50397711,
+      "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
+      "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+      "score": 54,
+      "comments": 8,
+      "author": "rexbee",
+      "time": 1793995754,
+      "hn_url": "https://news.ycombinator.com/item?id=50397711",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "On November 6, 2026, Crusoe announced that Google has acquired its data center site in southeast Wyoming, marking the completion of Crusoe's pre-development work on the project, which included site selection, governmental approvals, and a power strategy developed with Tallgrass Energy. The deal's financial terms were not disclosed. Google announced a $17-billion investment in the project, which it will build in partnership with Tallgrass Energy, Black Hills Energy, American Electric Power, and Related Digital. Crusoe's CEO noted that the company has more than 6 gigawatts of contracted capacity and over 40 gigawatts in its development pipeline.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-07T04:16:55.149303+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50397099,
+      "title": "GitHub's new Git storage architecture",
+      "url": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+      "score": 88,
+      "comments": 16,
+      "author": "DAlperin",
+      "time": 1793993061,
+      "hn_url": "https://news.ycombinator.com/item?id=50397099",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "GitHub is rebuilding its Git storage architecture to meet unprecedented demand from AI agents, with early tests showing a 35x write improvement. The new architecture decouples writes from reads, offloads maintenance, and uses Azure Blob Storage for automatic replication and redundancy, eliminating the quorum bottleneck. Reads are served by lightweight workers that cache data, and maintenance tasks are handled separately to avoid slowing pushes and fetches. The current architecture, nicknamed Spokes, uses a three-phase commit protocol with full repo copies across multiple local disks, which bottlenecks write speed.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-07T04:16:58.314495+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50392118,
+      "title": "Gemini Omni 1.2 Flash",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "score": 306,
+      "comments": 220,
+      "author": "thisisauserid",
+      "time": 1793972127,
+      "hn_url": "https://news.ycombinator.com/item?id=50392118",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Gemini Omni 1.2 Flash is Google's native multimodal video generation and editing model, succeeding Gemini Omni 1.1 Flash. It generates clips up to 15 seconds long with native audio in 16:9 or 9:16, from 360p drafts up to 4K, and supports text-to-video, image-to-video, first and last frame interpolation, subject and video references with improved reference management, and editing or extending an uploaded video. It is generally available on the Gemini API and Gemini for business, offering a 30% price reduction to $0.07 per second for 720p video. It is suited for businesses to produce high-quality video content at scale.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-07T04:17:00.889328+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50389570,
+      "title": "Chomsky and the two cultures of statistical learning (2011)",
+      "url": "https://www.norvig.com/chomsky.html",
+      "score": 109,
+      "comments": 90,
+      "author": "andsoitis",
+      "time": 1793953116,
+      "hn_url": "https://news.ycombinator.com/item?id=50389570",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "At the Brains, Minds, and Machines symposium held during MIT's 150th birthday party in 2011, Technology Review reports that Prof. Noam Chomsky derided researchers in machine learning who use purely statistical methods to produce behavior that mimics something in the world, but who don't try to understand the meaning of that behavior. The sources also mention two cultures of statistical learning: the data modeling culture, followed by an estimated 98% of statisticians, and the algorithmic modeling culture, used by the other 2% plus many in biology and AI. The former assumes nature follows a simple underlying model, while the latter treats nature as a black box approximated by complex methods.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-07T04:17:03.333340+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50395919,
+      "title": "Memorilla: Latent Semantic Memory for LLMs",
+      "url": "https://arxiv.org/abs/2610.21375",
+      "score": 95,
+      "comments": 9,
+      "author": "handfuloflight",
+      "time": 1793988213,
+      "hn_url": "https://news.ycombinator.com/item?id=50395919",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Memorilla is a memory system that reads an entire document collection and supplies a frozen large language model (LLM) with a compact set of query-dependent memory tokens. It achieves the best average performance against methods such as Mem0 and MemoRAG, and on FactKG it is even more accurate than giving the LLM every document (84.33% vs. 80.43%) while using 108 times fewer tokens. Memorilla encodes documents once into reusable embeddings and learns to retrieve and place query-specific information in the LLM's input embedding space. It uses only 16 memory tokens to achieve these results.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-11-07T04:17:05.604614+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50394906,
+      "title": "Anthropic IPO buyers see valuation as low as $1.1T",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/anthropic-ipo-valuation-expectations-pressured-after-ai-rout",
+      "score": 257,
+      "comments": 514,
+      "author": "dgellow",
+      "time": 1793984076,
+      "hn_url": "https://news.ycombinator.com/item?id=50394906",
+      "text": "<a href=\"https:&#x2F;&#x2F;epyhia.com&#x2F;anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors\" rel=\"nofollow\">https:&#x2F;&#x2F;epyhia.com&#x2F;anthropic-ipo-valuation-talks-drop-to-1-3...</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Prospective buyers in Anthropic's planned IPO are discussing a valuation range of $1.2 trillion to $1.3 trillion, with some considering as low as $1.1 trillion, down from last week's $1.4 trillion to $1.5 trillion range. This shift follows a significant decline in the Nasdaq 100, which dropped 6.4% on Thursday, erasing $2.3 trillion in market value. Formal IPO marketing is set to begin next week, and Anthropic and its selling shareholders may adjust their targets based on demand.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-07T04:17:08.357573+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50396108,
+      "title": "40C3 halfnarp – Submit talk preferences to aid scheduling",
+      "url": "https://halfnarp.events.ccc.de",
+      "score": 46,
+      "comments": 9,
+      "author": "hanemile",
+      "time": 1793989003,
+      "hn_url": "https://news.ycombinator.com/item?id=50396108",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "To submit talk preferences to aid scheduling for 40C3, use the halfnarp service by Chaos Communication Congress’ content crew. This service allows attendees to store and share a list of events they plan to attend, helping to adjust the conference’s Fahrplan. To help create the preliminary timetable, submit your preferences by selecting the talks that interest you and clicking “Submit.” This will also reveal a download button for your personalized calendar in ical format and present a QR code with a JSON dictionary of your preferences to import by mobile clients.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-07T04:17:10.507157+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50399569,
+      "title": "ChatGPT silently passes data between connectors and the bounty wants an ID card",
+      "url": "https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053",
+      "score": 83,
+      "comments": 35,
+      "author": "Aldipower",
+      "time": 1794005443,
+      "hn_url": "https://news.ycombinator.com/item?id=50399569",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that there are security risks associated with the use of connectors in platforms like ChatGPT, including the potential for data leakage and the need for monitoring data flows to prevent the unintentional dissemination of sensitive information. They also mention the importance of role-based access control (RBAC) and data-layer policies to manage and protect sensitive data when using connectors. However, specific details about how connectors pass data or the exact nature of the \"ID card\" bounty are not provided in the sources.",
+      "tags": [
+        "gpt"
+      ],
+      "analyzed_at": "2026-11-07T04:17:12.917437+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50393458,
+      "title": "Ozempic-style drugs now in trials for heart failure, addiction and even aging",
+      "url": "https://maccus.fr/en/ozempic-drugs-trials-beyond-diabetes/",
+      "score": 57,
+      "comments": 22,
+      "author": "randycupertino",
+      "time": 1793978674,
+      "hn_url": "https://news.ycombinator.com/item?id=50393458",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Ozempic-style drugs are now in trials for heart failure, addiction, and even aging. The share of Ozempic-style drug trials aimed beyond diabetes and weight has roughly tripled in fifteen years, across fifteen disease areas. Specific trials include semaglutide in heart failure (NCT07090343), tirzepatide and biological aging (NCT07906041), and a drug in MASH (NCT07718126). The US Department of Veterans Affairs is testing semaglutide against alcohol use disorder, Imperial College London is trying it on Alzheimer’s disease, and a research institute in New York is running a trial against biological aging itself.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-07T04:17:15.178750+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50385272,
+      "title": "Claude Code sends your email address to websites",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "score": 1560,
+      "comments": 496,
+      "author": "motoroco",
+      "time": 1793917035,
+      "hn_url": "https://news.ycombinator.com/item?id=50385272",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to the sources, users of Claude Code have reported that the tool sends their email addresses to websites in HTTP headers, which has led to spam and phishing emails. The issue was traced to model behavior that included embedding users' email addresses in outgoing web requests after certain types of responses or requests. Anthropic addressed this issue with a built-in mod called cc-plugin-privacy in version 2.1.317 and later, which blocks this behavior and is enabled by default. Users are advised to update to this version or later to avoid the issue.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-07T04:17:17.401800+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50382958,
+      "title": "Zero Hour: Telling time was a matter of survival and strategy during WWI (2014)",
+      "url": "https://www.laphamsquarterly.org/roundtable/zero-hour",
+      "score": 97,
+      "comments": 4,
+      "author": "NaOH",
+      "time": 1793905177,
+      "hn_url": "https://news.ycombinator.com/item?id=50382958",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "In America, daylight saving time first became official on March 19, 1918, when the Standard Time Act was signed into law to help save energy costs during World War I. The term 'Zero Hour' was first used in World War I in reference to \"a time at which some great military action has to take place.\" The sources do not provide a definitive answer to the specific question about the term's use in WWI survival and strategy.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-07T04:17:19.705226+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50399695,
+      "title": "Outbound SIP calling is now available to all organizations",
+      "url": "https://developers.openai.com/api/docs/guides/voice-sip",
+      "score": 59,
+      "comments": 48,
+      "author": "arbayi",
+      "time": 1794006235,
+      "hn_url": "https://news.ycombinator.com/item?id=50399695",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that outbound SIP calling is available through the Live API for organizations that have it enabled. The Hacker News post mentions the availability of outbound SIP calling for all organizations, while the Plivo blog discusses SIP Trunking's full-service solution, including inbound and outbound capabilities. The OpenAI API documentation specifies the requirements for configuring a trunk for outbound SIP calling. However, the exact date or timeframe for the availability of outbound SIP calling is not provided in the sources.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-07T04:17:21.949236+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
