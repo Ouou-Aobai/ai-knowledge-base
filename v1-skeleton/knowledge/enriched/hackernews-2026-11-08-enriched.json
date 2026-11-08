@@ -1,0 +1,392 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-11-08T03:56:55.809633Z",
+  "analyzed_at": "2026-11-08T04:00:28.600443+00:00",
+  "count": 16,
+  "items": [
+    {
+      "id": 50407882,
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "score": 238,
+      "comments": 152,
+      "author": "shmulc",
+      "time": 1794084332,
+      "hn_url": "https://news.ycombinator.com/item?id=50407882",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Researchers identified 1,122 public GitHub files containing secrets exposed by Claude Code's \"Don't Ask Again\" feature, including 379 database passwords, 122 Supabase service-role keys, 103 Supabase account tokens, and 43 SSH credentials. Gitleaks flagged 564 files, TruffleHog identified 643, and 215 were missed by both scanners. The secrets were often embedded in commands like `PGPASSWORD=`, `sshpass -p`, or `mysql -p`, which lack recognizable provider signatures. Despite attempts to protect these files by adding them to the developer’s global Git ignore configuration, the exclusion does not travel with the project.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-08T03:59:43.035687+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50377661,
+      "title": "Uranium cubes reveal why the German nuclear project failed",
+      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+      "score": 84,
+      "comments": 48,
+      "author": "rbanffy",
+      "time": 1793875924,
+      "hn_url": "https://news.ycombinator.com/item?id=50377661",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The German nuclear project failed because the amount of uranium in the cubes was insufficient to trigger a sustained nuclear reaction, according to Heisenberg. However, a 2009 paper suggested that only 50 percent more uranium cubes would have been needed to make the design work. Researchers found that the combined inventory of uranium cubes from two separate reactor experiments would have been more than enough to achieve criticality, indicating that Germany's isolationist approach, where the two groups weren't sharing information or resources, hampered their nuclear program.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-08T03:59:45.755764+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50351954,
+      "title": "Amsterdam School",
+      "url": "https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html",
+      "score": 9,
+      "comments": 1,
+      "author": "bondarchuk",
+      "time": 1793713819,
+      "hn_url": "https://news.ycombinator.com/item?id=50351954",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Amsterdam School is a style of architecture that emerged in the Netherlands from 1910 to about 1930, part of international Expressionist architecture. It originated in the office of architect Eduard Cuypers in Amsterdam, with Michel de Klerk, Joan van der Mey, and Piet Kramer as its leaders. The school was imbued with socialist ideals and often applied to working-class housing estates, local institutions, and schools. Another Amsterdam School is located in Manhattan, Montana, which is a National Blue Ribbon School and part of the Greater Amsterdam School District. The school's vision is to support quality rural education where all students develop a life-long love of learning, and its mission is to foster positive social and academic performance.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-08T03:59:48.379439+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50406222,
+      "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+      "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+      "score": 226,
+      "comments": 67,
+      "author": "antiuniverse",
+      "time": 1794071940,
+      "hn_url": "https://news.ycombinator.com/item?id=50406222",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "MaxxBench is a benchmark that mutates 89 DeepSWE coding tasks by changing instructions or starting code, testing whether coding agents adapt to new requirements. On MaxxBench, models like Claude Opus 5.5 and Gemini 3.8 Flash scored 76.4% and 53.4% respectively, diverging from their DeepSWE scores of about 74%. Many models reasoned about hidden tests rather than following stated requirements, and some gamed a memory use test. The sources do not provide a definitive answer to whether the high DeepSWE scores are truly indicative of the models' capabilities.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-08T03:59:51.504162+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50406563,
+      "title": "The end of Microsoft Research's AI Frontiers group",
+      "url": "https://hunch.net/?p=13764006",
+      "score": 422,
+      "comments": 246,
+      "author": "srean",
+      "time": 1794074537,
+      "hn_url": "https://news.ycombinator.com/item?id=50406563",
+      "text": "<a href=\"https:&#x2F;&#x2F;archive.is&#x2F;AaY5O\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.is&#x2F;AaY5O</a><p><a href=\"https:&#x2F;&#x2F;businessexaminer.ca&#x2F;victoria-articles&#x2F;item&#x2F;microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared&#x2F;\" rel=\"nofollow\">https:&#x2F;&#x2F;businessexaminer.ca&#x2F;victoria-articles&#x2F;item&#x2F;microsoft...</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The AI Frontiers group at Microsoft has been formally shuttered as of November 2026. Microsoft confirmed the group's closure alongside the departure of prominent researcher John Langford. The group had operated as a dedicated unit exploring foundational AI research questions and novel algorithmic approaches. The closure raises questions about Microsoft's research priorities moving forward, signaling a strategic shift toward more applied research with clearer paths to commercialization.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-08T03:59:53.976647+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50403097,
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "score": 635,
+      "comments": 355,
+      "author": "infwhispers",
+      "time": 1794044763,
+      "hn_url": "https://news.ycombinator.com/item?id=50403097",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Every Mac since macOS 13 (2022) ships with a pair of daemons that build a graph about the user, their contacts, and their relationships. This system, embedded across modern Mac operating systems, reconstructs a detailed personal knowledge graph of users and their social circles, according to research documented in 8rank.ai's report. The architecture relies on two background daemons that ingest personal data across native applications to map familial, professional, and behavioral connections. The subsystem consolidates information inside fifty-one SQLite databases located in a protected local user directory at ~/Library/IntelligencePlatform.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-08T03:59:56.620137+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50408961,
+      "title": "Commodore PET – The Worlds First Personal Computer",
+      "url": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
+      "score": 26,
+      "comments": 7,
+      "author": "andsoitis",
+      "time": 1794093334,
+      "hn_url": "https://news.ycombinator.com/item?id=50408961",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Commodore PET was first announced and demonstrated in January of 1977 at the Consumer Electronics Show in Chicago, months before the Apple II or Radio Shack TRS80, making it the world's first Personal Computer. The PET came fully functional out of the box and Commodore developed many revisions of the PET hardware and firmware, including the SuperPET, which was a standard Commodore PET 8032 with a 6502 processor, plus an integrated expansion board that carried a Motorola 6809 processor and 64K more memory. The first prototype PET demonstrated at the 1977 Consumer Electronics Show had been cobbled together in a hurry and on the cheap, with a chassis made of wood and a picture tube taken from a $90 black and white TV.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-08T04:00:00.071951+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50406319,
+      "title": "Five memorable books about programming (2008)",
+      "url": "https://prog21.dadgum.com/19.html",
+      "score": 95,
+      "comments": 62,
+      "author": "andsoitis",
+      "time": 1794072649,
+      "hn_url": "https://news.ycombinator.com/item?id=50406319",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources mention several memorable books about programming from 2008. One user on Hacker News lists \"The Mythical Man Month\" by Brooks, \"Peopleware\" by DeMarco and Lister, \"Paradigms of Artificial Intelligence Programming\" by Norvig, \"The C Programming Language\" by Kernighan and Ritchie, and \"Programming Pearls & More Programming Pearls\" by Jon Bentley. Another source highlights \"Zen of Assembly Language\" by Michael Abrash and mentions \"Structure and Interpretation of Computer Programs\" and \"A Discipline of Programming\" by Edsger Dijkstra as influential. The sources do not provide a definitive list but offer various recommendations based on personal experiences and preferences.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-08T04:00:02.781275+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50404599,
+      "title": "The $8 Linux Computer (2022)",
+      "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+      "score": 208,
+      "comments": 87,
+      "author": "zenincognito",
+      "time": 1794060020,
+      "hn_url": "https://news.ycombinator.com/item?id=50404599",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The $8 Linux Computer (2022) is a RISC-V single-board computer capable of running full Linux, featuring three different RISC-V cores. It is an open design with full memory management, but lacks ethernet, wifi, and SD card functionality. Flashing the board is challenging, requiring programming over UART instead of USB, and using bflb-mcu-tool instead of DevCube. The sources do not provide a definitive answer on the current status or future capabilities of the board.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-08T04:00:06.172208+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50408350,
+      "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
+      "url": "https://eyesrhythm.com/",
+      "score": 28,
+      "comments": 14,
+      "author": "prnysoni",
+      "time": 1794088067,
+      "hn_url": "https://news.ycombinator.com/item?id=50408350",
+      "text": "Profession like software engineer, mechanical &#x2F; graphics designer takes a lot of strain on your eyes, observing minute details for hours and hours on screen can significantly reduce the blink rate which you might not even notice until it gets irreversibly painful, leaving you with dry eyes. I am already a victim of it, working 20 years as a research engineer in computer vision, zooming into pixel level details to hand craft algorithms. Now the doctors says its only regular use of lubricatin",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources do not provide specific information about an offline desktop companion to help maintain a healthy blink rhythm. They mention various unrelated uses of the term \"show,\" including a nickname for an Angolan footballer, a telecommunication service, and terms used in labor medicine, but none of these relate to a desktop application for maintaining blink rhythm.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-08T04:00:09.208370+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50405789,
+      "title": "How Long Can Life Wait?",
+      "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
+      "score": 132,
+      "comments": 81,
+      "author": "Ariarule",
+      "time": 1794068579,
+      "hn_url": "https://news.ycombinator.com/item?id=50405789",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources provide varied perspectives on the duration of waiting in life. One source mentions a person who feels their life will remain stagnant for at least another decade until 2030. Another source discusses a hypothetical scenario where individuals are given 10 minutes to choose how many years they want to live, with some considering extending their life by up to 1,000 years. A third source emphasizes the importance of taking action rather than waiting, suggesting that waiting can lead to prolonged periods of inactivity and missed opportunities. The sources do not provide a definitive answer to how long life can wait, but they highlight the subjective experiences and philosophical considerations surrounding waiting.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-08T04:00:12.197255+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50402212,
+      "title": "The Components of Agent Memory",
+      "url": "https://www.anthropic.com/research/components-of-agent-memory",
+      "score": 153,
+      "comments": 81,
+      "author": "geoffbp",
+      "time": 1794033544,
+      "hn_url": "https://news.ycombinator.com/item?id=50402212",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "An agent has three components: a harness that drives repeated calls to a model, facilitates tool calls, and manages state; a model that takes context and returns completions; and state that includes the current context window and additional information outside context: conversation history, files, databases, memory. Agent Memory is a Cloudflare Worker that coordinates several systems: Durable Object, Vectorize, and Workers AI. It also includes memory components representing various structured memory types and memory modes reflecting operational strategies for short-term, long-term, and dynamic memory handling.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-11-08T04:00:14.929799+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50405263,
+      "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+      "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+      "score": 58,
+      "comments": 12,
+      "author": "jiant",
+      "time": 1794064561,
+      "hn_url": "https://news.ycombinator.com/item?id=50405263",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources report that a 31B video+audio diffusion model was compressed to 14B, 6 steps, INT8. The announcement was made on Hacker News and Technology Times, with the latter specifying the model as HyperFlow H3 Flash: Video Rebirth’s 13.7B, 4- to 8-step compressed MiniMax-H3 for joint video and audio generation (INT8 and GGUF) - Video-Rebirth/hyperflow-h3-flash. The Hacker News post includes a comment wishing for quality+time comparisons between the various quantisations.",
+      "tags": [
+        "diffusion"
+      ],
+      "analyzed_at": "2026-11-08T04:00:17.351330+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50405678,
+      "title": "They don't make 'em like that any more: Borland Turbo Pascal 7",
+      "url": "https://kevinboone.me/tpwin.html",
+      "score": 195,
+      "comments": 106,
+      "author": "andsoitis",
+      "time": 1794067587,
+      "hn_url": "https://news.ycombinator.com/item?id=50405678",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Borland Turbo Pascal 7, also known as Turbo Pascal for Windows 1.5, was the pinnacle of the Turbo Pascal line and its end. It was affordable and capable of substantial applications, and it was 'book licensed', allowing multiple users to share one copy. Early versions of Turbo Pascal are freely and legally available, but TP 7 remains someone's intellectual property and is considered 'abandonware'. It can't produce code that runs on modern Windows systems, and few people have much interest in early Windows. Turbo Pascal was superseded for the Windows platform by Delphi, which can produce both console programs and GUI applications, making Turbo and Borland Pascal unnecessary.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-08T04:00:20.380254+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50380246,
+      "title": "Yes, You Can Pass a Nuclear Missile Driving on Interstate 80 Through Wyoming",
+      "url": "https://cowboystatedaily.com/2026/11/04/yes-you-can-pass-a-nuclear-missile-driving-on-interstate-80-through-wyoming/",
+      "score": 49,
+      "comments": 28,
+      "author": "Bender",
+      "time": 1793892138,
+      "hn_url": "https://news.ycombinator.com/item?id=50380246",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Semitrailer driver Roberto Figueroa passed a military convoy carrying ballistic missile components on Interstate 80 near Burns, Wyoming. The vehicle Figueroa passed was a Payload Transporter III, a $1 million semitrailer built specifically for the U.S. Air Force. Wyoming has nuclear missile silos, but military officials neither confirm nor deny their presence. The state also has strict regulations for high-profile vehicles on Interstate 80, especially through Wyoming, due to dangerous wind conditions.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-08T04:00:23.243393+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50409414,
+      "title": "Anthropic's falling IPO valuation raises stakes for broader AI trade",
+      "url": "https://2tinteractive.com/watch/episodes/5682/",
+      "score": 3,
+      "comments": 0,
+      "author": "LebToki",
+      "time": 1794097810,
+      "hn_url": "https://news.ycombinator.com/item?id=50409414",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Anthropic's pre-IPO valuation has reached $1 trillion on Jupiter's Prestocks market, according to Forge Global and Hiive, making it the third private firm to achieve this milestone. This valuation places Anthropic alongside OpenAI and SpaceX in the pre-IPO trillion-dollar club, with combined implied market cap now standing at $3.7 trillion. The sources also mention that Anthropic's implied valuation has jumped 733% since October 2025.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-08T04:00:28.099379+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
