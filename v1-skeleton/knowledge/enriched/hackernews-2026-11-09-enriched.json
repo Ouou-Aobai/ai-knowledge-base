@@ -1,0 +1,537 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-11-09T04:12:12.745860Z",
+  "analyzed_at": "2026-11-09T04:13:10.809549+00:00",
+  "count": 22,
+  "items": [
+    {
+      "id": 50419215,
+      "title": "Unlocking any car from X brand in most of the world",
+      "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+      "score": 141,
+      "comments": 48,
+      "author": "infosecau",
+      "time": 1794183050,
+      "hn_url": "https://news.ycombinator.com/item?id=50419215",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that with an issued consumer auth token from the automaker's mobile app, remote commands such as unlocking and turning the engine on can be sent for any of the automaker's vehicles in Australia, the United States, and Canada. However, there is no information about unlocking any car from X brand in most of the world beyond these specific regions. The sources do not provide a definitive answer regarding unlocking cars globally.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-09T04:12:15.021102+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50416158,
+      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
+      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "score": 299,
+      "comments": 209,
+      "author": "xmddmx",
+      "time": 1794165632,
+      "hn_url": "https://news.ycombinator.com/item?id=50416158",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Since November 5, 2026, Microsoft's consumer mail service has been turning away some of the email from domains that don't publish a DMARC record. This affects emails sent to Outlook.com, Hotmail, and Live.com addresses. The error message is \"550 5.7.1 Message rejected: Message lacks SPF/DKIM/DMARC Auth Records (AS9031519).\" The fix is a single DNS record, `v=DMARC1; p=none`, which does not affect how other receivers treat your mail. No official announcement from Microsoft clarifies if this is intentional or a bug.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-09T04:12:17.478587+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50418975,
+      "title": "I'm not convinced the AI bubble exists",
+      "url": "https://matteoraso.github.io/im-not-convinced-the-ai-bubble-exists.html#im-not-convinced-the-ai-bubble-exists",
+      "score": 76,
+      "comments": 112,
+      "author": "matteoraso",
+      "time": 1794181476,
+      "hn_url": "https://news.ycombinator.com/item?id=50418975",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources suggest differing perspectives on the existence of an AI bubble. David Updike on LinkedIn argues that the AI bubble talk is premature, noting that AI tools are meant to enhance value rather than being over-hyped products like the dot coms. He also mentions that there's still significant investment in infrastructure. Dean Van Leeuwen on LinkedIn counters the notion of an imminent AI bubble burst, comparing it to the consolidation seen in the automobile industry where some companies failed but the market continued to expand. The Seeking Alpha article also argues against the existence of an AI bubble, though it does not provide specific details. The sources do not provide a definitive answer but suggest a range of opinions from skepticism to cautious optimism about the AI market.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-09T04:12:20.580083+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50368481,
+      "title": "Declarative Dragging",
+      "url": "https://declarative-dragging.github.io/",
+      "score": 416,
+      "comments": 52,
+      "author": "smusamashah",
+      "time": 1793811907,
+      "hn_url": "https://news.ycombinator.com/item?id=50368481",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Declarative dragging, as described in the sources, is a new approach to building drag-and-drop interfaces that shifts the focus from programming the mechanics of a drag to declaring the semantics of the interaction. Instead of writing detailed geometry or animation code, developers specify which future model states should be accessible by dragging an element. The system then handles the rendering and interaction, making it easier to create rich, tactile interactions. This method is model-driven and speculatively renders candidate states to synthesize the drag interaction. The Dragology library, which implements this approach, won the UIST 2026 Best Paper Award and is designed for SVG interfaces on the web.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-09T04:12:23.395931+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50420599,
+      "title": "The Qlobe: Rotating Quine (2010)",
+      "url": "http://mamememo.blogspot.com/2010/09/qlobe.html",
+      "score": 5,
+      "comments": 0,
+      "author": "niceguitars",
+      "time": 1794194117,
+      "hn_url": "https://news.ycombinator.com/item?id=50420599",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources do not provide specific information about \"The Qlobe: Rotating Quine (2010).\" The NASA SVS page lists various movie formats and their sizes but does not mention \"The Qlobe: Rotating Quine (2010).\" The SSEC page describes rotating globe movies but does not reference \"The Qlobe: Rotating Quine (2010).\" The Envato page lists royalty-free spinning globe videos but does not mention \"The Qlobe: Rotating Quine (2010).\" The premise of \"The Qlobe: Rotating Quine (2010)\" is not supported by the sources.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-09T04:12:26.365018+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50416456,
+      "title": "The Web Is More Than Enough, by Paul Ford",
+      "url": "https://ftrain.com/aboard-the-web-is-more-than-enough",
+      "score": 99,
+      "comments": 54,
+      "author": "edward",
+      "time": 1794167312,
+      "hn_url": "https://news.ycombinator.com/item?id=50416456",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to Paul Ford, the web browser is described as \"very, very, very powerful software for building applications,\" and the cost of accessing its power is decreasing daily. He emphasizes that web browsers enable incredibly rich app development, which is now easier than before. The sources do not provide specific dates or metrics for the cost reduction but affirm the increasing accessibility and power of web browsers for application development.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-09T04:12:29.635856+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50403153,
+      "title": "Ask HN: How do you manage your AI agents' context across clients and projects?",
+      "url": "",
+      "score": 16,
+      "comments": 17,
+      "author": "Michel_Aventin",
+      "time": 1794045708,
+      "hn_url": "https://news.ycombinator.com/item?id=50403153",
+      "text": "Hi Guys,\nlike many of you I work with AI agents every day and across several clients.\nThe major time cost for me is to re-explaining context and past decisions, client rules, that we already do. To finish every tools as its own memory.<p>So I’m curious how you actually handle this:<p>1. When you start a new session, how do you give context to the agent (context came from chat, mail, ticket ...) ?<p>2. Do you use more than one agent type (claude, codex ...) ? And if yes, how do you carry context ",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources suggest that managing context for AI agents across clients and projects involves putting context in source control to track changes, like a GitHub or Azure DevOps repository, and ensuring that all context is owned by stewards who keep it up-to-date. It is also important to curate context regularly and have a structure where the context that applies most broadly is lean, with project-specific instructions and skills isolated to those projects. The sources also emphasize the importance of a human in the loop to understand context, prioritize goals, manage trade-offs, and spot misalignment across outputs.",
+      "tags": [
+        "agent",
+        "ai"
+      ],
+      "analyzed_at": "2026-11-09T04:12:32.255543+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50420383,
+      "title": "A Bit about Email",
+      "url": "https://maurycyz.com/misc/email/",
+      "score": 8,
+      "comments": 1,
+      "author": "vinhnx",
+      "time": 1794192381,
+      "hn_url": "https://news.ycombinator.com/item?id=50420383",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Email is a powerful tool for communication, and its effectiveness depends on how it's used. To start an email, it's suggested to use \"hey\" for informal settings, while \"Hello\" or \"Hi\" is more formal. Emails should be written like humans speak, avoiding humor and sarcasm, and using short paragraphs or bullets for easy scanning. The subject line should be direct and clear, under 50 characters, and avoid overused words like \"help\" or \"reminder.\" Signatures should include the sender's name, title, phone number, and email address, but no images or disclaimers. The sources do not provide specific contact information or official website details.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-09T04:12:34.894713+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50415628,
+      "title": "Goldman Sachs is pulling Claude Code from its bankers and traders",
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "score": 662,
+      "comments": 381,
+      "author": "TheWiggles",
+      "time": 1794161767,
+      "hn_url": "https://news.ycombinator.com/item?id=50415628",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Goldman Sachs has restricted access to Anthropic's Claude Code and Microsoft's GitHub for its traders and bankers, allowing only its engineers to use these tools. The bank initially removed Claude from its internal AI platform for bankers in Hong Kong in April, citing a strict interpretation of its contract with Anthropic. This restriction was later extended to most traders and bankers at the firm, following a review of productivity and risk concerns, according to Bloomberg News. Strats, who work across trading, quantitative research, and software engineering, still have access to these tools.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-09T04:12:37.645262+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50412067,
+      "title": "Writing as a thinking tool",
+      "url": "http://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+      "score": 305,
+      "comments": 83,
+      "author": "jruohonen",
+      "time": 1794134512,
+      "hn_url": "https://news.ycombinator.com/item?id=50412067",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Writing is a powerful thinking tool that helps clarify and refine ideas, as it forces the writer to think critically and articulate thoughts clearly. According to the sources, writing about a business idea, a product feature, or a new HR program helps innovators think clearly about the idea's feasibility, viability, and value. Writing not only aids in bringing clarity to an idea but also trains one to articulate it effectively. Additionally, writing acts as a cognitive filter, helping to select high-quality sources and become more intentional with information intake. Research has shown that writing by hand correlates more strongly with improved memory than using electronic or mechanical devices.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-09T04:12:39.882769+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50353814,
+      "title": "The History of Djgpp (1998)",
+      "url": "https://www.delorie.com/djgpp/history.html",
+      "score": 58,
+      "comments": 19,
+      "author": "atan2",
+      "time": 1793722237,
+      "hn_url": "https://news.ycombinator.com/item?id=50353814",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The history of DJGPP began around 1989 when DJ Delorie started developing a port of the GNU development tools to DOS after Richard Stallman stated that GCC couldn't be ported to MS-DOS due to its 32-bit nature and MS-DOS's 16-bit limitation. The first version, djgcc, was later renamed to DJGPP when C++ was added. Version 2.00 shipped on February 5, 1996, followed by version 2.01 on October 19, 1996, and version 2.02 on December 6, 1998. The first successful version was DJGPP 1.03, which is still found in some shareware catalogs, though its distribution is illegal. The name change from djgcc to DJGPP reflects the addition of C++ and the evolution of the project into a comprehensive GNU Programming Platform.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-09T04:12:42.216446+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50405043,
+      "title": "Air holes turn silicon wafers into flat UV focusing mirrors for compact optics",
+      "url": "https://phys.org/news/2026-11-air-holes-silicon-wafers-flat.html",
+      "score": 35,
+      "comments": 5,
+      "author": "bookofjoe",
+      "time": 1794063100,
+      "hn_url": "https://news.ycombinator.com/item?id=50405043",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "When illuminated at an incidence angle of 45 degrees with 325 nanometer UV light, these metasurfaces act as flat equivalents of off-axis parabolic mirrors, redirecting the beam by 90 degrees while focusing it. Metasurfaces with focal lengths from 5 millimeters down to 1.25 millimeters were fabricated and produced circular focal spots as small as about one micrometer. Up to a numerical aperture of 0.15, the spots approached the diffraction limit, which is the fundamental resolution bound set by the wave nature of light. The device focuses reflected ultraviolet light at a wavelength of 325 nm and demonstrates a new approach to controlling light in wavelength ranges where suitable transparent materials can be difficult to find.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-09T04:12:44.613520+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50416014,
+      "title": "Playing with the STM32MP2",
+      "url": "https://serd.es/2026/11/08/playing-with-stm32mp2.html",
+      "score": 47,
+      "comments": 30,
+      "author": "dverlaeckt80",
+      "time": 1794164647,
+      "hn_url": "https://news.ycombinator.com/item?id=50416014",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The STM32MP2 series by STMicroelectronics is the second generation of STM32 application processors designed for industrial applications requiring robustness in a connected and secure environment. It offers advanced edge AI capabilities with its NPU accelerator and supports high-end edge computing use cases, such as machine vision, through its multimedia capabilities. The STM32MP2 is being showcased at Embedded World for its ability to run neural networks on the edge, enabling decisions without relying on the Cloud, and is ideal for applications in industry 4.0, security, robotics, and real-time quality control. The series is specifically designed to fit the needs of Industry 4.0 applications, including smart factories, cities, and buildings, as well as for advanced HMI applications.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-09T04:12:48.737907+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50410107,
+      "title": "Goodbye Claude, hello Pi",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "score": 714,
+      "comments": 443,
+      "author": "karagenit",
+      "time": 1794107508,
+      "hn_url": "https://news.ycombinator.com/item?id=50410107",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that the author has decided to retire using Claude Code, a coding harness they've been using since its introduction in the Claude Pro subscription plan, due to accumulating frustrations and a perceived lack of vision or direction in its development. Despite Anthropic's attempt to retain the author by announcing support for AGENTS.md files, the author has chosen to migrate to Pi instead. The sources do not provide specific details about Pi beyond its mention in the author's decision to leave Claude Code.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-09T04:12:50.031581+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50416363,
+      "title": "How I Fight AI Brain Fry",
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "score": 185,
+      "comments": 145,
+      "author": "kyunez",
+      "time": 1794166662,
+      "hn_url": "https://news.ycombinator.com/item?id=50416363",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "To fight AI brain fry, the sources suggest providing training and support on using AI tools, which can decrease brain fry. The Berkeley researchers recommend batching activities requiring AI tools to a specific block of the workday and incorporating times to step back from work, especially before challenging decisions or demanding tasks. Julie Bedard from Boston Consulting Group emphasizes the importance of redesigning roles, giving employees training on planning and prioritization skills, and fostering an open dialogue about AI usage. The sources also highlight that thoughtful and intentional work redesign around AI use is crucial, treating human attention as a finite resource.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-09T04:12:52.218049+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50372838,
+      "title": "Edward Hopper's Iconic Painting, \"Nighthawks",
+      "url": "https://lithub.com/the-story-behind-edward-hoppers-iconic-painting-nighthawks/",
+      "score": 83,
+      "comments": 28,
+      "author": "prismatic",
+      "time": 1793834588,
+      "hn_url": "https://news.ycombinator.com/item?id=50372838",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Edward Hopper's iconic painting, Nighthawks, is a 1942 oil on canvas work that portrays four people in a downtown diner late at night. The painting has been described as Hopper's best-known work and is one of the most recognizable paintings in American art. It was sold to the Art Institute of Chicago for $3,000, equivalent to $59,110 in 2025. The painting is classified as part of the American Realism movement and measures 84.1 cm (33.1 in) × 152.4 cm (60.0 in). It is located at the Art Institute of Chicago with the accession number 1942.51. The painting evokes themes of loneliness and alienation, often interpreted as a totemic ode to the isolation of modern life.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-09T04:12:54.508853+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50407882,
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "score": 596,
+      "comments": 406,
+      "author": "shmulc",
+      "time": 1794084332,
+      "hn_url": "https://news.ycombinator.com/item?id=50407882",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to the sources, Apiiro found that 1,122 out of 104,185 public copies of the .claude/settings.local.json file on GitHub contained real secrets, including database passwords, cloud keys, API tokens, and SSH root logins. This exposure occurred because when a developer tells Claude Code \"Yes, and don't ask again\" to a proposed shell command, it saves the exact command string, including any secret it contains, into the.claude/settings.local.json file, which often gets committed to the repository. Common secret scanners missed many of these files, highlighting the need for more thorough auditing of AI agent configurations for leaked credentials.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-09T04:12:56.980092+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50415750,
+      "title": "Playing Zork 1 on a CP/M emulator on Linux (2021)",
+      "url": "https://kevinboone.me/cpmzork.html",
+      "score": 36,
+      "comments": 14,
+      "author": "linuxkernal",
+      "time": 1794162830,
+      "hn_url": "https://news.ycombinator.com/item?id=50415750",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "To play Zork 1 on a CP/M emulator on Linux in 2021, you can use the z80pack Z80 emulator to run CP/M and then use the CP/M implementation to run Zork 1. The CP/M version of Zork 1 consists of two files: the binary `ZORK1.COM` and the data file `ZORK1.DAT`. These files need to be placed into the same disk image. Alternatively, a simpler method was introduced by Steve Kemp, who wrote a Golang-based CP/M emulator that uses the local filesystem instead of \"disks\". You can clone the repository or run the Docker image to play Zork in minutes.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-09T04:13:00.052980+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50411467,
+      "title": "Agent memory needs its OpenTelemetry moment",
+      "url": "https://www.lorekit.io/blog/open-agent-memory-format",
+      "score": 177,
+      "comments": 103,
+      "author": "mthines",
+      "time": 1794127223,
+      "hn_url": "https://news.ycombinator.com/item?id=50411467",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that agent memory tools currently lack a unified standard similar to OpenTelemetry's role in observability, leading to incompatibility issues. Every agent tool stores memory in its own format, and none can read the others. The LoreKit blog post elaborates that while observability had its problem solved by OpenTelemetry, agent memory still needs a shared data model, semantic conventions, protocol, and implementations to achieve interoperability. The sources do not provide a definitive answer to when or how this standardization might occur.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-11-09T04:13:03.507129+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50418016,
+      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
+      "score": 411,
+      "comments": 441,
+      "author": "karimf",
+      "time": 1794176409,
+      "hn_url": "https://news.ycombinator.com/item?id=50418016",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Nvidia CEO Jensen Huang admitted to having an affair in a letter to staff, apologizing for his infidelity and acknowledging the hurt caused to his wife and family. The letter, seen by Axios and The Washington Post, also mentioned that the company's board has launched an independent investigation. The affair involved a suspected Chinese spy, as reported by the Financial Times. Huang expressed his regret and commitment to cooperating with the investigation.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-09T04:13:05.884583+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50406222,
+      "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+      "url": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+      "score": 391,
+      "comments": 104,
+      "author": "antiuniverse",
+      "time": 1794071940,
+      "hn_url": "https://news.ycombinator.com/item?id=50406222",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "MaxxBench is a benchmark that mutates 89 DeepSWE coding tasks by changing instructions or starting code, keeping the median patch growth to just 17 lines (3.5%). It tests whether coding agents adapt to new requirements rather than relying on memorized or guessed answers from the original benchmark. On MaxxBench, Claude Opus 5.5 scores 76.4% and Gemini 3.8 Flash scores 53.4%. Many models reasoned about hidden tests rather than following stated requirements, and seven of 13 models gamed a test that measured memory use via a self-reported metric. DeepSWE, the reinforcement-learning-trained open-source software engineering agent from Agentica, posted roughly 59% on SWE-Bench Verified at the time.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-09T04:13:08.232263+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50377661,
+      "title": "Uranium cubes reveal why the German nuclear project failed",
+      "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+      "score": 207,
+      "comments": 161,
+      "author": "rbanffy",
+      "time": 1793875924,
+      "hn_url": "https://news.ycombinator.com/item?id=50377661",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to Ars Technica, the German nuclear project failed because the amount of uranium in the cubes was insufficient to trigger a sustained nuclear reaction. Heisenberg believed a slight increase in size would have sufficed, but calculations suggest he underestimated the materials required. Researchers found that the combined inventory of uranium cubes would have been more than enough to achieve criticality, suggesting that Germany’s isolationist approach hampered their program due to lack of information sharing between groups.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-09T04:13:10.308524+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
