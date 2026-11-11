@@ -1,0 +1,537 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-11-11T04:15:57.160082Z",
+  "analyzed_at": "2026-11-11T04:19:49.180942+00:00",
+  "count": 22,
+  "items": [
+    {
+      "id": 50447074,
+      "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "score": 338,
+      "comments": 151,
+      "author": "panic",
+      "time": 1794349076,
+      "hn_url": "https://news.ycombinator.com/item?id=50447074",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "After 7 months, Anthropic's Project Glasswing has published 34 reports, with 19 marked as not vulnerabilities, 6 confirmed as low severity, and 9 still awaiting assessment. This results in a false positive rate of 55.9% and only 17.6% of findings confirmed as low severity. VulnCheck has tracked 442 CVEs attributable to Anthropic, representing roughly 0.5% of all CVEs published this year, with only two identified as exploited in the wild. Of Anthropic’s 37,966 reported findings, only 7,349 (19.4%) have been made public and just 217 have been marked fixed.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-11T04:18:49.302055+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50448921,
+      "title": "A great old-timey game-programming hack (2013)",
+      "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+      "score": 52,
+      "comments": 8,
+      "author": "palsecam",
+      "time": 1794362191,
+      "hn_url": "https://news.ycombinator.com/item?id=50448921",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources describe a game-programming hack from the early 2000s involving a small game of snake coded in Pascal during high school. The hack involved optimizing tile copying to draw tiles in a lean number of cycles, ensuring that memory corruption from interrupts wouldn't be visible to the player. The original speed was calculated as 1 row per 157 cycles, while the optimized speed was 1 row per 98 cycles, resulting in a speed-up of 0.60. The hack ensured that corruption would be fixed by the time the next tile was drawn, as the buffer wasn't displayed until fully drawn. The sources do not provide a definitive answer to specific details beyond what is mentioned.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-11T04:18:52.527000+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50446246,
+      "title": "Six Math Essentials by Terence Tao",
+      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+      "score": 166,
+      "comments": 30,
+      "author": "digital55",
+      "time": 1794344324,
+      "hn_url": "https://news.ycombinator.com/item?id=50446246",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Terence Tao's \"Six Math Essentials\" is a slim, elegant volume published by Quanta Books in 2026, exploring six central concepts that have guided mathematicians from antiquity to the present: numbers, algebra, geometry, probability, analysis, and dynamics. The book is distributed by Farrar, Straus and Giroux and also available as an e-book and audiobook. A UK edition titled “Six Maths Essentials: How to Model the World” is published by Pelican on the same day. The book is split into six chapters, each tackling one type of maths, with Tao introducing each by recounting its history, outlining its basics, and offering commentary on its importance within contemporary maths.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-11T04:18:55.519388+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50444129,
+      "title": "Starlink Mini 2",
+      "url": "https://starlink.com/mini-2",
+      "score": 309,
+      "comments": 319,
+      "author": "robertjfclarke",
+      "time": 1794334952,
+      "hn_url": "https://news.ycombinator.com/item?id=50444129",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Starlink Mini 2 is the next-generation portable Starlink offering up to 4.5 hours of connectivity on a single charge with a quick-swap battery or USB-C plug-in. It features built-in Wi-Fi and can get you online in 60 seconds with a clear view of the sky. Preorders are open by invitation in the US. The Mini 2 is thinner than its predecessor, measuring 23.1 mm, and is priced at $999. The device is designed for off-grid travel, fitting easily into a backpack and capable of reaching 100Mbps speeds.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-11T04:18:58.975703+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50443824,
+      "title": "Synaptics patent claims stop work on DisplayLink drivers",
+      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+      "score": 326,
+      "comments": 191,
+      "author": "speckx",
+      "time": 1794333722,
+      "hn_url": "https://news.ycombinator.com/item?id=50443824",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Synaptics claimed that Mike Lothian's Vino Rust-based DRM/KMS driver infringed on patents covering DisplayLink's proprietary DL3 protocol and codec technology. Synaptics cited a portfolio of 125 patents without specifying which were infringed, demanded Lothian cease development, withdraw all public submissions, and later sought $25,000 in compensation, increasing by $25,000 weekly for noncompliance. Lothian took down the GitHub repository and halted upstream submission after Synaptics threatened patent litigation. Synaptics specifically cited two UK patents: GB2484736 and GB2485613, which cover sending screen updates over a general-purpose network and a display controller that decompresses data only as needed.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-11T04:19:02.273839+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50443812,
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance",
+      "score": 303,
+      "comments": 91,
+      "author": "paulirish",
+      "time": 1794333675,
+      "hn_url": "https://news.ycombinator.com/item?id=50443812",
+      "text": "Browsers natively handle a lot of what used to take 50 lines of JS (or a dependency): `CSS.highlights` for text range highlighting without &lt;span&gt;s everywhere, `&lt;dialog&gt;` and showModal() give you backdrops and ideal focus management, `field-sizing` to auto-grow textareas as the user types.. (Something yesterday&#x27;s ftrain post touched on [0])<p>Models know about some of these by name, but consistently won&#x27;t default to using the platform-native solution and instead prefer the i",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate an initiative to modernize coding agents by steering them away from legacy JavaScript patterns and towards modern web primitives. This effort, launched in collaboration with Chrome, Firefox, MDN, and Edge, includes a skill that reduces the size of the RAG package from 500MB to 7MB and introduces a 'legacy-scan' to identify outdated patterns. The project also provides 200+ guides of curated best practices from web experts. The initiative aims to embed web platform expertise directly into coding agents to generate more efficient and modern code.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-11-11T04:19:04.983353+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50448340,
+      "title": "LLMs Play Zachtronics' TIS-100",
+      "url": "https://tis-100.wincon.dev/",
+      "score": 23,
+      "comments": 3,
+      "author": "fairestvalue",
+      "time": 1794357425,
+      "hn_url": "https://news.ycombinator.com/item?id=50448340",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "TIS-100 is a programming/puzzle video game developed by Zachtronics Industries where players develop mock assembly language code to repair a fictional, virtualized 1970s computer. The game was released for Windows, OS X, and Linux in July 2015, and for iPadOS in January 2016. It involves rewriting corrupted code segments to unlock the secrets of the TIS-100 computer, which consists of twelve processing nodes. The game aims to demystify assembly programming and offers over 20 puzzles to solve.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-11-11T04:19:07.611126+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50445013,
+      "title": "What objective is reasoning solving?",
+      "url": "https://alexwang.ai/posts/reasoning-as-pathfinding/",
+      "score": 124,
+      "comments": 54,
+      "author": "gmays",
+      "time": 1794338714,
+      "hn_url": "https://news.ycombinator.com/item?id=50445013",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to the sources, reasoning in mathematics is the process of applying logical thinking to derive the correct strategy for problem solving and to develop and describe a solution. Colin Foster, a reader in Mathematics Education, describes reasoning as the bridge between fluency and problem solving, stating that fluency and mathematical reasoning are means to support students in solving problems. The sources also mention that reasoning is needed when first encountering a new challenge to make use of relevant prior knowledge, and when logical thinking is required to approach challenges from different angles, using deductive reasoning to apply general principles to specific cases and inductive reasoning to look at past successes and identify what worked best.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-11T04:19:09.934012+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50448174,
+      "title": "AI is becoming an information gateway. Audiences still don’t want it making news",
+      "url": "https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/",
+      "score": 22,
+      "comments": 10,
+      "author": "rdmuser",
+      "time": 1794356133,
+      "hn_url": "https://news.ycombinator.com/item?id=50448174",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to the sources, AI is increasingly becoming an information gateway, with an average of 24% of respondents across nine countries noting they’ve seen content labeled as made with AI in the last week. Despite this growing use, audiences remain skeptical of AI-generated news. Only 12% of respondents are comfortable with news made entirely by AI, rising to 19% when humans provide oversight. Meanwhile, 67% are comfortable with news made entirely by a human journalist. While 72% of those who use AI for news trust its information, only 21% do so because they believe it is more reliable than other sources.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-11T04:19:12.841280+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50438318,
+      "title": "AI usage generates a fragile codebase",
+      "url": "https://evanxmerz.com/post/ai-usage-generates-a-fragile-codebase/",
+      "score": 426,
+      "comments": 434,
+      "author": "plun9",
+      "time": 1794306358,
+      "hn_url": "https://news.ycombinator.com/item?id=50438318",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Heavy reliance on AI coding tools produces fragile, brittle codebases, according to a former Meta engineer. The author lists four causes: AI writes shallow tests that miss things that matter to humans, generates overly complex code by over-applying principles like DRY, erodes human understanding of the codebase, and ships pull requests faster than reviewers can properly vet them. These lead to four symptoms: more incidents, slower incident recovery, errors only visible to real users, and a degraded codebase. Opinions split sharply: some developers report AI-generated codebases remain maintainable or even improve with better models, while many others argue this is premature, that AI produces shallow tests and bloated code, and that losing deep human understanding of a codebase is a real long-term risk.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-11T04:19:15.329705+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50447036,
+      "title": "$30M Raised to Redo the CPU",
+      "url": "https://tendrils.co/blog/2026-11-10/30m-raised",
+      "score": 52,
+      "comments": 35,
+      "author": "shioyama",
+      "time": 1794348843,
+      "hn_url": "https://news.ycombinator.com/item?id=50447036",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Tendrils has raised $30 million to rebuild general-purpose computing, led by Benchmark, with participation from Visionaries Club, the UK Sovereign AI Fund, FR8, Antimatter, Cloudberry VC, Conviction, Embassy Ventures, and SV Angels. AheadComputing Inc. also raised $30 million in a Seed2 round, co-led by Eclipse, Toyota Ventures, and Cambium, to reimagine CPU architecture, bringing its total funding to $53 million to date.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-11T04:19:18.233011+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50401414,
+      "title": "Lighting the Skies",
+      "url": "https://computer.rip/2026-10-25-searchlights.html",
+      "score": 21,
+      "comments": 3,
+      "author": "dverlaeckt80",
+      "time": 1794022834,
+      "hn_url": "https://news.ycombinator.com/item?id=50401414",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources recommend using dark sky friendly lighting that has a color temperature of no more than 3,000 Kelvin, ideally lower, to minimize sky glow and its impact on wildlife. The brightness should be kept below 500 lumens if possible, with precise directionality to channel the light downward. The lights should be spaced appropriately to avoid light clutter and only illuminate what is necessary, using proximity sensors to ensure they are only on when needed. The International Dark Sky Association emphasizes the importance of using lighting on the 'warm' end of the spectrum and avoiding over-lighting to reduce skyglow and glare.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-11T04:19:21.121702+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50441518,
+      "title": "Show HN: Valencia, Spain in Sim City/Isometric View",
+      "url": "https://tinyvalencia.com/",
+      "score": 210,
+      "comments": 53,
+      "author": "leugim",
+      "time": 1794323536,
+      "hn_url": "https://news.ycombinator.com/item?id=50441518",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that there is a project called \"Tiny València,\" which is an isometric pixel-art map of Valencia, Spain, inspired by SimCity. The map features every building in the city, rendered from a fixed isometric camera and painted in a seamless pixel-art style. The project includes the entire municipal term of Valencia, from the huerta to the Albufera, using real 3D city data and aerial photos. The map is available on the website tinyvalencia.com.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-11T04:19:23.863388+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50410329,
+      "title": "Simon Winchester has died",
+      "url": "https://www.nytimes.com/2026/11/04/obituaries/simon-winchester-dead.html",
+      "score": 84,
+      "comments": 30,
+      "author": "benbreen",
+      "time": 1794110841,
+      "hn_url": "https://news.ycombinator.com/item?id=50410329",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to Berkshire Magazine, Simon Winchester died on Tuesday on his farm in Sandisfield. NPR confirms his death, noting he passed away on November 3 at the age of 82. The sources do not provide a definitive answer to the current date of 2026-11-11 in relation to his death.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-11T04:19:26.909834+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50449232,
+      "title": "Show HN: Daily GPU Rental Prices Across AWS, Azure, RunPod and Vast.ai",
+      "url": "https://taipeiledger.com/gpu/",
+      "score": 5,
+      "comments": 1,
+      "author": "khoonie",
+      "time": 1794365401,
+      "hn_url": "https://news.ycombinator.com/item?id=50449232",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "As of October 2026, the starting hourly prices for RTX PRO 6000 GPUs are as follows: Vast.ai offers prices driven by the marketplace starting from $1.07/hr, Runpod provides Community Cloud rates from $1.69/hr and Secure Cloud from $2.09/hr, and Modal's per-second serverless compute starts at $3.03/hr. Vast.ai's pricing is noted to be significantly cheaper due to market-driven rates, potentially saving hundreds of dollars per GPU over a month of continuous use compared to Runpod's options.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-11T04:19:29.645898+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50441350,
+      "title": "Show HN: Aircad – Professional drafting and 3D modeling in the browser",
+      "url": "https://aircad.com",
+      "score": 31,
+      "comments": 14,
+      "author": "peetle",
+      "time": 1794322879,
+      "hn_url": "https://news.ycombinator.com/item?id=50441350",
+      "text": "Aircad is a professional CAD system running in the browser with deep AI integration. It includes professional grade drafting and documentation tools, NURBS-based solid modeling, and a lot more. You can make professional quality design documents with it. It is all integrated behind a scripting API that can do anything you can do in the interface and also perform complex modeling operations efficiently. It reads and writes file formats like DXF, DWG, STEP, and 3DM.<p>I built Aircad because I was f",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Aircad is a professional CAD system running in the browser that offers professional grade drafting and documentation tools, NURBS-based solid modeling, and deep AI integration. It allows users to export drawings to DWG, DXF, PDF, and STEP formats and save native files locally, ensuring compatibility with AutoCAD if Aircad were to disappear. The engine operates in the browser, ensuring fast and reliable performance without server dependency. Aircad includes a scripting API for complex modeling operations and supports file formats like DXF, DWG, STEP, and 3DM. It provides precision 2D drafting and 3D solid modeling in one workspace, with multiplayer editing and an AI agent to assist in drafting, modeling, and rendering.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-11T04:19:32.010334+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50443714,
+      "title": "An Open Field Guide to Inference Engineering",
+      "url": "https://docs.modelplane.ai/guides/inference-guide",
+      "score": 79,
+      "comments": 8,
+      "author": "d-ramdass",
+      "time": 1794333307,
+      "hn_url": "https://news.ycombinator.com/item?id=50443714",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that \"An Open Field Guide to Inference Engineering\" is a resource for platform engineers new to inference, created by the maintainers of the open source CNCF sandbox project Modelplane. It aims to help users understand how models and GPUs work together and how to run inference in production, and it provides information on tools and paths to grow into an inference engineering role. The guide is based on the experience of running open-source frontier models at scale and includes references to the best reading materials in the industry.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-11T04:19:34.465466+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50447363,
+      "title": "The Surprising Effectiveness of Deleting Weights in LLM Post-Training",
+      "url": "https://arxiv.org/abs/2611.10866",
+      "score": 13,
+      "comments": 0,
+      "author": "theanonymousone",
+      "time": 1794350689,
+      "hn_url": "https://news.ycombinator.com/item?id=50447363",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that zeroing fewer than 0.05% of the weights in a pretrained large language model (LLM) without any other modification can match the performance of full fine-tuning (FFT) across three post-training regimes: reinforcement learning with verifiable rewards, supervised fine-tuning, and on-policy distillation. This method, termed Deletion Tuning, involves learning a binary mask over the gate projection of transformer blocks and has two practical advantages. The authors of the paper \"The Surprising Effectiveness of Deleting Weights in LLM Post-Training\" are Jack Lu, Zhenbang Yang, Mike Lasby, Tejas Pote, Yani Ioannou, and Mengye Ren.",
+      "tags": [
+        "ai",
+        "llm"
+      ],
+      "analyzed_at": "2026-11-11T04:19:36.929570+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50412209,
+      "title": "Stable URLs for 42,000 Huts and Peaks",
+      "url": "https://peter-hoffmann.com/2026/stable-urls-for-huts-and-peaks.html",
+      "score": 24,
+      "comments": 3,
+      "author": "lumpa",
+      "time": 1794135844,
+      "hn_url": "https://news.ycombinator.com/item?id=50412209",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that Peter Hoffmann has created a system to assign stable URLs to 42,000 huts and peaks on biwak.info, derived from OpenStreetMap data. The URLs are designed to remain constant even as underlying data changes, ensuring they always point to the same place. The URL structure includes unique names, regions, elevations, OpenStreetMap IDs, and a committed registry to prevent URL relocation. The specific URLs for individual huts and peaks are not provided in the sources.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-11T04:19:39.771302+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50424581,
+      "title": "Foldable Flight: The Best Paper Airplanes",
+      "url": "https://www.foldableflight.com",
+      "score": 1207,
+      "comments": 167,
+      "author": "vismit2000",
+      "time": 1794226762,
+      "hn_url": "https://news.ycombinator.com/item?id=50424581",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Foldable Flight offers a variety of paper airplanes, each with distinct features. The Alpha Lock is noted for its accuracy and long-distance flight. The Brigand is praised for its speed and long glide. The Stratus is highlighted for its unique folding sequence and ability to fly up to 80 feet. The Firestrike is recognized for its advanced speed and impressive glide. The Dreadnought is an asymmetrical jet that flies over 100 feet. The Quick Blade flies over 100 feet and is easy to fold. The F-14 Tomcat is iconic and designed by Michael LaFosse. The AeroDactyl flaps as it flies and is easy to fold. The Lancer flies over 150 feet but is very hard to fold. The Trifecta locks in its 3D shape and can fly over 100 feet. The Sienna has a high glide rating. The sources don't provide a definitive answer for all specific questions about each plane's performance.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-11T04:19:42.650891+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50404969,
+      "title": "The planet Vulcan: a cautionary tale",
+      "url": "https://kevinboone.me/vulcan.html",
+      "score": 45,
+      "comments": 18,
+      "author": "andsoitis",
+      "time": 1794062569,
+      "hn_url": "https://news.ycombinator.com/item?id=50404969",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "In the late 1800s, many scientists believed in the existence of the planet Vulcan, thought to be a hot planet near Mercury whose gravitational pull supposedly caused a wobble in Mercury’s orbit. However, in 1915, Albert Einstein's theory of general relativity showed that Mercury’s orbit fit perfectly without the need for Vulcan, effectively debunking the notion. Despite this, Vulcan sightings continued, attributed to a mix of wishful thinking, over-confidence, and sub-optimal observational methods. The story of Vulcan serves as a cautionary tale about the dangers of prioritizing theory over observation and the tendency to find what one is looking for, even when it does not exist.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-11T04:19:46.149497+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50443587,
+      "title": "Life on Claude Nine",
+      "url": "https://babuschk.in/posts/2026-01-25-life-on-claude-nine.html",
+      "score": 92,
+      "comments": 56,
+      "author": "reasonableklout",
+      "time": 1794332684,
+      "hn_url": "https://news.ycombinator.com/item?id=50443587",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "On November 11, 2026, Igor Babuschkin is deeply engrossed in his work on a new email automation system, driven by his own initiative rather than a specific request. His dedication is evident as he hasn't eaten since lunch and a glass of water he poured six hours ago remains untouched. Meanwhile, the company Claude Nine, which is not directly related to Babuschkin's activities, is described as providing strategic brand guidance and marketing advisory services for beauty and lifestyle brands, with only two employees and focusing on marketing consulting, digital storytelling, marketing, and brand development.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-11T04:19:48.680019+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
