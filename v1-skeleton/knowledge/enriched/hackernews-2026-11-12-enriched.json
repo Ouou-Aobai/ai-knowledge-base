@@ -1,0 +1,442 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-11-12T05:26:25.482914Z",
+  "analyzed_at": "2026-11-12T05:27:12.480152+00:00",
+  "count": 18,
+  "items": [
+    {
+      "id": 50459745,
+      "title": "93% of paint splatters are valid Perl programs (2019)",
+      "url": "https://www.mcmillen.dev/sigbovik/",
+      "score": 290,
+      "comments": 37,
+      "author": "zenincognito",
+      "time": 1794436463,
+      "hn_url": "https://news.ycombinator.com/item?id=50459745",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to the sources, an empirical study conducted by Colin McMillen found that 93% of paint splatters parse as valid Perl programs when analyzed using optical character recognition (OCR) software. The study analyzed 100 images and found that 93 out of 100 images successfully parsed as valid Perl programs under at least one combination of Tesseract OCR engine and page segmentation mode. The study also presented seven examples of paint splatters which did not parse as valid Perl programs.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-12T05:26:27.739108+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50458900,
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+      "score": 487,
+      "comments": 469,
+      "author": "herpderperator",
+      "time": 1794432275,
+      "hn_url": "https://news.ycombinator.com/item?id=50458900",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "United Airlines announced on November 11 that it is banning personal AI agents from booking flights to protect customer data and comply with Federal Aviation Administration and Department of Transportation rules. The ban applies to its platform as well as travel agencies and aggregators. While AI agents can still show flight options and prices, they can't directly purchase tickets on United's website. The airline cited concerns about customer data, unintended purchases, and regulatory compliance as reasons for the ban. This move follows similar restrictions by other companies, including banks and Amazon, which have also limited AI agents' access to their platforms.",
+      "tags": [
+        "ai",
+        "agent"
+      ],
+      "analyzed_at": "2026-11-12T05:26:30.446221+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50456791,
+      "title": "Gemini Decisions API",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "score": 342,
+      "comments": 105,
+      "author": "iamdelirium",
+      "time": 1794421962,
+      "hn_url": "https://news.ycombinator.com/item?id=50456791",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Google introduced the Gemini Decisions API on November 11, 2026, through the Gemini API in Google AI Studio. This API, powered by Gemini Decision 1, evaluates up to 1,000 independent questions across text, images, audio, video, and PDFs in one request. It is designed for bounded judgments such as tool selection, policy checks, model routing, context grading, and ranking. Developers can use Python, JavaScript, or REST, and the SDK quickstarts require `google-genai` 3.2 or later. The API supports prototyping with a no-cost AI Studio tier and is integrated with OpenRouter, LangChain, Vercel, LiteLLM, Pydantic AI, Pipecat, LiveKit, and OpenCode. Gemini in Google Cloud support is listed as coming soon.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-12T05:26:32.889912+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50428619,
+      "title": "Did Life Begin in an RNA World?",
+      "url": "https://www.quantamagazine.org/did-life-begin-in-an-rna-world-20261109/",
+      "score": 34,
+      "comments": 10,
+      "author": "acossta",
+      "time": 1794245244,
+      "hn_url": "https://news.ycombinator.com/item?id=50428619",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "New experiments support the \"RNA world\" hypothesis, suggesting that RNA, a simpler molecule than DNA, formed first and could have been a main player in the origin of life on Earth. According to the Space article, RNA's ability to carry genetic information and create other molecules supports this hypothesis. The Wikipedia article notes that although alternative paths to life have been proposed, the RNA world hypothesis is the most favored abiogenesis paradigm. The Memesita article dates Earth's transition into a cradle for life to 4.33 billion years ago, based on a study published in Nature Communications. However, the RNA world model does not account for every environmental factor, and the exact timeline and conditions remain uncertain.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-12T05:26:35.416959+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50463103,
+      "title": "Darling Development Update – Q4 2026",
+      "url": "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/",
+      "score": 4,
+      "comments": 2,
+      "author": "tech234a",
+      "time": 1794457951,
+      "hn_url": "https://news.ycombinator.com/item?id=50463103",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Darling Development Blog's Q4 2026 update highlights significant changes, including a new policy on AI-assisted contributions, initial ARM64 support, and future plans. ARM64 support is crucial as it aligns with Apple's transition to its own silicon, making it the main architecture for new Macs. The blog mentions that Darling now has initial ARM64 support, which is important for keeping up with Apple's engineering capacity. The sources do not provide a definitive answer regarding the specifics of the new policy or future plans.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-12T05:26:38.058760+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50452455,
+      "title": "My AI agents found an unmapped Maya site?",
+      "url": "https://pietromiotti.com/latest/maya-site",
+      "score": 954,
+      "comments": 350,
+      "author": "eyvindn",
+      "time": 1794398722,
+      "hn_url": "https://news.ycombinator.com/item?id=50452455",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to the sources, the claim that AI agents discovered an unmapped Maya site in Mexico using NASA LiDAR data is not entirely accurate. While the AI agents identified potential structures, Mexico's National Institute of Anthropology and History (INAH) confirmed that no archaeological site was registered at that location. Additionally, the site had already been discovered and published in a 2025 paper by Estrada-Belli, Canuto, Šprajc & Fernandez-Diaz. Therefore, the site was not truly unmapped or unknown.",
+      "tags": [
+        "ai",
+        "agent"
+      ],
+      "analyzed_at": "2026-11-12T05:26:40.646999+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50412715,
+      "title": "How to make a CNC plasma cutter with high-frequency start",
+      "url": "https://incoherency.co.uk/blog/stories/cnc-plasma-cutter.html",
+      "score": 24,
+      "comments": 6,
+      "author": "edward",
+      "time": 1794141244,
+      "hn_url": "https://news.ycombinator.com/item?id=50412715",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "To make a CNC plasma cutter with high-frequency (HF) start, you need to use a cutter that relies on HF ignition, which is effective but generates electromagnetic interference (EMI). HF ignition involves a dedicated HF generator and proper shielding/grounding to mitigate stray EMI, which is important in environments with sensitive electronics. HF start cutters need direct electrical contact with the workpiece to start the cutting action, making them common in industrial CNC plasma tables where EMI is managed. To connect the torch trigger wires, PWM signal, positive power, and ground from the CNC controller, follow the wiring instructions provided in the sources: connect the torch trigger wires to the normally open contacts on the terminal block, the PWM signal to the white or yellow wire, the positive power to the red wire, and the ground to the black wire.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-12T05:26:42.844155+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50455633,
+      "title": "Faster Retrieval for Better, More Efficient RAG",
+      "url": "https://machinelearning.apple.com/research/faster-retrieval",
+      "score": 178,
+      "comments": 34,
+      "author": "zerop",
+      "time": 1794416265,
+      "hn_url": "https://news.ycombinator.com/item?id=50455633",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "To achieve faster retrieval for better, more efficient RAG, the sources suggest leveraging smarter chunking techniques like recursive character text splitting and sliding window overlap to maintain context and reduce noise. They also highlight the use of hybrid retrieval approaches that combine different methods to improve accuracy and relevance. Additionally, utilizing platforms like Nexla with accelerated embedding and retrieval through NVIDIA AI, and scalable RAG workflows can significantly enhance the speed and efficiency of data retrieval and reranking processes. These methods collectively aim to provide more precise and contextually relevant outputs in RAG systems.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-12T05:26:45.348772+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50462469,
+      "title": "Show HN: Ramasite, a Self-Contained Laravel/Filament/SQLite CMS",
+      "url": "https://github.com/DaleFranks/ramasite",
+      "score": 3,
+      "comments": 0,
+      "author": "DaleFranks",
+      "time": 1794452002,
+      "hn_url": "https://news.ycombinator.com/item?id=50462469",
+      "text": "I&#x27;m new here, and little nervous about posting, but here goes.<p>I&#x27;m not a newbie. I started programming in BASIC when my dad bought home a TRS-80 Model I in 1980, when I was 16. Other than a 9-year stint as active duty military, I&#x27;ve spent 46 years either personally or professionally working in tech. I&#x27;ve programmed in RPG using punch cards for an IBM &#x2F;System360, and COBOL on a DEC pdp 11&#x2F;34. I&#x27;ve worked professionally with VB, C#, SQL Server, ColdFusion, PHP,",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Filament is an open-source Laravel admin panel framework built on Livewire and the TALL stack. It provides a form builder, table builder, notifications, and widgets to quickly create admin UIs without much front-end code. However, it is not a pre-built CMS; it does not offer a REST content API, multi-project dashboard, or turnkey install-and-manage-content experience. For development, SQLite is recommended due to its zero setup, no server needed, fast, and portable nature. For production, upgrade to PostgreSQL or MySQL is suggested. Filament is lightweight and stays within your Laravel application, unlike WordPress which is considered bloated.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-12T05:26:48.394284+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50459321,
+      "title": "Jensen Huang said to have had relationship with executive who reports to him",
+      "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+      "score": 316,
+      "comments": 366,
+      "author": "louiereederson",
+      "time": 1794434638,
+      "hn_url": "https://news.ycombinator.com/item?id=50459321",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to the sources, Nvidia CEO Jensen Huang admitted to having a romantic relationship with a suspected Chinese spy, Alice Huang, who was recruited to seek information and potentially push for advanced AI chips to be made available in China. The New York Times reported that this relationship raised national security concerns. The company's board announced an independent investigation into the matter. The sources do not provide a definitive answer to the nature of the relationship beyond these allegations.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-12T05:26:51.124808+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50453637,
+      "title": "Atuin Threads: All your agent sessions on every machine",
+      "url": "https://blog.atuin.sh/threads-agent-sessions/",
+      "score": 203,
+      "comments": 77,
+      "author": "linsomniac",
+      "time": 1794406246,
+      "hn_url": "https://news.ycombinator.com/item?id=50453637",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Atuin 18.24 introduces Threads, a feature that syncs AI coding agent sessions across machines, allowing users to resume or fork sessions in different agents. It supports sessions in Claude Code, Codex, Pi, Omp, and OpenCode, with end-to-end encrypted syncing that can use Atuin's hosted server, a self-hosted one, or local capture, all of which are opt-in. An MCP server, installed via 'atuin mcp install', enables agents to search and reference past sessions themselves. To start, install with the setup script and run 'atuin resume'. Threads is an extension of Atuin's original concept of making the history of your work useful, accessible, and private.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-11-12T05:26:53.900060+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50455811,
+      "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
+      "url": "",
+      "score": 51,
+      "comments": 40,
+      "author": "alanjm23",
+      "time": 1794417116,
+      "hn_url": "https://news.ycombinator.com/item?id=50455811",
+      "text": "Hi HN, we’re Alan and Akshay from Pomerado (<a href=\"https:&#x2F;&#x2F;pomerado.ai&#x2F;\">https:&#x2F;&#x2F;pomerado.ai&#x2F;</a>). We connect your agents to any website by turning sites into deterministic, self-healing APIs in minutes, fully self-serve.<p>Agents are no longer limited by their intelligence, but rather by their ability to interact with systems. Airlines, banks, e-commerce, insurance portals, government sites, and legacy portals all lack APIs or MCPs and are common parts of person",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Pomerado is a self-serve platform backed by Y Combinator, allowing developers to create APIs for any website in minutes. Users provide a natural language description and answer workflow questions to receive a MCP within an hour. The platform supports integrations for everyday websites and legacy portals, handles end-to-end design and deployment, and maintains the API without disruption. Pomerado is part of the YC F26 batch and is described as turning any website into an MCP for agents.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-11-12T05:26:56.245589+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50446520,
+      "title": "Apple has new Mac app coming to make running local AI models easy",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "score": 526,
+      "comments": 532,
+      "author": "linolevan",
+      "time": 1794345903,
+      "hn_url": "https://news.ycombinator.com/item?id=50446520",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Leaker Aaron Perris has discovered evidence of a new Mac app in the works at Apple called Harbor, which makes it easy to run local AI models across one or more Macs. The app turns your Mac into a private AI inference server, allowing open-weight models to run locally on Apple silicon with data never leaving your hardware and nothing reaching the cloud. Users can connect multiple Mac computers over Thunderbolt 5 to pool unified memory, enabling large models and higher concurrency that a single computer can handle alone.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-12T05:26:58.543300+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50461919,
+      "title": "A2UI 1.0",
+      "url": "https://developers.googleblog.com/a2ui-10-build-delightful-fast-reliable-agentic-experiences/",
+      "score": 6,
+      "comments": 1,
+      "author": "zeroasterisk",
+      "time": 1794447721,
+      "hn_url": "https://news.ycombinator.com/item?id=50461919",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A2UI 1.0 is a release candidate as per the official website and GitHub repository. It adds client-to-server RPC (`actionResponse`), action IDs, and renames theme to surfaceProperties. The official MIME type has been standardized to `application/a2ui+json` to conform to IANA media type guidelines. The evolution guide details the changes from version 0.9, including setting the `version` field in all streamed JSON envelopes to `\"1.0\"`, changing the MIME type of A2UI payloads in transport layers from `application/json+a2ui` to `application/a2ui+json`, and removing the `theme` field from `createSurface` messages.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-12T05:27:01.415789+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50458434,
+      "title": "Tools for exploring the souls of large language models",
+      "url": "https://oshea00.github.io/posts/tinygpt-visualizer/",
+      "score": 42,
+      "comments": 11,
+      "author": "r00tanon",
+      "time": 1794429950,
+      "hn_url": "https://news.ycombinator.com/item?id=50458434",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources mention several tools for exploring the souls of large language models (LLMs), including TinyGPT Visualizer, TransformerViz, TransformerLens, ecco, verified-circuits, Circuit Lantern, PTS, and Neurolume. These tools are part of the growing field of mechanistic interpretability, which aims to decode how LLMs think and act. The TinyGPT Visualizer is specifically noted for its role in decoding the inner workings of LLMs, while other tools like verified-circuits offer independently-checkable mechanistic interpretability. The sources do not provide a definitive answer to the question but highlight these tools as part of the ongoing research in this area.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-12T05:27:04.041563+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50453763,
+      "title": "Pharo in the Browser with WebAssembly",
+      "url": "https://massimo-nocentini.github.io/pharo-vm/world.html",
+      "score": 122,
+      "comments": 35,
+      "author": "xkriva11",
+      "time": 1794406887,
+      "hn_url": "https://news.ycombinator.com/item?id=50453763",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Pharo, a pure object-oriented programming language, and WebAssembly, a binary instruction format for a stack-based virtual machine, are mentioned in relation to Pharo's immersive programming experience and WebAssembly's open standard for portable binary code. There is a mention of Pharo in the Browser with WebAssembly on Hacker News, indicating some progress or discussion around this integration. However, specific details about the current state or implementation of Pharo in the Browser with WebAssembly are not provided in the sources.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-12T05:27:06.329837+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50455332,
+      "title": "AI, activity, and outcomes in software engineering",
+      "url": "https://cabird.com/talks/shipping-faster/",
+      "score": 111,
+      "comments": 102,
+      "author": "azhenley",
+      "time": 1794414808,
+      "hn_url": "https://news.ycombinator.com/item?id=50455332",
+      "text": "<a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=0wumMeZsNsI\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=0wumMeZsNsI</a>",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Companies across various sectors, including software development, have utilized or proposed the use of generative AI, according to Wikipedia. Google AI emphasizes the use of AI to accelerate development with integrated AI code assistance, highlighting tools like Gemini Code Assist and Android Studio. Additionally, the sources mention AI-assisted software development as a notable application of AI, with tools available to aid in this field.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-12T05:27:08.725017+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50460254,
+      "title": "I Accidentally Became a Millionaire",
+      "url": "https://lyra.horse/blog/2026/11/disinformation-machine/",
+      "score": 63,
+      "comments": 4,
+      "author": "OuterVale",
+      "time": 1794438498,
+      "hn_url": "https://news.ycombinator.com/item?id=50460254",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to the sources, becoming a millionaire can happen through various means, often unexpectedly. One individual became a millionaire at 30 after selling their business and investing the proceeds conservatively in the stock market. This person emphasized long-term business investment and multiple income sources. Another story involves Timothy Dexter, known as one of History's Biggest Idiots, who became a millionaire despite poor business decisions due to his unique circumstances. The Hacker News discussion suggests that becoming wealthy can lead to a loss of drive, with suggestions ranging from buying an airplane to investing in Vanguard funds. The sources do not provide a definitive answer to how one becomes a millionaire but highlight different paths and experiences.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-12T05:27:11.979234+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
