@@ -1,0 +1,1842 @@
+{
+  "source": "github",
+  "collected_at": "2026-11-13T04:41:35.259564Z",
+  "analyzed_at": "2026-11-13T04:44:24.694313+00:00",
+  "count": 50,
+  "items": [
+    {
+      "id": "DIYgod/pinky",
+      "title": "pinky",
+      "description": "Let AI agents use your phone, with you in the loop.",
+      "url": "https://github.com/DIYgod/pinky",
+      "stars": 2022,
+      "language": "Go",
+      "topics": [],
+      "created_at": "2026-11-06T16:53:14Z",
+      "updated_at": "2026-11-13T04:37:04Z",
+      "forks": 216,
+      "open_issues": 22,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Pinky is a free and open-source tool that allows AI agents to operate real Android and iOS devices over the Model Context Protocol (MCP) with human oversight. It runs on macOS, Windows, and Linux, enforcing human approvals for risky actions like payments while hiding sensitive apps and fields by default. On Android, USB debugging must be turned on, and the phone must accept the computer's key or pair over Wi-Fi. For iOS, an iPhone takes taps and typing from a computer only through a helper app on the phone: WebDriverAgent, which you build and install once from Xcode with your Apple ID. The tool supports connections via USB, Wi-Fi, and Tailscale.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-13T04:41:47.385674+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "agentes-chat/agentes-chat",
+      "title": "agentes-chat",
+      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+      "url": "https://github.com/agentes-chat/agentes-chat",
+      "stars": 1225,
+      "language": "TypeScript",
+      "topics": [
+        "agentic-ai",
+        "ai-agents",
+        "browser-automation",
+        "chat",
+        "claude",
+        "claude-code",
+        "codex",
+        "collaboration",
+        "computer-use",
+        "docker-compose",
+        "gemini",
+        "grok",
+        "human-in-the-loop",
+        "llm",
+        "mcp",
+        "multi-agent",
+        "openai",
+        "self-hosted",
+        "slack-alternative",
+        "team-chat"
+      ],
+      "created_at": "2026-11-09T00:50:28Z",
+      "updated_at": "2026-11-13T04:35:55Z",
+      "forks": 200,
+      "open_issues": 150,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources describe an open-source, self-hosted Slack alternative called agentes-chat where teams and AI agents work together in channels and DMs. Agents run on models like Claude, GPT, Codex, Gemini, or Grok, with MCP tools, their own computer and browser, routines, memory, and approvals. The platform offers web, desktop, and phone apps, and is deployable with Docker Compose + Postgres. It is AGPL-3.0 licensed. The sources do not provide a definitive answer regarding specific details like pricing or exact features beyond what is mentioned.",
+      "tags": [
+        "grok",
+        "docker-compose",
+        "computer-use",
+        "multi-agent",
+        "codex"
+      ],
+      "analyzed_at": "2026-11-13T04:41:51.444999+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "hembramneeraj3-create/aida-64-extreme",
+      "title": "aida-64-extreme",
+      "description": "Aida 64 Extreme 2026: Complete Standalone Desktop Setup with Full Feature Configuration",
+      "url": "https://github.com/hembramneeraj3-create/aida-64-extreme",
+      "stars": 1208,
+      "language": "HTML",
+      "topics": [
+        "aida64",
+        "aida64-extreme-compatibility-check",
+        "aida64-extreme-detailed-reporting",
+        "aida64-extreme-hardware-diagnostics",
+        "aida64-extreme-setup",
+        "aida64-extreme-system-information",
+        "aida64-free-setup",
+        "automation",
+        "desktop",
+        "developer-tools",
+        "open-source",
+        "pc-diagnostics-windows-platform",
+        "python",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app",
+        "windows-cpu-gpu-status-check",
+        "windows-performance-benchmarking"
+      ],
+      "created_at": "2026-11-06T20:33:44Z",
+      "updated_at": "2026-11-12T23:07:52Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "AIDA64 Extreme is a comprehensive system information and monitoring tool that provides detailed diagnostics, benchmarking, and measurement features. It supports over 250 sensor devices to measure temperatures, voltages, fan speeds, and power draw. It is compatible with all current 64-bit Microsoft Windows operating systems, including Windows 11 and Windows Server 2022. The latest version available as of today is 8.40, released on September 15, 2026. The tool offers a 30-day trial and is not designed for detailed audits of corporate networks with hundreds of computers. The latest beta version is 8.40.8505, released on September 29, 2026.",
+      "tags": [
+        "system",
+        "aida64",
+        "software-engineering",
+        "ai",
+        "desktop"
+      ],
+      "analyzed_at": "2026-11-13T04:41:54.475200+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Arda313131882/aion-2-trainer-tool",
+      "title": "aion-2-trainer-tool",
+      "description": "Aion 2 AI Prompt Engineering Toolkit - Standalone Desktop Trainer Setup",
+      "url": "https://github.com/Arda313131882/aion-2-trainer-tool",
+      "stars": 1199,
+      "language": "HTML",
+      "topics": [
+        "aion-2",
+        "aion-2-2026",
+        "aion-2-game",
+        "aion-2-optimizer",
+        "aion-2-trainer",
+        "aion-2-trainer-tool",
+        "aion2-combat-analysis",
+        "aion2-meter",
+        "automation",
+        "desktop",
+        "developer-tools",
+        "open-source",
+        "python",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app"
+      ],
+      "created_at": "2026-11-06T20:34:15Z",
+      "updated_at": "2026-11-12T23:29:05Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources mention several repositories related to \"aion-2-trainer-tool\" and \"aion-2-enhancement-suite,\" describing them as standalone desktop setups for AI Prompt Engineering in Aion 2. These include \"Aion 2 AI Prompt Engineering Toolkit - Standalone Desktop Trainer Setup\" by Arda313131882 and \"Aion 2 Trainer Tool: AI Prompt Engineering for Modders, Standalone and Ready\" by adityyaop. Other tools listed are \"AION-2-Cheat: Complete Standalone Setup for Aion 2 AI Prompt Engineering\" by multiple users. The sources do not provide a definitive answer regarding the specifics of these tools beyond their descriptions.",
+      "tags": [
+        "system",
+        "aion-2",
+        "software-engineering",
+        "ai",
+        "aion-2-trainer"
+      ],
+      "analyzed_at": "2026-11-13T04:41:56.956491+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "FrigadeHQ/yogurt",
+      "title": "yogurt",
+      "description": "Private AI meeting notes. Free and open source.",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "stars": 994,
+      "language": "TypeScript",
+      "topics": [
+        "ai-meeting-assistant",
+        "electron",
+        "linux",
+        "llama-cpp",
+        "local-ai",
+        "macos",
+        "mcp",
+        "meeting-notes",
+        "open-source",
+        "privacy",
+        "speech-to-text",
+        "transcription",
+        "whisper",
+        "whisper-cpp",
+        "windows"
+      ],
+      "created_at": "2026-11-10T20:01:01Z",
+      "updated_at": "2026-11-13T03:18:40Z",
+      "forks": 35,
+      "open_issues": 14,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Yogurt is a free, private, open-source app that generates AI meeting notes without adding a bot to the meeting. It runs on macOS 14.4+ (Apple Silicon), Windows 10 2004+ (x64), and Ubuntu 22.04+ (x64 AppImage) with 8 GB of memory required. It records calls locally and produces a summary with the plan, next steps by person, and personal reminders. The project is MIT licensed and made by Frigade.",
+      "tags": [
+        "ai-meeting-assistant",
+        "local-ai",
+        "linux",
+        "open-source",
+        "transcription"
+      ],
+      "analyzed_at": "2026-11-13T04:41:59.625977+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "dabingfy-dot/solo-to-team-skills",
+      "title": "solo-to-team-skills",
+      "description": "Skills for human-led AI teams: delegate tasks, verify evidence, explain steps clearly, and learn from real cases. 一个人统筹 AI 团队：派活、核证、清楚说明、经验复用。",
+      "url": "https://github.com/dabingfy-dot/solo-to-team-skills",
+      "stars": 803,
+      "language": null,
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "collaboration",
+        "human-in-the-loop",
+        "workflow"
+      ],
+      "created_at": "2026-11-07T01:36:28Z",
+      "updated_at": "2026-11-07T01:36:36Z",
+      "forks": 81,
+      "open_issues": 23,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that solo-to-team-skills is an open-source AI agent skill designed to help solo or small-team product engineers manage tasks, verify evidence, explain steps clearly, and learn from real cases. It emphasizes delegating tasks, verifying evidence before claiming completion, writing clear operational instructions, and documenting operational pitfalls. Han, another tool mentioned, also focuses on evidence-based planning and execution, turning complex tasks into manageable skills. The sources do not provide a definitive answer on the safety of using solo-to-team-skills, but they highlight its utility in managing workflows and delegating tasks effectively.",
+      "tags": [
+        "human-in-the-loop",
+        "collaboration",
+        "workflow",
+        "agent-skills",
+        "ai-agents"
+      ],
+      "analyzed_at": "2026-11-13T04:42:02.658268+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "lxe/phoneuse",
+      "title": "phoneuse",
+      "description": "See and operate an unmodified iPhone from a Linux PC: AirPlay mirror in, Bluetooth HID mouse/keyboard out, plus a CLI and skill for agents.",
+      "url": "https://github.com/lxe/phoneuse",
+      "stars": 637,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-11-07T01:28:30Z",
+      "updated_at": "2026-11-12T22:23:29Z",
+      "forks": 61,
+      "open_issues": 10,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Phone Use mirrors a real iPhone to Linux over AirPlay, then drives it with Bluetooth mouse and keyboard. OCR runs out of band so the agent reads text instead of screenshots. It works with an unmodified iPhone, no jailbreak or app required. It includes recipes for every interaction, an agent skill and MCP server, and a CLI for tap, type, swipe, open, and back. It is MIT licensed and works with Claude Code. The project is available at https://github.com/lxe/phoneuse.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-13T04:42:05.623966+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "devvmhq/devvm",
+      "title": "devvm",
+      "description": "One VM for every project. An isolated sandbox with your project’s toolchain, ready for you or a coding agent to start coding",
+      "url": "https://github.com/devvmhq/devvm",
+      "stars": 599,
+      "language": "Go",
+      "topics": [
+        "coding-agent",
+        "coding-agents",
+        "developer-tools",
+        "development",
+        "lima",
+        "lima-vm",
+        "linux",
+        "sandbox",
+        "sandbox-environment",
+        "ubuntu",
+        "virtual-machine",
+        "vm"
+      ],
+      "created_at": "2026-11-06T07:02:30Z",
+      "updated_at": "2026-11-13T03:52:55Z",
+      "forks": 30,
+      "open_issues": 3,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Devvm creates an isolated VM sandbox for each project, equipped with the toolchain required by the project's files, allowing you or a coding agent to start coding. It runs tools like Claude Code, Codex, and opencode inside the VM, includes Docker, Nix, and desktop layers, and defaults new VMs to an 'allowlist' network tier. The coding agent runs inside the VM's shell rather than being installed on the host machine, ensuring that any attack on the agent stays within the sandbox. The VM mounts the project folder at the same path but otherwise sees nothing else in the home folder, and secrets like a Claude Code token or Codex login stay on the host while devvm's proxy inserts real credentials into outgoing requests. New VMs default to an 'allowlist' network tier, reaching only a defined set of hosts through a proxy running on the host machine. Developers can adjust this to 'internet' or 'open' tiers, or tighten it to 'none', depending on the network access needed for the sandboxed project or agent.",
+      "tags": [
+        "sandbox",
+        "lima-vm",
+        "ubuntu",
+        "linux",
+        "sandbox-environment"
+      ],
+      "analyzed_at": "2026-11-13T04:42:08.888345+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Dodaios/ste80-humanizer",
+      "title": "ste80-humanizer",
+      "description": "STE80 Humanizer: agent skill that removes AI tells and rewrites text 80% of the way to ASD-STE100 (Simplified Technical English), the method Andrej Karpathy shared.",
+      "url": "https://github.com/Dodaios/ste80-humanizer",
+      "stars": 464,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-writing",
+        "asd-ste100",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "cursor",
+        "humanize-ai-text",
+        "humanizer",
+        "karpathy",
+        "llm",
+        "plain-language",
+        "simplified-technical-english",
+        "writing"
+      ],
+      "created_at": "2026-11-09T17:18:59Z",
+      "updated_at": "2026-11-10T08:52:47Z",
+      "forks": 29,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The STE80 Humanizer is an agent skill that rewrites AI-generated text to remove common 'AI tells' and restructure sentences toward ASD-STE100, the Simplified Technical English standard used in aircraft maintenance manuals. It follows Andrej Karpathy's idea of writing 'about 80% of the way to ASD-STE100' for clearer, more human-sounding prose. The tool aims to produce text that's clearer and more concise, not to produce text that fools someone into thinking a human wrote it. The skill is free, MIT-licensed, and designed to improve readability without trying to beat detection tools.",
+      "tags": [
+        "karpathy",
+        "plain-language",
+        "ai-writing",
+        "claude-code",
+        "asd-ste100"
+      ],
+      "analyzed_at": "2026-11-13T04:42:12.162157+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "qiaoranlaodou-cpu/your-next-point",
+      "title": "your-next-point",
+      "description": "《你的下一分在哪里：AI 时代的公考备考方法》全书免费开放，卷蜂啦·林照 著。",
+      "url": "https://github.com/qiaoranlaodou-cpu/your-next-point",
+      "stars": 401,
+      "language": null,
+      "topics": [
+        "ai-for-learning",
+        "chinese",
+        "civil-service-exam",
+        "open-book",
+        "study-methods"
+      ],
+      "created_at": "2026-11-06T01:22:20Z",
+      "updated_at": "2026-11-06T01:28:35Z",
+      "forks": 5,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The book《你的下一分在哪里：AI 时代的公考备考方法》by 卷蜂啦·林照 is freely available, as stated in the GitHub repository qiaoranlaodou-cpu/your-next-point on Trendshift. The book is part of a collection of resources for civil service exam preparation, including AI-based study skills and past exam papers.",
+      "tags": [
+        "study-methods",
+        "civil-service-exam",
+        "open-book",
+        "ai-for-learning",
+        "chinese"
+      ],
+      "analyzed_at": "2026-11-13T04:42:14.693131+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "musubipapi/airpointer",
+      "title": "airpointer",
+      "description": null,
+      "url": "https://github.com/musubipapi/airpointer",
+      "stars": 386,
+      "language": "Swift",
+      "topics": [],
+      "created_at": "2026-11-06T01:31:48Z",
+      "updated_at": "2026-11-09T20:56:33Z",
+      "forks": 51,
+      "open_issues": 14,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The airpointer is a versatile ambient air quality monitoring station that can measure various airborne pollutants such as SO2, NO2/NOX, CO, O3, and PM, as well as other target compounds like H2S, VOCs, and BTEX. It supports modular configurations for different monitoring applications, including fenceline, mobile, and permanent setups. The device is designed for easy installation, with options for redundant data logging of two different ambient air gases, and can be mounted on a trailer or inside a transporter for mobile applications. It features a robust design suitable for rough environments and can be used anywhere in the world for 24 hours a day. The airpointer is also IoT-ready and can inform users automatically via email or SMS if limits are exceeded. It operates within an ambient temperature range of -20 °C to +42 °C, with optional heating for down to -40 °C.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-13T04:42:17.393584+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "dhruvthakur11/youtube-ai-video-editing-system",
+      "title": "youtube-ai-video-editing-system",
+      "description": "Eyeline teleprompter meets editing agents: JSON-driven animation and motion graphics workflow",
+      "url": "https://github.com/dhruvthakur11/youtube-ai-video-editing-system",
+      "stars": 386,
+      "language": "HTML",
+      "topics": [
+        "ai-agents",
+        "ai-video-editing",
+        "animation",
+        "claude-design",
+        "design",
+        "motion-graphics",
+        "open-source",
+        "teleprompter",
+        "video-editing",
+        "workflow",
+        "youtube"
+      ],
+      "created_at": "2026-11-06T21:33:17Z",
+      "updated_at": "2026-11-12T23:57:04Z",
+      "forks": 1,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The YouTube-AI-Video-Editing-System integrates an Eyeline teleprompter with editing agents to create a JSON-driven animation and motion graphics workflow. The system records with the teleprompter, uses AI for candidate cuts, and includes human review. It also features a design brief and uses tools like Claude Design for animation and motion graphics. The workflow is detailed in a flowchart on GitHub, showing the process from script to final video editing. YouTube videos demonstrate the use of multiple AI agents, including Invideo, Claude, and Wally, for tasks like trimming, montage creation, and music selection. The system emphasizes flexibility and the ability to use custom AI agents, with all decisions stored in readable Markdown and JSON.",
+      "tags": [
+        "motion-graphics",
+        "video-editing",
+        "youtube",
+        "open-source",
+        "ai"
+      ],
+      "analyzed_at": "2026-11-13T04:42:20.510603+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "AbhiKamane/ai-app-builder-open",
+      "title": "ai-app-builder-open",
+      "description": "Open-source AI app builder for full-stack Next.js apps with hosting and auth",
+      "url": "https://github.com/AbhiKamane/ai-app-builder-open",
+      "stars": 384,
+      "language": "HTML",
+      "topics": [
+        "ai-app-builder",
+        "ai-code-generation",
+        "ai-open-source",
+        "ai-web-app-builder",
+        "ai-web-builder",
+        "app-builder",
+        "auth",
+        "bolt-alternative",
+        "database",
+        "domain",
+        "fullstack",
+        "hosting",
+        "lovable-alternative",
+        "nextjs",
+        "no-code",
+        "sandbox",
+        "self-hosted",
+        "typescript",
+        "v0-alternative",
+        "vibe-coding"
+      ],
+      "created_at": "2026-11-06T20:33:39Z",
+      "updated_at": "2026-11-12T23:08:02Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The ai-app-builder-open is an open-source AI app builder for full-stack Next.js apps, offering hosting, sandbox, database, and authentication features. It supports Supabase Auth, Better Auth, Clerk, Auth0, or custom authentication. Payments can be managed via Stripe or any provider. The database options include Supabase, Postgres, PlanetScale, MongoDB, or any other provider. The builder runs on Next.js 16, React 19, TypeScript, and Tailwind CSS 4. It provides a live preview, code editor, database, and deployment, all in one place. The apps built come with managed database, hosting, authentication, and everything else they need to run, provided by the Totalum API.",
+      "tags": [
+        "no-code",
+        "bolt-alternative",
+        "typescript",
+        "sandbox",
+        "ai-app-builder"
+      ],
+      "analyzed_at": "2026-11-13T04:42:23.037875+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "gogoymh/auto-ontology-mcp",
+      "title": "auto-ontology-mcp",
+      "description": "NVIDIA Auto Ontology's semantic layer and a personal knowledge base as an MCP server for Claude, ChatGPT and other MCP clients. No LLM API key needed.",
+      "url": "https://github.com/gogoymh/auto-ontology-mcp",
+      "stars": 383,
+      "language": "Python",
+      "topics": [
+        "chatgpt",
+        "claude",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "ontology",
+        "semantic-layer",
+        "text-to-sql"
+      ],
+      "created_at": "2026-11-06T12:09:07Z",
+      "updated_at": "2026-11-13T02:16:30Z",
+      "forks": 53,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that the \"auto-ontology-mcp\" is an MCP server built by gogoymh, which serves as a semantic layer and personal knowledge base for clients like Claude and ChatGPT. It is based on the NVIDIA Auto Ontology framework, which provides a graph-based reasoning layer over data, enabling better context retrieval and explainable AI. The server allows MCP clients to access read-only tools over the ontology, with user sign-ins managed through Auto-Ontology. The server runs on a private network, with FastAPI trusting the user identity forwarded in the `x-auto-ontology-user-id` header. The project requires Docker and an NVIDIA API key, and it is hosted on GitHub.",
+      "tags": [
+        "mcp-server",
+        "chatgpt",
+        "model-context-protocol",
+        "mcp",
+        "claude"
+      ],
+      "analyzed_at": "2026-11-13T04:42:26.268104+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "hasinthakanakarathna/aida-64-extreme-desktop",
+      "title": "aida-64-extreme-desktop",
+      "description": "AIDA-64-Extreme: Pre-Activated Desktop Edition with Full Feature Set",
+      "url": "https://github.com/hasinthakanakarathna/aida-64-extreme-desktop",
+      "stars": 383,
+      "language": "HTML",
+      "topics": [
+        "aida64",
+        "aida64-extreme-compatibility-check",
+        "aida64-extreme-detailed-reporting",
+        "aida64-extreme-hardware-diagnostics",
+        "aida64-extreme-setup",
+        "aida64-extreme-system-information",
+        "aida64-free-setup",
+        "automation",
+        "desktop",
+        "developer-tools",
+        "open-source",
+        "pc-diagnostics-windows-platform",
+        "python",
+        "scripts",
+        "software-engineering",
+        "system",
+        "utility",
+        "windows-app",
+        "windows-cpu-gpu-status-check",
+        "windows-performance-benchmarking"
+      ],
+      "created_at": "2026-11-06T20:34:13Z",
+      "updated_at": "2026-11-13T02:17:22Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "AIDA-64-Extreme is described as a pre-activated desktop edition with a full feature set, offering detailed information on hardware configuration, installed programs, software licenses, security applications, and Windows settings. It includes a hardware detection engine for real-time monitoring of voltage, temperature, and fan speed, along with diagnostic functions and support for overclocking. The latest version available as of the sources is 8.40, released on September 15, 2026. The GitHub topic page and Uptodown listing both highlight its comprehensive system information and diagnostics capabilities.",
+      "tags": [
+        "system",
+        "aida64",
+        "software-engineering",
+        "ai",
+        "desktop"
+      ],
+      "analyzed_at": "2026-11-13T04:42:29.059201+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "ajayuv21/ozone-mastering-suite",
+      "title": "ozone-mastering-suite",
+      "description": "AI-Assisted Mastering Suite with Spectral Shaping and Codec Preview",
+      "url": "https://github.com/ajayuv21/ozone-mastering-suite",
+      "stars": 383,
+      "language": "HTML",
+      "topics": [
+        "audio-mastering",
+        "audio-plugin",
+        "izotope",
+        "izotope-ozone",
+        "loudness",
+        "mastering",
+        "mastering-suite",
+        "mastering-tools",
+        "mixing",
+        "music-production",
+        "ozone",
+        "ozone-11",
+        "spectral-shaping",
+        "studio-master",
+        "vst-mastering"
+      ],
+      "created_at": "2026-11-06T21:15:09Z",
+      "updated_at": "2026-11-12T23:20:48Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Ozone-mastering-suite AI-Assisted Mastering Suite with Spectral Shaping and Codec Preview includes Spectral Shaper for instant polish and removing harshness using spectral-shaping technology, and Codec Preview for auditioning how music will sound after applying data compression algorithms. It also features an upgraded Master Assistant that analyzes mixes, creates a sonic profile, and suggests targets, signal chains, and processor settings. The suite includes 17 modules and an improved AI Mastering Assistant. The Spectral Shaper is used for attenuation and control, not primarily for brightening, and it is part of the suite's spectral processing tools.",
+      "tags": [
+        "mixing",
+        "loudness",
+        "mastering",
+        "spectral-shaping",
+        "audio-plugin"
+      ],
+      "analyzed_at": "2026-11-13T04:42:31.827918+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "drost-ai/tinker-ai-skill",
+      "title": "tinker-ai-skill",
+      "description": "Agent Skill for fine-tuning an agentic model on your own Claude Code sessions with Tinker. Works in Claude Code, Codex and OpenCode.",
+      "url": "https://github.com/drost-ai/tinker-ai-skill",
+      "stars": 319,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-11-07T16:50:04Z",
+      "updated_at": "2026-11-07T17:15:54Z",
+      "forks": 39,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that the tinker-ai-skill Agent Skill is designed for fine-tuning an agentic model based on your own Claude Code sessions with Tinker. It works in Claude Code, Codex, and OpenCode, and automates the process of reading and distilling local project history to create a supervised fine-tuning dataset. The Tinker platform allows for dramatically faster training and deployment compared to traditional methods, with separate forward and backward passes that give researchers control over the training loop. The Tinker Cookbook provides skills that teach Claude how to use the Tinker API, and it includes utilities for bidirectional conversion, hyperparameter scaling, and evaluation frameworks.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-13T04:42:35.258240+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "threerocks/article2media",
+      "title": "article2media",
+      "description": "把一篇文章或一条视频（抖音、B 站、YouTube，先转逐字稿）一键做成小红书图文、杂志长图、公众号排版和 AI 配音口播短视频的开源 Claude Code / Codex Skill。21 套主题，自动验收，零 npm 依赖。",
+      "url": "https://github.com/threerocks/article2media",
+      "stars": 292,
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "bilibili",
+        "chinese",
+        "claude-code",
+        "claude-code-plugin",
+        "claude-code-skill",
+        "claude-skills",
+        "codex",
+        "content-repurposing",
+        "douyin",
+        "infographic",
+        "rednote",
+        "short-video",
+        "text-to-video",
+        "transcript",
+        "tts",
+        "video-to-text",
+        "wechat",
+        "whisper",
+        "xiaohongshu"
+      ],
+      "created_at": "2026-11-08T08:07:28Z",
+      "updated_at": "2026-11-11T17:05:39Z",
+      "forks": 49,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that article2media is an open-source tool that can convert an article or video into various formats including small red book posts, magazine long images, public number layouts, and AI-generated voiceover short videos, with 21 available themes and zero npm dependencies. It supports automatic verification and can handle both articles and videos, converting videos into text first before proceeding with other formats. The tool also includes features for voiceover quality, copyright, and compliance, ensuring that the generated content is of publishable quality and that all outputs credit the original source.",
+      "tags": [
+        "transcript",
+        "video-to-text",
+        "codex",
+        "claude-skills",
+        "rednote"
+      ],
+      "analyzed_at": "2026-11-13T04:42:39.882396+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "nwverse/persona",
+      "title": "persona",
+      "description": null,
+      "url": "https://github.com/nwverse/persona",
+      "stars": 287,
+      "language": "Go",
+      "topics": [
+        "agent",
+        "personal-agent",
+        "super-agent"
+      ],
+      "created_at": "2026-11-06T15:25:24Z",
+      "updated_at": "2026-11-13T04:40:47Z",
+      "forks": 59,
+      "open_issues": 440,
+      "relevance_score": 0.8999999999999999,
+      "summary": "A persona non grata is a Latin phrase meaning “unwelcome person.” As a legal term, it refers to the practice of a state prohibiting a diplomat from entering the country as a diplomat, or censuring a diplomat already resident in the country for conduct unbecoming of the status of a diplomat. The term was first used in 1877. Beyond diplomatic contexts, it can refer to anyone who is not popular or accepted by others. In non-diplomatic usage, a country can declare non-diplomats persona non grata, as seen in the Philippines and Spain.",
+      "tags": [
+        "super-agent",
+        "agent",
+        "personal-agent"
+      ],
+      "analyzed_at": "2026-11-13T04:42:42.143647+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "linknimiball1974/ai-texture-forge",
+      "title": "ai-texture-forge",
+      "description": "An AI-powered texture forge for Blender — turn text prompts into seamless PBR materials, concept art and scene-wide projections with local or cloud diffusion models, straight inside the 3D viewport on Windows. · dream textures · dream textures blender · dream textures addon · dream textures ai · dream textures seamless · dream textures pbr",
+      "url": "https://github.com/linknimiball1974/ai-texture-forge",
+      "stars": 284,
+      "language": null,
+      "topics": [
+        "dream-textures",
+        "dream-textures-addon",
+        "dream-textures-ai",
+        "dream-textures-blender",
+        "dream-textures-diffusion",
+        "dream-textures-generation",
+        "dream-textures-gpu",
+        "dream-textures-history",
+        "dream-textures-inpainting",
+        "dream-textures-local",
+        "dream-textures-material",
+        "dream-textures-outpainting",
+        "dream-textures-pbr",
+        "dream-textures-projection",
+        "dream-textures-prompt",
+        "dream-textures-python",
+        "dream-textures-render",
+        "dream-textures-seamless",
+        "dream-textures-upscaling",
+        "dream-textures-windows"
+      ],
+      "created_at": "2026-11-11T19:09:18Z",
+      "updated_at": "2026-11-12T20:07:30Z",
+      "forks": 20,
+      "open_issues": 1,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Dream Textures is an AI-powered add-on for Blender that integrates Stable Diffusion to generate seamless textures and projected materials directly within the 3D viewport on Windows. It is highlighted as the best free Blender add-on for in-context texture generation, particularly good for creating seamless textures. It runs a diffusion model locally on the GPU and projects the generated image onto the mesh via camera projection, suitable for environment backdrops, stylized one-off textures, and experimental look development.",
+      "tags": [
+        "dream-textures-diffusion",
+        "dream-textures-local",
+        "dream-textures-inpainting",
+        "dream-textures-generation",
+        "dream-textures-render"
+      ],
+      "analyzed_at": "2026-11-13T04:42:45.096145+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "gokayfem/image-to-sculpt",
+      "title": "image-to-sculpt",
+      "description": "Turn one image of anything into a 3D sculpt measured against that image: registered views, map-fitting passes, Blender replay and timelapse. A skill for coding agents.",
+      "url": "https://github.com/gokayfem/image-to-sculpt",
+      "stars": 277,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-11-08T21:32:08Z",
+      "updated_at": "2026-11-08T21:35:03Z",
+      "forks": 18,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The GitHub repository for \"image-to-sculpt\" provides a tool to turn an image into a 3D sculpt, measured against the image, with registered views, map-fitting passes, and Blender replay and timelapse. The process includes 38 recorded passes, a silhouette cut, an opening, 4 polish passes, and every view's maps. The project also includes map sheets, metrics per view, and a person reading the sheets. The Blender component replays steps, turntable, view renders, `.blend`, GLB/OBJ/STL files, and a timelapse ending in a 360° turn. The skill is designed for coding agents and includes verification steps, such as checking every map for silhouette IoU, outline distance, normal angle, roughness, and depth against the reference's own roughness.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-13T04:42:49.140758+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "vzroslieigry/maxagent",
+      "title": "maxagent",
+      "description": "Experience for AI agents: hooks that make Claude Code, Codex, Antigravity and OpenClaw recall and record what worked, plus maxagent-bridge for your own Chrome.",
+      "url": "https://github.com/vzroslieigry/maxagent",
+      "stars": 265,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-11-08T10:53:47Z",
+      "updated_at": "2026-11-10T17:25:58Z",
+      "forks": 0,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources describe maxagent Experience for AI agents, highlighting hooks that make Claude Code, Codex, Antigravity, and OpenClaw recall and record what worked. Specifically, \"claude-mem\" tackles cross-session memory by compressing and extracting key information, retrieving relevant memories by context. Additionally, \"claude-code-hooks-mastery\" allows developers to inject custom logic into Claude Code’s execution flow. Google Antigravity is positioned as Google’s agent-first development platform, with Antigravity 2.0, Managed Agents, persistent isolated environments, and Gemini 3.5 Flash as core parts of its agentic developer stack. The sources do not provide a definitive answer regarding the specific functionalities of Codex, Antigravity, and OpenClaw beyond their mention in the context of extensibility and artifact creation.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-11-13T04:42:52.537115+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "op7418/guizang-game-skill",
+      "title": "guizang-game-skill",
+      "description": "歸藏 Game Skill：让 AI 从零做出能在浏览器里玩的 3D 动作游戏，附可玩演示《雾锁山门》。Agent skill for Claude Code / Codex that builds a playable browser 3D action game with AI-generated assets (three.js, single-HTML). Playable demo included.",
+      "url": "https://github.com/op7418/guizang-game-skill",
+      "stars": 259,
+      "language": "JavaScript",
+      "topics": [
+        "3d-game",
+        "action-game",
+        "agent-skills",
+        "ai-agents",
+        "ai-generated",
+        "browser-game",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "game-development",
+        "gamedev",
+        "html5-game",
+        "threejs",
+        "tripo",
+        "vibe-coding",
+        "webgl",
+        "wuxia"
+      ],
+      "created_at": "2026-11-11T16:28:54Z",
+      "updated_at": "2026-11-11T18:22:31Z",
+      "forks": 43,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that there is a GitHub repository named \"guizang-game-skill\" which describes an AI skill that enables the creation of a playable 3D action game in a browser, featuring AI-generated assets using three.js and a single HTML file. The game demonstrated in the repository is titled \"雾锁山门\" (Fog-Locked Mountain Gate). The repository has gained 45 stars in two days as of November 12, 2026, but no forks or merged pull requests during this period. The sources do not provide a definitive answer regarding the broader context or additional details about the skill beyond what is described in the repository.",
+      "tags": [
+        "html5-game",
+        "ai-generated",
+        "gamedev",
+        "claude-code",
+        "vibe-coding"
+      ],
+      "analyzed_at": "2026-11-13T04:42:56.430353+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "ersinkoc/phonebox",
+      "title": "phonebox",
+      "description": "Turn an old Android phone into a local desk panel for Windows, Linux and macOS. 55 widgets, Smart Stack, AI quotas and sessions, media controls, USB or paired Wi-Fi.",
+      "url": "https://github.com/ersinkoc/phonebox",
+      "stars": 254,
+      "language": "C#",
+      "topics": [
+        "android",
+        "claude-code",
+        "codex",
+        "dashboard",
+        "desk-panel",
+        "dotnet",
+        "linux",
+        "macos",
+        "old-phone",
+        "smart-stack",
+        "stream-deck",
+        "system-monitor",
+        "tailscale",
+        "webhooks",
+        "widgets",
+        "windows"
+      ],
+      "created_at": "2026-11-07T16:45:16Z",
+      "updated_at": "2026-11-11T11:29:09Z",
+      "forks": 25,
+      "open_issues": 13,
+      "relevance_score": 0.8999999999999999,
+      "summary": "PhoneBox turns an old Android phone into a desk panel for Windows, Linux, or macOS with 55 widgets, a visual layout editor, AI coding sessions, and media controls. It can connect via USB or Wi-Fi, with no cloud usage. The project includes a live demo and installation scripts for Linux, macOS, and Windows. Another source mentions Phone Link from Microsoft as an alternative for using an Android phone as a local PC performance dashboard, though it notes the rollout is staged and device-dependent.",
+      "tags": [
+        "stream-deck",
+        "system-monitor",
+        "linux",
+        "old-phone",
+        "claude-code"
+      ],
+      "analyzed_at": "2026-11-13T04:42:59.689654+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Moh4696/cinematic-skill",
+      "title": "cinematic-skill",
+      "description": "Agent skill for narrated cinematic films built entirely from code: one continuous camera over photos, maps and cards, timed to the voice. Claude Code, Codex, Cursor, Gemini CLI.",
+      "url": "https://github.com/Moh4696/cinematic-skill",
+      "stars": 237,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "claude-code",
+        "codex",
+        "documentary",
+        "explainer-video",
+        "motion-graphics",
+        "skia",
+        "video"
+      ],
+      "created_at": "2026-11-09T07:58:11Z",
+      "updated_at": "2026-11-09T15:35:12Z",
+      "forks": 16,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The cinematic-skill agent skill is designed to create narrated cinematic films entirely from code, featuring a continuous camera over photos, maps, and cards, synchronized with voice-over. It is built using Python and Skia vector rendering and is compatible with agents like Claude Code, Codex, Cursor, and Gemini CLI. The skill is available on GitHub and is highlighted as one of six free repositories that enhance AI utility. It is also mentioned in social media mentions on platforms like X (formerly Twitter) and is part of a broader set of visual skills for agents.",
+      "tags": [
+        "explainer-video",
+        "skia",
+        "motion-graphics",
+        "claude-code",
+        "video"
+      ],
+      "analyzed_at": "2026-11-13T04:43:02.896969+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "setyamickala/fastmint-fcfs-agentic",
+      "title": "fastmint-fcfs-agentic",
+      "description": "FCFS mint di BNB Smart Chain lewat Binance Agentic Wallet, masuk blok ±2 detik setelah jam buka.",
+      "url": "https://github.com/setyamickala/fastmint-fcfs-agentic",
+      "stars": 225,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-11-11T03:42:12Z",
+      "updated_at": "2026-11-11T03:57:12Z",
+      "forks": 19,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that the fastmint-fcfs-agentic FCFS mint on the BNB Smart Chain will be accessible via the Binance Agentic Wallet, with transactions entering the block within ±2 seconds of opening. The Binance Agentic Wallet is a specialized wallet enabling AI agents to execute crypto transactions on behalf of users, and it connects to the new Agentic Trading Chain on BNB Chain, which aims for sub-one-second block finality and high transaction throughput. The new chain is designed for low-latency onchain execution and will run alongside the BNB Smart Chain, with a testnet planned for late 2026 and mainnet in early 2027.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-11-13T04:43:06.596162+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "huawei-csl/MACaQ",
+      "title": "MACaQ",
+      "description": "SOTA model-agnostic quantization for GGUF, local inference and beyond. Quantize and run text, image, video and audio models with llama.cpp, vLLM, Diffusers and PyTorch.",
+      "url": "https://github.com/huawei-csl/MACaQ",
+      "stars": 215,
+      "language": "C++",
+      "topics": [
+        "ascend",
+        "audio",
+        "audio-generation",
+        "diffusers",
+        "gguf",
+        "gguf-quantization",
+        "image-generation",
+        "llama-cpp",
+        "llm",
+        "local-ai",
+        "local-inference",
+        "quantization",
+        "video-generation",
+        "vllm"
+      ],
+      "created_at": "2026-11-10T08:52:22Z",
+      "updated_at": "2026-11-12T09:57:27Z",
+      "forks": 11,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "MACaQ is a model-agnostic quantization method that can quantize and run text, image, video, and audio models using frameworks like llama.cpp, vLLM, Diffusers, and PyTorch. It can quantize a 122B-parameter model in 64 minutes using just 32.5 GB of device memory, achieving lower perplexity than MR-GPTQ and DuQuant++, or matching their best perplexity with 11× less quantization time. It supports backends such as Diffusers for image, video, and audio generation, and vLLM for text generation and serving. The method adds only 2.3% end-to-end overhead over pure FP16 on Qwen3-32B in vLLM.",
+      "tags": [
+        "ascend",
+        "audio",
+        "local-ai",
+        "audio-generation",
+        "llm"
+      ],
+      "analyzed_at": "2026-11-13T04:43:09.612216+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "kunchenguid/headless",
+      "title": "headless",
+      "description": "Agent skill that sets up a headless Mac, Linux or Windows machine over SSH, step by step, without ever seeing the admin password.",
+      "url": "https://github.com/kunchenguid/headless",
+      "stars": 190,
+      "language": "Shell",
+      "topics": [],
+      "created_at": "2026-11-07T06:24:18Z",
+      "updated_at": "2026-11-08T01:50:20Z",
+      "forks": 12,
+      "open_issues": 20,
+      "relevance_score": 0.8999999999999999,
+      "summary": "To set up a headless SSH agent on Linux using 1Password, first, ensure the 1Password Client is installed with `sudo apt install 1password`. Then, configure 1Password by creating the directory `mkdir -p ~/.config/1Password/` and the file `~/.config/1Password/settings.json` with `{ \"app.developer.sshAgent\": true }`. Authorize using `op signin` and verify the SSH Agent with `ssh-add -l`. For passwordless SSH login, use `ssh-add ~/.ssh/id_ed25519` on Linux and macOS, or `ssh-add $env:USERPROFILE\\\\.ssh\\\\id_ed25519` on Windows 11. The sources do not provide a definitive answer for setting up a headless SSH agent on Mac or Windows without seeing the admin password.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-13T04:43:13.013679+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "oscarcreatess/airpointer",
+      "title": "airpointer",
+      "description": "Airpointer - Use your Airpods as an air-mouse for your Macbook! More OS's/Devices coming in the future. This is the only REAL Repo and it is being actively maintained. This project is featured on Xerj.org",
+      "url": "https://github.com/oscarcreatess/airpointer",
+      "stars": 187,
+      "language": "Swift",
+      "topics": [],
+      "created_at": "2026-11-06T23:25:29Z",
+      "updated_at": "2026-11-11T18:33:01Z",
+      "forks": 19,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "AirPointer is a project on GitHub that allows users to turn their AirPods case into a pointer for their Mac by moving the closed case to move the cursor and tapping its front to click. The setup involves four steps: Allow, Connect, Calibrate, and Tap. The project is actively maintained and is the only real repository. Another project, MousePods by Matteo Gaudioso, also turns AirPods into a mouse using built-in motion sensors, and it works with both Wayland and X11 desktops without requiring an Apple device or root privileges. The Facebook video describes a DIY modification that turns an AirPods case into a fully functional computer mouse, though the exact role of AI in the project is unclear.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-13T04:43:16.337317+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "fanhuayishiy/ai-crew-pass",
+      "title": "ai-crew-pass",
+      "description": "非人类员工｜九位 AI 同事的 3D 工牌领取处，中英文、透明 PNG 下载。微信公众号：风花AI实验室。",
+      "url": "https://github.com/fanhuayishiy/ai-crew-pass",
+      "stars": 185,
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "astro",
+        "github-pages",
+        "lanyard",
+        "react",
+        "threejs"
+      ],
+      "created_at": "2026-11-06T16:47:02Z",
+      "updated_at": "2026-11-13T04:37:55Z",
+      "forks": 15,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources mention AI digital employees in the context of financial firms like CITIC Securities and NinjaTech AI, highlighting their roles in executing tasks and enhancing business operations. CITIC Securities introduced 18 AI digital employees to assist real employees, aiming to create a collaborative human-AI work environment. Meanwhile, NinjaTech AI offers a platform where AI employees can perform complex tasks 24/7, integrating with various systems and operating in the cloud. However, the sources do not provide information on a specific \"ai-crew-pass\" or a download link for AI colleagues in 3D avatars from a WeChat public account.",
+      "tags": [
+        "github-pages",
+        "ai",
+        "astro",
+        "lanyard",
+        "threejs"
+      ],
+      "analyzed_at": "2026-11-13T04:43:19.413387+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "bookleme/bookleme",
+      "title": "bookleme",
+      "description": "读了么（BookLeme）· 把一本书编译成 Agent Skill —— 双引擎 + 可插拔体裁插件 + 逐字忠实度回验",
+      "url": "https://github.com/bookleme/bookleme",
+      "stars": 182,
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "book-to-skill",
+        "document-processing",
+        "knowledge-management",
+        "llm",
+        "prompt-engineering"
+      ],
+      "created_at": "2026-11-09T03:29:27Z",
+      "updated_at": "2026-11-10T03:44:20Z",
+      "forks": 1,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "BookLeme has not been mentioned in the provided sources. The sources discuss a tool called \"book-to-skill\" that converts technical books into structured Agent Skills for on-demand loading, emphasizing significant token savings and compatibility with various agents. There is no information about whether BookLeme has read or utilized this tool.",
+      "tags": [
+        "document-processing",
+        "book-to-skill",
+        "llm",
+        "prompt-engineering",
+        "agent-skills"
+      ],
+      "analyzed_at": "2026-11-13T04:43:22.130753+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "MZULALI/xj-scanner",
+      "title": "xj-scanner",
+      "description": "Read a 1991-95 Jeep's engine computer from a laptop with a $3 Arduino Nano, and let an AI agent do the reading.",
+      "url": "https://github.com/MZULALI/xj-scanner",
+      "stars": 181,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-11-10T17:03:05Z",
+      "updated_at": "2026-11-10T17:03:13Z",
+      "forks": 20,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "To read a 1991-95 Jeep's engine computer from a laptop using a $3 Arduino Nano, clone the GitHub repo by MZULALI/xj-scanner, and use a coding agent like Claude Code or Codex to guide you through the hookup. The project was tested on a 1994 Jeep Cherokee XJ, 4.0L, engine computer 56030117, and should work similarly for other 1991–95 Chrysler/Jeep computers of this family (SBEC, OBD1). The agent reads AGENTS.md and walks you through the software, breadboard, and plug connections. The setup includes an Arduino Nano clone, a small breadboard, jumper wires, three 1/4\" male spade terminals, and a multimeter. The coding agent can read fault codes, live engine data, log drives, and run the computer's built-in tests.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-13T04:43:26.611446+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "ngophatneknha/ai-engineering-hub",
+      "title": "ai-engineering-hub",
+      "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications (Personal learning hub)",
+      "url": "https://github.com/ngophatneknha/ai-engineering-hub",
+      "stars": 180,
+      "language": "MDX",
+      "topics": [],
+      "created_at": "2026-11-07T10:08:24Z",
+      "updated_at": "2026-11-07T10:48:50Z",
+      "forks": 54,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The ai-engineering-hub is a free, open-source collection of in-depth, hands-on tutorials on large language models (LLMs), retrieval augmented generation (RAG) pipelines, and real-world AI agent applications. It is available on GitHub and has garnered over 40,000 stars. The tutorials are structured for different skill levels, from beginners to advanced practitioners, and include projects like OCR apps, simple RAG implementations, and production-ready systems. The hub also features a comprehensive learning path, a newsletter for updates, and over 93 production-ready projects. The resources aim to provide practical experience and deep understanding of AI concepts.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-13T04:43:30.325368+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "AutocratMinaret/valorant-ai-clip-editor",
+      "title": "valorant-ai-clip-editor",
+      "description": "AI Valorant clip editor and montage maker with beat sync and NVENC",
+      "url": "https://github.com/AutocratMinaret/valorant-ai-clip-editor",
+      "stars": 179,
+      "language": "Rust",
+      "topics": [
+        "ai-video-editor",
+        "beat-sync",
+        "highlight-detection",
+        "montage-maker",
+        "tiktok-clips",
+        "valorant",
+        "valorant-clips",
+        "video-editor"
+      ],
+      "created_at": "2026-11-08T18:36:49Z",
+      "updated_at": "2026-11-09T11:55:03Z",
+      "forks": 10,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that there are various tools and services for creating Valorant montages with beat sync. Eklipse’s AI Suite automatically generates montages from Valorant clips, cutting to the beat and adding captions without manual trimming. Fiverr offers professional editing services for Valorant montages with beat sync, including color grading, smooth transitions, and visual effects. Additionally, YouTube tutorials demonstrate how to use CapCut, a free video editor, to sync Valorant clips to music and add effects for a smooth montage.",
+      "tags": [
+        "tiktok-clips",
+        "ai",
+        "beat-sync",
+        "video-editor",
+        "ai-video-editor"
+      ],
+      "analyzed_at": "2026-11-13T04:43:33.070695+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "nickvasilescu/grokbot-clone",
+      "title": "grokbot-clone",
+      "description": "Open-source always-on AI teammates on the Grok API, Orgo cloud computers and Composio. Not affiliated with xAI.",
+      "url": "https://github.com/nickvasilescu/grokbot-clone",
+      "stars": 177,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-11-09T07:50:15Z",
+      "updated_at": "2026-11-09T08:18:30Z",
+      "forks": 88,
+      "open_issues": 8,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that xAI has launched Grok Bot, a beta product described as a team of always-on AI agents that operate independently within customer tools and finish multi-step jobs without supervision. Elon Musk announced that xAI will open-source its chatbot Grok this week, although the specifics of which parts of the code will be available remain unclear. The sources do not mention any connection to a product named \"grokbot-clone\" or any affiliation with xAI beyond the mentioned products.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-13T04:43:35.975608+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Coolerwave/AimMac",
+      "title": "AimMac",
+      "description": "Point your iPhone at your Mac and the cursor follows. Tap to click, hold to drag. Bluetooth only, open source.",
+      "url": "https://github.com/Coolerwave/AimMac",
+      "stars": 170,
+      "language": "HTML",
+      "topics": [],
+      "created_at": "2026-11-07T19:00:22Z",
+      "updated_at": "2026-11-10T15:47:20Z",
+      "forks": 24,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "AimMac allows you to control your Mac's cursor by pointing your iPhone at the screen. It uses Bluetooth for direct communication between the iPhone and Mac, and the code is available for free under the MIT license. To use AimMac, you need a Mac running macOS 14 or later and an iPhone with iOS 17 or newer, along with Xcode 15. The iPhone app sends signals to the Mac menu bar app, and the cursor follows where the top edge of the iPhone points, thanks to the handset's accelerometer and gyroscope. You can tap to click, double-tap to double-click, hold to drag, and use a right-click button and scroll strip. The iPhone also has a trackpad mode for cursor movement.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-13T04:43:39.797385+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "codepawl/creator-generalist",
+      "title": "creator-generalist",
+      "description": "AI agent skills to be professional at 2D and 3D",
+      "url": "https://github.com/codepawl/creator-generalist",
+      "stars": 163,
+      "language": "Python",
+      "topics": [
+        "2d-animation",
+        "3d",
+        "agent-skills",
+        "blender",
+        "claude-code",
+        "motion-graphics",
+        "remotion",
+        "threejs"
+      ],
+      "created_at": "2026-11-06T18:29:48Z",
+      "updated_at": "2026-11-12T19:40:38Z",
+      "forks": 12,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The GitHub repository codepawl/creator-generalist provides AI agent skills to be professional at both 2D and 3D, including `model-characters`, `sculpt-models`, `use-3d-software`, `animate-characters`, `rig-characters`, `edit-video`, `draw-and-paint-art`, and `paint-stylized-backgrounds`. To access these skills, install all five plugins: 3d-generalist, 2d-generalist, watch-video, design-sound, and game-generalist. The 2d-generalist plugin also includes its own copy of the production spine and `compare_look.py`, allowing it to function independently. The agent can be used to create content, videos, and Shorts for various platforms like YouTube, TikTok, Facebook, Instagram, and X. The 3d-generalist skill, in particular, can produce scripted and animated 3D pieces in Blender, Three.js, or 67js.",
+      "tags": [
+        "motion-graphics",
+        "remotion",
+        "claude-code",
+        "threejs",
+        "agent-skills"
+      ],
+      "analyzed_at": "2026-11-13T04:43:42.376803+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "emollick/ai-portals",
+      "title": "ai-portals",
+      "description": null,
+      "url": "https://github.com/emollick/ai-portals",
+      "stars": 163,
+      "language": "JavaScript",
+      "topics": [],
+      "created_at": "2026-11-09T18:59:43Z",
+      "updated_at": "2026-11-10T03:05:23Z",
+      "forks": 37,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The GitHub repository for \"ai-portals\" is the code behind a static site that serves 471 worlds as of November 9, 2026, release s8f, with about 1.4 million lines of JavaScript. It uses only three.js and stores favorites and settings in the browser's storage. The enterprise knowledge article discusses AI Knowledge Portals as tools that aggregate information from multiple source systems and have a customizable context graph. The company Portals is based in Florence, Italy, and is included in an expert collection for Artificial Intelligence. The sources do not provide a definitive answer to the specific question about \"ai-portals\" beyond the GitHub repository details.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-13T04:43:45.523247+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "cutetailbud/FastAIToken",
+      "title": "FastAIToken",
+      "description": "FastAIToken是实际面向程序员coding群体和企业的AI中转站：一个API Key 接入Claude Code、Codex、GPT、Claude、Gemini、DeepSeek 等模型，最低0.06折",
+      "url": "https://github.com/cutetailbud/FastAIToken",
+      "stars": 157,
+      "language": "Python",
+      "topics": [
+        "claude",
+        "deepseek-harness",
+        "gemini",
+        "glm",
+        "gpt",
+        "grok",
+        "h3",
+        "kimi",
+        "maas",
+        "qwen",
+        "seedance",
+        "wan3"
+      ],
+      "created_at": "2026-11-10T12:11:08Z",
+      "updated_at": "2026-11-10T13:17:20Z",
+      "forks": 0,
+      "open_issues": 2,
+      "relevance_score": 0.8999999999999999,
+      "summary": "FastAIToken is described as an API key access point for various AI models including Claude Code, Codex, GPT, Gemini, DeepSeek, and DeepSeek, with a minimum rate of 0.06. The sources indicate that FastAIToken supports a wide range of models and offers both per-use and per-volume pricing, with some models showing significant price variations based on usage type and quality. The sources also mention that the quality and stability of the interface have been a point of discussion, with some users noting recent declines in quality.",
+      "tags": [
+        "glm",
+        "seedance",
+        "grok",
+        "h3",
+        "maas"
+      ],
+      "analyzed_at": "2026-11-13T04:43:50.452498+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "pmndrs/pine",
+      "title": "pine",
+      "description": "a reactive harness for agents",
+      "url": "https://github.com/pmndrs/pine",
+      "stars": 153,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-11-10T23:18:48Z",
+      "updated_at": "2026-11-12T23:32:28Z",
+      "forks": 2,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources describe PINE as a reactive harness for agents that allows them to react to various stimuli such as watching folders, commands, websites, and other event sources. Unlike traditional harnesses, PINE enables agents to operate physical devices or digital assets in response to events. It operates through an event-driven architecture where agents subscribe to events and react accordingly. PINE automates the configuration process, creating agents, MCPs, event sources, skills, and schedules through administrative tool calls without requiring user configuration. The sources also mention that PINE runs a daemon as a service, allowing agents to react to events without needing a terminal open.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-13T04:43:53.125444+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "SparkofSpike/Brain4Agent",
+      "title": "Brain4Agent",
+      "description": "Committed to building the world’s most cutting-edge, CJK-first memory module for all mainstream agents. Any issues and PRs are welcome.",
+      "url": "https://github.com/SparkofSpike/Brain4Agent",
+      "stars": 152,
+      "language": "Python",
+      "topics": [
+        "agent-memory",
+        "agent-skills",
+        "agent-tools",
+        "bm25",
+        "chinese",
+        "cjk",
+        "japanese",
+        "korean",
+        "local-first",
+        "long-term-memory",
+        "mcp",
+        "memory",
+        "no-llm",
+        "python",
+        "retrieval",
+        "sqlite"
+      ],
+      "created_at": "2026-11-08T01:38:31Z",
+      "updated_at": "2026-11-13T04:27:09Z",
+      "forks": 17,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Brain4Agent is committed to developing the world’s most advanced, CJK-first memory module for all mainstream agents, welcoming any issues and PRs. The agent memory space in 2026 is fragmented, with no single framework dominating, and memory is treated as a dedicated architectural component separate from the model’s context window. The sources highlight the importance of building a memory-manager from the start, separating the brain repo from code repos, and creating context-rich skills rather than procedure-based skills.",
+      "tags": [
+        "ai",
+        "agent-tools",
+        "long-term-memory",
+        "no-llm",
+        "chinese"
+      ],
+      "analyzed_at": "2026-11-13T04:43:56.764831+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "ade1256/google-ai-pro-farming-2-years",
+      "title": "google-ai-pro-farming-2-years",
+      "description": null,
+      "url": "https://github.com/ade1256/google-ai-pro-farming-2-years",
+      "stars": 152,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-11-07T11:06:56Z",
+      "updated_at": "2026-11-07T17:52:35Z",
+      "forks": 45,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that Google AI Pro is available for free for two years, including 1,000 credits each month, advanced Gemini AI features, Google Flow with 1,000 credits every month, 5 TB Google cloud storage, Google Antigravity, and one free month of YouTube Premium. However, there is also mention of a different offer in India where Jio users receive free access to Google AI Pro for 18 months valued at approximately ₹35,100 (about $396 USD). The sources do not provide a definitive answer regarding the global availability or specifics of the two-year free access mentioned in the YouTube video.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-13T04:43:59.076983+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "nickvasilescu/bot-hq",
+      "title": "bot-hq",
+      "description": "A team of Hermes agents you chat with, each with its own screen on one Orgo computer. Composio apps, xAI voice and X research.",
+      "url": "https://github.com/nickvasilescu/bot-hq",
+      "stars": 151,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-11-11T08:23:30Z",
+      "updated_at": "2026-11-11T08:24:20Z",
+      "forks": 50,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The bot-hq project on GitHub describes a team of Hermes agents each with its own screen on one Orgo computer, featuring Composio apps, xAI voice, and X research. Each agent has its own model, sign-in, memory, browser profile, and files. The app uses MCP to communicate with Hermes, and each agent has connected apps, `x_search`, tasks, routines, the Library, and messages to other bots. The Orgo computer supports up to four screens, with the first bot using the main screen and each additional bot getting its own Orgo screen. The xAI-launched Grok Bot is a team of always-on AI agents that each have their own cloud computer and can finish multi-step jobs without supervision. Composio is a software development company that provides AI Agent Infrastructure, Application Integration Platform, Developer Tools and SDKs, Enterprise AI Governance, and other services.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-13T04:44:02.635291+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "pnyn96/mindact-agent",
+      "title": "mindact-agent",
+      "description": "MindAct: Community-Driven AI Agent for Claude, Obsidian, and RAG Knowledge Graphs",
+      "url": "https://github.com/pnyn96/mindact-agent",
+      "stars": 149,
+      "language": "TypeScript",
+      "topics": [
+        "activator",
+        "analytics",
+        "artificial-inteligence",
+        "bigquery",
+        "business-intelligence",
+        "desktop",
+        "feedgenerator",
+        "hacktoberfest",
+        "java",
+        "kms38",
+        "massgrave",
+        "microsoft365",
+        "mysql",
+        "office365",
+        "rss",
+        "scraper"
+      ],
+      "created_at": "2026-11-06T14:22:49Z",
+      "updated_at": "2026-11-12T23:07:17Z",
+      "forks": 1,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "MindAct is a community-driven AI agent designed to integrate with Obsidian and RAG Knowledge Graphs. It provides Obsidian-native integration, allowing it to read, link, and enrich notes directly within the Obsidian vault without any exporting or reformatting. MindAct leverages Retrieval-Augmented Generation (RAG) to pull relevant passages from users' notes, ensuring responses are grounded in personal context. It also allows users to build and query their personal knowledge graph automatically as they add notes, facilitating exploration through natural-language queries. The agent is shaped by community feedback, with feature requests and bug reports directly influencing its development.",
+      "tags": [
+        "mysql",
+        "business-intelligence",
+        "artificial-inteligence",
+        "kms38",
+        "feedgenerator"
+      ],
+      "analyzed_at": "2026-11-13T04:44:05.138872+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "muhammadusamakhan911-bit/fabric-mlv-agent-healthcare-starter",
+      "title": "fabric-mlv-agent-healthcare-starter",
+      "description": "Fabric MLV healthcare demo template: lake views, ontology, data agents",
+      "url": "https://github.com/muhammadusamakhan911-bit/fabric-mlv-agent-healthcare-starter",
+      "stars": 149,
+      "language": "HTML",
+      "topics": [
+        "activator",
+        "cross-workspace",
+        "data-product",
+        "direct-lake",
+        "extended-lineage",
+        "fabric-activator",
+        "fabric-data-agent",
+        "fabric-demo",
+        "fabric-iq",
+        "healthcare",
+        "hospital-operations",
+        "lakehouse",
+        "materialized-lake-views",
+        "medallion-architecture",
+        "microsoft-fabric",
+        "ontology",
+        "patient-safety",
+        "power-bi",
+        "readmission-risk",
+        "zava"
+      ],
+      "created_at": "2026-11-06T14:13:48Z",
+      "updated_at": "2026-11-13T04:31:08Z",
+      "forks": 1,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The fabric-mlv-agent-healthcare-starter is a demo template for Fabric MLV in healthcare, featuring lake views, ontology, and data agents. It is categorized under data-science-ml and tagged with terms like activator, cross-workspace, data-product, direct-lake, extended-lineage, fabric-activator, fabric-data-agent, fabric-demo, fabric-iq, and healthcare. The template is hosted on GitHub by the user \"muhammadusamakhan911-bit\" under the repository \"fabric-mlv-agent-healthcare-starter\" and is licensed under MIT. The last commit was made on 2026-11-11T18:16:45Z, and the last refresh was on 2026-11-11T20:24:29.683505Z. Materialized Lake Views (MLVs) in Microsoft Fabric are SQL-defined views whose results are precomputed and stored in the Lakehouse, designed to make medallion-style pipelines declarative and operable.",
+      "tags": [
+        "fabric-activator",
+        "fabric-iq",
+        "activator",
+        "hospital-operations",
+        "healthcare"
+      ],
+      "analyzed_at": "2026-11-13T04:44:08.978303+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "Ceifador10uw/catalyst",
+      "title": "catalyst",
+      "description": "Cross-platform setup agent and logstash for streamlined desktop event processing",
+      "url": "https://github.com/Ceifador10uw/catalyst",
+      "stars": 149,
+      "language": "HTML",
+      "topics": [
+        "activator"
+      ],
+      "created_at": "2026-11-06T14:11:08Z",
+      "updated_at": "2026-11-12T23:25:31Z",
+      "forks": 1,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "To set up a cross-platform agent for streamlined desktop event processing, Logstash is required as an intermediary to receive events from Winlogbeat and forward them to the Bindplane agent via syslog. Winlogbeat does not have native syslog output capability. To install Logstash, use the provided commands for Linux (Debian/Ubuntu and RHEL/CentOS) and Windows. For Windows, navigate to the Logstash directory and run `logstash.bat -f C:\\\\logstash\\\\config\\\\winlogbeat-to-syslog.conf`. For production use, install Logstash as a Windows service using NSSM or similar tools. To install Winlogbeat on Windows systems, download and install it using the MSI installer or ZIP file, then navigate to the Winlogbeat directory and run the installation script. The sources do not provide specific details on configuring Logstash for use with the Elastic Agent or alternatives to Logstash.",
+      "tags": [
+        "activator"
+      ],
+      "analyzed_at": "2026-11-13T04:44:11.547060+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "stevenmichaelthomas/numbrone",
+      "title": "numbrone",
+      "description": "A chief of staff for your coding agents: route requests to per-project manager agents that run parallel workers in git worktrees, on herdr.",
+      "url": "https://github.com/stevenmichaelthomas/numbrone",
+      "stars": 138,
+      "language": "Shell",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude-code",
+        "git-worktree",
+        "herdr"
+      ],
+      "created_at": "2026-11-08T21:30:51Z",
+      "updated_at": "2026-11-09T00:45:33Z",
+      "forks": 4,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources describe a setup where coding agents run in parallel using git worktrees, each with its own isolated working directory checked out from the same repository. This setup allows multiple agents to work on the same codebase without interfering with each other. Each agent's environment holds only the service it changed, and requests are routed to the appropriate agent's worktree. To avoid conflicts, it's important to use different branches for each agent and to serialize merges back to the main branch. The sources do not provide specific details about a chief of staff or her role in routing requests to per-project manager agents.",
+      "tags": [
+        "claude-code",
+        "agent-skills",
+        "ai-agents",
+        "git-worktree",
+        "herdr"
+      ],
+      "analyzed_at": "2026-11-13T04:44:14.451459+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "lawandrorder/mate",
+      "title": "mate",
+      "description": "Mate, your mate while you shop. A text-first shopping agent for cashback, personal discount codes, package tracking and price-drop alerts. Includes a starter agent, web chat, original icon set and docs. mate.fm ",
+      "url": "https://github.com/lawandrorder/mate",
+      "stars": 138,
+      "language": "Python",
+      "topics": [],
+      "created_at": "2026-11-12T14:05:28Z",
+      "updated_at": "2026-11-12T14:19:03Z",
+      "forks": 4,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "mate (mate.fm) is an AI shopping agent that people text on iMessage or WhatsApp. It negotiates guaranteed cashback and discounts at 200,000+ US stores, handles checkout for users, and tracks packages, all for free. It can also automatically send cashback on every purchase, and users can ask for package tracking by text. mate is built by the team behind Checkmate and backed by GV and DST Global. Users have 1 hour from checkout to cancel their order and receive a full refund. Discount codes can be applied within this window, but they cannot be stacked.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-13T04:44:18.620076+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "2SinceJuly/SkyDot",
+      "title": "SkyDot",
+      "description": "SkyDot: self-hosted personal AI assistant and team workbench",
+      "url": "https://github.com/2SinceJuly/SkyDot",
+      "stars": 134,
+      "language": "TypeScript",
+      "topics": [],
+      "created_at": "2026-11-10T09:18:59Z",
+      "updated_at": "2026-11-10T09:28:47Z",
+      "forks": 11,
+      "open_issues": 0,
+      "relevance_score": 0.8999999999999999,
+      "summary": "SkyDot is described as a self-hosted personal AI assistant and team workbench, ranking second in the list of top AI agent open-source projects in 2026. It emphasizes local control and avoiding vendor lock-in, with a focus on self-hosting and open-source principles. The Instagram post highlights SkyDot's capabilities in managing tasks and integrating with various tools, while also stressing its self-hosted nature to keep data local. The blog post on Vellum AI underscores the benefits of self-hosting for control, cost, and security, aligning with SkyDot's positioning as a viable open-source option.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-13T04:44:21.164351+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": "simplexai-labs/linger",
+      "title": "linger",
+      "description": "Linger is An Open-Source Personal Agent That Runs Fully on Your PC.  We aim to break Big Tech’s grip on AI by bringing powerful local AI to everyday computers through efficient model–harness co-design, so everyone can run their own.",
+      "url": "https://github.com/simplexai-labs/linger",
+      "stars": 133,
+      "language": "TypeScript",
+      "topics": [
+        "agent-teams",
+        "local-llm",
+        "memory",
+        "personal-agent",
+        "proactive-agent",
+        "proactive-ai"
+      ],
+      "created_at": "2026-11-10T03:50:38Z",
+      "updated_at": "2026-11-13T04:12:01Z",
+      "forks": 17,
+      "open_issues": 7,
+      "relevance_score": 0.8999999999999999,
+      "summary": "Linger is an open-source personal agent that runs fully on your PC, aiming to break Big Tech’s grip on AI by providing powerful local AI through efficient model–harness co-design. On November 12, 2026, it gained 29 stars on GitHub. The sources also mention that Linger can plan a San Diego trip for 5 under $4,000 by remembering family preferences and checking your calendar to find flights and hotels across different apps and browsers.",
+      "tags": [
+        "local-llm",
+        "proactive-agent",
+        "agent-teams",
+        "personal-agent",
+        "memory"
+      ],
+      "analyzed_at": "2026-11-13T04:44:24.193427+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}

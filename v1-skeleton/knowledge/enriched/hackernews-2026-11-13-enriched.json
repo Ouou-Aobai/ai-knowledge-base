@@ -1,0 +1,368 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-11-13T04:41:45.067479Z",
+  "analyzed_at": "2026-11-13T04:45:02.423825+00:00",
+  "count": 15,
+  "items": [
+    {
+      "id": 50477714,
+      "title": "Switcher (2004)",
+      "url": "https://folklore.org/Switcher.html",
+      "score": 43,
+      "comments": 4,
+      "author": "sammatilda",
+      "time": 1794539699,
+      "hn_url": "https://news.ycombinator.com/item?id=50477714",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Switcher, Inc. was incorporated on December 31, 2013, and is based in Louisville, Kentucky. The company had 27 employees as of December 31, 2021, and reported a revenue of $6.3 million. Switcher, Inc. operates in the video production and distribution industry, competing with companies like OBS Studio and Livestream. The company's address is 1302 Clear Springs Trace, Louisville, Kentucky 40223, US, and its phone number is +1 502-794-5199. The sources do not provide information about Switcher from 2004.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-13T04:44:26.455725+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50475713,
+      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "score": 129,
+      "comments": 26,
+      "author": "sroussey",
+      "time": 1794524777,
+      "hn_url": "https://news.ycombinator.com/item?id=50475713",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Edge0 has open-sourced Edge0-145B and Edge0-120B, described as the world's first open-source on-device AI models with over 100 billion parameters. The 145B model runs locally on personal laptops through a unified inference framework and deployment tools, achieving reported peak memory usage of 29GB and decoding speeds above 80 tokens per second. It delivers coding and reasoning capabilities competitive with certain frontier cloud models, supporting local workflows that combine planning, tool use, execution, debugging, and visual checks. The model is competitive with specific frontier cloud models across coding, reasoning, knowledge, and instruction following.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-13T04:44:28.816996+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50468888,
+      "title": "I'm making LLMs work on small and old devices",
+      "url": "https://github.com/hyperionaidev/smolmaxxing/",
+      "score": 301,
+      "comments": 103,
+      "author": "mrashad74",
+      "time": 1794496990,
+      "hn_url": "https://news.ycombinator.com/item?id=50468888",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "To run LLMs on small and old devices, you can leverage techniques like quantization, pruning, and knowledge distillation to fit large models onto limited hardware. For instance, an old phone with 6GB+ RAM from 2021 or later can run a local LLM in 10 minutes using PocketPal for an easy path or Termux + llama.cpp for more control. Models should start small, like the 1.5B qwen model for a 6GB phone or the 2B gemma model for an 8GB phone. Additionally, an open-source project has successfully run 16B models on devices with less than 1GB of usable memory, achieving decent speeds given the hardware constraints.",
+      "tags": [
+        "llm"
+      ],
+      "analyzed_at": "2026-11-13T04:44:31.306753+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50474311,
+      "title": "AI is turning Apple's app review process into a nightmare for synth developers",
+      "url": "https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html",
+      "score": 135,
+      "comments": 123,
+      "author": "anigbrowl",
+      "time": 1794517789,
+      "hn_url": "https://news.ycombinator.com/item?id=50474311",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Apple's AI-driven App Store review process is rejecting legitimate synthesizer apps multiple times with fabricated licensing claims and vague spam citations, according to sources. Established developers and newcomers alike are being blocked, with review times expanding from 24-48 hours to weeks as 10-20 new iOS music apps enter the queue daily. Unfiltered Audio's Sinusoidal Run Rhythm faced four rejections over a month, while new developer Marek Dendes cannot publish CRUX Synth despite months of development. The iOS music app ecosystem, once a thriving platform for mobile production, now operates under an unpredictable path to market due to the AI system's inability to differentiate between sophisticated synthesizers and template-generated clones.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-13T04:44:33.907713+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50466410,
+      "title": "Adapting CPython for Yk",
+      "url": "https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html",
+      "score": 58,
+      "comments": 2,
+      "author": "frostbyte7",
+      "time": 1794487898,
+      "hn_url": "https://news.ycombinator.com/item?id=50466410",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that PEP 659 proposes adding a specializing, adaptive interpreter to CPython to bring significant performance improvements, with extensive experimentation suggesting speedups of up to 50%. The rationale behind this is that specialization is the most important optimization for a dynamic language, enabling other optimizations. The sources do not provide specific details on adapting CPython for Yk, but they do mention that CPython compiles Python code into bytecode and interprets it in an evaluation loop, and that it is the first to implement new features. The sources also note that other implementations like Jython and Cython exist, but they do not cover the adaptation of CPython for a specific platform like Yk.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-13T04:44:36.665480+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50473888,
+      "title": "Announcement: Conductor Is Back",
+      "url": "https://twitter.com/charlieholtz/status/2120973052024598620",
+      "score": 24,
+      "comments": 15,
+      "author": "jahala",
+      "time": 1794515875,
+      "hn_url": "https://news.ycombinator.com/item?id=50473888",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "WeWork has completed the sale of its marketing software unit Conductor back to its co-founder Seth Besmertnik. Besmertnik will continue as CEO of Conductor, which will now operate independently. Besmertnik and other investors have committed $15 million to fund the company's operations, and Conductor's employees will gain majority ownership through founder-class stock. The sale terms were not disclosed. Conductor, which had raised over $60 million in venture funding, serves over 400 customers, including Visa Inc. and Samsung Electronics Co.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-13T04:44:39.243554+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50474586,
+      "title": "Show HN: RealtimeVAD – trading false positives for 110ms earlier end-of-speech",
+      "url": "https://github.com/KoljaB/RealtimeVAD",
+      "score": 7,
+      "comments": 0,
+      "author": "koljab",
+      "time": 1794519057,
+      "hn_url": "https://news.ycombinator.com/item?id=50474586",
+      "text": "Hey guys. I recently watched the latency reports for my local voice assistant, which show a waveform plus silero probability for voice activity. I noticed silero lags visibly on the speech off signal.<p>There had to be a method to get this signal closer to what I felt is optimal. My idea was to use a 10 ms energy detector with a threshold that adapts to environment or room noise. Which worked amazingly well. It created more false positives but in my speculative generation pipeline that would not",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that S4VAD, an SSM-based model, offers a latency of 66 ms on average for end-of-speech detection, which is 110 ms earlier than the next best model, ResectNet. This improvement is achieved by trading off some false positives. The sources do not provide specific details on the false positive rate of S4VAD or how it compares to other models in this regard. Additionally, the sources discuss the importance of managing false positives in security and credit assessments, but they do not directly relate these concepts to the S4VAD model.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-13T04:44:41.869102+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50471431,
+      "title": "Gemini 4 Hydrogen",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
+      "score": 492,
+      "comments": 312,
+      "author": "dvaplima",
+      "time": 1794506508,
+      "hn_url": "https://news.ycombinator.com/item?id=50471431",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Gemini 4 Hydrogen is described as bringing cutting-edge intelligence to everyday coding and agentic workflows with speed and efficiency. It offers four tunable thinking levels for reasoning on demand, reliable harness execution for iterative coding and debugging, and multimodal and embodied reasoning at scale. It is available through the Gemini API in Google AI Studio and Android Studio, client-side via Firebase AI Logic, in Google Antigravity for paid AI Pro and Ultra subscribers, and in Gemini for business. Gemini 4 Argon, on the other hand, is noted for its advanced reasoning capabilities, a 1 million token limit for deep, multi-step problem solving, and is currently being rolled out to trusted cyber defenders through the Fairwind Program. As of 22 September 2026, Gemini 4 Hydrogen is not out, and there is no model page, API model ID, pricing, or benchmark table for Gemini 4.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-13T04:44:43.297404+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50477649,
+      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+      "url": "https://brave.com/blog/search-api-agentic-payments/",
+      "score": 3,
+      "comments": 1,
+      "author": "sjdh76",
+      "time": 1794539288,
+      "hn_url": "https://news.ycombinator.com/item?id=50477649",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Brave Search API now supports pay-as-you-go payments through the open x402 protocol. Requests without payment receive an HTTP 402 Payment Required response specifying the price and payment details. The agent then signs a USDC payment for that amount and retries the request with the signed payment attached. Once verified, the search runs and results are returned with a receipt of the Base blockchain transaction. Each query costs $0.005, or $5 per 1,000 requests, and gas fees on Base are covered for a limited time. Stripe's Purl Wallet is suggested as the easiest CLI for this process.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-11-13T04:44:46.325788+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50474883,
+      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "score": 221,
+      "comments": 59,
+      "author": "firloop",
+      "time": 1794520571,
+      "hn_url": "https://news.ycombinator.com/item?id=50474883",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Forensic analysis indicates that several major Chinese AI labs, including DeepSeek, Moonshot AI, MiniMax, and Ant Group, have access to export-controlled NVIDIA Blackwell GPUs. Six models released since April 2026 exhibit numerical patterns matching Blackwell hardware configurations, whereas earlier models matched older Hopper generation. The findings provide technical evidence of access to advanced hardware for training these models. However, the sources do not specify where the compute clusters are physically hosted or how compute access was arranged.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-13T04:44:49.129334+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50471650,
+      "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+      "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+      "score": 87,
+      "comments": 21,
+      "author": "miguelrios",
+      "time": 1794507348,
+      "hn_url": "https://news.ycombinator.com/item?id=50471650",
+      "text": "We (GREP.AI, YC F26) are open-sourcing AgentRun and turning it into a full managed agents platform. Read more about it in this post: <a href=\"https:&#x2F;&#x2F;agentrun.ai&#x2F;blog&#x2F;introducing-agentrun-run-smarter-agents-use-fewer-tokens\" rel=\"nofollow\">https:&#x2F;&#x2F;agentrun.ai&#x2F;blog&#x2F;introducing-agentrun-run-smarter-ag...</a>.<p>It includes what we originally built for our own agent harness:<p>- Self-improving agents \n- Web-grounded workflows \n- A range of sandboxes and compu",
+      "relevance_score": 0.8999999999999999,
+      "summary": "AgentRun is an open-source platform developed by GREP.AI, YC F26, that provides self-improving managed agents, web-grounded workflows, a range of sandboxes and computer environments, thousands of tools and integrations, and detailed analytics on agent behavior. It supports various agent harnesses like Pi, Claude Agents, Codex, OpenCode, and any other harness that supports ACP. AgentRun can be self-hosted with an OpenRouter key or tried in its hosted version at console.agentrun.ai. The platform allows users to bring their own agent and offers feedback opportunities on its architecture.",
+      "tags": [
+        "agent"
+      ],
+      "analyzed_at": "2026-11-13T04:44:51.714352+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50477091,
+      "title": "Show HN: KittyBrowser, I built a web browser in your terminal",
+      "url": "https://github.com/graiz/kittybrowser",
+      "score": 4,
+      "comments": 1,
+      "author": "graiz",
+      "time": 1794534858,
+      "hn_url": "https://news.ycombinator.com/item?id=50477091",
+      "text": "I&#x27;m spending more time in the terminal, and with kitty graphics support now in Ghostty and Rex, I thought a real browser in a coding pane might be possible. It is.<p>kb drives headless Chrome and draws each frame as pixels, so you get the actual page, not a text approximation.<p>Key features:\n- Built in Rust, on headless Chrome\n- Keyboard shortcuts, mouse clicks, scroll, zoom, find, copy\n- Frames can go through the terminal itself, so it should work over SSH\nCLI, MCP and an agent skill, so ",
+      "relevance_score": 0.8999999999999999,
+      "summary": "KittyBrowser is a web browser built in Rust that drives headless Chrome and renders each frame as pixels, providing an actual page view rather than a text approximation. It features keyboard shortcuts, mouse clicks, scroll, zoom, find, and copy functionalities. It can work over SSH and is MIT licensed. The GitHub repository for terminal-browser mentions it as a real browser inside your terminal, with 4.6k stars, 16 watchers, and 234 forks. It supports terminals with kitty graphics protocol, including kitty, iTerm2, cmux, and vscode. Installation on Windows requires WSL. The terminal-browser website provides installation commands for macOS and Linux.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-13T04:44:54.289168+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50471621,
+      "title": "Singapore Says U.S. Not Helpful on Investigation into Suspected Spy's Company",
+      "url": "https://www.nytimes.com/2026/11/12/business/nvidia-megaspeed-alice-huang.html",
+      "score": 163,
+      "comments": 60,
+      "author": "tedd4u",
+      "time": 1794507258,
+      "hn_url": "https://news.ycombinator.com/item?id=50471621",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Singapore's government stated that the United States had provided little help in its investigation into Alice Huang, who was believed to be a Chinese intelligence asset and was in a relationship with Nvidia CEO Jensen Huang. Singaporean authorities held Huang's passport well after President Trump was briefed about her in fall 2025, but according to Singapore, the U.S. did not offer significant assistance or information despite repeated requests. This lack of cooperation has raised questions about the Trump administration's response to the case and why the U.S. government did not intervene more forcefully.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-13T04:44:56.613795+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50474926,
+      "title": "Librem 5 v2: A phone that frees us all",
+      "url": "https://puri.sm/librem-5-v2-crowdfunding-campaign/",
+      "score": 17,
+      "comments": 5,
+      "author": "weightedreply",
+      "time": 1794520789,
+      "hn_url": "https://news.ycombinator.com/item?id=50474926",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Librem 5 is a smartphone manufactured by Purism that runs PureOS, a Linux operating system focused on privacy and freedom. It features hardware kill switches for the camera and microphone, and easily-replaceable components. The phone includes an i.MX 8M Quad Core processor, 3 GB of RAM, 32 GB of eMMC storage, a 13 MP rear camera, and an 8 MP front camera. The Librem 5 aims to provide a secure and privacy-focused alternative to devices from large technology corporations, emphasizing ethical manufacturing and transparent operations. The sources do not provide a definitive release date or current availability status for the Librem 5.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-13T04:44:59.406383+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50472506,
+      "title": "Vibes Don't Maintain",
+      "url": "https://roll.bybacon.com/2026/10/14/vibes-dont-maintain.html",
+      "score": 50,
+      "comments": 21,
+      "author": "dxs",
+      "time": 1794510389,
+      "hn_url": "https://news.ycombinator.com/item?id=50472506",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The song \"VIBES DON'T LIE\" by Leon Thomas was released on September 27, 2024, and is available on Spotify and YouTube. The song's lyrics explore the theme of genuine connection and the idea that true vibes between compatible individuals will never lie. The song was produced by Jason \"JLBS\" Pounds and features contributions from various artists including Cam Griffin, Omar Grand, and Leon Thomas himself. The cover art and deeper meaning of the song are also discussed on Genius Lyrics.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-13T04:45:01.922919+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
