@@ -1,0 +1,464 @@
+{
+  "source": "hackernews",
+  "collected_at": "2026-11-14T04:36:53.602426Z",
+  "analyzed_at": "2026-11-14T04:37:40.614033+00:00",
+  "count": 19,
+  "items": [
+    {
+      "id": 50493062,
+      "title": "Ggml v1.0.0",
+      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+      "score": 77,
+      "comments": 9,
+      "author": "cobychapple",
+      "time": 1794623309,
+      "hn_url": "https://news.ycombinator.com/item?id=50493062",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The ggml-org team at Hugging Face released llama.cpp v1.0.0 and ggml v1.0.0 on November 13, 2026, after 3.5 years of development. Both libraries now follow explicit semver rules: MAJOR bumps for breaking C API changes, MINOR for backward-compatible additions, PATCH for bug fixes. The release aims to remove most of the legacy baggage from the APIs, including deprecated interfaces and old functionality. The team reports support for more than 150 architecture variants.",
+      "tags": [
+        "ml"
+      ],
+      "analyzed_at": "2026-11-14T04:36:55.348171+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50493251,
+      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "score": 106,
+      "comments": 40,
+      "author": "speckx",
+      "time": 1794624779,
+      "hn_url": "https://news.ycombinator.com/item?id=50493251",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to an article from Linus Tech Tips, ex-Nvidia CEO Jensen Huang reportedly directed his finance team to fund AI startups that couldn't afford Nvidia's GPUs, suggesting a strategy to create scarcity and maintain market dominance. This is described as channel stuffing to prevent consumer market sales. Additionally, sources from Yahoo Finance highlight that AI startups like Lambda Labs and CoreWeave are raising significant debt, collateralized by their existing Nvidia GPU stockpiles, to expand their inventory, indicating a broader trend of high compute costs driving financial strategies in the AI sector. The sources don't provide a definitive answer on whether this strategy was officially sanctioned or its long-term impacts.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-14T04:36:56.820303+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50490593,
+      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "url": "https://orcasairband.com/",
+      "score": 234,
+      "comments": 54,
+      "author": "mmaunder",
+      "time": 1794607464,
+      "hn_url": "https://news.ycombinator.com/item?id=50490593",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that there is a nationwide ground stop due to communication problems at regional air traffic control centers, affecting all flights nationwide. The Federal Aviation Administration (FAA) has grounded all flights due to these issues, which are being investigated by FAA technicians. The ground stop was imposed \"due to extraordinary circumstances and for reasons of safety.\" The sources do not provide specific information about the airband on all frequencies from KORS in Victoria, CA.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-14T04:36:59.403802+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50474959,
+      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+      "score": 704,
+      "comments": 203,
+      "author": "scottjg",
+      "time": 1794520989,
+      "hn_url": "https://news.ycombinator.com/item?id=50474959",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "A developer reverse-engineered his Coway Airmega IconS air purifier to control it locally instead of through Coway's unreliable cloud service. He set up a man-in-the-middle Raspberry Pi access point running mitmproxy, discovered the fan downloads its root CA certificate over plain HTTP, and swapped in his own certificate to intercept its traffic, including the MQTT-over-TLS stream on port 8883. By decompiling the Android app and analyzing Bluetooth logs with AI assistance, he found the fan builds its AES encryption key by concatenating a 20-character random lowercase key with the 12 uppercase ASCII characters of the device's MAC address. Another individual wrote an integration for Home Assistant that pretends to be the phone app, polling the Coway cloud service for status updates and sending commands through it to control the fan.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-14T04:37:01.755684+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50491980,
+      "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+      "url": "https://unsloth.ai/docs/models/qwen3.8",
+      "score": 43,
+      "comments": 5,
+      "author": "Retro_Dev",
+      "time": 1794614764,
+      "hn_url": "https://news.ycombinator.com/item?id=50491980",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Unsloth Qwen3.8-27B Dynamic v3.1 quants are slightly larger than the previous version but load and work with a full 262k context. On the LiveCodeBench, UD3 quants perform better than ISTA's, especially at 128K context budget. Unsloth quants show an average recovery rate of 93% to 96% on 14 runs compared to ISTA's single trial claiming 100% accuracy recovery. The new v3.1 quants do not show noticeable speed improvements but may offer quality changes in responses. Unsloth quants also run 1.5× faster than BF16 on 24GB VRAM and require NVFP4 for optimal performance on Blackwell GPUs.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-14T04:37:04.427643+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50492993,
+      "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
+      "score": 76,
+      "comments": 23,
+      "author": "LopRabbit",
+      "time": 1794622896,
+      "hn_url": "https://news.ycombinator.com/item?id=50492993",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to the sources, Nvidia Board Director Mark Stevens sold roughly $1.35 billion worth of Nvidia stock over the last six months, with three separate batches of stock sales totaling nearly $1 billion just weeks before the Jensen Huang scandal broke. The first two sales in late August and early September generated $411 million and $236 million respectively, followed by a third sale on September 18 netting about $300 million. Stevens still holds about 27.5 million shares in Nvidia. There was no trading plan flagged for these sales.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-14T04:37:06.898012+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50487185,
+      "title": "After 600 experiments, here's what I discovered about JEPA world models",
+      "url": "https://haddyalchaer.com/jepa",
+      "score": 226,
+      "comments": 37,
+      "author": "halcdev",
+      "time": 1794592528,
+      "hn_url": "https://news.ycombinator.com/item?id=50487185",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "After 600 experiments, Haddy Alchaer found that JEPA world models improved from 11% to 23% without retraining, suggesting that enhancements come more from better planners, memory structures, symmetry-aware data reuse, and flexible goal representations rather than larger pixel-level prediction systems. The primary bottlenecks were how the model is queried and how goals are represented. Alchaer improved performance by changing the planner without retraining, breaking 75-step tasks into 25-step segments. The remaining challenges include generalizing beyond perfect demonstrations and selecting subgoals in unfamiliar regions. The immediate opportunity lies in planning methodology, while future work will focus on higher-level subgoals.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-14T04:37:09.226047+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50484658,
+      "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+      "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+      "score": 165,
+      "comments": 151,
+      "author": "helloplanets",
+      "time": 1794582524,
+      "hn_url": "https://news.ycombinator.com/item?id=50484658",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to Jonathan Blow, AI's ability to generate code is currently of \"very low quality\" and the AIs themselves do not understand the output. He argues that most good programmers do not use AI for programming and that claims of AI generating great code are often exaggerated or fraudulent. Blow suggests that while AI may improve in the future, it is not yet capable of replacing programmers for complex tasks.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-14T04:37:11.566193+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50491400,
+      "title": "How Not to Build a Music Player",
+      "url": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player/",
+      "score": 52,
+      "comments": 23,
+      "author": "vinhnx",
+      "time": 1794611070,
+      "hn_url": "https://news.ycombinator.com/item?id=50491400",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "To avoid building a flawed music player, do not trust duration tags as they may be incorrect; instead, determine the true duration of each file. Avoid making the music player accessible to friends for uploading and downloading music, as this complicates control and management. Lastly, do not focus on making moral judgments about music compression, but rather ensure the player can handle both compressed and dynamic songs by analyzing each song's loudness and adjusting playback volume accordingly.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-14T04:37:13.918719+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50488464,
+      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+      "score": 107,
+      "comments": 21,
+      "author": "gmays",
+      "time": 1794597887,
+      "hn_url": "https://news.ycombinator.com/item?id=50488464",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Perplexity Decider v1.3 is post-trained from open-weight LLMs using bidirectional attention and LoRA, benefiting from better-curated training data and a refined training recipe. It is used internally for improving agent security rules, monitoring RL rollouts, filtering page quality for search, browser agent navigation, and more. The model also introduces a new feature called locate, which can extract parts of the context that match the request. Both models are open on Hugging Face, and through Perplexity Decisions API and OpenRouter. Decider v1.3 improves performance and robustness across a broad range of text and vision tasks, and it is recommended for nuanced judgments, detailed rubrics, and workflows where errors are costly. Decider Flash v1.3 is suggested for high-volume routing, labeling, and filtering where latency and cost are the main constraints.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-14T04:37:17.005304+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50487605,
+      "title": "Ctrl+C, Ctrl+v, Ctrl+cve: Bypassing Android's Clipboard Read Security Measures",
+      "url": "https://toninoble.com/post/ctrlc-ctrlv-ctrlcve",
+      "score": 73,
+      "comments": 32,
+      "author": "dethmasque",
+      "time": 1794594229,
+      "hn_url": "https://news.ycombinator.com/item?id=50487605",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that CVE-2021-25337 is an improper access control vulnerability affecting the clipboard service in Samsung mobile devices running Android, allowing untrusted applications to read or write certain local files on the device, bypassing intended security restrictions. This issue is specifically noted in Samsung Android devices prior to the SMR Mar-2021 Release 1 security patch. The sources also mention that when clipboard access is silent on Android 12 and newer, it suggests that the intended protection model is being bypassed or disabled, which can happen through various means including device policy, custom ROMs, apps with unusual privileges, or security features being overridden.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-14T04:37:19.511212+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50489652,
+      "title": "All US airports are currently ground stopped",
+      "url": "https://twitter.com/flightradar24/status/2121347654714077605",
+      "score": 180,
+      "comments": 33,
+      "author": "defly",
+      "time": 1794604012,
+      "hn_url": "https://news.ycombinator.com/item?id=50489652",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The Federal Aviation Administration issued a nationwide ground stop for all U.S. airports on Friday due to a widespread communications failure impacting all air route traffic control centers. Transportation Secretary Sean Duffy confirmed the outage as the Air Traffic Control System Command Center halted all departing traffic until further notice, while inbound international flights are being managed on a case-by-case basis. The FAA said incoming flights from international origins would be handled on a \"case by case basis.\" The stop was placed \"DUE TO EXTRAORDINARY CIRCUMSTANCES AND FOR REASONS OF SAFETY.\" The stop requires that all air traffic set to depart U.S. airports remain grounded.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-14T04:37:21.884042+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50486748,
+      "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+      "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+      "score": 353,
+      "comments": 95,
+      "author": "bookofjoe",
+      "time": 1794591010,
+      "hn_url": "https://news.ycombinator.com/item?id=50486748",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to the sources, researchers used the AI model Claude to decode Gödel's notebooks, identifying 663 candidate theorems. When checked with the Coq proof assistant, about 400 were verified as stated, about 200 needed repair, and about 50 were false. The AI also reconstructed a proof suggesting Gödel was close but had an incorrect definition in his notebooks.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-14T04:37:23.938612+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50492950,
+      "title": "Security Agencies Worldwide Found to Use Ad-Based Surveillance System",
+      "url": "https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/",
+      "score": 28,
+      "comments": 0,
+      "author": "billybuckwheat",
+      "time": 1794622541,
+      "hn_url": "https://news.ycombinator.com/item?id=50492950",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "An investigation by Bloomberg into Penlink’s ad-based surveillance system Webloc, supported by Citizen Lab research, has identified security agencies in multiple countries using this technology. The Bloomberg investigation confirmed customers in the UK, Netherlands, Germany, Mexico, Singapore, Saudi Arabia, UAE, and Israel, in addition to earlier findings of customers in the US, El Salvador, Hungary, and Austria. Senior researcher Wolfie Christl from Citizen Lab noted that Webloc is a powerful mass surveillance tool that is being adopted by various levels of government security agencies worldwide.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-14T04:37:26.443641+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50491097,
+      "title": "Claude Meetings",
+      "url": "https://claude.com/resources/articles/claude-meetings",
+      "score": 79,
+      "comments": 65,
+      "author": "hmokiguess",
+      "time": 1794609555,
+      "hn_url": "https://news.ycombinator.com/item?id=50491097",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "According to the sources, Claude Meetings is a feature that allows you to add Claude to a Google Meet call as a visible participant. It builds documents, whiteboards, and other artifacts during the call, takes notes, and after the call, the notes, action items, transcript, and artifacts created by Claude are available on the meeting's page in Claude. It is currently in beta and rolling out on Team and Enterprise plans, starting with Google Meet, with support for other video conferencing platforms coming soon. To use it, you need to go to Meetings in Claude, connect your Google Calendar, select a meeting, and click \"Add Claude.\" Owners can't set auto-join for others, but you can change your auto-join setting in Settings > Capabilities > Meetings > Auto-join.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-14T04:37:28.777458+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50492141,
+      "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
+      "url": "https://claude.com/resources/articles/projects-redesigned",
+      "score": 67,
+      "comments": 63,
+      "author": "toppa33",
+      "time": 1794616091,
+      "hn_url": "https://news.ycombinator.com/item?id=50492141",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "Anthropic unveiled a major redesign of Projects in Claude Code on September 17, 2026, transforming it into a coordinated team of AI agents. Instead of developers manually managing multiple sessions, the new system allows developers to tell Claude what they want accomplished, with Claude then orchestrating the process itself. The redesigned Projects feature a coordinator that scopes the job, assigns pieces to worker threads, reviews their output, and returns a consolidated result. Each thread operates as a full Claude Code cloud session on its own branch and repository, with shared memory across threads and a common library for files and artifacts. Initial access is limited to selected Pro and Max subscribers using cloud sessions in Claude Code.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-14T04:37:31.829327+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50492727,
+      "title": "GigChain Keys – a free, open-source MainStage alternative",
+      "url": "https://github.com/xDarkzx/GigChain-Keys",
+      "score": 3,
+      "comments": 0,
+      "author": "DanHodgetts",
+      "time": 1794620850,
+      "hn_url": "https://news.ycombinator.com/item?id=50492727",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "GigChain Keys is a free, open-source live keyboard rig for Windows, macOS, and Linux, developed as an alternative to Apple's MainStage. It allows users to load their VST3 instruments, build setlists, read chord charts on stage, and warm up with daily exercises. The project is in early alpha, encouraging users to test it and report bugs or feature requests. The source code is available on GitHub, and there is a Discord community for questions, setups, and ideas.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-14T04:37:34.324848+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50481187,
+      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "url": "https://status.claude.com/incidents/nn11wk485zfn",
+      "score": 488,
+      "comments": 383,
+      "author": "__vivek",
+      "time": 1794565093,
+      "hn_url": "https://news.ycombinator.com/item?id=50481187",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "On November 13, 2026, Anthropic was investigating elevated errors affecting claude.ai, the Claude API, and Claude Code, with a fix deployed and monitoring for recovery by 11:05 UTC. The incident record also noted an earlier issue on October 13, 2026, titled “Elevated errors on platform.claude.com,” resolved at 18:00 UTC, which affected usage data loading but not core functionality. By 15:38 UTC on November 13, 2026, the elevated errors had been resolved, and services were being monitored for normal levels of performance.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-14T04:37:37.238266+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    },
+    {
+      "id": 50492877,
+      "title": "Llama.cpp hits v1.0 with a native app for macOS",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "score": 11,
+      "comments": 2,
+      "author": "shubham0204",
+      "time": 1794621937,
+      "hn_url": "https://news.ycombinator.com/item?id=50492877",
+      "text": "",
+      "relevance_score": 0.8999999999999999,
+      "summary": "The sources indicate that Llama.cpp has reached version 1.0 and includes a native app for macOS. The GitHub repository for the macOS app, titled \"Llama-macOS,\" describes it as a 4 MB app that runs locally on a Mac without any data leaving the device. The app is part of the GGML org and is built on llama.cpp. It can be installed via Homebrew or downloaded from the releases section. The official website for Llama also highlights its small footprint and local AI capabilities.",
+      "tags": [
+        "ai"
+      ],
+      "analyzed_at": "2026-11-14T04:37:40.113131+00:00",
+      "score_breakdown": {
+        "tech_depth": 0.0,
+        "practical_value": 0.0,
+        "timeliness": 0.0,
+        "community_heat": 0.0,
+        "domain_match": 0.0
+      }
+    }
+  ]
+}
